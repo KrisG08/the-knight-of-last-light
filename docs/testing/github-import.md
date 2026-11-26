@@ -24,16 +24,30 @@ Repository: https://github.com/KrisG08/the-knight-of-last-light
 
 ## Remote verification
 
-Pending accepted initial push and verification of the GitHub tree, default
-branch, private visibility, media upload and a fresh checkout.
+Verified after the initial upload:
 
-All 844 unique LFS objects uploaded successfully. GitHub rejected the initial
-ref push because its OAuth credential lacks `workflow` permission. The ready
-check is preserved at `tools/ci/repository-checks.yml` for later activation;
-no live Actions run is claimed. The original import commit is retained locally
-on `local-import-with-workflow`; the remote `main` import omits the restricted
-workflow path while retaining its full source as a template.
-This section is updated only after those checks actually complete.
+- GitHub repository visibility is **private** and its default branch is `main`.
+- Remote `main` matches source commit `2e0ab001d062b0df53516a79da0187182efd18a2`; the complete GitHub tree
+  matches the local tree and all **2992 tracked paths** exactly.
+- Git LFS object and pointer integrity checks PASS locally. The initial import
+  uploads **844 unique binary objects**, totaling **1,410,363,249 bytes**;
+  duplicate resource contents share the same object.
+- A fresh, shallow clone from GitHub passes repository checks with LFS pointers.
+- A direct LFS pull into that independent clone retrieves the mobile opening
+  movie and a native model resource; file lengths and SHA-256 match the source
+  LFS object identifiers. This proves remote media retrieval for those samples,
+  not a second complete download or a fresh-clone gameplay playthrough.
+- CI is included as `tools/ci/repository-checks.yml`, ready for later owner
+  activation. The current OAuth access lacks `workflow` permission; the first
+  ref push was rejected for that reason after LFS upload succeeded. No live
+  GitHub Actions run is claimed, and no permissions were expanded. The initial
+  local commit remains on `local-import-with-workflow`; remote `main` has the
+  CI source under the unrestricted template path.
+
+The follow-up documentation commit records these observations. Full binary
+upload success plus exact pointer/tree verification is distinct from the sampled
+fresh-clone downloads. No excluded credentials, tools, builds or private chat
+attachments occur in the remote file inventory.
 
 ## Scope boundaries
 

@@ -28,11 +28,16 @@ No game behavior or asset appearance was changed for repository organization.
 sources and upstream font license text; those files were preserved rather than
 rewritten for an import-only task. GitHub accepted all 844 LFS objects (1.4 GB)
 but rejected the first Git ref push because the OAuth credential lacks
-`workflow` scope. Preserve that local import commit on a separate local branch,
-include CI at tools/ci/repository-checks.yml, and publish a clean initial main
-without the restricted workflow path; no account permissions are expanded.
-Remote publication/integrity evidence will
-be recorded in docs/testing/github-import.md after the first accepted push.
+`workflow` scope. That local import commit is preserved on `local-import-with-workflow`.
+CI is included at tools/ci/repository-checks.yml; the accepted remote main
+retains the complete source under that template path. No account permissions
+were expanded.
+Initial source commit `2e0ab001d062b0df53516a79da0187182efd18a2` is uploaded. Remote private visibility, `main`,
+complete file inventory/tree and source SHA match; fresh metadata clone and
+sampled LFS video/model download hashes PASS. Local repository checks PASS;
+GitHub CI is a prepared template awaiting owner-authorized workflow access.
+See docs/testing/github-import.md for exact evidence. Local native testing
+remains 646 passing assertions; no new phone/full campaign claim is made.
 
 ## Cinematic motion / score revision — v0.5.66 accepted, 2026-11-26
 
