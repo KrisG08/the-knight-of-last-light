@@ -1,0 +1,42 @@
+{
+	"cael": {
+		"source": 204304,
+		"triangles": 51076
+	},
+	"fallen-commander": {
+		"source": 386562,
+		"triangles": 48320
+	},
+	"goblin": {
+		"source": 132708,
+		"triangles": 16588
+	},
+	"gravedigger": {
+		"source": 287412,
+		"triangles": 71852
+	},
+	"iron-warden": {
+		"source": 560004,
+		"triangles": 69998
+	},
+	"knight": {
+		"source": 187624,
+		"triangles": 46906
+	},
+	"lyra": {
+		"source": 129848,
+		"triangles": 32462
+	},
+	"maldrek": {
+		"source": 556276,
+		"triangles": 69528
+	},
+	"oren": {
+		"source": 137476,
+		"triangles": 34368
+	},
+	"thorn-beast": {
+		"source": 259208,
+		"triangles": 64802
+	}
+}

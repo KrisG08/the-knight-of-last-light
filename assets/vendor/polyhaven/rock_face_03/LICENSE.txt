@@ -1,0 +1,7 @@
+Rock Face 03, Poly Haven
+https://polyhaven.com/a/rock_face_03
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+Dario Barresi (photography), Rico Cilliers (processing).
+2K JPG diffuse, OpenGL normal and roughness from the official Poly Haven API.
+Original URLs, sizes and MD5 hashes: source-files.json. Download hashes verified.

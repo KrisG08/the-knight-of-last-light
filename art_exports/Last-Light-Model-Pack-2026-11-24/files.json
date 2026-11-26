@@ -1,0 +1,2562 @@
+[
+  {
+    "file": "01-Images-For-3D/architecture/citadel-tower.png",
+    "bytes": 2164393,
+    "sha256": "f7239c8a18fc53c8705de9077bf9943c01169531cd49684379e881a916369eca"
+  },
+  {
+    "file": "01-Images-For-3D/architecture/crypt-entrance.png",
+    "bytes": 2196234,
+    "sha256": "061d78acca573f6df1d0b340952f60ff2df342db98d44fb92ed724f1acfeadd1"
+  },
+  {
+    "file": "01-Images-For-3D/architecture/expedition-tent.png",
+    "bytes": 2083822,
+    "sha256": "9a23046255fa276f08d187f0aa7fea9c3bc37812749fc0e67d97a109ac36adba"
+  },
+  {
+    "file": "01-Images-For-3D/architecture/forge-fortress.png",
+    "bytes": 2667013,
+    "sha256": "156834d97796be362b7d4bf3fb5e21c40a5d22a244f6f1fb45ce3ccdbf5596a3"
+  },
+  {
+    "file": "01-Images-For-3D/architecture/order-memorial.png",
+    "bytes": 2582966,
+    "sha256": "7bfea32166ecb697a9b2c226463eb20621b1b620a3c698d872f716b9a00664f3"
+  },
+  {
+    "file": "01-Images-For-3D/architecture/ritual-dais.png",
+    "bytes": 2537943,
+    "sha256": "3b9f156e6f13aff322f55b58910ef04f9b8a21cab30e759f6a66124efac6a5b1"
+  },
+  {
+    "file": "01-Images-For-3D/architecture/roadside-shrine.png",
+    "bytes": 2619729,
+    "sha256": "4a7a43ab8c67d7519b8173b6a089cffd847933864dfb7f62144424f0087be753"
+  },
+  {
+    "file": "01-Images-For-3D/architecture/root-shrine.png",
+    "bytes": 2756465,
+    "sha256": "41341803fe927688b38052fbad76fc3abe7a568c4a7d53983071b4f7e86a2c53"
+  },
+  {
+    "file": "01-Images-For-3D/architecture/ruined-chapel.png",
+    "bytes": 2173686,
+    "sha256": "b33e390e55542caff4efee1b47891c3cec83daa6da1acf9c3e92afc2811af51d"
+  },
+  {
+    "file": "01-Images-For-3D/architecture/village-house.png",
+    "bytes": 2729693,
+    "sha256": "eb190b54b89b03687bc6ce8e6b0d42f777176e2db785c5c04d90201a24b72f5c"
+  },
+  {
+    "file": "01-Images-For-3D/architecture/village-mill.png",
+    "bytes": 2491875,
+    "sha256": "31a7b327ac971225362b4f02e4c23b8010113c04b16fd6e06a4ff1cb6ddf92ce"
+  },
+  {
+    "file": "01-Images-For-3D/architecture/watchtower.png",
+    "bytes": 2057501,
+    "sha256": "8329a18db110559fc67d4c217aee2dafd1059c99832069c5a2a04245ed38e61d"
+  },
+  {
+    "file": "01-Images-For-3D/characters/ash-dragon-v2.png",
+    "bytes": 1824962,
+    "sha256": "c0c7e67cfee080aa356b525b5515c955bfd5847e595c282c703c9ec29a348834"
+  },
+  {
+    "file": "01-Images-For-3D/characters/barghest.png",
+    "bytes": 2083325,
+    "sha256": "e3500ff3f9f774027f7aea415794172877f1c0ffcbd03f0e1f5b4606038b3b2e"
+  },
+  {
+    "file": "01-Images-For-3D/characters/bound-shade.png",
+    "bytes": 1700049,
+    "sha256": "b62ff7954c230f41f7331d6819bf7c285ed5accc2d4ac59ed7e94fc1620b0067"
+  },
+  {
+    "file": "01-Images-For-3D/characters/cael.png",
+    "bytes": 2119959,
+    "sha256": "29b7245cf1d8882a2ea3471fc183f1ab79865cd87515d39372333b81015d7978"
+  },
+  {
+    "file": "01-Images-For-3D/characters/dwarf.png",
+    "bytes": 2158368,
+    "sha256": "4a43cf5d85fa94fc55c60003af56d1ae9ee9954c20bf6edbca4e1cff105bee13"
+  },
+  {
+    "file": "01-Images-For-3D/characters/fallen-commander.png",
+    "bytes": 2155876,
+    "sha256": "9caa9a68de67658b1788a8a6a5b78b2002eaa95cb45613b21bc667d2569d280d"
+  },
+  {
+    "file": "01-Images-For-3D/characters/fallen-soldier.png",
+    "bytes": 2154676,
+    "sha256": "66ccca502bd64dd0bf0a0ce2b5481d2f8b37086c5e1f27c12ae5d6332a1b5d49"
+  },
+  {
+    "file": "01-Images-For-3D/characters/gargoyle.png",
+    "bytes": 2646236,
+    "sha256": "e0d0a8d14aa4ba1a18a64583ca4e99873b7d9c8b3175839a8de5f68509aac6af"
+  },
+  {
+    "file": "01-Images-For-3D/characters/goblin.png",
+    "bytes": 2141761,
+    "sha256": "29c56d0e9637fd9b46b715d8480c2419b9a0d956fd5db6cb33b67bb59239dca5"
+  },
+  {
+    "file": "01-Images-For-3D/characters/grave-hound.png",
+    "bytes": 1940048,
+    "sha256": "f1b5625e01857348a473b68fe8d9e420276023c9a2869b8e606a0979dd3ec592"
+  },
+  {
+    "file": "01-Images-For-3D/characters/gravedigger.png",
+    "bytes": 1886253,
+    "sha256": "c3bef3ea926709c8a429aa58f40d3804203bffcfa35637c3035a8cec0e929fe9"
+  },
+  {
+    "file": "01-Images-For-3D/characters/hollow-villager.png",
+    "bytes": 2101732,
+    "sha256": "452da12f5715e9de648bd634a0638c516c8a2fb1d8b89410e408ca5a6ff01790"
+  },
+  {
+    "file": "01-Images-For-3D/characters/iron-warden.png",
+    "bytes": 2218582,
+    "sha256": "b626c08512b16b91b7612964841dee9b5164da49fcab8a7111a0e250b5365928"
+  },
+  {
+    "file": "01-Images-For-3D/characters/knight.png",
+    "bytes": 2072603,
+    "sha256": "bd3707e0fa747b424ef26a891fec8f54ea9aef38fb48ebcb05106425c13c6324"
+  },
+  {
+    "file": "01-Images-For-3D/characters/lyra.png",
+    "bytes": 1948018,
+    "sha256": "a83c734b20f44e78520b50294b61b674f260fa8067837498cf309fa17d2a3f23"
+  },
+  {
+    "file": "01-Images-For-3D/characters/maldrek.png",
+    "bytes": 2381109,
+    "sha256": "854a855523afd55f085d4d4c6fbed9302fb7e31020338d396e6c6244668a757a"
+  },
+  {
+    "file": "01-Images-For-3D/characters/oren.png",
+    "bytes": 1974768,
+    "sha256": "11016d05e5fa839b60a510f8898d48a0d092017a2750de31d71185a3f5f5a15f"
+  },
+  {
+    "file": "01-Images-For-3D/characters/stone-sentinel.png",
+    "bytes": 2257132,
+    "sha256": "13c4e0f3e2e76e58856790fd49d1d12c286d5c01ad3de1bac73a5ea2101125a4"
+  },
+  {
+    "file": "01-Images-For-3D/characters/thorn-beast.png",
+    "bytes": 2620319,
+    "sha256": "467cd18988c8c1afa15dde12c188bd1e75c340e387174653e7686c5f095b2e64"
+  },
+  {
+    "file": "01-Images-For-3D/characters/troll.png",
+    "bytes": 2404631,
+    "sha256": "3d6c49d1df5bd815b6ed42fdfbdaa7497e924bf27dd2b1822e29ba6fb8ee0196"
+  },
+  {
+    "file": "01-Images-For-3D/characters/wraith.png",
+    "bytes": 2161722,
+    "sha256": "dd5411bce18816b5a0fa449092529d6de80d014a1abc98a69c8b2d670907d379"
+  },
+  {
+    "file": "01-Images-For-3D/index.html",
+    "bytes": 15669,
+    "sha256": "802a25015606408d040b967c70420b797815b3d993a8d1c7b2b74ba93efc557a"
+  },
+  {
+    "file": "01-Images-For-3D/manifest.json",
+    "bytes": 59771,
+    "sha256": "713a9b31e77b5957a611429f019a5522873fc274ac56b9c5c197d9c68291dd08"
+  },
+  {
+    "file": "01-Images-For-3D/nature/ancient-tree.png",
+    "bytes": 2028922,
+    "sha256": "504654bd91b4836924690b83935d25aad79ed1c318c8d46befc5019a1164f5ac"
+  },
+  {
+    "file": "01-Images-For-3D/nature/fern.png",
+    "bytes": 2311326,
+    "sha256": "c6e78337e8913981584dd726ded1896055b4cedbafcd2c5d442bc94674f6b72f"
+  },
+  {
+    "file": "01-Images-For-3D/nature/forest-pine.png",
+    "bytes": 2402877,
+    "sha256": "239528650d5f3ccf92d508e5126356d05e7ffb8709f7cca12a30e47cc202c847"
+  },
+  {
+    "file": "01-Images-For-3D/nature/mossy-rock.png",
+    "bytes": 2975023,
+    "sha256": "0ee643eb037320bcd7cadfb34b4da5fff5badf94b77d729b8f7f377ad0aad786"
+  },
+  {
+    "file": "01-Images-For-3D/prompts.md",
+    "bytes": 44243,
+    "sha256": "3d774237c0ecbffc07d51883d06549e95825b881899634d21209f57ba1d8c4ea"
+  },
+  {
+    "file": "01-Images-For-3D/props/barrel.png",
+    "bytes": 2321472,
+    "sha256": "dc384f43422d3080f5eaaba83ffa720686c22f243786c3da13ee423bdd178bac"
+  },
+  {
+    "file": "01-Images-For-3D/props/broken-cart.png",
+    "bytes": 2516148,
+    "sha256": "3c5cb71d6e72e323161d0302e4890ead911c68a2fbd0961cf056b8f85df3573b"
+  },
+  {
+    "file": "01-Images-For-3D/props/burial-seal.png",
+    "bytes": 2815939,
+    "sha256": "a2bf49d305be9f532b94436b7d9fcd2d6135934ed0e777c4fc7091f9de0a65ce"
+  },
+  {
+    "file": "01-Images-For-3D/props/central-artifact.png",
+    "bytes": 2189160,
+    "sha256": "6a6405186e8fd6cb88c4ffbcf2babf7764fe0f90143f6ac84c19bbeea0acd06a"
+  },
+  {
+    "file": "01-Images-For-3D/props/crate.png",
+    "bytes": 2586453,
+    "sha256": "8e93b22d76201f7670f0c07d7707d2612a95525f36c6db93c491eeefcd96b450"
+  },
+  {
+    "file": "01-Images-For-3D/props/fence.png",
+    "bytes": 2365034,
+    "sha256": "e9492ea46d69cadb05a0fd0bcb8485722179f49f52c49166857640cc2ec2de5f"
+  },
+  {
+    "file": "01-Images-For-3D/props/forge-seal.png",
+    "bytes": 2306439,
+    "sha256": "49192495f4f200dadd379db096b32d90652cac458e98a289419f947134ce1c15"
+  },
+  {
+    "file": "01-Images-For-3D/props/knight-shield.png",
+    "bytes": 2305279,
+    "sha256": "525f0539d53b3e458ef6b35b4a79333916dcbf0b79e94d9910b6c546ad2c0002"
+  },
+  {
+    "file": "01-Images-For-3D/props/knight-sword.png",
+    "bytes": 1365312,
+    "sha256": "c6514c8d25badf511665181e302e115c7ed56131e46bd651d259fda387842df1"
+  },
+  {
+    "file": "01-Images-For-3D/props/lantern.png",
+    "bytes": 1700904,
+    "sha256": "cb42f07a06438c55f8bd3945604f8798255cb6dd90b286a729e82b94da8b6b83"
+  },
+  {
+    "file": "01-Images-For-3D/props/memorial.png",
+    "bytes": 2336757,
+    "sha256": "bea5516b0a87f2f80dad0fe0d29052136a434b04a71f1ec719604eb5ae2bbb4c"
+  },
+  {
+    "file": "01-Images-For-3D/props/oath-seal.png",
+    "bytes": 2491503,
+    "sha256": "7e32307884607fba8fd9997e6c116bb9defc584668cedcaa2af9944aac5e2373"
+  },
+  {
+    "file": "01-Images-For-3D/props/root-seal.png",
+    "bytes": 2733787,
+    "sha256": "4bdc88c54a54a4575d8a4d3508b6b008eac1446895613e76c7e126eccdbf75f2"
+  },
+  {
+    "file": "01-Images-For-3D/props/smith-workbench.png",
+    "bytes": 2380864,
+    "sha256": "9985b14a9e2b4b8f003bcc744ae4900655fb7ce9ede380c0070498e745f5cf08"
+  },
+  {
+    "file": "01-Images-For-3D/props/village-well.png",
+    "bytes": 2475253,
+    "sha256": "8c3d43e023b984a8ea9a16c8abe17240c465d21f0a2633a728273128ba1bc726"
+  },
+  {
+    "file": "01-Images-For-3D/README.md",
+    "bytes": 1206,
+    "sha256": "3640504e95123fad447689696de09f2eacf7f7d8253e0a6ff08ed67a1dce277f"
+  },
+  {
+    "file": "02-GLB/characters/meshy-cael.glb",
+    "bytes": 1994892,
+    "sha256": "c59b2f13b90026f6cd669ddb50d6fac48ade97780924edab2d9799150bccf403"
+  },
+  {
+    "file": "02-GLB/characters/meshy-fallen-commander.glb",
+    "bytes": 1891904,
+    "sha256": "7b9fe32618053f2a19ad5d2c1e5f81bd65d79c180ca17ba72763a9d2aeacb764"
+  },
+  {
+    "file": "02-GLB/characters/meshy-goblin.glb",
+    "bytes": 653224,
+    "sha256": "cde348f20251bbc020f3bbbaadafb7ade30bf16164e4ad4ec86963d9d3705d36"
+  },
+  {
+    "file": "02-GLB/characters/meshy-gravedigger.glb",
+    "bytes": 2783276,
+    "sha256": "1c1de43fb4452fab358af72535ee4fbc50d32498c18857457f9c5aec47393dac"
+  },
+  {
+    "file": "02-GLB/characters/meshy-iron-warden.glb",
+    "bytes": 2710280,
+    "sha256": "52d62fb55934089eb404163495727095d4a906f480768aad8236e85a80ce6aa3"
+  },
+  {
+    "file": "02-GLB/characters/meshy-knight.glb",
+    "bytes": 1816580,
+    "sha256": "43944e43fa29853aa73eb229d806e03d4b34eba185e85a3c62edeee759e4867c"
+  },
+  {
+    "file": "02-GLB/characters/meshy-lyra.glb",
+    "bytes": 1252244,
+    "sha256": "ae101730582ff8ca9c7ae67224991fa7f69405fcec17325e565dda7b055cb08d"
+  },
+  {
+    "file": "02-GLB/characters/meshy-maldrek.glb",
+    "bytes": 2691832,
+    "sha256": "21fd8ea1bb63f928fec3501f89558fe1619aff7be5877695b2f8ceb5f3dba9ca"
+  },
+  {
+    "file": "02-GLB/characters/meshy-oren.glb",
+    "bytes": 1345668,
+    "sha256": "fa7cbdadbc414ba3ac74510fbb8db388b04ecfcf03ba674f5e6c16e0fadf5fd7"
+  },
+  {
+    "file": "02-GLB/characters/meshy-thorn-beast.glb",
+    "bytes": 2481720,
+    "sha256": "5c7623c0e22fb572037ec6b717f2f1b6b77add0c4f58f40656977fc9402bb084"
+  },
+  {
+    "file": "02-GLB/characters/player-knight.glb",
+    "bytes": 4427092,
+    "sha256": "d1a68e2cf5ac716849af6fb2cfdd5eb974d65f2050f8d2096c362d723931dd0c"
+  },
+  {
+    "file": "02-GLB/creatures/ash_dragon.glb",
+    "bytes": 2772292,
+    "sha256": "a42e5abb89001f74aa0df5e3d7c840c7f552b39a5cd135a0fc74b2fb889c6b9b"
+  },
+  {
+    "file": "02-GLB/creatures/barghest.glb",
+    "bytes": 369092,
+    "sha256": "94888e09a627defb90f3e217c7f0e7b1ea2189a02eb8d558bdd951ca0a1cf7a7"
+  },
+  {
+    "file": "02-GLB/creatures/dwarf.glb",
+    "bytes": 2888992,
+    "sha256": "71e7da8b61f84c4dd6d86833c8fdc09ba4cfb4090394abd1c72de75f3cea45ed"
+  },
+  {
+    "file": "02-GLB/creatures/gargoyle.glb",
+    "bytes": 2241616,
+    "sha256": "a17fec92cc5143fbe9247bb51f837062301cd441cca967256cf4fe791be4d0ee"
+  },
+  {
+    "file": "02-GLB/creatures/goblin.glb",
+    "bytes": 653228,
+    "sha256": "1b489d857225e8bc4a0ece088171a3e2c0014c00c63cc4c6dd13c11d38aac5fc"
+  },
+  {
+    "file": "02-GLB/creatures/sentinel.glb",
+    "bytes": 2645476,
+    "sha256": "44e8b23a527173989cae5fc3481c6da9f97ae83f2750db13e1326900266cd4d6"
+  },
+  {
+    "file": "02-GLB/creatures/troll.glb",
+    "bytes": 653512,
+    "sha256": "e3413b058619dd03cf2a833151ac9c4d7addf4d91916acf06219e71ca1d86e62"
+  },
+  {
+    "file": "02-GLB/creatures/wraith.glb",
+    "bytes": 2578676,
+    "sha256": "46fa43371313812f6dc2ad99db6062e208032214bd5dec23c0ddd001a6caf1c9"
+  },
+  {
+    "file": "02-GLB/imported/crusader_knight.glb",
+    "bytes": 4139020,
+    "sha256": "653903529d82780dc8654164c0c94997e6f954ca99f271fe5c4d560d326923fb"
+  },
+  {
+    "file": "02-GLB/imported/crystal-deer.glb",
+    "bytes": 1551128,
+    "sha256": "a2e10e993b0a450507882bc3dda22733c41085fa69f3f7209eb17e1c4b7e6f60"
+  },
+  {
+    "file": "02-GLB/imported/dead_tree_trunk.glb",
+    "bytes": 4717156,
+    "sha256": "ba204a3f6557daa51a1691f4d1810299b8434114b6a2dcf23040a8bc8ffcc4c9"
+  },
+  {
+    "file": "02-GLB/imported/fern_02.glb",
+    "bytes": 1010616,
+    "sha256": "c44c80611ba47666c37e25fc1e8a300be31ce9a262045b497dbd65340dd8ad9b"
+  },
+  {
+    "file": "02-GLB/imported/icy-dragon.glb",
+    "bytes": 3141372,
+    "sha256": "ada4ac043da27e3e259d80d8b87a83190be92c593bd5dd92229eaf3419a40eaf"
+  },
+  {
+    "file": "02-GLB/imported/large_castle_door.glb",
+    "bytes": 2402516,
+    "sha256": "85e465e8e25b9e7c3c32f804c11bf16d2c05469a41b219bfd1de7a7b02847d55"
+  },
+  {
+    "file": "02-GLB/imported/modular_fort_01.glb",
+    "bytes": 8370504,
+    "sha256": "92de37662c051e49c4750507e093ca78ed0c080c1995f933f2e1a41b23e116da"
+  },
+  {
+    "file": "02-GLB/imported/pine_sapling_small.glb",
+    "bytes": 26950748,
+    "sha256": "9abbdb21425b84f7256f9e11af004eb77abd4242b9c830cdea22ae9227d9c33a"
+  },
+  {
+    "file": "02-GLB/imported/red-fox.glb",
+    "bytes": 1808908,
+    "sha256": "cf57f3fd6bda05fb58d4998c35a28b6c045339f12f6a04e670553e5a139e4daf"
+  },
+  {
+    "file": "02-GLB/imported/rock_moss_set_01.glb",
+    "bytes": 3227936,
+    "sha256": "4159ac4e2a0c28e55a7c1fe85f65502debc1ca22e6d5835d154914026fb8f9a8"
+  },
+  {
+    "file": "02-GLB/imported/strong-knight.glb",
+    "bytes": 1663316,
+    "sha256": "f7b251816b45385681fbea6ec04c63c204e9fe7e0fbf071e30b6c0526962d211"
+  },
+  {
+    "file": "02-GLB/props/family_locket.glb",
+    "bytes": 864312,
+    "sha256": "2380760f9b1ace20f7e3213f5b620781fa7898aadad968ef0473ec96ea5ff724"
+  },
+  {
+    "file": "02-GLB/props/gothic_arch.glb",
+    "bytes": 2248872,
+    "sha256": "c723bb406c10bc40699a28561cf04627bfa556a5c4d7153b260807c4221ce98e"
+  },
+  {
+    "file": "02-GLB/props/lantern.glb",
+    "bytes": 3739488,
+    "sha256": "55079ad28b6c5674e2bc2e8b55483ee71759be6d448ba2466936285d36894c9f"
+  },
+  {
+    "file": "02-GLB/props/memorial.glb",
+    "bytes": 2383600,
+    "sha256": "0fba161c21e836fee0d88ffeb4204bfafa87f5e04984ce993ce004063b73cd69"
+  },
+  {
+    "file": "02-GLB/props/reliquary.glb",
+    "bytes": 229816,
+    "sha256": "c0656f14a46519a331d5edf009417ab19841047b56a8f77f1c57a5d37fbd2985"
+  },
+  {
+    "file": "02-GLB/props/scout_satchel.glb",
+    "bytes": 349860,
+    "sha256": "511139d2dc1b4dd5228600ea194034b565c26f88ac1f1931da5768fe0adcfb05"
+  },
+  {
+    "file": "02-GLB/props/sword.glb",
+    "bytes": 2403784,
+    "sha256": "09eb94f0a2b1f65a30b8d0589269cb1a64b91d9b48d8b14f4b710cf9f2b10eca"
+  },
+  {
+    "file": "02-GLB/props/village_house.glb",
+    "bytes": 8270120,
+    "sha256": "8790fc5aa80ccda6b936638dc6fa3d0597daca477d3d24aab027c93efa4fa306"
+  },
+  {
+    "file": "02-GLB/villains/commander.glb",
+    "bytes": 4303464,
+    "sha256": "615768ef195839105ef279654d545c6d3e7c9d81579606c31eff7c5b16c7dac0"
+  },
+  {
+    "file": "02-GLB/villains/gravedigger.glb",
+    "bytes": 4406784,
+    "sha256": "87b58dd8147d4599a18b6796edd185bf0e57e4dd7ba95e33d0d4ca337ed40ddb"
+  },
+  {
+    "file": "02-GLB/villains/hound.glb",
+    "bytes": 1987004,
+    "sha256": "2da167e404347becbed262d737c1997d3caa51e8120bcb5a4eb013b3bf59df49"
+  },
+  {
+    "file": "02-GLB/villains/maldrek.glb",
+    "bytes": 4332156,
+    "sha256": "5e7a7ef36fdf9ef4b2674f0b35a4b7fa6510009e482095f7123f00afbc94aacf"
+  },
+  {
+    "file": "02-GLB/villains/shade.glb",
+    "bytes": 5095792,
+    "sha256": "96859ed7c669ac09efdab22a58cad47d84397b7cd89362a0c7a46c3c8f6b6ee7"
+  },
+  {
+    "file": "02-GLB/villains/soldier.glb",
+    "bytes": 5060852,
+    "sha256": "c15ad1f2cf13f13cc65c52db1363f06be5789b67eeab0d8c08634a3d911630bb"
+  },
+  {
+    "file": "02-GLB/villains/thorn.glb",
+    "bytes": 2481708,
+    "sha256": "0ebac07792b5844e7aa9f0ac52cbaff959a8d78e6f5c4c5e9c2a1561d016f0dd"
+  },
+  {
+    "file": "02-GLB/villains/villager.glb",
+    "bytes": 2966260,
+    "sha256": "002d5ed51101476624ed2f2988e6854d379c5fb0d93cc9cd0024890f05545ed0"
+  },
+  {
+    "file": "02-GLB/villains/warden.glb",
+    "bytes": 5881920,
+    "sha256": "ca0ab5d78e337e6a7825e7940b9f14288364602740e2e8621f41bd1ae06c9c34"
+  },
+  {
+    "file": "03-Worlds/blackwood.glb",
+    "bytes": 26512040,
+    "sha256": "27786283a5337cfaa4fd37475967e23ce8cdb7248147dc0bb188145f0d36a397"
+  },
+  {
+    "file": "03-Worlds/citadel.glb",
+    "bytes": 12445408,
+    "sha256": "22aae69ca218962a7195918f965e4fa5f456910f4185f4ecd1d22d615da8e22c"
+  },
+  {
+    "file": "03-Worlds/crypt.glb",
+    "bytes": 4965516,
+    "sha256": "82077756abe401df7b693883b872a9cfc33c10c4685a4cacfbbcc7f86ec176ea"
+  },
+  {
+    "file": "03-Worlds/forge.glb",
+    "bytes": 5935412,
+    "sha256": "8389c0c1b0a646f705007b3cb092e0eb8812d947f07a9a37536bdcf7fb8f8812"
+  },
+  {
+    "file": "03-Worlds/grove.glb",
+    "bytes": 13579880,
+    "sha256": "26eefec78c0a2e3d2104e60b74ba55ce6af51030c75ff3fe108527fc5479a16c"
+  },
+  {
+    "file": "03-Worlds/order.glb",
+    "bytes": 11532856,
+    "sha256": "2beb3bf21869878e968bee293d07d5cf964edd8de8b3d441f0b75f287220b3df"
+  },
+  {
+    "file": "03-Worlds/peaks.glb",
+    "bytes": 14343108,
+    "sha256": "f8234f56fda3f1c5c1586ef7a84223be58e27d56daf1c7c4b51f730a33cf23ba"
+  },
+  {
+    "file": "03-Worlds/refuge.glb",
+    "bytes": 38321212,
+    "sha256": "f15c03edee13aa244796ba5059618bfc471e3550e6f2265114a313f96c05a840"
+  },
+  {
+    "file": "03-Worlds/ritual.glb",
+    "bytes": 5479908,
+    "sha256": "3c0d3446e5a4d1063d312109aed04b469a1d535d7fcec9541932dfaeb76bb080"
+  },
+  {
+    "file": "03-Worlds/sanctum.glb",
+    "bytes": 5311308,
+    "sha256": "6ecf54202e0bba8eb0962d93420dc9ad339fa2e11d75ced77da867e5f71259c3"
+  },
+  {
+    "file": "03-Worlds/village.glb",
+    "bytes": 33788624,
+    "sha256": "3e377ad9be8b5ac96944b05174c569bc837f39f585a5550f8e35fd3a8116a2a5"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/ashen_dragon.gdshader",
+    "bytes": 631,
+    "sha256": "895e93d2344d5597e8bf9055487e4667de0fbc9d28d3ed416505c5f438353e02"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/chapter_ground.gdshader",
+    "bytes": 2349,
+    "sha256": "2950e30c0e285ab1dd0b8296dd53b17883e4ffcb7c318e83667512c9c5908e4f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/cursed_fur.gdshader",
+    "bytes": 493,
+    "sha256": "dada6ae43b903857bb832fbfe519391d66802fc3724357d0b2621e45d647847d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/distant_landscape.gdshader",
+    "bytes": 2488,
+    "sha256": "628a44d761f8960a69bbc480449be50c45f6cc36aa1b0727314725f6e58a9463"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/hostile_fabric.gdshader",
+    "bytes": 774,
+    "sha256": "61ed9a17df6416724ba46c1d14b21e6da5f4f9e74d8d70328abe3f9450433ebd"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/hostile_health.gdshader",
+    "bytes": 676,
+    "sha256": "3cde4e7db776b80855eb3396efafe0b656e7114ba5a186e7927d30a35f5e0828"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/menu_clouds.tres",
+    "bytes": 288,
+    "sha256": "8932e6689fa9602455104bd82678bbe7f106d62ba5abde898eee5260fa3621cb"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/menu_film_grade.gdshader",
+    "bytes": 1929,
+    "sha256": "a43f5553747e8c65994f9d21e07a696d2979ccda4d7397801cfb49e7713f82ae"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/menu_living_art.gdshader",
+    "bytes": 1577,
+    "sha256": "a2bb2a3eb3d8d46c1aeae2a13c2ed54d2d2c0f0480bdb14b068e4b77658bc92c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/menu_moon_clouds.gdshader",
+    "bytes": 1438,
+    "sha256": "5f66957d6f2151cbfdb2bc07bb157799736d2ca99a86caffb454fb5f8ce94ead"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/menu_moon_face.gdshader",
+    "bytes": 4598,
+    "sha256": "8ffe348dbcfc73490c78b428d2a51c631a49b919b93aa7367056ac0a3a8c9b86"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/menu_wind_layer.gdshader",
+    "bytes": 1654,
+    "sha256": "a09133174b4509f20af47b033e19a3e57bf8229385fe0768c77d06bb6e9ed27d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/meshy_surface.gdshader",
+    "bytes": 2656,
+    "sha256": "1d3f13c0c5a5c55737e4fba8e261d743e35d74c76e72ab0801c64747592348e6"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/moon_fur.gdshader",
+    "bytes": 818,
+    "sha256": "c5f2d14edc3640b0eea6a7c832c109d51094658c05111be1636e91985916f149"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/quest_leather.gdshader",
+    "bytes": 557,
+    "sha256": "3295e81b978ebcecd1367a52120bf913a06e33783889009dffda8b4f5be1db39"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/README.md",
+    "bytes": 1398,
+    "sha256": "95360ae21244d2d0e9c46d863e579c9aa0e8c7d04f765a9606dd1d9796bae686"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/ruined_limestone.png",
+    "bytes": 3670007,
+    "sha256": "deeb0f592e40c9679ae541763b3432ee051a37498b910987526255fa7fb23f99"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/storm_sky.gdshader",
+    "bytes": 2359,
+    "sha256": "589aefa1cecb9665c7c6e18e65fc283809da7cf996cfae73b6cd2611a765fa2f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/title_enchantment.gdshader",
+    "bytes": 1043,
+    "sha256": "042bcc4f64eda19a6c2fe417e1b3f347d87b38b56ede595ccef522e7ed3f0656"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/torch_flame.gdshader",
+    "bytes": 411,
+    "sha256": "8220c962c539212f53af97fc5feea15d91a3cb65b92ae67936ca972d30cfbe68"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/village_ground.gdshader",
+    "bytes": 1504,
+    "sha256": "c5c1966914c07aaab924ed4a46b6a38b4e8e7dc590eb1d72b9afe14b06981085"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/waygate_filament.gdshader",
+    "bytes": 654,
+    "sha256": "7863087940a3db417d71bf4ebc6b1ed00a61a4e1cbbe4acd02bfba28ca2bd4ee"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/waygate_vortex.gdshader",
+    "bytes": 1359,
+    "sha256": "6f45bdb31a3004a2cb7966d5b9fefa5179dea468483d9b7dcee21cf95ee1a41d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/materials/weathered_canvas.gdshader",
+    "bytes": 806,
+    "sha256": "30212a60e002923787432059fabfde7489ac40ddf2a0d80a426761d6cfd4cf54"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/cael-body.res",
+    "bytes": 215002,
+    "sha256": "5ea65230e8e65b36d2e2f70c4a680f7aa22c67b8ffdc9ca7b13350a25e9dea2e"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/cael-left_arm.res",
+    "bytes": 12539,
+    "sha256": "21f11a3c64cb17e7e6f1e3195830552d22a38b962825bbccbbeb047b7665e6db"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/cael-left_leg.res",
+    "bytes": 64434,
+    "sha256": "6b2c6ed70884cea3f541c3efe398d8eda24bd4f229d23871bb13c25eb5003724"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/cael-right_arm.res",
+    "bytes": 12932,
+    "sha256": "3e8e62fd1744c54ce444869a537fd5c6b68290817c679896d3a2d24b014c4bba"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/cael-right_leg.res",
+    "bytes": 62088,
+    "sha256": "7ba3db79a33f5911e11db9dcf8d7400c4e264e5d9778616bc62f308868e29762"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/cael.json",
+    "bytes": 962,
+    "sha256": "ca46f024e2667807fbd785c15ea2f142d7b1bcad8b05f199ea62f79d7d54aa62"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/fallen-commander-body.res",
+    "bytes": 188169,
+    "sha256": "ac806530256c83e0bfc969f894db431d99e02399ceedd8454f8a497341e2ad78"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/fallen-commander-left_arm.res",
+    "bytes": 11484,
+    "sha256": "d9db182e3b082ae8899d7f6f8d7c2cbd1971e4221b0b342e1536158c30c1dafd"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/fallen-commander-left_leg.res",
+    "bytes": 69309,
+    "sha256": "57050a5b9b957b9556146c016793cb3fe02850b275f6b3097b759e21b9909eec"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/fallen-commander-right_arm.res",
+    "bytes": 11111,
+    "sha256": "72d535175ccb894a66167c205a9844882222ae77ca5b3313deaee26a8df0a354"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/fallen-commander-right_leg.res",
+    "bytes": 69052,
+    "sha256": "71b4c695891254507f83386049f77a4ac2ef18949080850886c4fbb274bf8719"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/fallen-commander.json",
+    "bytes": 1015,
+    "sha256": "daa64f457afbe23b626680e4c051dc83b708771fce7845e95bf784bf6a7d1170"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/goblin-body.res",
+    "bytes": 79453,
+    "sha256": "a19e919da85e41a3fa9da6142818459a2a9882fcfac7b4500dc0a2b2ab48cd35"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/goblin-left_arm.res",
+    "bytes": 4075,
+    "sha256": "77c1bf3f3a4a65ff2979c6db8d18abde687184742fda9b2d722a9e4a0ab255b2"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/goblin-left_leg.res",
+    "bytes": 16748,
+    "sha256": "aed9e67e7e797bd35efdbd60fbebdf31352db142400835d0d2da99a932691320"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/goblin-right_arm.res",
+    "bytes": 3740,
+    "sha256": "f3baf72b9d9fbacf7fc2eeef0751ba9e53f6b0289a4bb4877a91fb50f4eee4b3"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/goblin-right_leg.res",
+    "bytes": 16851,
+    "sha256": "48de8b6d67aa78376ae85ca6bda26fc86778bdbc92922604fa116d4c066b4edf"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/goblin.json",
+    "bytes": 973,
+    "sha256": "0882a1889e69c865f78d891d127815cf8f85ca4dc70a9f11096e399a38aef3f6"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/gravedigger-body.res",
+    "bytes": 352378,
+    "sha256": "21907e14f5ae00be9aca0f597a82eef145abde75e2ef04215366eb587a991360"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/gravedigger-left_arm.res",
+    "bytes": 21841,
+    "sha256": "59f5fe7aeae9a1c25892f4b2df584ed9e51d695933bb3d4f74dd081733bfcc7d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/gravedigger-left_leg.res",
+    "bytes": 58511,
+    "sha256": "25139764c8c7a68cdad7c6279e6a24baea907a04f560a3af34cc30f614911f4b"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/gravedigger-right_arm.res",
+    "bytes": 22904,
+    "sha256": "82988541156b436226cf5ab7b2dc900b8daa694784df4dcf6050d329ef160c98"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/gravedigger-right_leg.res",
+    "bytes": 59518,
+    "sha256": "64d8871e156ce13dc2bde5b1e3ddfbb31e29e4f0c2526f7f5ffe86fe0be2529c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/gravedigger.json",
+    "bytes": 995,
+    "sha256": "40fe463c8f94f15f1ba0935edecf1402a5588827db765bfdfb19ce6c6cd01720"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/iron-warden-body.res",
+    "bytes": 203352,
+    "sha256": "b12b7db146eebe61d211aa1d1b61ec19c527d134586ea51fea676fb4cb52831c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/iron-warden-left_arm.res",
+    "bytes": 48703,
+    "sha256": "c63982fc795087e13ea3b461c805ae26b559895a8e64cd86e05dc69d00ae80cc"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/iron-warden-left_leg.res",
+    "bytes": 98616,
+    "sha256": "0bd5e30d4c0aeaeb70977a21ed775c6dfd15d5171edfc5ac5138c13ca017c4fe"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/iron-warden-right_arm.res",
+    "bytes": 47033,
+    "sha256": "194151166c0d6a772a95531aa0d4e2c6d12d49c0de226f0f693c7d0778869034"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/iron-warden-right_leg.res",
+    "bytes": 100552,
+    "sha256": "2345fc942f64e12937aa0ddc47f2a3668ef656d2825c99770167a672bbf634aa"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/iron-warden.json",
+    "bytes": 995,
+    "sha256": "5bc00d55a8a2b7d0815e983077246bfd424df76444c577fd95b174028d3fe097"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/knight-body.res",
+    "bytes": 179385,
+    "sha256": "bab1bc25fde04d38ce52213246e6ed68a900b9a9361db4526d63c77a1c81d703"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/knight-left_arm.res",
+    "bytes": 16517,
+    "sha256": "ba08728f9d5c5fcd86ebd3a491c107de4d9ffa560880d04ee47d33e035fe3ce3"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/knight-left_leg.res",
+    "bytes": 61634,
+    "sha256": "7fd443b1b8172ba1f24a6311bd4635cc789b7598006774af697f19351c7d1a42"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/knight-right_arm.res",
+    "bytes": 16638,
+    "sha256": "f051abd7a09e6ce6ac34db6c785cc4b54bb359fd7360ec2d9beb3f3e653a4b0a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/knight-right_leg.res",
+    "bytes": 59222,
+    "sha256": "10bd3c8e9b412bfa99ad83f8717f4fb50cfaf8446988856cd252b9ce3630b281"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/knight.json",
+    "bytes": 972,
+    "sha256": "52a6ac52eec4dd58c683514a6835feff260693488cd5a54f0de0c4863900995a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/LICENSE.txt",
+    "bytes": 725,
+    "sha256": "d4b379dae1cb8f0b510600776b161fe2f30df98903a1db9b8222fe1615ac67f6"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/lyra-body.res",
+    "bytes": 172559,
+    "sha256": "cc02f9eafa8a4179ccfd7787c37fad794df0d47d85665d1aed3851d7b6ea02e6"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/lyra-left_arm.res",
+    "bytes": 775,
+    "sha256": "7723235cf0fc57828839f26e5d1f7525d57a70c57fd5d994fdab40bc52f73b30"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/lyra-left_leg.res",
+    "bytes": 27514,
+    "sha256": "9461ef260f73569ebf2706198fa5bec0064120a219500cc8cd677b34f8936c4a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/lyra-right_arm.res",
+    "bytes": 972,
+    "sha256": "fe8e74e067dae292af43e22eccc456a0a7cba0fcef5c172d25cb3a70312925da"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/lyra-right_leg.res",
+    "bytes": 27412,
+    "sha256": "3555583ba6f5b9674b1a8b32861f56169d85e07290580186084782a5a4556f65"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/lyra.json",
+    "bytes": 960,
+    "sha256": "458b6bb9fc0f7776919fb4bfe38fc8506e1f3bedb56ab3725c8b12fece28f193"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/maldrek-body.res",
+    "bytes": 411272,
+    "sha256": "adb5bc417d74997f09fc4ed94623c56d1fa192464a3e303b784fa4b7446ed9cf"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/maldrek-left_arm.res",
+    "bytes": 14371,
+    "sha256": "2455664f37d5e9896cdeb1967691a4811d4230b464ea22a77596aa44f6f2422b"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/maldrek-left_leg.res",
+    "bytes": 29369,
+    "sha256": "25d470105a5e27648c710ea0845e1f1adde74a3ba06cad6c7f5dbf37b1a3c3b7"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/maldrek-right_arm.res",
+    "bytes": 14777,
+    "sha256": "41251e4cd09880eef74a6d12a7d230e1f9e5add42d4c76340915b245e20a4921"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/maldrek-right_leg.res",
+    "bytes": 29076,
+    "sha256": "db111a2ace2ecf13cef98d7c135783ecdcda82de51eeb16167322ef921848b10"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/maldrek.json",
+    "bytes": 975,
+    "sha256": "7d006323985fcd8547c4e803f0574cf5dc2defa95aa144477c679243f97d255e"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/oren-body.res",
+    "bytes": 150150,
+    "sha256": "7c22804bae9a2e352051a08ae66f7f59211c52dbdb877a2d838636b379e34861"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/oren-left_arm.res",
+    "bytes": 8318,
+    "sha256": "3e1e596ae9dc655a65b8022038b7063926855434c86bdad5b46eb0f598498a4d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/oren-left_leg.res",
+    "bytes": 42582,
+    "sha256": "7c8157902e1b431c22b91e755fb88341ced12c23b9c7209be3235fc98d571a0c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/oren-right_arm.res",
+    "bytes": 8078,
+    "sha256": "f5005693348399e22552c0139ed44a7f357b21699a35a3202301fdd8b2c364bc"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/oren-right_leg.res",
+    "bytes": 38895,
+    "sha256": "7113acc4ae209b4bcde2b4a2407ab355faa90756a14d4e6b2d8968bc026c3358"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/oren.json",
+    "bytes": 963,
+    "sha256": "a7d5e108352205dd3251069f6af55846a6c1891d02d761c36ae2d1bc74250812"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/cael-body.res",
+    "bytes": 599821,
+    "sha256": "75ed0029f2f2f68cba8d640b06fee25784176bc01bb915c480c3ea9edcecf0a9"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/cael-left_arm.res",
+    "bytes": 33652,
+    "sha256": "f5b5a43c3748d66b4b39c7dcbc2ada62df17c8086fc2a8a1b7ef535ca7816169"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/cael-left_leg.res",
+    "bytes": 174619,
+    "sha256": "fcae2bfebf97bd01c4e2c1246cd923651353f2d1d31602b62c8bc0f855f4b772"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/cael-right_arm.res",
+    "bytes": 34624,
+    "sha256": "1691f381f768f18975792963323994f97c2db83719f453762b137aeec6a9844c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/cael-right_leg.res",
+    "bytes": 166545,
+    "sha256": "316a5dc05741ef35a599cee55f5b93998e7d538d04241ed5c90a2e0767f9bc74"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/fallen-commander-body.res",
+    "bytes": 526049,
+    "sha256": "0cd36315a697a67cd250171c260d55fccf7f4f0ecb97f4de6aeb5b2c65a66d66"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/fallen-commander-left_arm.res",
+    "bytes": 28507,
+    "sha256": "3c24b8f0c36ac72882c55354f639a8e8955e9afa162fe5c2f43698ed1c509c6b"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/fallen-commander-left_leg.res",
+    "bytes": 183440,
+    "sha256": "9eecd59c11a205a0e02d327cecb6301fdff071c3be5e8011af7b00635b4203e5"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/fallen-commander-right_arm.res",
+    "bytes": 29159,
+    "sha256": "bc6a9547feb6bfada12bf987010c52db40213a03bf3d29d42303b7bb2bdfd759"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/fallen-commander-right_leg.res",
+    "bytes": 184179,
+    "sha256": "b145ba58a5e80d8b3fe06ebc3de8fd6eae3453a49e62a2b96904570b56ffc75b"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/goblin-body.res",
+    "bytes": 223273,
+    "sha256": "b6bede566d4a47b19ce5416297889f367ba0aa482b08759a44810be9bfba7776"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/goblin-left_arm.res",
+    "bytes": 9281,
+    "sha256": "8030b4bce07bf8a6255ecf5f64d7f589c93732ef6826c050b378ce3ae50687ed"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/goblin-left_leg.res",
+    "bytes": 40784,
+    "sha256": "aab5cb01b2731f5da5ed67c02ee5c485d7104b2acf3304d0f736f89d6ffd80d7"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/goblin-right_arm.res",
+    "bytes": 9194,
+    "sha256": "e8259455adea44f38e1584bc98e7cf7b9941d793eeea4599f3949aee800778d1"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/goblin-right_leg.res",
+    "bytes": 42677,
+    "sha256": "41af121ecf968d3ba851c21751cb26575393629c048d15267363f38f3a72339f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/gravedigger-body.res",
+    "bytes": 978843,
+    "sha256": "0f9b5245c65d24d193a109bd157a349c9878768bf9c28f364a48b0550368ce8a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/gravedigger-left_arm.res",
+    "bytes": 58880,
+    "sha256": "fafed57f1893284b5f99e7475e2d2bbdd5df9b41ec1004fa2d2727dba50f88f7"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/gravedigger-left_leg.res",
+    "bytes": 157731,
+    "sha256": "d9799e3788765747da3e73941c88047dbbe62d5a5dfbc9064ff6e6d04916fc67"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/gravedigger-right_arm.res",
+    "bytes": 59750,
+    "sha256": "d845750b6909291f4b7014df9fc86371078dec8964c21d491a9c235511b8bc78"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/gravedigger-right_leg.res",
+    "bytes": 160851,
+    "sha256": "51b90b68da5627e77ac5f7c2d9599242481d3ad002cce0c48ada74cd08bf0181"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/iron-warden-body.res",
+    "bytes": 574508,
+    "sha256": "b18a17dde26e7752c623085d0684ee3c3fb5f39c3dbbb6e1b3c14b66975b4fe1"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/iron-warden-left_arm.res",
+    "bytes": 141562,
+    "sha256": "e0646cd408d5152ce7edbcb6dd6b13d56e85372b9d460ae127b2d6195916bbbf"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/iron-warden-left_leg.res",
+    "bytes": 275874,
+    "sha256": "3eac43bdcc982c79747a666961bae81e9829e60391f4b335ed8a32385eb3c759"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/iron-warden-right_arm.res",
+    "bytes": 133710,
+    "sha256": "f11dd6b5179be5416db779b7f5e6a28a38804711a269aa7145bb484278850564"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/iron-warden-right_leg.res",
+    "bytes": 283500,
+    "sha256": "0126976610d30fd57e1adf5ed16e7f80c6b793ba2778fbb9c3398f9fc4d5d905"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/knight-body.res",
+    "bytes": 496542,
+    "sha256": "bc8f831419fe355dbaff7e5e64038718e3d5d9691bcc65bb3e36ccacf27cc6c9"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/knight-left_arm.res",
+    "bytes": 45188,
+    "sha256": "4f1c8d3881daa3ea627dcf3f60744ce6b00ea1faeb716ff9a87be6316885545c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/knight-left_leg.res",
+    "bytes": 168999,
+    "sha256": "4ce0e806194bf3b98e6ab77b82ea66674970b67ae1cee12eb5a6ed9e48be221c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/knight-right_arm.res",
+    "bytes": 43687,
+    "sha256": "aae54d3d49408c9255409281279cec7cb1fbec917e153269518a9a97733b3f0a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/knight-right_leg.res",
+    "bytes": 161067,
+    "sha256": "9a10883f49567b352d301f1bb61adc474c5e3681a7f4e306a6a9f3d8523fde80"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/lyra-body.res",
+    "bytes": 475884,
+    "sha256": "731840d0a7a8271db3c40caa092cf46eb9aa545fe2c678af869750a39ea31eac"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/lyra-left_arm.res",
+    "bytes": 1402,
+    "sha256": "e9ca957262e266b92e8c8526e685cfe9872b77e3a3e759b103eff034d5fb2b87"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/lyra-left_leg.res",
+    "bytes": 72737,
+    "sha256": "1499a3f385ec6519e206c854019f4dc9d49ba4ecc72e97d5b45fd7bf1acb897c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/lyra-right_arm.res",
+    "bytes": 2005,
+    "sha256": "e46fefa50ce489f7c74afcad62d555283179594e887afa5169071631973190e3"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/lyra-right_leg.res",
+    "bytes": 75403,
+    "sha256": "42273a3ebb9e412f37594c653885a4677489c5f016d328180dbe10f2008c31a6"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/maldrek-body.res",
+    "bytes": 1155440,
+    "sha256": "dde4ed1c7ada42242391cd929ad24f61a8f982f582fd2cfec1bb6e5432bdec86"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/maldrek-left_arm.res",
+    "bytes": 37242,
+    "sha256": "bfc6efdfec04907b464f988abc1cd2809dfcbf7cfe6ad30dca0103f334ce2b0d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/maldrek-left_leg.res",
+    "bytes": 74452,
+    "sha256": "b80e650d4bd024435afcfe1d0c40a545a29941f125e914ed8ebca8b78b3cea39"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/maldrek-right_arm.res",
+    "bytes": 37593,
+    "sha256": "6676dde6b624fb5f70d10720314e4511b9869937b9370002203049f627c06917"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/maldrek-right_leg.res",
+    "bytes": 72402,
+    "sha256": "aa59786ce759f79b4f6a984f6c76c0fd0e4c443816b42b4a752a5af5cdce4e34"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/oren-body.res",
+    "bytes": 414348,
+    "sha256": "204a209c595c9e51d9bc920c3db51caeba0097de08ae281c2e7894a565ac9110"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/oren-left_arm.res",
+    "bytes": 21435,
+    "sha256": "cb894a12f6ad04fab830915f8395b5001f6f23d0591cb7c6d93c219915a5215f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/oren-left_leg.res",
+    "bytes": 113015,
+    "sha256": "9784227ea29b1f8fb9c9644e6fc5c3daa34480f168ae56986cdefe0928dd7772"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/oren-right_arm.res",
+    "bytes": 21258,
+    "sha256": "2cb087bcd0ca81a5eb49f8f2597ff24f850cd39845be7fad4a0ee9b94bef44aa"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/oren-right_leg.res",
+    "bytes": 105533,
+    "sha256": "b0f3d86091188258b093aaca13f0feab92dd00dc0bf455a2571b53321c56589e"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/thorn-beast-back_left_leg.res",
+    "bytes": 17463,
+    "sha256": "edca29b99506eae9655d6994fde59544130965cb770709de63c4c2b7a2437c18"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/thorn-beast-back_right_leg.res",
+    "bytes": 15968,
+    "sha256": "89af425fa1e543446ad5d696d2e10d34326a64ce94a7086df83f44245098d773"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/thorn-beast-body.res",
+    "bytes": 1071555,
+    "sha256": "bdbaf85917d9808e4d4d135dab96c4235f4072d24e030d21089c25349d200d93"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/thorn-beast-front_left_leg.res",
+    "bytes": 88119,
+    "sha256": "00b63df02566b96277e421852d1857ca59658f37abf337fd777fc60198877fb2"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/painted/thorn-beast-front_right_leg.res",
+    "bytes": 87366,
+    "sha256": "bd4b4d4ff776ed1e3a3447786e53491bd3d67b3bd9217ebaa162f082d423c1fa"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/preparation-report.json",
+    "bytes": 602,
+    "sha256": "417b81ae7be7982a46369b2cdd030ec2a3399889fbd13e8df72bfe77928a7932"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/reference-colors/cael.png",
+    "bytes": 2119959,
+    "sha256": "29b7245cf1d8882a2ea3471fc183f1ab79865cd87515d39372333b81015d7978"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/reference-colors/fallen-commander.png",
+    "bytes": 2155876,
+    "sha256": "9caa9a68de67658b1788a8a6a5b78b2002eaa95cb45613b21bc667d2569d280d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/reference-colors/goblin.png",
+    "bytes": 2141761,
+    "sha256": "29c56d0e9637fd9b46b715d8480c2419b9a0d956fd5db6cb33b67bb59239dca5"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/reference-colors/gravedigger.png",
+    "bytes": 1886253,
+    "sha256": "c3bef3ea926709c8a429aa58f40d3804203bffcfa35637c3035a8cec0e929fe9"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/reference-colors/iron-warden.png",
+    "bytes": 2218582,
+    "sha256": "b626c08512b16b91b7612964841dee9b5164da49fcab8a7111a0e250b5365928"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/reference-colors/knight.png",
+    "bytes": 2072603,
+    "sha256": "bd3707e0fa747b424ef26a891fec8f54ea9aef38fb48ebcb05106425c13c6324"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/reference-colors/lyra.png",
+    "bytes": 1948018,
+    "sha256": "a83c734b20f44e78520b50294b61b674f260fa8067837498cf309fa17d2a3f23"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/reference-colors/maldrek.png",
+    "bytes": 2381109,
+    "sha256": "854a855523afd55f085d4d4c6fbed9302fb7e31020338d396e6c6244668a757a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/reference-colors/oren.png",
+    "bytes": 1974768,
+    "sha256": "11016d05e5fa839b60a510f8898d48a0d092017a2750de31d71185a3f5f5a15f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/reference-colors/thorn-beast.png",
+    "bytes": 2620319,
+    "sha256": "467cd18988c8c1afa15dde12c188bd1e75c340e387174653e7686c5f095b2e64"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/cael-body.res",
+    "bytes": 431433,
+    "sha256": "4e437d34507230beedd61bffa9ae8892f7bd87f31a09bd9aa6aaa92e46f6a95f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/cael-left_arm.res",
+    "bytes": 24474,
+    "sha256": "18810b151f1d054aadf104b1b4ffb746d1ffa2ab113863bee1050fbd3f6f17bc"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/cael-left_leg.res",
+    "bytes": 126531,
+    "sha256": "197646bb210cee59d14c51bba88eaaa2ad3e815a3f7a2ddfdadf0f4168724b35"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/cael-right_arm.res",
+    "bytes": 25328,
+    "sha256": "4fe49f4f919017866947371e97cfe104cd8da3aa6ef0fc792f644973b9ccb878"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/cael-right_leg.res",
+    "bytes": 121265,
+    "sha256": "f3c5b948e23ab0016098cb86be26b0c3cb8f6e7e1dc3e97ea8b949737448d981"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/fallen-commander-body.res",
+    "bytes": 381027,
+    "sha256": "c7f004cf301eeece804654e93cfd284b351d56a0e05b96270b514da83353f0be"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/fallen-commander-left_arm.res",
+    "bytes": 20904,
+    "sha256": "72c9efa167cf64ebb7ed3076fe014590d4a01d45cec1c237eca681f9c9c6c437"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/fallen-commander-left_leg.res",
+    "bytes": 133887,
+    "sha256": "9ca323aa306ca2ad2f4081a30754b10362cd8c7ad3249a0a3a20905889ee4f75"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/fallen-commander-right_arm.res",
+    "bytes": 21532,
+    "sha256": "7e676e5ee86b5757f6c8086556b3ce37494bb05ae6f4c93cc0dcb9026e05b1ad"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/fallen-commander-right_leg.res",
+    "bytes": 135388,
+    "sha256": "e3ed6ac27eae3f639d0f3feca60e45196230e99c5b874d25966ef74ebcc940aa"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/goblin-body.res",
+    "bytes": 162204,
+    "sha256": "c8bddec3d48d36f76db7cb2b810bbbdf70b91d479919bc3a215c262954c9eeb2"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/goblin-left_arm.res",
+    "bytes": 6721,
+    "sha256": "f41d6586b0338015fa65928ebf921615102e2be19812ee60a4a2d6d0e9609f2e"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/goblin-left_leg.res",
+    "bytes": 30076,
+    "sha256": "fd309fb7013976276c9abca306e46866dbdc067ea7f86936c9bc8132d63f9232"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/goblin-right_arm.res",
+    "bytes": 6706,
+    "sha256": "ae7994de85b760095ee5ace8065e4c432225d85860cc741a640949681a08a19c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/goblin-right_leg.res",
+    "bytes": 31632,
+    "sha256": "0869260e6c052d0abfdb9dd66c4b7f811089d9eb39f2feffb71762c7149c29d1"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/gravedigger-body.res",
+    "bytes": 706181,
+    "sha256": "691975cdeffa295b05565cd5170483bacc320d82717903b3f13348b87b02dba9"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/gravedigger-left_arm.res",
+    "bytes": 43213,
+    "sha256": "92e0c43eac5779b0214cbae88b5f27b773e74f1631006fe2cc88ff9d6e5e483a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/gravedigger-left_leg.res",
+    "bytes": 115423,
+    "sha256": "5151acdadce4eaa92598c0513c55c85c20b93de3ce8e678773f4fa3f6c95b8b1"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/gravedigger-right_arm.res",
+    "bytes": 44208,
+    "sha256": "49e63a0458e986c3bbeaca65acba66701f00d584a1643e3944004f863481d8c9"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/gravedigger-right_leg.res",
+    "bytes": 118204,
+    "sha256": "b47342dada5699adf2a6970f84e286303b538db675f022570d9f8b847d30bcb2"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/iron-warden-body.res",
+    "bytes": 406794,
+    "sha256": "6f6d6c38b9b8e017fc1470d1b3100a304235be84be3bfa13477cf43f0f75b5b3"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/iron-warden-left_arm.res",
+    "bytes": 99274,
+    "sha256": "eaacab082082fcc5466c4e4c94dcfc3e2c90a7018675db2aaedd60571644c458"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/iron-warden-left_leg.res",
+    "bytes": 194187,
+    "sha256": "86b31b4e18b038727f8dc7e8f1da397be6c398c671462eb529741d1e57bbee11"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/iron-warden-right_arm.res",
+    "bytes": 93902,
+    "sha256": "0fd8a8b94ba546274b0243328b09cafb11a8221a42d0211d662df8ca53df243d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/iron-warden-right_leg.res",
+    "bytes": 199984,
+    "sha256": "81655d52c90215291d40b1bf0bc88d843fc36ec97860005a04a39b292aee4711"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/knight-body.res",
+    "bytes": 357275,
+    "sha256": "cfece2ba0a29b22de1f551f2d10b392a6478a20003be27e01da4eb56694ab098"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/knight-left_arm.res",
+    "bytes": 32948,
+    "sha256": "f8e7ed7181b92430f073a7139102a6ee7eeb10ce76d5dba9ee5a8dbad0d31f6d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/knight-left_leg.res",
+    "bytes": 123117,
+    "sha256": "7fe21cd560c43593b34f55c77ee0f56359ff009256b8d3b896d3ec07a09aef61"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/knight-right_arm.res",
+    "bytes": 32254,
+    "sha256": "35c62f7679660748cdf6479c86928f2b93b6ff8f6e0be63bfac58ded75ac159b"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/knight-right_leg.res",
+    "bytes": 118014,
+    "sha256": "e15b278586885c21663b7838c404a32674ee830c1a3635553ec81aac62fc5c91"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/lyra-body.res",
+    "bytes": 345510,
+    "sha256": "8bdbea167fcfad6a94b73818007d4e64ac19a502f19ebbce53e0ecdb3a78c5fe"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/lyra-left_arm.res",
+    "bytes": 1077,
+    "sha256": "1469cfd956ec84246c465986a3b68fa51eecc44c180d06c88c1305b3d385ea63"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/lyra-left_leg.res",
+    "bytes": 53829,
+    "sha256": "ceb50e1f0ba33447b95d558379ba0db2e9009f836fa1bac3335a24bf83979536"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/lyra-right_arm.res",
+    "bytes": 1510,
+    "sha256": "14eb647707cb42b3fec3c973acc03cc964027785b1f5f7100723cd0e8e86e586"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/lyra-right_leg.res",
+    "bytes": 55830,
+    "sha256": "c7c2febd4e33dceaeb8720653a4024d93b0f88a59823df526159a1c5d65739ce"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/maldrek-body.res",
+    "bytes": 836127,
+    "sha256": "77e8816447e1849812ea05196d4de0b66842f47bd101f4d225a6cb92427579d4"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/maldrek-left_arm.res",
+    "bytes": 27480,
+    "sha256": "4cb43c30d42258988d840fefb672400a49bcc0e9d635de6aa2c671e3d52c4a9f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/maldrek-left_leg.res",
+    "bytes": 53872,
+    "sha256": "42d2e5d54654fe4ffcfad58f72039474c243dfc752c2aab29759cfa530038e9d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/maldrek-right_arm.res",
+    "bytes": 27652,
+    "sha256": "2925ba725631a829deb4a034526a0ede9e162270818eba85b5f40bfc97a4482f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/maldrek-right_leg.res",
+    "bytes": 52543,
+    "sha256": "33def4341771f87a6a3aebdcb7afe0cbe8daa2416a203a20b683528e4e31003e"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/oren-body.res",
+    "bytes": 297905,
+    "sha256": "298726c0bf03c150cf281c4a61596d8f1a0d06ecb32ff208aafe01300c6dac78"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/oren-left_arm.res",
+    "bytes": 15683,
+    "sha256": "5bc8f869ca04522ee0ea25f9925d480e8ca930f77764a2b1557d89215c8c1a6a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/oren-left_leg.res",
+    "bytes": 83054,
+    "sha256": "af60303e6a01dff2790b8f809eb8d6070229b316f1fc97d7b45e11c793cffbda"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/oren-right_arm.res",
+    "bytes": 15802,
+    "sha256": "e3e0afb5a45de59cd228b84820a0b7fd4eeaf5ee301bdd8ce9d4542246ad001f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/oren-right_leg.res",
+    "bytes": 78178,
+    "sha256": "21d63d03e330cbc2a08b6e592441ec097eb79b148a7fa23e70f5a3d8ba0bdce2"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/thorn-beast-back_left_leg.res",
+    "bytes": 12670,
+    "sha256": "1b88a106343282f88b325649fcfcc32461ed3abb31cd4e24d427093b3a92c9e4"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/thorn-beast-back_right_leg.res",
+    "bytes": 11801,
+    "sha256": "de872a2cf7b2315cbab056841041eff8a5ea776ff1ab39e58996c029b8c9586f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/thorn-beast-body.res",
+    "bytes": 761018,
+    "sha256": "7ccfa3d1dc849206be8581baf2ba983d17e4a33824b129e0140329c1420a8fe0"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/thorn-beast-front_left_leg.res",
+    "bytes": 63801,
+    "sha256": "20394a308118985cae377d78f9b53d65127a24c5bc055a1724ab6d96949ef66c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/refined/thorn-beast-front_right_leg.res",
+    "bytes": 63262,
+    "sha256": "aef1758b22f81815eed6a3d8b8417d7f30d8c2f214c17a034703d2c7631ba6f8"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/thorn-beast-back_left_leg.res",
+    "bytes": 6816,
+    "sha256": "dcd51dadbc433f76ee5d7ad818245bf5897be22e8f8d48e18793a3e0d370f76a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/thorn-beast-back_right_leg.res",
+    "bytes": 6065,
+    "sha256": "39ab425ad7949220203328a6d88283d341442cdc0b8809b4ab3042ba22b0ba49"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/thorn-beast-body.res",
+    "bytes": 376808,
+    "sha256": "502c8791584af9d92a52669ea62b8d2f663dc0ee5bf082c0afcb62c321aaa8a5"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/thorn-beast-front_left_leg.res",
+    "bytes": 32226,
+    "sha256": "a07f348a9b777e66ab91e1402125005084491fbbd9423ce9ec16714c7472632f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/thorn-beast-front_right_leg.res",
+    "bytes": 32141,
+    "sha256": "98fb1ced259de67ad5c34edd906e7d2d6a94c03b9f4edf665f8dd86c1f1874b3"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/meshy/thorn-beast.json",
+    "bytes": 1097,
+    "sha256": "e9adcaa8764ae0b590fcd5a9257e863e583b241bff18d27aa2d3f0275b974455"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/native-parts/crusader-knight.res",
+    "bytes": 1031268,
+    "sha256": "faf16acc6e15ccf67608cd7f9c943ceb915f74b1783ae0522946cc8c897ba964"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/native-parts/README.md",
+    "bytes": 984,
+    "sha256": "e8591eda8be8b5a20608c3d4f17aaaad551bd140465fc0c211712e3677c0a0dc"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/native-parts/red-fox.res",
+    "bytes": 193710,
+    "sha256": "616537d17275dae0e3818dbac4325844c134692601ecafd878b1ffc5540d95f8"
+  },
+  {
+    "file": "04-Godot-Sources/assets/models/native-parts/strong-knight.res",
+    "bytes": 225364,
+    "sha256": "d063e78cf0e58abe9ae435bacd8e021813416b370e19f233cb2c74a695991ba6"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight.glb",
+    "bytes": 1897100,
+    "sha256": "a9e5ce4c2e7f1c45fcf44a8846953bd76d2e3999af3b5743b0d67a33c8adce62"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_0.jpg",
+    "bytes": 53411,
+    "sha256": "ddcc37401d4121433d8156da23042abaa779b8f3c1bcc125073ca6e6a0c8c70e"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_1.jpg",
+    "bytes": 32358,
+    "sha256": "80b55e6d6c9e2bea475adb69a33b4464538b3bd5ab651b48aa31f2e3c6052c6b"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_10.jpg",
+    "bytes": 22204,
+    "sha256": "87c708a2c856997f254951a466c9309e88f546ff0497402561bc7ac671d0aa95"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_11.jpg",
+    "bytes": 57500,
+    "sha256": "41fe74344bed747ff880008efffec47efcb14eec293b7bced2b7cf6b532e6431"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_12.jpg",
+    "bytes": 36744,
+    "sha256": "4f3148311ebb689f74089436fd78828c27298deb6fdbac51ec6a183e307e02df"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_13.jpg",
+    "bytes": 37552,
+    "sha256": "c272e6a5677067b7d8233df87221e98abadd169da236efac86cece9db51cf558"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_2.jpg",
+    "bytes": 38478,
+    "sha256": "e128279530b0ee92b7018434f0c8e572d2868c8edd90b178d34587374bc46a63"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_3.jpg",
+    "bytes": 77862,
+    "sha256": "078760b797c0a8955a335ec846bbb0f9b432866983c38689b3794abe9ccb99f5"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_4.jpg",
+    "bytes": 40083,
+    "sha256": "148f17079ad07d15becb1dcf7e76e52e2dc14da6ac6b45e4f0fc418b4d388a02"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_5.jpg",
+    "bytes": 88231,
+    "sha256": "299b165ef58e30e394b547a4c2277399dd3b698cc66ae64f0acbfb06a2e84a00"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_6.jpg",
+    "bytes": 53610,
+    "sha256": "099cc3b7625da4764fbae6505472e04d4b2bcf09a351fd466782996cb1f19af8"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_7.jpg",
+    "bytes": 78045,
+    "sha256": "95de8b7fc4ad063946e25112abb907184d81fb0f4ff833994877474393bc365b"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_8.jpg",
+    "bytes": 53609,
+    "sha256": "9248acb6364949ea82696eaa6f6ce4ce79aa01f1d83ce6cdf5cc2c874855dc0a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/crusader_knight_Image_9.jpg",
+    "bytes": 46406,
+    "sha256": "d97dc7b860ba2519cc92e17c14986f289aea6143c70cea2d952add9a8b4e46c7"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/manifest.json",
+    "bytes": 406,
+    "sha256": "c4d04ebcb360d64896d3b013fab10bb25bf32d7cda72f7660ed7498c09899364"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/andy_woodhead/README.md",
+    "bytes": 1415,
+    "sha256": "60e6250041f971c9396e12707d1ff10e7398cb967c76e1249a12ca2ae8445e8f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/manifest.json",
+    "bytes": 1206,
+    "sha256": "c5050ca89df61f4f4a888dbe90e172472bccfe6fd2dd0414426464922c9a4be4"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/original-license-metadata.json",
+    "bytes": 1009,
+    "sha256": "e283cad81a1997896af22eb52860edb6f2a63306992c4408d7643efe32a11041"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/README.md",
+    "bytes": 1950,
+    "sha256": "590c187e9fb534666273763bb362ee82f3096f0b12132683ad6ca7b4a7b10696"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/red-fox.glb",
+    "bytes": 797192,
+    "sha256": "672dc3e67ad7e9dd27320df9f49fc4dbcc2f3f2c33123db7305c196d238b86c4"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/red-fox_Image_0.jpg",
+    "bytes": 178532,
+    "sha256": "d21acf48ab54d8e3b1ac73b73c7169ab06d06b4ea8ec1b885ae237112ae508da"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/red-fox_Image_1.jpg",
+    "bytes": 145909,
+    "sha256": "1779e702dc5e1ea3df129662497a9f8ffe6bc26f45be957a4b28d1f216011e50"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/red-fox_Image_2.jpg",
+    "bytes": 187753,
+    "sha256": "48e9101ff86051d011719a3e2771d0104eca75b1ab074cc3e3bd96b705c988ba"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight.glb",
+    "bytes": 1686572,
+    "sha256": "7602476fcd522c9b66917b4da912cdfd2454f7796abf3adc7799127a50941ac3"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_0.jpg",
+    "bytes": 27649,
+    "sha256": "4e93ea455b76dfdb6d7339939106e1a08b4f2e3816c2594bd9fa8864f948dad4"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_1.jpg",
+    "bytes": 73487,
+    "sha256": "450ae2c0d6e2d23da824a84d406c7dec3c8152525b5673e59c1b6e0e1b42a643"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_1_7.jpg",
+    "bytes": 53390,
+    "sha256": "d62af9223dee50d86033ebc0568aa2976143d629c1639d7a04268a3e92446584"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_2.jpg",
+    "bytes": 162113,
+    "sha256": "6657b9251b27e0a1d5a04b63d19a7c92f76e8ae3fa1b2864637305ee28bc1b94"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_3.jpg",
+    "bytes": 65907,
+    "sha256": "31e4ca691f151c4f50f7bac3e15e4266a27e2def1981c6fd2fe58410f106ac4e"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_4.jpg",
+    "bytes": 107139,
+    "sha256": "6d5916be6e58c08f6a1e5a6537a5dc02814487895e4a4db3291c65a428625daf"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_4_11.jpg",
+    "bytes": 88365,
+    "sha256": "77b5c5a77fddca88d846dded2c29ba864c2b2cfe339665b06619ba733ff93b47"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_5.jpg",
+    "bytes": 109898,
+    "sha256": "c8a01a0992de96c65fde7500d26ec5e4336201bac86f56625424613484dec506"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_6.jpg",
+    "bytes": 86868,
+    "sha256": "580acbd95fd4c53374639a8fdd3f29ba28d5e4dc42a1340a4f1cdab51f0c1f39"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_7.jpg",
+    "bytes": 161669,
+    "sha256": "a82e79c0a02bcf863ebf6aae55a26824c46d7bf9213724871fc38dad8a764100"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_7_3.jpg",
+    "bytes": 134053,
+    "sha256": "12ab9c2be1088bfd99354bf506632da618dd0e02026f0b575eecf892fbc3f7b3"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/hostile_sources/strong-knight_Image_8.jpg",
+    "bytes": 75008,
+    "sha256": "425a55d5c845d19558c32c4d30380fdf2c04399639404052f55acffa0c72e619"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/crystal-deer.glb",
+    "bytes": 954756,
+    "sha256": "1a5d046f3cd010bf783701b1022813d24f7d3270da66b5fa8cd278f24126abe8"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/crystal-deer_Image_0.jpg",
+    "bytes": 59132,
+    "sha256": "adcfabf23d65358bf24f46e94a3220cf4f062d9ad1f9a598b2b03ea946a6f520"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/crystal-deer_Image_1.jpg",
+    "bytes": 52771,
+    "sha256": "4863a332f589f4164bf6da9179b29e7e3509bdec95b1f96aeeaac9c2764479d6"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/crystal-deer_Image_2.png",
+    "bytes": 170810,
+    "sha256": "d85b298aa9dd115b4f20cdfab1d555d09c65914e9e94dbf695f3712e0bdbc357"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/crystal-deer_Image_3.jpg",
+    "bytes": 31473,
+    "sha256": "2004bcc97c68dc437ab11c47fd6137c6f9f1eb89813c04d9c2cb9b85886777cb"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/crystal-deer_Image_4.jpg",
+    "bytes": 48005,
+    "sha256": "36b15e1365d1622b8c6d26b509074c19e40f9353e59c6245be653c6e5167f2d5"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/icy-dragon.glb",
+    "bytes": 1722000,
+    "sha256": "25ed060629d7f06c66a15b00152a633d2533649e7d534322602d40e91a6d0ab5"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/icy-dragon_Image_0.jpg",
+    "bytes": 43619,
+    "sha256": "5536b6f7409974d8d02760ea558fc9152376e79a6edc0bca92ba41068238b9a8"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/icy-dragon_Image_1.jpg",
+    "bytes": 152312,
+    "sha256": "d946d032e94822d20deb83d11f54894ffcf28628e545bc920b690a58da5028fa"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/icy-dragon_Image_2.jpg",
+    "bytes": 55970,
+    "sha256": "d944fe9bf752ef82c59267489de5e732318e844ccf3f3deb704bad732bb00b0b"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/icy-dragon_Image_3.jpg",
+    "bytes": 113811,
+    "sha256": "61cfdf6596f5b566e4aea5e483965b36dcd06bd372fae7123a411c2f852a05cb"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/icy-dragon_Image_4.jpg",
+    "bytes": 144342,
+    "sha256": "072c4ce329f0fd57b2b5299c15afc50cedac80090b918e3fa9c13d8b47504852"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/icy-dragon_Image_5.jpg",
+    "bytes": 49017,
+    "sha256": "4e498f43b553934422c8825c7e9d88698ef5a549daf73b4cb0a3d8b045b286c3"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/icy-dragon_Image_6.jpg",
+    "bytes": 97818,
+    "sha256": "985f9f488e1cb8cf831f04f0c1ca613409ac83d4a9517128e1013af3d3681694"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/LICENSE.txt",
+    "bytes": 1295,
+    "sha256": "4352948775bd6dee50e5fc34e7044b44651f9ecc99a4bbda5599524ddd0cc45d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/manifest.json",
+    "bytes": 1418,
+    "sha256": "bb63297c45f62bfec9f12ebcb240fdffcfd7740f393c5bb6658cc01c8b580dd1"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/mythic_fauna/README.md",
+    "bytes": 1621,
+    "sha256": "80a0350e9f74c30193cabe2c52c0f7719983d6f60449e0e78934556e17173eb9"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/cobblestone_floor_02/Diffuse.jpg",
+    "bytes": 915386,
+    "sha256": "1a2d1f21ccff0f70cd181c28f529ce040c123b5c605cc0069f26450040bd6b40"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/cobblestone_floor_02/nor_gl.jpg",
+    "bytes": 646806,
+    "sha256": "3849d3d07b9de564a3b50c0878ce752502fd071f9b63cb6b2acea5d16de72606"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/cobblestone_floor_02/Rough.jpg",
+    "bytes": 662455,
+    "sha256": "a696caf242e449531712fc31e7f402eaf1a89e2c4044ec6c4d3ea5bf60dd2bc6"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/cobblestone_floor_02/source-files.json",
+    "bytes": 85954,
+    "sha256": "27a952a31d69d308304cc5c8643a43a324f75c104a785b4938d477efebd7dd11"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/dark_wooden_planks/Diffuse.jpg",
+    "bytes": 2884395,
+    "sha256": "527fa684c78d0a3b4fbfa87b9e2b48691215fcac8af0bf79fc6e01cefb4c4647"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/dark_wooden_planks/nor_gl.jpg",
+    "bytes": 2930852,
+    "sha256": "047941a8e483d941abf6562270abd2c91d30d65e0a339fca0b1d3df125e92154"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/dark_wooden_planks/Rough.jpg",
+    "bytes": 2737535,
+    "sha256": "fb11f1eee7a982da0272d38695097a1f4c2047bd21eae71361fdcb6d7723c0ed"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/dark_wooden_planks/source-files.json",
+    "bytes": 75166,
+    "sha256": "a0f416d930d1d53871da28b1ffa232e5ba0f5656366b77e7890d29db2988251c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/dead_tree_trunk/dead_tree_trunk.bin",
+    "bytes": 2293788,
+    "sha256": "c1ac6b3195246e8647a28eee2fbfdd4712a045c7cf2dcb4f5abcc2d40a446ca6"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/dead_tree_trunk/dead_tree_trunk.gltf",
+    "bytes": 2812,
+    "sha256": "8baaf1ff66ba1f79acdceed0dc3797a882990a3abb10b18abe56762f34c26e39"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/dead_tree_trunk/textures/dead_tree_trunk_arm_1k.jpg",
+    "bytes": 724384,
+    "sha256": "0e0f7d64ac4ee3a7e7861a48f4bbd1ec2c026facd8f48b756f6b5d4557af3fd3"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/dead_tree_trunk/textures/dead_tree_trunk_diff_1k.jpg",
+    "bytes": 713480,
+    "sha256": "bc31d7d23db90d90cfb568c583914eeec11b29716b79096818b706a9e3e0216c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/dead_tree_trunk/textures/dead_tree_trunk_nor_gl_1k.jpg",
+    "bytes": 1053075,
+    "sha256": "b7c393204c93f0c67535ff3b5d723b26598f9dbb2b5110b74249ab88189f026f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/fern_02/fern_02.bin",
+    "bytes": 176176,
+    "sha256": "fe1abb762bcbbc7ad9e86925c8080437a62add257d9280e9142fdc85c226e64c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/fern_02/fern_02.gltf",
+    "bytes": 6899,
+    "sha256": "33974295ee19670af4877705fc7d91f33f42d6302f0d44a625e072271223031f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/fern_02/textures/fern_02_arm_1k.jpg",
+    "bytes": 280359,
+    "sha256": "ebfb5d76ce9cbdaec20bcd22dce9b755f0b1b8650ef29ca13555e3e6961025d7"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/fern_02/textures/fern_02_diff_1k.jpg",
+    "bytes": 315705,
+    "sha256": "a828a6e7b4c01c826911e2eac4b3afc7457dab7b3b392a31c681ed88b7d50029"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/fern_02/textures/fern_02_nor_gl_1k.jpg",
+    "bytes": 367222,
+    "sha256": "45bce132c6e96a0864bc89ab5da51361ab3f4afa83a6669ae499ab5ca811f621"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/forest_ground_04/Diffuse.jpg",
+    "bytes": 4529321,
+    "sha256": "24b8aaf4c8547305d80b0e029ec365219ab1b90748d4ca5651bdc9e75bfde5e6"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/forest_ground_04/nor_gl.jpg",
+    "bytes": 5288849,
+    "sha256": "b37ac799ed410976541e0011c246fca254e74eaa3f096ae7a7d74178db5a6d9b"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/forest_ground_04/Rough.jpg",
+    "bytes": 2509805,
+    "sha256": "24194662948424c323c75e0918461ad9d38bc0a275022000144f248b3efb4119"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/forest_ground_04/source-files.json",
+    "bytes": 36258,
+    "sha256": "bf65d50abdb778884877de3091fb6f431e5ed31ca3e0ce6f75bb29e3e785933c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/grey_plaster_02/Diffuse.jpg",
+    "bytes": 3305310,
+    "sha256": "2094a17962b352299d8e6b01848acf2496deed0c283f96fdb373128334356d8e"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/grey_plaster_02/nor_gl.jpg",
+    "bytes": 2099645,
+    "sha256": "cab8e86d685fd306868b838700ffb02e876ca8d322e6dd7deb5a93e3cdad366c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/grey_plaster_02/Rough.jpg",
+    "bytes": 2663781,
+    "sha256": "44692abcfa4cb15d18322dc3369751afc733fa8a056200acb7d6b57f0b97cc3b"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/grey_plaster_02/source-files.json",
+    "bytes": 83095,
+    "sha256": "7767228c7d05e721dcfc39ad937eba52dab103c0ecfb5446eb1be67ce3f877e4"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/grey_roof_tiles/Diffuse.jpg",
+    "bytes": 2039152,
+    "sha256": "f0ccddb07c8b21cd7825fd2c4cdf04cff23ec9fc52a92578122036ccf22a8a90"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/grey_roof_tiles/nor_gl.jpg",
+    "bytes": 1504796,
+    "sha256": "e91134466a2aec440eae42ccef20f7055d87bf8caac208555eb1f069578eb29a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/grey_roof_tiles/Rough.jpg",
+    "bytes": 1009346,
+    "sha256": "404d04cfdb77f2537d5cf4f9249bd7c8d265a303c73b7bf362af1f109c88299c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/grey_roof_tiles/source-files.json",
+    "bytes": 83086,
+    "sha256": "94b8b9bcf9a1ae1d888abd7ef9706e6a43eb296e00c63ad873a8d39cb1b01ec4"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/large_castle_door/large_castle_door.bin",
+    "bytes": 422436,
+    "sha256": "7db2eb9d2b81207a30c849ba5de0f2c25085add88e437bc69764ce792758ff76"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/large_castle_door/large_castle_door.gltf",
+    "bytes": 6111,
+    "sha256": "c9622dd67a5f58c821eee2817c719c04c0eb595d01b121da503a3afdf9b5b4d9"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/large_castle_door/textures/large_castle_door_arm_2k.jpg",
+    "bytes": 3723833,
+    "sha256": "038a66752c095bf4bf5f4b24849cf4bd1ae58ac4718edda37b7ee1fbfd1a33bc"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/large_castle_door/textures/large_castle_door_diff_2k.jpg",
+    "bytes": 3105682,
+    "sha256": "ca2d7cc8071fd7c57ddbd4b71892bbfa775e0d6cc9b65e70f7eda0398f707302"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/large_castle_door/textures/large_castle_door_nor_gl_2k.jpg",
+    "bytes": 4281351,
+    "sha256": "333e55f9fccdf8778c8aa94d1d8d296ce8bce50c8055e6f385545dac1e622fbd"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/manifest.json",
+    "bytes": 63727,
+    "sha256": "073153f5997e5af83edda755afd1741c7129d0177164fd091f2e404f34216f6a"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/metal_plate/Diffuse.jpg",
+    "bytes": 2670774,
+    "sha256": "864c9a653acd1f5034c9bbe7f955b18cc9687a81bbdfa805e7a2319939676910"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/metal_plate/Metal.jpg",
+    "bytes": 3399238,
+    "sha256": "cc24a1f9aeaae8ef82266b86b6a875391312be113fbab03f6cb0697e5be00fdd"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/metal_plate/nor_gl.jpg",
+    "bytes": 2516654,
+    "sha256": "146f8c00874a584bcc4a184643e72f160da2a7568d469198e02b26c9ff93cf43"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/metal_plate/Rough.jpg",
+    "bytes": 3045988,
+    "sha256": "3cdc139df4ec5b304dd986278c1fb026c67c42e6623f0ee5caa7f373d51c7bef"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/metal_plate/source-files.json",
+    "bytes": 44732,
+    "sha256": "00b35d73d6d9daec8aeb156fe07c81e361d760c5921f6a89809c1f98d6cd4efe"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/modular_fort_01/modular_fort_01.bin",
+    "bytes": 1288144,
+    "sha256": "de86e71af4cd5b37006914a8e7ae7de59b245b73364317f1886285a6aa797f57"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/modular_fort_01/modular_fort_01.gltf",
+    "bytes": 71433,
+    "sha256": "7278a56aaa624ce71974ad2374bb7b1a5ac83c9296ebc5acc5893862a69cf59d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/modular_fort_01/textures/modular_fort_01_plaster_arm_2k.jpg",
+    "bytes": 3449190,
+    "sha256": "5f5b44b6e5122e9430378f07ef9369ddc1186e45a7709992e431e256741ca7ca"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/modular_fort_01/textures/modular_fort_01_plaster_diff_2k.jpg",
+    "bytes": 4140924,
+    "sha256": "39546b3b0e4a8a32141e2559afab1c5d61ac1b378ab2e3c94887eaa8fb7f1e7e"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/modular_fort_01/textures/modular_fort_01_plaster_nor_gl_2k.jpg",
+    "bytes": 5682493,
+    "sha256": "3b79bcbd0e294284ab933e1c2da7519443bdfb9db4441cf3c231b9c6a8265104"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/modular_fort_01/textures/modular_fort_01_trim_arm_2k.jpg",
+    "bytes": 3141428,
+    "sha256": "eca67b74bfc9ff3402380e8e88d21ce574b6aa28fdc245689175fe13f3920878"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/modular_fort_01/textures/modular_fort_01_trim_diff_2k.jpg",
+    "bytes": 3625475,
+    "sha256": "e582ffdad510dd23d5b8b7a5639286b81e149ad7f10502224eba0cf1391ca8ec"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/modular_fort_01/textures/modular_fort_01_trim_nor_gl_2k.jpg",
+    "bytes": 4416453,
+    "sha256": "61feff041ca671f9dfe9a38c0cf803847f0353521bd97a66b057a029959f604c"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/modular_fort_01/textures/modular_fort_01_wall_arm_2k.jpg",
+    "bytes": 3485850,
+    "sha256": "41b149fc7f1668a4e98d2bcd508c4fff445b64dc6a2681a7e61b5bb6fd9239de"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/modular_fort_01/textures/modular_fort_01_wall_diff_2k.jpg",
+    "bytes": 3768092,
+    "sha256": "de442faf434b186b2008d55dbeaee9c5cb2c46c472e40e58c5e4907854462041"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/modular_fort_01/textures/modular_fort_01_wall_nor_gl_2k.jpg",
+    "bytes": 4606374,
+    "sha256": "86fbbf2cbac7dd3975860ed6a7805d6fcaddaa214de5336821e36f67b36bec0f"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/pine_sapling_small/pine_sapling_small.bin",
+    "bytes": 17771796,
+    "sha256": "b4d2fc73d53f1d8717eb5ef9a2c66957d2a53152787e543aace88fcd6fca94ef"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/pine_sapling_small/pine_sapling_small.gltf",
+    "bytes": 11442,
+    "sha256": "f358c01926861dd082f32dba60f7c9fba232b585a985cf38c0d2229eecf4bc48"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/pine_sapling_small/textures/pine_sapling_small_bark_arm_1k.jpg",
+    "bytes": 801278,
+    "sha256": "336a4680cd571b6076b67afee2310b290b8900d9d126eb39ec1ae92e95be2ea9"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/pine_sapling_small/textures/pine_sapling_small_bark_diff_1k.jpg",
+    "bytes": 725265,
+    "sha256": "5c76836b01c3536fa0e24207b67bf4f3315b53ebe2b4ecc6f08dfcf3f8d74929"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/pine_sapling_small/textures/pine_sapling_small_bark_nor_gl_1k.jpg",
+    "bytes": 1016849,
+    "sha256": "05c46455531781b6cf18cae0648cf627f60ee942adaa8bcbfd1592fc2506a9e0"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/pine_sapling_small/textures/pine_sapling_small_twig_arm_1k.jpg",
+    "bytes": 394056,
+    "sha256": "2eb0aa44124b5a4ae9401e00b23b3c916f4c3f421616ce1bb932f248fc061288"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/pine_sapling_small/textures/pine_sapling_small_twig_diff_1k.jpg",
+    "bytes": 477942,
+    "sha256": "54af7d6fb664b5a38bcb118b557bc50e01e86ec54d6f1a573c3e32c649a53362"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/pine_sapling_small/textures/pine_sapling_small_twig_nor_gl_1k.jpg",
+    "bytes": 692711,
+    "sha256": "76af87821d7ff00e25768d5d97a449394fe64a21ae55d099da7f5ed46d9098c8"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/README.md",
+    "bytes": 2286,
+    "sha256": "1f25d7fafb93951874be7c5e8d80485e3f6e2ddb955cd9a17be649fad78f0d13"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/rock_face_03/Diffuse.jpg",
+    "bytes": 3814362,
+    "sha256": "644ee79df7ffbf5f6afc330b64dd3f33794bab8820915fe61ffe0c88ecfd7ece"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/rock_face_03/LICENSE.txt",
+    "bytes": 357,
+    "sha256": "4a9be36add228b4519b00b14de9db18554ddf58bec411dd8d541b0936e639140"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/rock_face_03/nor_gl.jpg",
+    "bytes": 4473242,
+    "sha256": "a498cef4ba6191f6959b6d03fb835263c77271948264a289af24497ab7111dec"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/rock_face_03/Rough.jpg",
+    "bytes": 2601552,
+    "sha256": "9ca3e9e196685f702328f24d66f039b72f5330fc35cf2a2c265cfa50a7916301"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/rock_face_03/source-files.json",
+    "bytes": 43716,
+    "sha256": "4c21fbe8a911a3c407a033a5e00539945a68f79aa71990570770ef8e61499511"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/rock_moss_set_01/rock_moss_set_01.bin",
+    "bytes": 1466380,
+    "sha256": "de8360e6175879aaf02c171911069cf5f1852547f9ca7f10e440085dbcc3315e"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/rock_moss_set_01/rock_moss_set_01.gltf",
+    "bytes": 9987,
+    "sha256": "794beaf2f4dc0ab155114f286049dc912a8f3287520965ca8bf6bb0d821ae3e2"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/rock_moss_set_01/textures/rock_moss_set_01_diff_2k.jpg",
+    "bytes": 649415,
+    "sha256": "bdee6da8baba67bd7e85e414e669cd46aab9afaf755114fb5163f0e68775c3d6"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/rock_moss_set_01/textures/rock_moss_set_01_nor_gl_2k.jpg",
+    "bytes": 840957,
+    "sha256": "f11c238a203eebd5e82da3a50468040a78d25fd2e46783c4ad79b1022b144c0d"
+  },
+  {
+    "file": "04-Godot-Sources/assets/vendor/polyhaven/rock_moss_set_01/textures/rock_moss_set_01_rough_2k.jpg",
+    "bytes": 293827,
+    "sha256": "a05a8bd9f2563cf55b738484b894671df7b2391aa02d66451366c5ad38077cd2"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/action_icons.gd",
+    "bytes": 1557,
+    "sha256": "5f3d0d6794699097f3335f279e5cb2c964336c861fae8109a0dd4149add00670"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/ambient_creature.gd",
+    "bytes": 7118,
+    "sha256": "298f6cbacc6ee1f359305d574996c18a18fb1592042e6179dc6ed69aa0e57d3a"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/ambient_entities.gd",
+    "bytes": 3808,
+    "sha256": "2804ffda02080b1a93ea87e5dbc49fe62c4b0e4c857e1056501d663c901c9788"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/art_kit.gd",
+    "bytes": 5498,
+    "sha256": "84644826c4fbec3a80dd755e484c53f6da2e5b74c3c2fccddd5ad876b0900994"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/blackwood_art.gd",
+    "bytes": 5453,
+    "sha256": "78466819a0d1bf7c6e70faab907793ea6b979750335dca97028ac17b05dceafd"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/burial_chamber.gd",
+    "bytes": 2656,
+    "sha256": "2fe2b642701e618ccec046cce543fc8f6ab8aea0fd01ca03b9fc44c2223307af"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/button_feedback.gd",
+    "bytes": 740,
+    "sha256": "e16bb7ed4f4e4b3f0325bc31b1e287ffa5e42aaac96a9f70b81979e31c24f9d9"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/chapter_arenas.gd",
+    "bytes": 8149,
+    "sha256": "5a09c32f155a2d2675d65ad34a3c2ca1f7201c8667aa5ba621f410434deec664"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/chapter_detail_kit.gd",
+    "bytes": 6800,
+    "sha256": "c66e3923d8e2743b14d81fd1cf3691cea815eb94d81578119c67a731f8e2aed3"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/chapter_landscape.gd",
+    "bytes": 10481,
+    "sha256": "c0c934c40b633ec5496362d3112a6f5c08c897fee55e228fb010abc52eafbb0d"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/citadel_art.gd",
+    "bytes": 2715,
+    "sha256": "85fc95e3b74134967c0e8db2a24e8799490500c82ef5bb5727e2acff642b0f35"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/commander_hall.gd",
+    "bytes": 2181,
+    "sha256": "fec8bdb36ea1286518e00b4fd1cb8fe389311d55c254b6ad25f317c31dfb1884"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/concept_landmarks.gd",
+    "bytes": 11352,
+    "sha256": "b7588bedcfd25265e641368ebd86f06ad8137395a16af601a799dcc974fa8217"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/curse_palette.gd",
+    "bytes": 245,
+    "sha256": "50b63108c346e6df8ddc2e4d5f698927e1d51ed49f8f65f893ecfd87530bf8e4"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/curse_presence.gd",
+    "bytes": 3787,
+    "sha256": "11df3951a30971cb9a55a2e0bd2df6c3d6a426a9848e97866cae39823acecc17"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/cursed_stone_style.gd",
+    "bytes": 5522,
+    "sha256": "992e94362b2d048f5cb36675a924d0a7b8eb4e701e470f59ec23bbba14f777d7"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/distant_forests.gd",
+    "bytes": 2970,
+    "sha256": "448f7f2395e025e8be114d411913b5da48d4f77ca2730d9e4ca6bef245abdaec"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/film_script.gd",
+    "bytes": 774,
+    "sha256": "446a59afb82b2e0a71b51a7d2fcca491e2455cc5189c5aa2f7b849080c34c9b7"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/folk_models.gd",
+    "bytes": 8902,
+    "sha256": "660e2e41611f61ffefb8a33cf91e9bbdfcbf0ea1e9da299952a92946e0b156a9"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/forest_horizon.gd",
+    "bytes": 6943,
+    "sha256": "d253cbaccca0c931c0749650154311f5fbdf78bb54be116c6f52841c7dd7c01e"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/forge_hall.gd",
+    "bytes": 2862,
+    "sha256": "0bba292ae711b8b5f638089b1ff636b52d32d7edab68765b971adbc2dfc0fb21"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/friendly_models.gd",
+    "bytes": 6415,
+    "sha256": "3b0ab1b93999001fe3de4ad8aad098bb1db6e3b1c73406e2f5c3e0715052797f"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/frontend_atmosphere.gd",
+    "bytes": 886,
+    "sha256": "2db98d136631ed0eebc1d0533c243f37a3d991ecb5e3001f6f63c572a45d1c2a"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/graphics_profile.gd",
+    "bytes": 3699,
+    "sha256": "b8afbc775b902e63054d53184667508a58ae2a58352d3189724fd2e4c1863de3"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/hostile_grip.gd",
+    "bytes": 3106,
+    "sha256": "527ea0eec08d4e341cc5a4cf2c97252e47698212f8f263da3ccbd8a59f0390d8"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/hostile_health.gd",
+    "bytes": 1780,
+    "sha256": "13dbceb6ea79378bc5ea09ffd13f3cceda06291bbe4738e0bbcb1beddbf5a22a"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/hostile_models.gd",
+    "bytes": 20955,
+    "sha256": "ae031243088c1bcb3fcc1978bc06b9578549e9b0ab327b71f76d9d2acbea18c0"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/hostile_pose.gd",
+    "bytes": 1474,
+    "sha256": "2c7b802bf5ac0ba6c5527cb0336d48e623251267748180e184df1a5700f95d71"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/hostile_regalia.gd",
+    "bytes": 12464,
+    "sha256": "e46e290ef8d45fccc4ea424cf1141902c69e4199d7d404e8216f4ea317a61566"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/hostile_source_parts.gd",
+    "bytes": 5401,
+    "sha256": "bbf7e6190fb4247732e9ece718ef3ab3714229df53229e9c656549fb49279bbb"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/kings_road.gd",
+    "bytes": 6700,
+    "sha256": "bd40753be05b9fe8213b4b9e0966ba156009eb5cfabb49643dc27667db1f5a5d"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/knight_locomotion.gd",
+    "bytes": 6992,
+    "sha256": "8e4ecd56cd7c23de3864a60211e2c7524fc5840ad87728feed3da032ce1d376a"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/knight_model.gd",
+    "bytes": 3584,
+    "sha256": "be933b0901cbb990c67aa40e859ed4946ed322f1d884cd3ef9c1444f1a7f2415"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/knight_upper_body.gd",
+    "bytes": 5799,
+    "sha256": "756ecddd2b20ede58affc30efa34839e4abca3dec34af5363f48fc233ef5d6c5"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/late_world_architecture.gd",
+    "bytes": 9350,
+    "sha256": "39078f123339a3e822e4b37a7456da403b02d55d07fb1af555168bba69cf8a1a"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/menu_living_scene.gd",
+    "bytes": 5389,
+    "sha256": "c27fcb26e71d2990fbf961fdc1bb6922aab23907d9ac833123d5fead295ea7eb"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/menu_moonlight.gd",
+    "bytes": 2209,
+    "sha256": "f884dbe698f4e7c122da1c8fd59fe74d912546d6841f61ea585e7c94b85f1129"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/meshy_models.gd",
+    "bytes": 3665,
+    "sha256": "e1651afad4af7b00246327f2838e125b95a7252d6f8acfdbcaae1981d86d49c1"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/mobile_controls.gd",
+    "bytes": 9337,
+    "sha256": "334306bda9f12790d526baf9f5da6a0938e41fe266a970a295b724fec0bb5011"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/mobile_display.gd",
+    "bytes": 922,
+    "sha256": "32032411a0feab692d96caf617116ca19cd48edd046adbee4625062e988196f1"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/mythic_fauna.gd",
+    "bytes": 4424,
+    "sha256": "dfcd7db085cfe6d1d9d8f6dc8c2c3fb31bf1c12587a952a902d555a6a4c8eaba"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/navigation_ornament.gd",
+    "bytes": 1035,
+    "sha256": "50309cae501c81c8aed71fc500b8f89f76eac80932ba7e873bb8505e90316526"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/opening_world_story.gd",
+    "bytes": 7380,
+    "sha256": "36a58000a8b7333620f5a1271f8c9889121fd78116a9fd1dc0a3d6b0dded1dc6"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/order_art.gd",
+    "bytes": 6623,
+    "sha256": "20c5501bd5c280916bcf36270379e49c5166d2376d589a597a5adb73f3388c6f"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/peaks_art.gd",
+    "bytes": 4245,
+    "sha256": "31c9ec5d5ba7283b3a27dc049d743c5bda272828c401e2062ca9b5288f15a5ca"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/prison_cells.gd",
+    "bytes": 3849,
+    "sha256": "862bd671d746db40751950d21a33345d9e54ccc0c421fe19dbbc68a9e82c8284"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/quest_props.gd",
+    "bytes": 10233,
+    "sha256": "bb335b76a792f1e9b0576706e93420d18f82c0a0b9f4afdd400220a534a05e0c"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/real_assets.gd",
+    "bytes": 6282,
+    "sha256": "211a5a11cbab9d8bd9aa47d2317a571773b282bc97b600daf84bd10aaba2980f"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/region_look.gd",
+    "bytes": 1179,
+    "sha256": "39f082918bbf103c50794ab166bef77e88d4e4fdfd46d39da595eddd18d89106"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/region_portals.gd",
+    "bytes": 3490,
+    "sha256": "312ba6af9374110531243185fee00d8990241f7155591e9b9b3ca5ce640561d6"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/ritual_hall.gd",
+    "bytes": 1666,
+    "sha256": "8766b82c3bb60c6cd8ef79117d17a39ae7738dce3b8a8cc2527b0a19c78f5342"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/ruin_dressing.gd",
+    "bytes": 6479,
+    "sha256": "42001308812e0519ab21d2f918f694d534b990e6ddc5be1348b30782abe656af"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/scanned_knight.gd",
+    "bytes": 4523,
+    "sha256": "66571b59b8de0501a0f4b9545524304b15ac5b10a13e31ab072e43b88d9a1cc3"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/seal_crystal.gd",
+    "bytes": 1088,
+    "sha256": "63d79ab143a8800eda47f08994b1218997e91d42be9f155a3d7203147360f9ad"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/stone_vault.gd",
+    "bytes": 1329,
+    "sha256": "a8ea5cb0157d49fffa879a326787dfba97f11633975cf072cf69aba6a0ed8bf1"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/ui_style.gd",
+    "bytes": 5541,
+    "sha256": "beefbac534e1fc4c56b9cfa9af0dd2eb72366ef9b8d533406b71c86e29e3ce61"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/village_kit.gd",
+    "bytes": 12591,
+    "sha256": "bda2ce48f5db3bcbd827a78e26fa4d005d546aeaea04a3a72600310ca0b71592"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/village_landscape.gd",
+    "bytes": 2501,
+    "sha256": "7b60412585697c8c427503693b82c8696ae2f2563b81fb2b4dde471f3def373a"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/village_life.gd",
+    "bytes": 6128,
+    "sha256": "d87c19493acf1e646d667640cce483f34d3a967533f03b408c60304646b43b7f"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/village_mausoleum.gd",
+    "bytes": 4468,
+    "sha256": "3af8bbc23608916618c560f518084ff099d8101076fc72e2d134543e4d74b3de"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/waygate.gd",
+    "bytes": 6728,
+    "sha256": "dbbdb89add3fd6aba7810101ec25697bcc78f1b1ff061d8ec0fcdcfab1ca77c6"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/wizard_defeat_cinematic.gd",
+    "bytes": 8485,
+    "sha256": "0e68edf5d18120bb2ef6333184f49364c20dd18f81660ad644bf9532f9072335"
+  },
+  {
+    "file": "04-Godot-Sources/game/presentation/wizard_defeat_pose.gd",
+    "bytes": 2724,
+    "sha256": "6fea93d3342a18984e5370c2ba8aacd6786f2af3aa6fc0f6d4a1e0f69a972edc"
+  },
+  {
+    "file": "04-Godot-Sources/game/world/regions/blackwood_layout.gd",
+    "bytes": 3262,
+    "sha256": "4ac0b08de84ebbb90073095884ff38d9867288734c09feb430ec977324273f64"
+  },
+  {
+    "file": "04-Godot-Sources/game/world/regions/citadel_layout.gd",
+    "bytes": 2568,
+    "sha256": "5de8c14a8e12e2bb2a60411ac06e43c41fd6e46cacb6bea35399f7dd48b0b5f0"
+  },
+  {
+    "file": "04-Godot-Sources/game/world/regions/elevation.gd",
+    "bytes": 7191,
+    "sha256": "5c89c60d07c1820256ba7e35609b753adada7ee6eab57e60f885376411b2bf7f"
+  },
+  {
+    "file": "04-Godot-Sources/game/world/regions/forest_approach.gd",
+    "bytes": 10773,
+    "sha256": "ffc307715c94c9170530ede0644964837ff0c70f86b61da3baa862a42870c74b"
+  },
+  {
+    "file": "04-Godot-Sources/game/world/regions/graybox_region.gd",
+    "bytes": 25259,
+    "sha256": "69639aa92de3687a8ea7eda8e27ff95df88316da714d3dc235ef547cb7feda27"
+  },
+  {
+    "file": "04-Godot-Sources/game/world/regions/order_layout.gd",
+    "bytes": 3677,
+    "sha256": "d016bbd405f746b7a17e4028ccfbc500e720c67f1b3964238408a70eb6596a18"
+  },
+  {
+    "file": "04-Godot-Sources/game/world/regions/peaks_layout.gd",
+    "bytes": 4103,
+    "sha256": "3c9cd9fbfd6fbf2f19725951686651b65c36e773979222de669c83f22e4b66b9"
+  },
+  {
+    "file": "ASSET_CREDITS.txt",
+    "bytes": 12186,
+    "sha256": "0ed7ae91c3bac2eeb58e24f6dc419a485c68b5694a50248fa787bb7fc093c1c0"
+  },
+  {
+    "file": "models.json",
+    "bytes": 13873,
+    "sha256": "63d8e7466c479b98e9032e2a8a7bcfa045b03b35f7429892f44728da2bd63c60"
+  },
+  {
+    "file": "README.txt",
+    "bytes": 2943,
+    "sha256": "738d82c0bce92d26b111b37e9d48e8233632e9f09da87b008f614f58945a9d9c"
+  }
+]

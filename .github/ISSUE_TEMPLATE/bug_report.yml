@@ -1,0 +1,29 @@
+name: Bug report
+description: Report a reproducible problem in the game.
+title: "[Bug] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Game version and device
+      placeholder: "v0.5.66 / Windows laptop or Nothing Phone 3a"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include the region, quest or encounter and exact input.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots, logs and limitations
+      description: Remove personal details, account tokens and save data before attaching files.

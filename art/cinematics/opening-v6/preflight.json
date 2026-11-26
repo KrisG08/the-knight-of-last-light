@@ -1,0 +1,10 @@
+{
+  "timeline_valid": true,
+  "duration_seconds": 80,
+  "localized_narrative_units": 40,
+  "keyframes_present": 8,
+  "video_clips_present": 0,
+  "narration_clips_verified": 40,
+  "ready_for_runtime_integration": false,
+  "note": "Draft timing only; actual video, voice duration and motion review are still required."
+}

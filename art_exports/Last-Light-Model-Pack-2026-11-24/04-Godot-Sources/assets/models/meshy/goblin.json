@@ -1,0 +1,48 @@
+{
+	"height": 1.45,
+	"paint": "Reference-projected UVs with independent rear paint, roughness and view-confidence masks",
+	"parts": {
+		"body": {
+			"mesh": "res://assets/models/meshy/painted/goblin-body.res",
+			"origin": [
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		"left_arm": {
+			"mesh": "res://assets/models/meshy/painted/goblin-left_arm.res",
+			"origin": [
+				-0.261000007390976,
+				1.11650002002716,
+				0.0
+			]
+		},
+		"left_leg": {
+			"mesh": "res://assets/models/meshy/painted/goblin-left_leg.res",
+			"origin": [
+				-0.129775002598763,
+				0.687300026416779,
+				0.0
+			]
+		},
+		"right_arm": {
+			"mesh": "res://assets/models/meshy/painted/goblin-right_arm.res",
+			"origin": [
+				0.261000007390976,
+				1.11650002002716,
+				0.0
+			]
+		},
+		"right_leg": {
+			"mesh": "res://assets/models/meshy/painted/goblin-right_leg.res",
+			"origin": [
+				0.129775002598763,
+				0.687300026416779,
+				0.0
+			]
+		}
+	},
+	"source_triangles": 132708.0,
+	"triangles": 16588.0
+}

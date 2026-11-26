@@ -1,0 +1,26 @@
+[
+  {
+    "license": "CC-BY-4.0",
+    "id": "strong-knight",
+    "source": "https://sketchfab.com/3d-models/strong-knight-9d912e0fedb44b619fbd2a083bbf174f",
+    "bytes": 1686572,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "download": "https://afk.ai/rig/samples/strong-knight.glb",
+    "sha256": "7602476FCD522C9B66917B4DA912CDFD2454F7796ABF3ADC7799127A50941AC3",
+    "modifications": "Static limb partition; canonical orientation; material treatment; procedural pose and authored equipment",
+    "redistributor": "https://afk.ai/samples",
+    "author": "DJMaesen"
+  },
+  {
+    "license": "CC-BY-4.0",
+    "id": "red-fox",
+    "source": "https://sketchfab.com/3d-models/fox-4e37c303f8a241aaa2511bd9f3019273",
+    "bytes": 797192,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "download": "https://afk.ai/rig/samples/red-fox.glb",
+    "sha256": "672DC3E67AD7E9DD27320DF9F49FC4DBCC2F3F2C33123DB7305C196D238B86C4",
+    "modifications": "Static limb partition; canonical orientation; material treatment; procedural pose and authored equipment",
+    "redistributor": "https://afk.ai/samples",
+    "author": "Alexei Ostapenko"
+  }
+]

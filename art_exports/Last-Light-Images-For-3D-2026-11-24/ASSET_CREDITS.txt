@@ -1,0 +1,201 @@
+THE KNIGHT OF LAST LIGHT - EXTERNAL ASSET CREDITS
+
+Strong Knight - DJMaesen (CC BY 4.0)
+https://sketchfab.com/3d-models/strong-knight-9d912e0fedb44b619fbd2a083bbf174f
+Fox - Alexei Ostapenko (CC BY 4.0)
+https://sketchfab.com/3d-models/fox-4e37c303f8a241aaa2511bd9f3019273
+Static simplified copies provided by https://afk.ai/samples
+https://afk.ai/rig/samples/strong-knight.glb
+https://afk.ai/rig/samples/red-fox.glb
+https://creativecommons.org/licenses/by/4.0/
+Changes: canonical orientation, compacted limb/head partitions, material treatment,
+procedural pose, authored weapons/armor details and antlers. Knight base used for
+hostile armor; fox anatomy/fur base used for cursed canines. No skeleton/animation
+clips in these samples. Sources and hashes: assets/vendor/hostile_sources/manifest.json.
+No author endorsement implied. Robes, skulls, weapons, pose code and boss additions
+are project-authored; their wear materials reuse the credited Poly Haven maps.
+
+Medieval Knight - rigged for UE4/5, by Andy Woodhead
+https://sketchfab.com/3d-models/medieval-knight-rigged-for-ue45-1c7a83c0832a4ab28d9f1a46d282fcf9
+Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/
+Simplified static sample provided by https://afk.ai/samples
+Download source: https://afk.ai/rig/samples/crusader-knight.glb
+Modified in this game: orientation/scale, procedural limb pivots/rest pose, material
+response and combat weapon attachment. UVs and source normal maps retained.
+The static sample has no original rig/animation clips. No author endorsement implied.
+
+Powered by Poly Haven
+All following Poly Haven models/maps: CC0 1.0.
+https://polyhaven.com/license
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Modular Fort 01 - Rico Cilliers
+https://polyhaven.com/a/modular_fort_01
+Rock Moss Set 01 - Kless Gyzen
+https://polyhaven.com/a/rock_moss_set_01
+Dead Tree Trunk - Rob Tuytel
+https://polyhaven.com/a/dead_tree_trunk
+Large Castle Door - Tina
+https://polyhaven.com/a/large_castle_door
+Forest Ground 04 - Rob Tuytel, Rico Cilliers
+https://polyhaven.com/a/forest_ground_04
+Metal Plate - Rob Tuytel
+https://polyhaven.com/a/metal_plate
+Pine Sapling Small - Rob Tuytel (photography), Rico Cilliers (modeling)
+https://polyhaven.com/a/pine_sapling_small
+Hillside forest cluster images in assets/forest are locally rendered derivatives
+of these CC0 pine meshes. Reproduce with tools/bake_hillside_trees.gd.
+Fern 02 - Rob Tuytel (scanning), Rico Cilliers (modeling)
+https://polyhaven.com/a/fern_02
+Grey Plaster 02 - Rob Tuytel
+https://polyhaven.com/a/grey_plaster_02
+Grey Roof Tiles - Rob Tuytel
+https://polyhaven.com/a/grey_roof_tiles
+Dark Wooden Planks - Amal Kumar
+https://polyhaven.com/a/dark_wooden_planks
+Cobblestone Floor 02 - Rob Tuytel
+https://polyhaven.com/a/cobblestone_floor_02
+Village materials: selected 2K diffuse/OpenGL normal/roughness maps, CC0 1.0.
+Pine and fern 1K source models retained; scaled/placed in authored forest,
+Godot-generated LODs and mipmaps. Separate authored trunk collision proxies.
+Runtime pine canopy base uses the first imported simplified LOD; original source
+geometry is retained on disk, with UVs and materials preserved in the runtime copy.
+
+Opening panorama: generated using built-in Imagegen for this project.
+Prompt and provenance: assets/cinematics/README.md. Runtime pan/zoom and subtitles
+are project-authored. This is a 2D animated illustration, not captured 3D gameplay.
+The panorama is retained as a visual reference; the current opening instead plays
+opening_film.ogv, a project-rendered 3D movie using the credited game assets above.
+Film camera/character choreography, wizard robe and atmospheric audio are original
+project work. No external music or voice recordings are used in the film.
+Village timber-house geometry, street well, mill wheel, gate and torch meshes are
+project-authored; PBR material authors are credited above.
+
+Original game code, earlier procedural ruin/knight kit, lantern icon and synthesized
+cues are project-authored. The earlier limestone base color was generated with
+built-in imagegen; prompt/provenance remains in assets/materials/README.md.
+Cinzel by The Cinzel Project Authors and Source Sans 3 by Adobe are bundled
+unmodified under SIL Open Font License 1.1. Source: Google Fonts official repository,
+https://github.com/google/fonts/tree/main/ofl/cinzel and
+https://github.com/google/fonts/tree/main/ofl/sourcesans3 . Copyright and complete
+license texts: assets/fonts/Cinzel-OFL.txt and assets/fonts/SourceSans3-OFL.txt;
+also reproduced in the package's THIRD_PARTY_NOTICES.txt.
+Current title, button and gameplay text uses El Messiri by Mohamed Gaber and
+Jovanny Lemonad, unmodified under SIL OFL 1.1. One family covers Latin, Cyrillic
+and Arabic; body uses weight 500 and title uses 700. Source:
+https://github.com/google/fonts/tree/main/ofl/elmessiri . Complete license:
+assets/fonts/ElMessiri-OFL.txt, also included in THIRD_PARTY_NOTICES.txt.
+Source Sans remains a fallback for exceptional nonalphabetic symbols.
+Retained earlier button font: Barlow Semi Condensed Semibold by Jeremy Tribby, SIL OFL 1.1,
+unmodified from https://github.com/google/fonts/tree/main/ofl/barlowsemicondensed .
+Complete copyright/license: assets/fonts/Barlow-OFL.txt, included in the APK and
+THIRD_PARTY_NOTICES.txt. All gameplay action symbols and menu embers are original
+code-drawn artwork; no competing game's UI assets are included.
+Engine and bundled font/library notices are in GODOT_LICENSE.txt and
+THIRD_PARTY_NOTICES.txt. No paid packs or Unreal-only packages are included.
+
+Individual footfall samples are derived from Kenney's walking.ogg, CC0 1.0,
+from the official Starter-Kit-FPS repository at commit
+185fd2326d74a5cf858cffc616f87cf9696f9cc0:
+https://github.com/KenneyNL/Starter-Kit-FPS
+Modified by trimming, mono conversion, fades and peak normalization. Original
+source audio and asset/software license declarations retained under
+assets/vendor/kenney_fps_audio/. Weapon/impact variants are project-authored.
+Icy Dragon by chengzijieczj — Creative Commons Attribution 4.0 International.
+Original: https://sketchfab.com/3d-models/icy-dragon-2db9268227b943e6a41e88390f2875a6
+Public simplified sample: https://afk.ai/rig/samples/icy-dragon.glb
+
+Crystal deer by Coffeek — Creative Commons Attribution 4.0 International.
+Original: https://sketchfab.com/3d-models/crystal-deer-99ca940c1f574ea19b7d314f4a743fa7
+Public simplified sample: https://afk.ai/rig/samples/crystal-deer.glb
+
+License: https://creativecommons.org/licenses/by/4.0/
+Changes for Last Light: static mesh integration, placement, scale/orientation and
+subtle procedural idle scale. No original skeleton/animation is claimed and no
+author endorsement is implied. Source GLBs retained unchanged; hashes in manifest.
+
+Moon fox / kitsune derives from Fox by Alexei Ostapenko, CC BY 4.0:
+https://sketchfab.com/3d-models/fox-4e37c303f8a241aaa2511bd9f3019273
+Changes: existing anatomical partitions, pale fur shader and five posed tails.
+Source files/provenance retained in assets/vendor/hostile_sources/.
+
+
+0.5.8 adaptation update: the fox-derived scenery now uses larger single-tailed shadow-hound proportions and dark fur with pale brow markings. Dragon mesh copies use desaturated ash/brown scale materials retaining source textures/normals. Original sources and the author/license credits above are unchanged.
+
+Meshy generated geometry - Meshy 6 Lite / CC BY 4.0. https://www.meshy.ai/ . Original Last Light input images; modified geometry, materials and animation adapters. See assets/models/meshy/LICENSE.txt.
+
+Character surface references: original Last Light project character images,
+copied unchanged into assets/models/meshy/reference-colors and projected onto
+the modified Meshy geometry. Additional metal wear reuses Poly Haven metal_plate
+(CC0, already credited above). Offline UV/cavity authoring by this project.
+
+Rock Face 03 terrain textures - Poly Haven, CC0 1.0.
+https://polyhaven.com/a/rock_face_03
+Dario Barresi (photography), Rico Cilliers (processing). 2K diffuse/normal/roughness.
+
+Curse moon and storm panorama: original project art generated with built-in
+ImageGen, 2026-11-07. Prompts/source notes: docs/art/sky-generation.md.
+
+Original menu panorama - generated for this project with OpenAI image generation,
+2026-11-07. No existing-game image used as a reference. Source 1672 x 941.
+Noto Serif and Noto Naskh Arabic - The Noto Project Authors, SIL OFL 1.1.
+https://github.com/google/fonts/tree/main/ofl/notoserif
+https://github.com/google/fonts/tree/main/ofl/notonaskharabic
+Bundled OFL notices are included in THIRD_PARTY_NOTICES.txt.
+Gameplay translations bootstrapped with Google Translate; core UI manually edited.
+Narrative translation proofreading is pending.
+
+Layered wind menu - original project art generated with OpenAI image generation,
+2026-11-08. Landscape, transparent knight and foreground vegetation. No existing
+game image used as a reference. Provenance/prompts: docs/art/menu-wind-v2.md.
+Looping wind menu film - original project animation of these layers, 2026-11-08.
+Wind, cloud noise, compositing and encoding authored in this project.
+
+Cursed basalt UI - original project texture generated with OpenAI image generation,
+2026-11-08; chipped frames and violet fissures authored in the project.
+Provenance and exact generation prompt: docs/art/cursed-stone-ui-v1.md.
+
+Eclipse Castle expansion and late-world landmarks - original project geometry,
+2026-11-08, using the already credited Poly Haven stone and roof materials.
+
+Violet waygates - original project geometry, vortex/filament shaders and rune
+patterns, 2026-11-08. Existing credited stone/wood/iron materials reused.
+Owner reference image used as art direction only; not embedded in the game.
+
+Quest relics and scout satchel - original project geometry and leather shader,
+2026-11-08. Existing credited Poly Haven surface materials reused. Corrupted
+villager, Bound Shade and survivor adapt existing credited Oren/Maldrek Meshy
+models with isolated materials. Provenance: docs/art/quest-and-character-polish.md.
+Passive troll and dwarf adapt the already credited Meshy goblin/artisan meshes;
+original work-tool geometry. No new external model source.
+
+Expanded-castle opening film - original native scene rendering and choreography,
+2026-11-08, using existing credited models, castle materials and original score.
+Provenance: docs/art/opening-expanded-castle.md. No external footage.
+Original journey score (v0.5.58): five synthesized instrumental loops authored
+for Last Light with tools/render_score.py; no external samples or melodies.
+Stereo Ogg Vorbis delivery. Project original; no third-party attribution required.
+
+Lossless native part catalogs (v0.5.60) cache the existing Andy Woodhead,
+DJMaesen and Alexei Ostapenko mesh partitions. Original CC BY 4.0 attribution
+and source links above still apply. No source artwork or texture quality removed.
+
+Violet Midnight world concepts (v0.5.61) - eleven original project illustrations
+generated with built-in OpenAI ImageGen, 2026-11-21. Owner references inform
+direction only and are not embedded. Concepts are outside the runtime package.
+Gothic landmarks, cloth tents and violet sky treatment - original project geometry
+and shader work, reusing already credited surfaces and scanned tree models.
+Provenance and scope: docs/art/violet-midnight-worlds.md.
+
+Localized narrative speech (v0.5.62) - original authored project text synthesized
+with Microsoft Edge speech voices through the edge-tts development tool after
+explicit owner consent, 2026-11-21. Five languages, offline runtime clips.
+Voice IDs and transcripts: assets/audio/voice/manifest.json; provenance and scope:
+assets/audio/voice/CREDITS.txt and docs/adr/0019-bundled-localized-speech.md.
+No runtime synthesis, microphone, account-text upload or voice cloning.
+
+Opening v5 and 60 FPS menu loops (v0.5.62) - original native scene/layer rendering,
+current credited game geometry and registered original menu artwork. Opening
+score re-timed from the project's original synthesized score. No external footage.
+See docs/art/cinematics-and-voice-v062.md and the earlier menu-art provenance.

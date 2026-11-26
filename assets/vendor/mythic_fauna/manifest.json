@@ -1,0 +1,38 @@
+[
+  {
+    "id": "icy-dragon",
+    "name": "icy dragon",
+    "author": "chengzijieczj",
+    "originalUid": "2db9268227b943e6a41e88390f2875a6",
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "download": "https://afk.ai/rig/samples/icy-dragon.glb",
+    "bytes": 1722000,
+    "sha256": "25ED060629D7F06C66A15B00152A633D2533649E7D534322602D40E91A6D0AB5",
+    "verified": "2026-11-06"
+  },
+  {
+    "id": "crystal-deer",
+    "name": "Crystal deer",
+    "author": "Coffeek",
+    "originalUid": "99ca940c1f574ea19b7d314f4a743fa7",
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "download": "https://afk.ai/rig/samples/crystal-deer.glb",
+    "bytes": 954756,
+    "sha256": "1A5D046F3CD010BF783701B1022813D24F7D3270DA66B5FA8CD278F24126ABE8",
+    "verified": "2026-11-06"
+  }
+]

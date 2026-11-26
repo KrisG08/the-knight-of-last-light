@@ -1,0 +1,31 @@
+1
+00:00:00,400 --> 00:00:09,600
+Quatre sceaux antiques protégeaient autrefois le royaume. Au-dessus d'eux se dressait la citadelle, gardée par l'Ordre.
+
+2
+00:00:10,400 --> 00:00:19,600
+Maldrek s'en empara et lia les sceaux à un artefact. Il puisait dans la vie du royaume pour prolonger son règne.
+
+3
+00:00:20,400 --> 00:00:29,600
+Les récoltes se flétrirent. Les morts se relevèrent. Les survivants furent emmenés derrière des portes de fer.
+
+4
+00:00:30,400 --> 00:00:39,600
+Ton maître mena l'Ordre sur l'ancienne route forestière. Tu croyais encore pouvoir atteindre la citadelle.
+
+5
+00:00:40,400 --> 00:00:49,600
+Maldrek vous vit arriver. Il leva son bâton, et la malédiction déchira le ciel.
+
+6
+00:00:50,400 --> 00:00:59,600
+Les boucliers se brisèrent. Tes compagnons tombèrent. Tu tendis la main vers l'un d'eux, mais les ténèbres l'emportèrent.
+
+7
+00:01:00,400 --> 00:01:09,600
+Tu t'éveillas parmi des bannières brisées. Au-delà des arbres silencieux, une lanterne brûlait encore.
+
+8
+00:01:10,400 --> 00:01:19,600
+Une chapelle en ruine t'attend au-delà des arbres. Retrouve les autres survivants. Tu ne peux reconquérir ce royaume seul.

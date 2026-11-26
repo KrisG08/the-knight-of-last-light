@@ -1,0 +1,27 @@
+LOCALIZED NARRATIVE SPEECH
+
+Original dialogue and narrative text authored for The Knight of Last Light.
+Synthetic speech generated on 2026-11-21, following explicit owner consent,
+using Microsoft Edge's online speech service through edge-tts 7.3.1.
+Development client: https://github.com/rany2/edge-tts
+
+English: RyanNeural / SoniaNeural (en-GB).
+Bulgarian: BorislavNeural / KalinaNeural (bg-BG).
+Russian: SvetlanaNeural (ru-RU), used as a narrative reader for all speakers.
+French: HenriNeural / DeniseNeural (fr-FR).
+Arabic: ShakirNeural / SalmaNeural (ar-EG).
+
+These are synthesized reading voices, not actor recordings, voice clones or
+facial lip synchronization. No microphone, voice API, service token, Python
+client or runtime synthesis request is included in the game. All clips play
+offline. Account information and player saves were not sent for synthesis.
+
+Per-clip source text, localized transcript, voice ID and SHA-256 are recorded in
+manifest.json. Output is mono, 24 kHz Ogg Vorbis, with normalized dialogue level.
+Local development preparation does not assert commercial distribution clearance
+for the synthesis service. No external publication accompanies this build.
+
+Opening v0.5.65, installed 2026-11-25: eight additional original narrative
+passages in all five languages (40 clips), prepared with the same approved
+Microsoft Edge voices. Exact text, voice, timing and SHA-256 are in manifest.json.
+The former opening and all existing NPC/victory/ending speech remain preserved.

@@ -1,0 +1,10 @@
+[gd_resource type="FontVariation" load_steps=5 format=3]
+
+[ext_resource type="FontFile" path="res://assets/fonts/Cinzel.ttf" id="1"]
+[ext_resource type="FontFile" path="res://assets/fonts/SourceSans3.ttf" id="2"]
+[ext_resource type="FontFile" path="res://assets/fonts/NotoSerif.ttf" id="3"]
+[ext_resource type="FontFile" path="res://assets/fonts/NotoNaskhArabic.ttf" id="4"]
+
+[resource]
+base_font = ExtResource("1")
+fallbacks = Array[Font]([ExtResource("3"), ExtResource("4"), ExtResource("2")])

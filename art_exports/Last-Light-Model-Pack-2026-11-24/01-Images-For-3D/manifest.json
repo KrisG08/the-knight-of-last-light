@@ -1,0 +1,536 @@
+{
+  "status": "images_ready_not_converted",
+  "purpose": "Independent raster inputs for future Hyper3D conversion; not 3D models",
+  "entries": [
+    {
+      "id": "knight",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. The player knight, a battle-worn adult human knight in articulated weathered steel plate over chainmail, closed visor helmet, faded ivory surcoat with a small original sun emblem, restrained brass trim. No shield or sword in hands. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/knight.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "BD3707E0FA747B424EF26A891FEC8F54EA9AEF38FB48EBCB05106425C13C6324",
+      "name_bg": "Рицарят"
+    },
+    {
+      "id": "oren",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. Oren, an adult human blacksmith with rugged weathered face, short graying beard, leather smith apron over coarse linen shirt, rolled sleeves, soot-stained practical trousers and boots. No tools held. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/oren.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "11016D05E5FA839B60A510F8898D48A0D092017A2750DE31D71185A3F5F5A15F",
+      "name_bg": "Oren — ковач"
+    },
+    {
+      "id": "lyra",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. Lyra, an adult human female scout with alert expression, tied-back dark hair, fitted weathered brown leather scout armor, muted forest-green short shoulder mantle, practical boots and belt pouches. No weapons held. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/lyra.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "A83C734B20F44E78520B50294B61B674F260FA8067837498CF309FA17D2A3F23",
+      "name_bg": "Lyra — разузнавач"
+    },
+    {
+      "id": "cael",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. Sir Cael, an adult human veteran knight, tired honorable face, short gray beard, weathered steel armor and faded dark blue tabard with an original broken-ring emblem. No weapons held. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/cael.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "29B7245CF1D8882A2EA3471FC183F1AB79865CD87515D39372333B81015D7978",
+      "name_bg": "Sir Cael"
+    },
+    {
+      "id": "fallen-soldier",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. Fallen Soldier, a cursed undead human soldier in damaged chainmail and corroded steel armor, enclosed battered helmet, faded burgundy cloth, gaunt believable anatomy. No gore or weapons held. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/fallen-soldier.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "66CCCA502BD64DD0BF0A0CE2B5481D2F8B37086C5E1F27C12AE5D6332A1B5D49",
+      "name_bg": "Паднал войник"
+    },
+    {
+      "id": "hollow-villager",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. Hollow Villager, a hollow-eyed cursed adult human villager, ashen skin, worn patched medieval work clothing, rope belt, bandaged forearms, tired slumped shoulders while maintaining a neutral modeling pose. No gore. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/hollow-villager.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "452DA12F5715E9DE648BD634A0638C516C8A2FB1D8B89410E408CA5A6FF01790",
+      "name_bg": "Прокълнат селянин"
+    },
+    {
+      "id": "grave-hound",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. Grave Hound, a threatening lean undead canine with anatomically believable long legs, ragged charcoal fur, exposed-looking pale facial markings without open wounds, subtle amber eyes. Four paws separate, standing naturally, tail separated from legs. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/grave-hound.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "F1B5625E01857348A473B68FE8D9E420276023C9A2869B8E606A0979DD3EC592",
+      "name_bg": "Гробищно куче"
+    },
+    {
+      "id": "bound-shade",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. Bound Shade, a humanoid cursed shadow servant with a solid gaunt body clad in layered tattered charcoal robes, sculpted hood and opaque dark face with tiny muted violet eyes. Cloth fully opaque with modeled folds, no smoke or translucency. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/bound-shade.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "B62FF7954C230F41F7331D6819BF7C285ED5ACCC2D4AC59ED7E94FC1620B0067",
+      "name_bg": "Враждебна сянка"
+    },
+    {
+      "id": "gravedigger",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. The Gravedigger boss, a large gaunt adult humanoid grave keeper, skeletal-looking weathered face under a coarse dark hood, heavy patched burial-worker coat, iron buckles, leather gloves, grave-soil stains. No shovel or weapons held, no gore. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/gravedigger.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "C3BEF3EA926709C8A429AA58F40D3804203BFFCFA35637C3035A8CEC0E929FE9",
+      "name_bg": "Gravedigger"
+    },
+    {
+      "id": "thorn-beast",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. Thorn Beast boss, a massive believable quadrupedal forest predator, wolf-bear anatomy, deeply textured dark hide, woody bark plates grown along shoulders and spine, tangled thorn antlers with thick connected branches. Grounded organic creature, four paws clearly separate, no effects. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/thorn-beast.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "467CD18988C8C1AFA15DDE12C188BD1E75C340E387174653E7686C5F095B2E64",
+      "name_bg": "Thorn Beast"
+    },
+    {
+      "id": "fallen-commander",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. Fallen Commander boss, an imposing adult cursed knight in ornate aged steel plate, original Order insignia, worn indigo layered tabard, closed crown-like visor helmet, guilt and solemnity in posture, no weapons held. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/fallen-commander.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "9CAA9A68DE67658B1788A8A6A5B78B2002EAA95CB45613B21BC667D2569D280D",
+      "name_bg": "Fallen Commander"
+    },
+    {
+      "id": "iron-warden",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. Iron Warden boss, a huge heavily armored humanoid forge guardian, blackened iron plates, riveted layered shoulder armor, enclosed furnace-grille helmet with dark interior, leather straps, soot and realistic heat discoloration. No hammer held, no emitted fire. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/iron-warden.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "B626C08512B16B91B7612964841DEE9B5164DA49FCAB8A7111A0E250B5365928",
+      "name_bg": "Iron Warden"
+    },
+    {
+      "id": "maldrek",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. Maldrek the final wizard, a severe elderly human sorcerer with sharp lined face, long gray hair, layered weathered charcoal and muted violet ceremonial robes, intricate restrained tarnished silver fasteners, structured hood lowered, opaque realistic cloth. No staff or magic effects. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/maldrek.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "854A855523AFD55F085D4D4C6FBED9302FB7E31020338D396E6C6244668A757A",
+      "name_bg": "Maldrek"
+    },
+    {
+      "id": "goblin",
+      "category": "characters",
+      "prompt_source": "initial-prompts.md",
+      "file": "characters/goblin.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "29C56D0E9637FD9B46B715D8480C2419B9A0D956FD5DB6CB33B67BB59239DCA5",
+      "name_bg": "Гоблин"
+    },
+    {
+      "id": "troll",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. A massive dark fantasy mountain troll, realistic heavy organic anatomy, thick gray-green leathery skin with pores, long powerful arms, hunched shoulders, broad flattened nose, small deep-set eyes, two worn ivory lower tusks, rough hide loincloth. No weapon, no cartoon expression. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/troll.png",
+      "width": 1219,
+      "height": 1290,
+      "sha256": "3D6C49D1DF5BD815B6ED42FDFBDAA7497E924BF27DD2B1822E29BA6FB8EE0196",
+      "name_bg": "Трол"
+    },
+    {
+      "id": "dwarf",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. An adult dark fantasy dwarven mine worker, short and broad muscular proportions, stern weathered face, long braided gray-brown beard with restrained iron beard rings, worn steel mining helmet, heavy leather work apron over coarse linen, practical boots. No tools held. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/dwarf.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "4A43CF5D85FA94FC55C60003AF56D1AE9EE9954C20BF6EDBCA4E1CFF105BEE13",
+      "name_bg": "Джудже"
+    },
+    {
+      "id": "wraith",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. A dark fantasy wraith as a solid sculptable robed figure, deeply folded and frayed charcoal funerary robe, deep hood with an opaque shadow-black face recess and small dull teal eyes, long skeletal-looking gloved hands. Opaque cloth, lower hem hovering only slightly, no smoke or particles. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/wraith.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "DD5411BCE18816B5A0FA449092529D6DE80D014A1ABC98A69C8B2D670907D379",
+      "name_bg": "Призрак"
+    },
+    {
+      "id": "stone-sentinel",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. An ancient stone sentinel, a humanoid knight statue carved from weathered limestone, layered carved armor, solemn hooded face, broken radial stone crown, cracks and moss in recesses. Sturdy connected geometry, no separate weapon held. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/stone-sentinel.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "13C4E0F3E2E76E58856790FD49D1D12C286D5C01AD3DE1BAC73A5EA2101125A4",
+      "name_bg": "Каменен пазител"
+    },
+    {
+      "id": "gargoyle",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. A realistic gothic gargoyle statue, crouched muscular humanoid demon with bat-like folded-out wings, carved stone wing ribs and thick membranes, angular animalistic face, two curved short horns, clawed feet resting on compact integrated plinth, weathered dark limestone. No glow. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/gargoyle.png",
+      "width": 1312,
+      "height": 1199,
+      "sha256": "E0D0A8D14AA4BA1A18A64583CA4E99873B7D9C8B3175839A8DE5F68509AAC6AF",
+      "name_bg": "Гаргойла"
+    },
+    {
+      "id": "ash-dragon",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. A majestic realistic dark fantasy dragon, grounded four-legged reptilian anatomy, ash-brown detailed scales, thick curved horns, folded wings held slightly clear of the torso, long tail curled to the side without touching legs, restrained worn bone accents. One dragon, full silhouette, no fire. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/ash-dragon-v2.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "C0C7E67CFEE080AA356B525B5515C955BFD5847E595C282C703C9EC29A348834",
+      "name_bg": "Пепелен дракон"
+    },
+    {
+      "id": "barghest",
+      "category": "characters",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. A realistic barghest-inspired dark spectral hound rendered as a solid animal, large lean black canine, dense charcoal fur with a pale skull-like brow marking, long single tail, small deep-set amber eyes, anatomically realistic four separated paws. No smoke, effects or gore. For humanoids use neutral relaxed A-pose, hands open, arms separated from torso and feet separated, no carried props. For animals use natural standing pose, for statues use described pose. Detailed realistic skin, cloth and metal, no magical particles or strong colored lighting.",
+      "file": "characters/barghest.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "E3500FF3F9F774027F7AEA415794172877F1C0FFCBD03F0E1F5B4606038B3B2E",
+      "name_bg": "Тъмен хръток"
+    },
+    {
+      "id": "roadside-shrine",
+      "category": "architecture",
+      "prompt_source": "initial-prompts.md",
+      "file": "architecture/roadside-shrine.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "4A7A43AB8C67D7519B8173B6A089CFFD847933864DFB7F62144424F0087BE753",
+      "name_bg": "Крайпътно светилище"
+    },
+    {
+      "id": "expedition-tent",
+      "category": "architecture",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One medieval expedition field tent, realistic worn waxed dark olive canvas over wooden poles, open entrance, tied ropes terminating at an integrated small footing, patches and stitched seams. Compact freestanding asset, no people or surrounding camp. Architectural asset on its own compact integrated footing, no sky, ground plane, landscape, loose rubble or decorative figures.",
+      "file": "architecture/expedition-tent.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9A23046255FA276F08D187F0AA7FEA9C3BC37812749FC0E67D97A109AC36ADBA",
+      "name_bg": "Експедиционна палатка"
+    },
+    {
+      "id": "ruined-chapel",
+      "category": "architecture",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One isolated ruined small gothic forest chapel, broken slate roof, pointed doorway, stone buttresses, mossy worn limestone blocks, thick masonry, intact readable entrance, compact integrated foundation, no surrounding scenery. Architectural asset on its own compact integrated footing, no sky, ground plane, landscape, loose rubble or decorative figures.",
+      "file": "architecture/ruined-chapel.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "B33E390E55542CAFF4EFEE1B47891C3CEC83DAA6DA1ACF9C3E92AFC2811AF51D",
+      "name_bg": "Разрушен параклис"
+    },
+    {
+      "id": "village-house",
+      "category": "architecture",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One detailed medieval timber-framed village house, two floors, weathered dark oak beams and aged lime plaster, steep slate roof, projecting upper storey, shutters, wooden door and small door canopy, stone footing. No surrounding street or detached props. Architectural asset on its own compact integrated footing, no sky, ground plane, landscape, loose rubble or decorative figures.",
+      "file": "architecture/village-house.png",
+      "width": 1312,
+      "height": 1199,
+      "sha256": "EB190B54B89B03687BC6CE8E6B0D42F777176E2DB785C5C04D90201A24B72F5C",
+      "name_bg": "Селска къща"
+    },
+    {
+      "id": "village-mill",
+      "category": "architecture",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One medieval watermill building, timber frame and plaster, steep slate roof, attached readable wooden mill wheel with thick spokes, worn stone base, boarded shutters. One cohesive structure, no river or terrain. Architectural asset on its own compact integrated footing, no sky, ground plane, landscape, loose rubble or decorative figures.",
+      "file": "architecture/village-mill.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "31A7B327AC971225362B4F02E4C23B8010113C04B16FD6E06A4FF1CB6DDF92CE",
+      "name_bg": "Мелница"
+    },
+    {
+      "id": "crypt-entrance",
+      "category": "architecture",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One gothic cemetery crypt entrance, weathered limestone portal with thick pointed arch, carved funerary motifs and an inset heavy iron-bound double door, two short flanking buttresses and three broad steps, compact integrated base. Architectural asset on its own compact integrated footing, no sky, ground plane, landscape, loose rubble or decorative figures.",
+      "file": "architecture/crypt-entrance.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "061D78ACCA573F6DF1D0B340952F60FF2DF342DB98D44FB92ED724F1ACFEADD1",
+      "name_bg": "Вход на криптата"
+    },
+    {
+      "id": "watchtower",
+      "category": "architecture",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One ruined medieval wooden watchtower, believable thick braced oak supports, elevated small enclosed lookout platform, damaged shingle roof, integrated ladder, worn construction joinery. Compact connected structure, no surrounding forest. Architectural asset on its own compact integrated footing, no sky, ground plane, landscape, loose rubble or decorative figures.",
+      "file": "architecture/watchtower.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "8329A18DB110559FC67D4C217AEE2DAFD1059C99832069C5A2A04245ED38E61D",
+      "name_bg": "Наблюдателна кула"
+    },
+    {
+      "id": "root-shrine",
+      "category": "architecture",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One corrupted forest shrine, a thick ancient stone pointed arch and altar bound by large intertwined woody roots, carved original circular seal relief, mossy stone and split bark. Connected strong geometry, no floating parts or emitted light. Architectural asset on its own compact integrated footing, no sky, ground plane, landscape, loose rubble or decorative figures.",
+      "file": "architecture/root-shrine.png",
+      "width": 1312,
+      "height": 1199,
+      "sha256": "41341803FE927688B38052FBAD76FC3ABE7A568C4A7D53983071B4F7E86A2C53",
+      "name_bg": "Коренно светилище"
+    },
+    {
+      "id": "order-memorial",
+      "category": "architecture",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One ruined medieval knight order memorial hall facade, substantial stone entrance arch, carved shields, weathered columns, broken crenellation, remnants of deep blue fabric attached to stone, compact foundation. No landscape. Architectural asset on its own compact integrated footing, no sky, ground plane, landscape, loose rubble or decorative figures.",
+      "file": "architecture/order-memorial.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7BFEA32166ECB697A9B2C226463EB20621B1B620A3C698D872F716B9A00664F3",
+      "name_bg": "Мемориална зала"
+    },
+    {
+      "id": "forge-fortress",
+      "category": "architecture",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One compact dark medieval forge fortress building, thick blackened stone walls, iron-braced doors, two short chimneys, heavy buttresses, worn slate roof, soot around vents, realistic masonry. No fire, smoke or surrounding town. Architectural asset on its own compact integrated footing, no sky, ground plane, landscape, loose rubble or decorative figures.",
+      "file": "architecture/forge-fortress.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "156834D97796BE362B7D4BF3FB5E21C40A5D22A244F6F1FB45CE3CCDBF5596A3",
+      "name_bg": "Ковачница крепост"
+    },
+    {
+      "id": "citadel-tower",
+      "category": "architecture",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One majestic dark gothic citadel gate tower module, weathered blue-gray stone, tall pointed windows with real depth, ribbed buttresses, narrow battlements and steep broken spire, thick connected silhouette and integrated base. No sky or scenery. Architectural asset on its own compact integrated footing, no sky, ground plane, landscape, loose rubble or decorative figures.",
+      "file": "architecture/citadel-tower.png",
+      "width": 1218,
+      "height": 1291,
+      "sha256": "F7239C8A18FC53C8705DE9077BF9943C01169531CD49684379E881A916369ECA",
+      "name_bg": "Кула на цитаделата"
+    },
+    {
+      "id": "ritual-dais",
+      "category": "architecture",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One ancient ritual dais, circular layered black stone platform with three broad steps, deeply carved original radial channels and four integrated low stone anchor posts, worn silver inlay. Empty center, no floating magic or people. Architectural asset on its own compact integrated footing, no sky, ground plane, landscape, loose rubble or decorative figures.",
+      "file": "architecture/ritual-dais.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3B9F156E6F13AFF322F55B58910EF04F9B8A21CAB30E759F6A66124EFAC6A5B1",
+      "name_bg": "Ритуален подиум"
+    },
+    {
+      "id": "broken-cart",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One abandoned medieval two-wheel handcart, weathered oak bed, iron-rimmed spoked wheels, one damaged side board, thick connected handles, believable construction and wear. No cargo or scenery. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/broken-cart.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3C5CB71D6E72E323161D0302E4890EAD911C68A2FBD0961CF056B8F85DF3573B",
+      "name_bg": "Повредена количка"
+    },
+    {
+      "id": "village-well",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One medieval village well, circular worn limestone parapet, attached oak uprights, small steep shingled canopy, wooden windlass and thick rope with bucket resting within the rim. Cohesive self-contained object. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/village-well.png",
+      "width": 1312,
+      "height": 1199,
+      "sha256": "8C3D43E023B984A8EA9A16C8ABE17240C465D21F0A2633A728273128BA1BC726",
+      "name_bg": "Кладенец"
+    },
+    {
+      "id": "lantern",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One gothic standing lantern, sturdy wrought-iron cage surrounding opaque frosted pale teal glass, tapered roof, carved stone pedestal, restrained original sun motif, realistic corrosion, unlit neutral materials. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/lantern.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "CB42F07A06438C55F8BD3945604F8798255CB6DD90B286A729E82B94DA8B6B83",
+      "name_bg": "Готически фенер"
+    },
+    {
+      "id": "crate",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One medieval wooden storage crate, aged thick oak planks, diagonal bracing, forged iron corner brackets and visible nails, closed lid, believable scratches and grain. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/crate.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8E93B22D76201F7670F0C07D7707D2612A95525F36C6DB93C491EEEFCD96B450",
+      "name_bg": "Сандък"
+    },
+    {
+      "id": "barrel",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One medieval oak barrel, bulging individual staves, four aged wrought-iron hoops, closed plank lid with bung, worn wood grain and realistic proportions. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/barrel.png",
+      "width": 1312,
+      "height": 1199,
+      "sha256": "DC384F43422D3080F5EAABA83FFA720686C22F243786C3DA13EE423BDD178BAC",
+      "name_bg": "Бъчва"
+    },
+    {
+      "id": "fence",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One short medieval broken wooden fence module, three sturdy weathered oak pickets connected by two horizontal rails and end posts, one chipped top, no ground or plants. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/fence.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "E9492EA46D69CADB05A0FD0BCB8485722179F49F52C49166857640CC2EC2DE5F",
+      "name_bg": "Ограда"
+    },
+    {
+      "id": "smith-workbench",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One medieval smith workbench, thick scarred oak tabletop on heavy mortise-and-tenon legs, attached small dark steel anvil securely on top, restrained iron brackets, no loose tools or scenery. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/smith-workbench.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9985B14A9E2B4B8F003BCC744AE4900655FB7CE9EDE380C0070498E745F5CF08",
+      "name_bg": "Ковашка работна маса"
+    },
+    {
+      "id": "memorial",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One roadside memorial stone, upright weathered limestone slab with carved original sun emblem above shallow unreadable worn decorative marks, low stepped base, chiseled floral border. No readable text. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/memorial.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "BEA5516B0A87F2F80DAD0FE0D29052136A434B04A71F1EC719604EB5AE2BBB4C",
+      "name_bg": "Мемориален камък"
+    },
+    {
+      "id": "burial-seal",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One burial seal artifact, thick upright weathered limestone disk on a compact base, deeply carved concentric funerary reliefs and an original closed-eye emblem, aged bronze inlay, no emitted light. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/burial-seal.png",
+      "width": 1312,
+      "height": 1199,
+      "sha256": "A2BF49D305BE9F532B94436B7D9FCD2D6135934ED0E777C4FC7091F9DE0A65CE",
+      "name_bg": "Burial Seal"
+    },
+    {
+      "id": "root-seal",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One root seal artifact, thick stone disk encircled by connected woody roots, carved branching original spiral emblem, moss and cracked bark, compact integrated footing, no effects. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/root-seal.png",
+      "width": 1312,
+      "height": 1199,
+      "sha256": "4BDC88C54A54A4575D8A4D3508B6B008EAC1446895613E76C7E126ECCDBF75F2",
+      "name_bg": "Root Seal"
+    },
+    {
+      "id": "oath-seal",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One oath seal artifact, upright carved stone tablet with original interlocking broken-ring and sword relief, aged steel inset, knight-order gothic ornament, compact base, no readable text. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/oath-seal.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "7E32307884607FBA8FD9997E6C116BB9DEFC584668CEDCAA2AF9944AAC5E2373",
+      "name_bg": "Oath Seal"
+    },
+    {
+      "id": "forge-seal",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One forge seal artifact, heavy blackened iron circular mechanism anchored on stone footing, concentric forged rings, large readable rivets, original hammer-and-sun relief, realistic soot and heat wear, no glow. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/forge-seal.png",
+      "width": 1312,
+      "height": 1199,
+      "sha256": "49192495F4F200DADD379DB096B32D90652CAC458E98A289419F947134CE1C15",
+      "name_bg": "Forge Seal"
+    },
+    {
+      "id": "central-artifact",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One central cursed artifact, thick dark obsidian polyhedral monolith securely cradled by four connected aged silver gothic braces on a carved circular stone base, deep fracture lines and restrained original ritual motifs. Opaque solid object, no floating pieces or effects. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/central-artifact.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "6A6405186E8FD6CB88C4FFBCF2BABF7764FE0F90143F6AC84C19BBEEA0ACD06A",
+      "name_bg": "Централен артефакт"
+    },
+    {
+      "id": "knight-sword",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One realistic medieval knight longsword, straight double-edged worn steel blade, restrained brass crossguard, dark wrapped leather grip and round pommel, original small sun insignia. Whole sword visible diagonally, no hand or pedestal. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/knight-sword.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "C6514C8D25BADF511665181E302E115C7ED56131E46BD651D259FDA387842DF1",
+      "name_bg": "Меч на рицаря"
+    },
+    {
+      "id": "knight-shield",
+      "category": "props",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One realistic medieval heater shield, worn steel rim over reinforced wood, faded ivory face with an original muted gold sun emblem, subtle scratches, visible thickness and leather grip glimpsed at the edge. Whole shield in three-quarter view, no figure. Readable structural detail, real surface thickness, physically plausible construction, no surrounding setting.",
+      "file": "props/knight-shield.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "525F0539D53B3E458EF6B35B4A79333916DCBF0B79E94D9910B6C546AD2C0002",
+      "name_bg": "Щит на рицаря"
+    },
+    {
+      "id": "ancient-tree",
+      "category": "nature",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One realistic dead ancient twisted forest tree, thick gnarled trunk, several strong bare branches, broken limbs, detailed dark bark and roots connected to a small integrated root base. No tiny floating twigs, leaves, terrain or scenery. Prioritize readable three-dimensional structure for reconstruction, no wind blur or atmospheric haze.",
+      "file": "nature/ancient-tree.png",
+      "width": 1312,
+      "height": 1199,
+      "sha256": "504654BD91B4836924690B83935D25AAD79ED1C318C8D46BEFC5019A1164F5AC",
+      "name_bg": "Древно мъртво дърво"
+    },
+    {
+      "id": "forest-pine",
+      "category": "nature",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One realistic mature dark forest pine tree, sturdy trunk, irregular layered needle boughs with readable clusters, aged bark, full tree visible including roots. One isolated tree, no surrounding forest. Prioritize readable three-dimensional structure for reconstruction, no wind blur or atmospheric haze.",
+      "file": "nature/forest-pine.png",
+      "width": 1199,
+      "height": 1312,
+      "sha256": "239528650D5F3CCF92D508E5126356D05E7FFB8709F7CCA12A30E47CC202C847",
+      "name_bg": "Горски бор"
+    },
+    {
+      "id": "mossy-rock",
+      "category": "nature",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One realistic irregular forest boulder, complex fractured granite silhouette, layered stone planes, weathered fissures and sparse dark moss in crevices, broad stable base, no surrounding plants or landscape. Prioritize readable three-dimensional structure for reconstruction, no wind blur or atmospheric haze.",
+      "file": "nature/mossy-rock.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0EE643EB037320BCD7CADFB34B4DA5FFF5BADF94B77D729B8F7F377AD0AAD786",
+      "name_bg": "Мъхеста скала"
+    },
+    {
+      "id": "fern",
+      "category": "nature",
+      "prompt": "One isolated asset reference for Hyper3D Rodin image-to-3D, for an original realistic majestic dark fantasy game. Photorealistic materials and believable sculptural forms, not cartoon or toy-like, no existing franchise likeness. Entire subject visible with ample margins, one front three-quarter view only, plain light gray studio background, soft even neutral light, minimal contact shadow, no text, labels, watermark, split panels or extra subjects. One realistic woodland fern plant, clustered curled and unfurled fronds emerging from one connected root clump, dark green serrated leaflets, botanically believable structure, whole plant visible, no scenery. Prioritize readable three-dimensional structure for reconstruction, no wind blur or atmospheric haze.",
+      "file": "nature/fern.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "C6E78337E8913981584DD726DED1896055B4CEDBAFCD2C5D442BC94674F6B72F",
+      "name_bg": "Папрат"
+    }
+  ],
+  "created": "2026-11-06",
+  "generator": "built-in imagegen",
+  "counts": {
+    "characters": 21,
+    "architecture": 12,
+    "props": 15,
+    "nature": 4
+  },
+  "game_integration": false,
+  "note": "52 distinct primary asset references; not every map instance or modular variant. No Hyper3D generation or model integration claimed."
+}

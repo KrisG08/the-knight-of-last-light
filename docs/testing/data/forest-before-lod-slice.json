@@ -1,0 +1,55 @@
+{
+	"cpu": "12th Gen Intel(R) Core(TM) i5-12450H",
+	"elapsed_seconds": 60.482269,
+	"engine": "4.7.2-stable (official)",
+	"exported": true,
+	"frame_times": {
+		"mean_fps": 104.910844383488,
+		"p50_ms": 8.435,
+		"p95_ms": 25.629,
+		"p99_ms": 30.333,
+		"samples": 6345,
+		"worst_ms": 369.901
+	},
+	"gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+	"limits": "Wall-clock intervals between rendered process callbacks. Scripted workload with HP replenishment and forced boss phase; no human victory/FPS guarantee. Not headless. Power mode/background tasks recorded separately.",
+	"peaks": {
+		"draw_calls": 1232.0,
+		"navigation_ms": 1.22,
+		"physics_ms": 101.211,
+		"static_memory_bytes": 0.0,
+		"video_memory_bytes": 674404736.0
+	},
+	"render_texture_pixels": "(2880.0, 1620.0)",
+	"renderer": "mobile",
+	"shadows": true,
+	"stages": {
+		"boss_phase_two": {
+			"mean_fps": 119.965734362103,
+			"p50_ms": 8.35,
+			"p95_ms": 9.38,
+			"p99_ms": 9.91,
+			"samples": 2999,
+			"worst_ms": 29.246
+		},
+		"refuge": {
+			"mean_fps": 33.9109595636166,
+			"p50_ms": 27.282,
+			"p95_ms": 32.388,
+			"p99_ms": 33.151,
+			"samples": 355,
+			"worst_ms": 369.901
+		},
+		"village_combat": {
+			"mean_fps": 119.580076032299,
+			"p50_ms": 8.344,
+			"p95_ms": 9.731,
+			"p99_ms": 10.249,
+			"samples": 2991,
+			"worst_ms": 112.743
+		}
+	},
+	"viewport": "(1280.0, 720.0)",
+	"vsync": "enabled",
+	"window_pixels": "(1920, 1080)"
+}

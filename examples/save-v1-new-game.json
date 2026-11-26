@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "content_version": "prototype",
+  "slot_id": 1,
+  "saved_at": "2026-11-03T12:00:00Z",
+  "character": {
+    "rank": 1,
+    "xp_into_rank": 0,
+    "shards": 0,
+    "weapon_id": "weapon.knight_sword",
+    "weapon_tier": 0,
+    "owned_item_ids": [
+      "weapon.knight_sword",
+      "shield.worn_shield"
+    ],
+    "equipped_relic_ids": []
+  },
+  "campaign": {
+    "facts": [],
+    "boss_defeated_ids": [],
+    "broken_seal_ids": [],
+    "recruited_ally_ids": [],
+    "active_companion_id": null,
+    "reward_claim_ids": [],
+    "pickup_claim_ids": [],
+    "checkpoint_ids": [
+      "checkpoint.refuge"
+    ],
+    "quest_states": {
+      "quest.main.ch01": "active"
+    },
+    "completed": false
+  },
+  "recovery": {
+    "region_id": "region.refuge",
+    "checkpoint_id": "checkpoint.refuge",
+    "spawn_id": "spawn.refuge.safe"
+  }
+}

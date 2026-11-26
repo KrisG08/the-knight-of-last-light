@@ -1,0 +1,12 @@
+SHOT 06-fall
+Input: keyframes/06-fall.png
+Target: 10 seconds, 16:9. Generate actual temporal motion.
+Maintain the provided character identity, equipment, costume and architecture.
+Subject and environment action: Violet wind strikes the forest road. The protagonist braces behind his actual shield, drops to one knee and reaches toward a falling armored companion; both remain anatomically coherent, no gore.
+Camera: Close shoulder-level track with restrained impact shake, then dip with the reaching hand; motivated occlusion to dark at the end.
+Natural weight, grounded feet, coherent hands, stable faces and heraldry.
+Real wind response in cloth, hair, foliage and clouds; consistent physical light.
+No new characters, costume changes, body morphing, teleporting props or camera-only still pan.
+No baked narration, dialogue, captions, logo or text. Keep output private.
+Sound direction for later mix: Shield crack, branch snap, two weighted falls; abrupt muffled silence.
+Do not purchase credits or submit a paid upgrade.

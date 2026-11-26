@@ -1,0 +1,56 @@
+{
+  "THE KNIGHT OF LAST LIGHT": [
+    "РИЦАРЯТ НА ПОСЛЕДНАТА СВЕТЛИНА",
+    "РЫЦАРЬ ПОСЛЕДНЕГО СВЕТА",
+    "LE CHEVALIER DE LA DERNIÈRE LUMIÈRE",
+    "فارس النور الأخير"
+  ],
+  "Campaign development build · Godot 4.7.2": [
+    "Работна версия на кампанията · Godot 4.7.2",
+    "Кампания в разработке · Godot 4.7.2",
+    "Version de développement de la campagne · Godot 4.7.2",
+    "نسخة قيد التطوير من الحملة · Godot 4.7.2"
+  ],
+  "Original gameplay/ruin kit and weapon effects. Footfalls: Kenney (CC0). Environment scans: Poly Haven (CC0). Character geometry: generated with Meshy (https://www.meshy.ai/), Meshy 6 Lite, CC BY 4.0; original reference images, simplified geometry, procedural materials and limb adapters. Knight equipment: Andy Woodhead, via afk.ai (CC BY 4.0).": [
+    "Игровите системи, комплектът руини и ефектите на оръжията са създадени за проекта. Звуци на стъпки: Kenney (CC0). Сканирани обекти за средата: Poly Haven (CC0). Геометрия на героите: генерирана с Meshy (https://www.meshy.ai/), Meshy 6 Lite, CC BY 4.0; оригинални референтни изображения, опростена геометрия, процедурни материали и адаптери за крайниците. Екипировка на рицаря: Andy Woodhead, чрез afk.ai (CC BY 4.0).",
+    "Игровые системы, комплект руин и эффекты оружия созданы для проекта. Звуки шагов: Kenney (CC0). Сканированные объекты окружения: Poly Haven (CC0). Геометрия персонажей: создана с помощью Meshy (https://www.meshy.ai/), Meshy 6 Lite, CC BY 4.0; оригинальные референсы, упрощённая геометрия, процедурные материалы и адаптеры конечностей. Снаряжение рыцаря: Andy Woodhead, через afk.ai (CC BY 4.0).",
+    "Systèmes de jeu, éléments de ruines et effets d’armes créés pour le projet. Bruits de pas : Kenney (CC0). Éléments d’environnement numérisés : Poly Haven (CC0). Géométrie des personnages : générée avec Meshy (https://www.meshy.ai/), Meshy 6 Lite, CC BY 4.0 ; références originales, géométrie simplifiée, matériaux procéduraux et adaptations des membres. Équipement du chevalier : Andy Woodhead, via afk.ai (CC BY 4.0).",
+    "أنظمة اللعب وقطع الأطلال وتأثيرات الأسلحة أُنشئت للمشروع. أصوات الخطوات: Kenney (CC0). عناصر البيئة الممسوحة: Poly Haven (CC0). مجسمات الشخصيات: مولدة باستخدام Meshy (https://www.meshy.ai/)، Meshy 6 Lite، بترخيص CC BY 4.0؛ صور مرجعية أصلية وهندسة مبسطة ومواد إجرائية وتعديلات للأطراف. معدات الفارس: Andy Woodhead، عبر afk.ai (CC BY 4.0)."
+  ],
+  "Ambient dragon: chengzijieczj; crystal deer: Coffeek; shadow hound base: Alexei Ostapenko (CC BY 4.0 via afk.ai), adapted as passive scenery.": [
+    "Дракон в околната среда: chengzijieczj; кристален елен: Coffeek; основа на сенчестата хрътка: Alexei Ostapenko (CC BY 4.0 чрез afk.ai), адаптирани като неинтерактивни обитатели.",
+    "Дракон окружения: chengzijieczj; кристальный олень: Coffeek; основа теневой гончей: Alexei Ostapenko (CC BY 4.0 через afk.ai), адаптированы как неинтерактивные обитатели.",
+    "Dragon d’ambiance : chengzijieczj ; cerf de cristal : Coffeek ; base du chien d’ombre : Alexei Ostapenko (CC BY 4.0 via afk.ai), adaptés comme habitants non interactifs.",
+    "تنين البيئة: chengzijieczj؛ الأيل البلوري: Coffeek؛ أساس كلب الظل: Alexei Ostapenko (CC BY 4.0 عبر afk.ai)، عُدلت لتكون كائنات بيئية غير تفاعلية."
+  ],
+  "Hostile armor: DJMaesen. Cursed canine base: Alexei Ostapenko. Static samples via afk.ai, CC BY 4.0; adapted geometry/materials and procedural motion.": [
+    "Броня на враговете: DJMaesen. Основа на прокълнатите хрътки: Alexei Ostapenko. Статични образци чрез afk.ai, CC BY 4.0; адаптирани геометрия и материали, процедурно движение.",
+    "Броня врагов: DJMaesen. Основа проклятых гончих: Alexei Ostapenko. Статичные образцы через afk.ai, CC BY 4.0; адаптированные геометрия и материалы, процедурное движение.",
+    "Armures des ennemis : DJMaesen. Base des chiens maudits : Alexei Ostapenko. Modèles statiques via afk.ai, CC BY 4.0 ; géométrie et matériaux adaptés, mouvement procédural.",
+    "دروع الأعداء: DJMaesen. أساس الكلاب الملعونة: Alexei Ostapenko. نماذج ثابتة عبر afk.ai، CC BY 4.0؛ هندسة ومواد معدلة وحركة إجرائية."
+  ],
+  "Fonts: El Messiri, Cinzel, Source Sans 3, Barlow Semi Condensed, Noto Serif and Noto Naskh Arabic, SIL OFL 1.1.": [
+    "Шрифтове: El Messiri, Cinzel, Source Sans 3, Barlow Semi Condensed, Noto Serif и Noto Naskh Arabic, SIL OFL 1.1.",
+    "Шрифты: El Messiri, Cinzel, Source Sans 3, Barlow Semi Condensed, Noto Serif и Noto Naskh Arabic, SIL OFL 1.1.",
+    "Polices : El Messiri, Cinzel, Source Sans 3, Barlow Semi Condensed, Noto Serif et Noto Naskh Arabic, SIL OFL 1.1.",
+    "الخطوط: El Messiri, Cinzel وSource Sans 3 وBarlow Semi Condensed وNoto Serif وNoto Naskh Arabic، بترخيص SIL OFL 1.1."
+  ],
+  "Godot Engine: MIT license. Engine third-party and font notices accompany the build.": [
+    "Godot Engine: лиценз MIT. Правните известия за компонентите на енджина и шрифтовете са включени в пакета.",
+    "Godot Engine: лицензия MIT. Правовые уведомления для компонентов движка и шрифтов включены в пакет.",
+    "Godot Engine : licence MIT. Les mentions légales des composants du moteur et des polices accompagnent cette version.",
+    "Godot Engine: ترخيص MIT. إشعارات مكونات المحرك والخطوط مرفقة بالنسخة."
+  ],
+  "Includes refuge, village, Oren, optional token quest, Gravedigger, Blackwood, Lyra, Thorn Beast, Order barracks, Sir Cael, Fallen Commander, Ashen Peaks, Iron Warden, citadel exploration, Maldrek, explicit ending and peaceful postgame. Art and full human campaign acceptance remain in development.": [
+    "Кампанията включва убежището, Пепелното село, Орен, незадължителната задача за семейния спомен, Гробаря, Чернолес, Лира, Трънливия звяр, казармите на Ордена, Сър Каел, Падналия командир, Пепелните върхове, Железния пазител, изследването на цитаделата, Малдрек, завършек на историята и спокоен свят след финала. Визията и цялостната проверка на кампанията от играч още се доработват.",
+    "Кампания включает приют, Пепельную деревню, Орена, необязательное задание с семейной реликвией, Могильщика, Чернолесье, Лиру, Тернового Зверя, казармы Ордена, Сэра Каэля, Падшего Командира, Пепельные вершины, Железного Стража, исследование цитадели, Малдрека, завершение истории и мир после финала. Визуальное оформление и полная проверка кампании игроком ещё дорабатываются.",
+    "La campagne comprend le refuge, le Village des Cendres, Oren, la quête facultative du souvenir familial, le Fossoyeur, Bois-Noir, Lyra, la Bête des Épines, les casernes de l’Ordre, Sire Cael, le Commandant Déchu, les Pics des Cendres, le Gardien de Fer, l’exploration de la citadelle, Maldrek, une conclusion et un monde apaisé après la fin. Les visuels et la validation complète par un joueur restent en cours.",
+    "تتضمن الحملة الملجأ وقرية الرماد وأورين ومهمة التذكار العائلي الاختيارية وحفار القبور والغابة السوداء وليرا ووحش الأشواك وثكنات الفُرسان والسير كايل والقائد الساقط وقمم الرماد والحارس الحديدي واستكشاف القلعة ومالدريك ونهاية القصة وعالماً مسالماً بعدها. يجري استكمال المظهر والتحقق الكامل من الحملة بواسطة لاعب."
+  ],
+  "Powered by Poly Haven. Asset source links, licenses and modifications are in the bundled asset credits. Gamepad and final animation polish remain in development.": [
+    "С موارد от Poly Haven. Източниците на ресурсите, лицензите и направените промени са описани в приложените авторски сведения. Поддръжката на контролер и финалното изглаждане на анимациите още се разработват.",
+    "С ресурсами Poly Haven. Источники материалов, лицензии и изменения перечислены в приложенных сведениях об авторах. Поддержка геймпада и окончательная полировка анимаций ещё разрабатываются.",
+    "Avec les ressources de Poly Haven. Les sources, licences et modifications figurent dans les crédits joints. La prise en charge de la manette et les dernières retouches des animations restent en développement.",
+    "باستخدام موارد Poly Haven. مصادر الموارد وتراخيصها وتعديلاتها موضحة في قائمة الاعتمادات المرفقة. دعم وحدة التحكم والصقل النهائي للحركات قيد التطوير."
+  ]
+}

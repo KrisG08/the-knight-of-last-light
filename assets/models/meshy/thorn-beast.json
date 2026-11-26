@@ -1,0 +1,74 @@
+{
+	"front_projection": {
+		"alpha": true,
+		"rect": [
+			0.110047847032547,
+			0.049441784620285,
+			0.778309404850006,
+			0.888357281684875
+		],
+		"x_bounds": [
+			-0.461248159408569,
+			0.459847450256348
+		]
+	},
+	"height": 2.3,
+	"paint": "Reference-projected UVs with independent rear paint, roughness and view-confidence masks",
+	"parts": {
+		"back_left_leg": {
+			"mesh": "res://assets/models/meshy/painted/thorn-beast-back_left_leg.res",
+			"origin": [
+				-0.528999984264374,
+				0.966000020503998,
+				1.10399997234344
+			]
+		},
+		"back_right_leg": {
+			"mesh": "res://assets/models/meshy/painted/thorn-beast-back_right_leg.res",
+			"origin": [
+				0.528999984264374,
+				0.966000020503998,
+				1.10399997234344
+			]
+		},
+		"body": {
+			"mesh": "res://assets/models/meshy/painted/thorn-beast-body.res",
+			"origin": [
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		"front_left_leg": {
+			"mesh": "res://assets/models/meshy/painted/thorn-beast-front_left_leg.res",
+			"origin": [
+				-0.528999984264374,
+				0.966000020503998,
+				-1.10399997234344
+			]
+		},
+		"front_right_leg": {
+			"mesh": "res://assets/models/meshy/painted/thorn-beast-front_right_leg.res",
+			"origin": [
+				0.528999984264374,
+				0.966000020503998,
+				-1.10399997234344
+			]
+		}
+	},
+	"rear_projection": {
+		"alpha": true,
+		"rect": [
+			0.22916667163372,
+			0.013671875,
+			0.540364563465118,
+			0.974609375
+		],
+		"x_bounds": [
+			-0.461248159408569,
+			0.459847450256348
+		]
+	},
+	"source_triangles": 259208.0,
+	"triangles": 64802.0
+}

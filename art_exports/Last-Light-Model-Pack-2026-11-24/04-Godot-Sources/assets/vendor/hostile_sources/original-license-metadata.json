@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Strong Knight",
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "uid": "9d912e0fedb44b619fbd2a083bbf174f",
+    "is_downloadable": true,
+    "author": "DJMaesen"
+  },
+  {
+    "name": "Fox",
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "uid": "4e37c303f8a241aaa2511bd9f3019273",
+    "is_downloadable": true,
+    "author": "Alexei Ostapenko"
+  }
+]

@@ -1,0 +1,1788 @@
+{
+  "version": 1,
+  "languages": [
+    "en",
+    "bg",
+    "ru",
+    "fr",
+    "ar"
+  ],
+  "lines": {
+    "d27a1fb18b30ef3a3cd6": {
+      "source": "The ore carts stand empty. The Warden sealed the forge when the kingdom fell. A service path east of the fortress leads back to the bridge; lift its bar from the north.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/d27a1fb18b30ef3a3cd6.ogg",
+        "bg": "res://assets/audio/voice/bg/d27a1fb18b30ef3a3cd6.ogg",
+        "ru": "res://assets/audio/voice/ru/d27a1fb18b30ef3a3cd6.ogg",
+        "fr": "res://assets/audio/voice/fr/d27a1fb18b30ef3a3cd6.ogg",
+        "ar": "res://assets/audio/voice/ar/d27a1fb18b30ef3a3cd6.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "The ore carts stand empty. The Warden sealed the forge when the kingdom fell. A service path east of the fortress leads back to the bridge; lift its bar from the north.",
+          "seconds": 12.02,
+          "tempo": 1.0,
+          "sha256": "2dde1356a364bd7bc4ab5bbf9cfe07cdb45e2aa5efae2cce8a13cc55dcd01042"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Количките с руда стоят празни. Пазачът запечата ковачницата, когато кралството падна. Служебен път източно от крепостта води обратно към моста; повдигнете бара си от север.",
+          "seconds": 13.73,
+          "tempo": 1.0,
+          "sha256": "b1db2db06a2553429c42e49dc74f573216d88ef4db4a750643af74f75870adb6"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Тележки с рудой стоят пустые. Страж запечатал кузницу, когда королевство пало. Служебный путь к востоку от крепости ведет обратно к мосту; подними свою планку с севера.",
+          "seconds": 14.57,
+          "tempo": 1.0,
+          "sha256": "c1eb1a2e389ede1b2e04b7bc19f06b0204758ea2ad71398f5c594de79e3fa733"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Les chariots à minerai sont vides. Le directeur a scellé la forge lorsque le royaume est tombé. Un chemin de service à l'est de la forteresse ramène au pont ; lève sa barre du nord.",
+          "seconds": 11.93,
+          "tempo": 1.0,
+          "sha256": "0f96ac477ce0281e6958477e5c7aaddac8d5e131c929084ab5f1ec610f4c39ba"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "عربات الخام تقف فارغة. أغلق الآمر الصياغة عندما سقطت المملكة. يؤدي مسار الخدمة شرق القلعة إلى الجسر. ارفع شريطها من الشمال.",
+          "seconds": 13.99,
+          "tempo": 1.0,
+          "sha256": "58c20d53f3c0d9914796fbb3322a10842daa13a540ae22736b7f35163b5b974a"
+        }
+      }
+    },
+    "81887d665a752002727b": {
+      "source": "The things in the churchyard were our neighbors. Something below the graves keeps calling them back.",
+      "speaker": "oren",
+      "clips": {
+        "en": "res://assets/audio/voice/en/81887d665a752002727b.ogg",
+        "bg": "res://assets/audio/voice/bg/81887d665a752002727b.ogg",
+        "ru": "res://assets/audio/voice/ru/81887d665a752002727b.ogg",
+        "fr": "res://assets/audio/voice/fr/81887d665a752002727b.ogg",
+        "ar": "res://assets/audio/voice/ar/81887d665a752002727b.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "The things in the churchyard were our neighbors. Something below the graves keeps calling them back.",
+          "seconds": 7.3,
+          "tempo": 1.0,
+          "sha256": "ce49ef24996b827d8eb07a0db784a91bc4345ff33bcc0f9d812e7e7b02970fa5"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Нещата в двора на църквата бяха наши съседи. Нещо под гробовете продължава да ги зове обратно.",
+          "seconds": 7.78,
+          "tempo": 1.0,
+          "sha256": "abc1e4aeb7fb4dc7dd1f93d94abaf326607933954a875782b7b828462cbf557d"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Существа на кладбище были нашими соседями. Что-то под могилами продолжает звать их обратно.",
+          "seconds": 8.02,
+          "tempo": 1.0,
+          "sha256": "0b0c838aeda6828a3926f1ab5f30b7ef010ff38562e908b8604b3f2f01aa4bb4"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Les choses dans le cimetière étaient nos voisins. Quelque chose sous les tombes ne cesse de les rappeler.",
+          "seconds": 6.55,
+          "tempo": 1.0,
+          "sha256": "46d207da3d86cbe354b5478add6a37e2bc394884c1bc48ff9d66357d40a9f3c4"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "الأشياء الموجودة في باحة الكنيسة كانت لجيراننا. هناك شيء ما تحت القبور يستمر في استدعائهم مرة أخرى.",
+          "seconds": 9.72,
+          "tempo": 1.0,
+          "sha256": "86efd8c74a7cd62293658f7ac8c7b0a74cf25395112dea9753b8f35e84ecc482"
+        }
+      }
+    },
+    "4866d42248a239b67140": {
+      "source": "Please free me. I can work again if the chapel still stands.",
+      "speaker": "oren",
+      "clips": {
+        "en": "res://assets/audio/voice/en/4866d42248a239b67140.ogg",
+        "bg": "res://assets/audio/voice/bg/4866d42248a239b67140.ogg",
+        "ru": "res://assets/audio/voice/ru/4866d42248a239b67140.ogg",
+        "fr": "res://assets/audio/voice/fr/4866d42248a239b67140.ogg",
+        "ar": "res://assets/audio/voice/ar/4866d42248a239b67140.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Please free me. I can work again if the chapel still stands.",
+          "seconds": 5.4,
+          "tempo": 1.0,
+          "sha256": "6938711d2e767a5c4bdce3dd9bfa70ca85ac8039a9341750db3732125fa8ab27"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Моля, освободете ме. Мога да работя отново, ако параклисът все още стои.",
+          "seconds": 6.82,
+          "tempo": 1.0,
+          "sha256": "fc51b502d6a4b8496e126b26b0a627b23582e297d1402894f30b35096e8e3bd9"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Пожалуйста, освободите меня. Я смогу снова работать, если часовня все еще стоит.",
+          "seconds": 8.06,
+          "tempo": 1.0,
+          "sha256": "bb5e1cecea3fc4b8d1ace72f8bc9ad22f0bb4c5f8491b46e3567251ba2c58b82"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "S'il vous plaît, libérez-moi. Je peux à nouveau travailler si la chapelle est toujours debout.",
+          "seconds": 6.86,
+          "tempo": 1.0,
+          "sha256": "ab40c19dfdfbaa4de39692c6703aad56870ca0b2312f140e0216b2dbe9722bae"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "من فضلك حررني. يمكنني العمل مرة أخرى إذا كانت الكنيسة لا تزال قائمة.",
+          "seconds": 7.61,
+          "tempo": 1.0,
+          "sha256": "18be876351b00d8df853ab8f3997fa7c4ac99e99dc71b587d1a0bcdc5a769c0a"
+        }
+      }
+    },
+    "9372da1779d2e27b6fbe": {
+      "source": "A gravedigger guards the seal beneath the burial yard. Defeating him will not be enough: the seal itself must be broken.",
+      "speaker": "oren",
+      "clips": {
+        "en": "res://assets/audio/voice/en/9372da1779d2e27b6fbe.ogg",
+        "bg": "res://assets/audio/voice/bg/9372da1779d2e27b6fbe.ogg",
+        "ru": "res://assets/audio/voice/ru/9372da1779d2e27b6fbe.ogg",
+        "fr": "res://assets/audio/voice/fr/9372da1779d2e27b6fbe.ogg",
+        "ar": "res://assets/audio/voice/ar/9372da1779d2e27b6fbe.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "A gravedigger guards the seal beneath the burial yard. Defeating him will not be enough: the seal itself must be broken.",
+          "seconds": 8.95,
+          "tempo": 1.0,
+          "sha256": "bf8d4d1385287ca93e6a157c74609833d18dc390ea8f0534f379d7a30e559951"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Гробар пази печата под гробния двор. Да го победиш няма да е достатъчно: самият печат трябва да бъде счупен.",
+          "seconds": 8.83,
+          "tempo": 1.0,
+          "sha256": "cee0b1ca040cba0dda658208c98e8fca12d05e00357970aff1ec38e8832df3c9"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Могильщик охраняет печать под могильником. Победить его будет недостаточно: необходимо сломать саму печать.",
+          "seconds": 9.12,
+          "tempo": 1.0,
+          "sha256": "a8a93a860a814d07e17c56a3d8f888cc841db637ff44b9a6292fb63d936c4378"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Un fossoyeur garde le sceau sous le cimetière. Le vaincre ne suffira pas : il faudra briser le sceau lui-même.",
+          "seconds": 7.87,
+          "tempo": 1.0,
+          "sha256": "f767d7a4848542877a5016ccdfb64ee7bacabb1a43aa1b7b8a75b7837c10355f"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "يقوم حفار القبور بحراسة الختم الموجود أسفل ساحة الدفن. لن تكون هزيمته كافية: يجب كسر الختم نفسه.",
+          "seconds": 10.75,
+          "tempo": 1.0,
+          "sha256": "a8bb409d6cb87934e1f2a8cf971fabb2e9b39719354af0231571fb8f9f807dfd"
+        }
+      }
+    },
+    "e50e6a504e44de4ab6cb": {
+      "source": "You came back. My tools are rough, but this sword can still hold an edge.",
+      "speaker": "oren",
+      "clips": {
+        "en": "res://assets/audio/voice/en/e50e6a504e44de4ab6cb.ogg",
+        "bg": "res://assets/audio/voice/bg/e50e6a504e44de4ab6cb.ogg",
+        "ru": "res://assets/audio/voice/ru/e50e6a504e44de4ab6cb.ogg",
+        "fr": "res://assets/audio/voice/fr/e50e6a504e44de4ab6cb.ogg",
+        "ar": "res://assets/audio/voice/ar/e50e6a504e44de4ab6cb.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "You came back. My tools are rough, but this sword can still hold an edge.",
+          "seconds": 6.41,
+          "tempo": 1.0,
+          "sha256": "7d25ba05602aea9d44a554d85ef009d3313450541eb433b9cdc4c566b345faaa"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Ти се върна. Инструментите ми са груби, но този меч все още може да държи острото.",
+          "seconds": 7.22,
+          "tempo": 1.0,
+          "sha256": "1642007cccdd0d7af3acc4054d7cc545ee32a1c395dba1bed55507e0f5a2eba8"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Вы вернулись. Мои инструменты грубы, но этот меч все еще держит заточку.",
+          "seconds": 7.37,
+          "tempo": 1.0,
+          "sha256": "151381905eca0a068530d9cb091242b69db73293e05b40a813a4fe1ac121d6e7"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Vous êtes revenu. Mes outils sont rudimentaires, mais cette épée peut quand même avoir un tranchant.",
+          "seconds": 6.89,
+          "tempo": 1.0,
+          "sha256": "284dbe722e6a0474f2d2b08c5100bf877993e7cb21654538fbbec5676d368fde"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "لقد عدت. أدواتي خشنة، لكن هذا السيف ما زال قادرًا على الاحتفاظ بحافته.",
+          "seconds": 7.75,
+          "tempo": 1.0,
+          "sha256": "b4bc3495fbe007229655057d23b15d9a488785c17764913d8e0e32cf6928e86d"
+        }
+      }
+    },
+    "721cec3967abdce6e530": {
+      "source": "The forge is warm again. Find the burial yard north of the square. The forest ward will hold until the Burial Seal is broken.",
+      "speaker": "oren",
+      "clips": {
+        "en": "res://assets/audio/voice/en/721cec3967abdce6e530.ogg",
+        "bg": "res://assets/audio/voice/bg/721cec3967abdce6e530.ogg",
+        "ru": "res://assets/audio/voice/ru/721cec3967abdce6e530.ogg",
+        "fr": "res://assets/audio/voice/fr/721cec3967abdce6e530.ogg",
+        "ar": "res://assets/audio/voice/ar/721cec3967abdce6e530.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "The forge is warm again. Find the burial yard north of the square. The forest ward will hold until the Burial Seal is broken.",
+          "seconds": 9.91,
+          "tempo": 1.0,
+          "sha256": "766598e5eb05054a04830c535e727de474c92464d7cd2eea109aeada27ddc165"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Ковачницата отново е топла. Намерете гробния двор на север от площада. Горският отдел ще се задържи, докато печатът на погребението не бъде счупен.",
+          "seconds": 12.12,
+          "tempo": 1.0,
+          "sha256": "bf642f2e681ac3505dcb259158eaa687b2553b180e085581d24cd15c09b9e89e"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "В кузнице снова тепло. Найдите кладбище к северу от площади. Лесной оберег будет действовать до тех пор, пока не будет сломана Погребальная печать.",
+          "seconds": 12.91,
+          "tempo": 1.0,
+          "sha256": "1f7b554be990882140e5afd31896e0c423d603407d6f48df41a620b05316fc99"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "La forge est à nouveau chaude. Trouvez le cimetière au nord de la place. Le garde forestier tiendra jusqu'à ce que le sceau funéraire soit brisé.",
+          "seconds": 10.3,
+          "tempo": 1.0,
+          "sha256": "0fe751588746fe2989c2f343695766f2667e6ddb9632384e4e23472f8a5765b2"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "أصبح المساج دافئًا مرة أخرى. ابحث عن ساحة الدفن شمال الساحة. سيظل جناح الغابة صامدًا حتى يتم كسر ختم الدفن.",
+          "seconds": 11.62,
+          "tempo": 1.0,
+          "sha256": "ef4056c9ad61ae938370d89966919e85fd4c38e44a58063a3cad999d098b0842"
+        }
+      }
+    },
+    "f9945bfdb40b454ac5b5": {
+      "source": "Cael left to seek aid while the wounded sheltered in the memorial hall. The Commander held the ward. The dead were people he tried to save.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/f9945bfdb40b454ac5b5.ogg",
+        "bg": "res://assets/audio/voice/bg/f9945bfdb40b454ac5b5.ogg",
+        "ru": "res://assets/audio/voice/ru/f9945bfdb40b454ac5b5.ogg",
+        "fr": "res://assets/audio/voice/fr/f9945bfdb40b454ac5b5.ogg",
+        "ar": "res://assets/audio/voice/ar/f9945bfdb40b454ac5b5.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Cael left to seek aid while the wounded sheltered in the memorial hall. The Commander held the ward. The dead were people he tried to save.",
+          "seconds": 10.44,
+          "tempo": 1.0,
+          "sha256": "9daa8370f479924498c9500e9fe6b765a608ef2637a2720411bb91e3e377bbe6"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Кейл напусна да потърси помощ, докато ранените се приютиха в мемориалната зала. Командирът държеше отделението. Мъртвите бяха хора, които той се опита да спаси.",
+          "seconds": 13.1,
+          "tempo": 1.0,
+          "sha256": "1ab2d4b70e2ac272cbb3fd3a3b5ad0ef349f99d15a9c9c33c3c77fd90f3da522"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Сил ушел за помощью, пока раненые укрылись в мемориальном зале. Командир держал оборону. Погибшими были люди, которых он пытался спасти.",
+          "seconds": 12.6,
+          "tempo": 1.0,
+          "sha256": "2412e6abe53dca1036e66699f9283995faf0425c6d8c199db5c6e021143c5145"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Cael partit chercher de l'aide pendant que les blessés s'abritaient dans la salle commémorative. Le commandant tenait la protection. Les morts étaient des gens qu'il essayait de sauver.",
+          "seconds": 11.26,
+          "tempo": 1.0,
+          "sha256": "531eb842cc8f90c8add895bc58fb599379eac53bad7305f906986fdd75291757"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "غادر كايل لطلب المساعدة بينما احتمى الجرحى في القاعة التذكارية. أمسك القائد الجناح. القتلى هم الأشخاص الذين حاول إنقاذهم.",
+          "seconds": 12.05,
+          "tempo": 1.0,
+          "sha256": "0e7cfb594f11bdaf2a5b3739a283a9c517ea4006d06be6a7d9d7ea8639545456"
+        }
+      }
+    },
+    "9836c5e38caac419d2de": {
+      "source": "The central artifact shatters. For the first time in years, the roads fall silent. The knight returns to Lantern Refuge. Those who survived can begin again.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/9836c5e38caac419d2de.ogg",
+        "bg": "res://assets/audio/voice/bg/9836c5e38caac419d2de.ogg",
+        "fr": "res://assets/audio/voice/fr/9836c5e38caac419d2de.ogg",
+        "ru": "res://assets/audio/voice/ru/9836c5e38caac419d2de.ogg",
+        "ar": "res://assets/audio/voice/ar/9836c5e38caac419d2de.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "The central artifact shatters. For the first time in years, the roads fall silent. The knight returns to Lantern Refuge. Those who survived can begin again.",
+          "seconds": 13.01,
+          "tempo": 1.0,
+          "sha256": "17e67616c336e4cd16e7cd2327ae7aa7ef70059401927b75ae87849b80ae2d69"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Централният артефакт се разбива. За първи път от години пътищата утихват. Рицарят се завръща в Лантерн Рефюдж. Оцелелите могат да започнат отначало.",
+          "seconds": 13.03,
+          "tempo": 1.0,
+          "sha256": "88eba2b1550588b4c43fb18ebce28dc31df26a6334dae11a814179740e4dafa5"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "L'artefact central se brise. Pour la première fois depuis des années, les routes retrouvent le silence. Le chevalier retourne au refuge de la Lanterne. Les survivants peuvent recommencer à vivre.",
+          "seconds": 14.35,
+          "tempo": 1.0,
+          "sha256": "85f6957affefc70038b592e133d40e730d0930f2b9bdae3e74988effd23bd639"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Центральный артефакт разбивается. Впервые за много лет на дорогах воцаряется тишина. Рыцарь возвращается в Лантерн-Рефьюдж. Выжившие могут начать всё заново.",
+          "seconds": 14.88,
+          "tempo": 1.0,
+          "sha256": "9bf1fc82359ab96765e805d928be03fac81785f1a3cb5d813b80a7ee63a844de"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "تتحطم القطعة الأثرية المركزية. ولأول مرة منذ سنوات، يسود الصمت الطرق. يعود الفارس إلى ملجأ الفانوس. ويمكن للناجين أن يبدؤوا من جديد.",
+          "seconds": 15.17,
+          "tempo": 1.0,
+          "sha256": "cec02971624be8e83e5e43821db104a9bca64e394fed11e3fe8c6e2fb41866dd"
+        }
+      }
+    },
+    "5013949c90635d3785f0": {
+      "source": "I thought the ward would never lift. The hounds drove me from the watchtower. My bandages and maps are in a satchel by the fallen wall.",
+      "speaker": "lyra",
+      "clips": {
+        "en": "res://assets/audio/voice/en/5013949c90635d3785f0.ogg",
+        "bg": "res://assets/audio/voice/bg/5013949c90635d3785f0.ogg",
+        "fr": "res://assets/audio/voice/fr/5013949c90635d3785f0.ogg",
+        "ru": "res://assets/audio/voice/ru/5013949c90635d3785f0.ogg",
+        "ar": "res://assets/audio/voice/ar/5013949c90635d3785f0.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-SoniaNeural",
+          "text": "I thought the ward would never lift. The hounds drove me from the watchtower. My bandages and maps are in a satchel by the fallen wall.",
+          "seconds": 9.65,
+          "tempo": 1.0,
+          "sha256": "5c28882ce155644c03d8c079aceae3321ad8c5489f84b64304be76c0ff1d2630"
+        },
+        "bg": {
+          "voice": "bg-BG-KalinaNeural",
+          "text": "Мислех, че отделението никога няма да се вдигне. Хрътките ме изгониха от наблюдателната кула. Бинтовете и картите ми са в чанта до падналата стена.",
+          "seconds": 12.91,
+          "tempo": 1.0,
+          "sha256": "a1be2a4db6b29cc93dc6d6708abe2ad395db654197f94b5da3a158476673d76d"
+        },
+        "fr": {
+          "voice": "fr-FR-DeniseNeural",
+          "text": "Je pensais que la protection ne se lèverait jamais. Les chiens m'ont chassé de la tour de guet. Mes bandages et mes cartes sont dans une sacoche près du mur tombé.",
+          "seconds": 10.63,
+          "tempo": 1.0,
+          "sha256": "360227bd762f1ccace4fa2f4496f6040a8dd6e334fd49040fd850b892d4163de"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Я думал, что защита никогда не снимется. Гончие выгнали меня со сторожевой вышки. Мои бинты и карты лежат в сумке у обрушившейся стены.",
+          "seconds": 12.38,
+          "tempo": 1.0,
+          "sha256": "b8993ef4e6ecdbad64545581b5a814a30d724bd3d5550ae248169e64813b8640"
+        },
+        "ar": {
+          "voice": "ar-EG-SalmaNeural",
+          "text": "اعتقدت أن الجناح لن يُرفع أبدًا. طردتني كلاب الصيد من برج المراقبة. ضماداتي وخرائطي موجودة في حقيبتي بجوار الجدار المنهار.",
+          "seconds": 14.02,
+          "tempo": 1.0,
+          "sha256": "a7f9eb87499cadb44a47568144349d3a799185a15231c6a15ad96a674806b655"
+        }
+      }
+    },
+    "1971f927dacc6fd2c023": {
+      "source": "Clear the two trail hounds, recover the satchel and I will travel with you.",
+      "speaker": "lyra",
+      "clips": {
+        "en": "res://assets/audio/voice/en/1971f927dacc6fd2c023.ogg",
+        "bg": "res://assets/audio/voice/bg/1971f927dacc6fd2c023.ogg",
+        "fr": "res://assets/audio/voice/fr/1971f927dacc6fd2c023.ogg",
+        "ru": "res://assets/audio/voice/ru/1971f927dacc6fd2c023.ogg",
+        "ar": "res://assets/audio/voice/ar/1971f927dacc6fd2c023.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-SoniaNeural",
+          "text": "Clear the two trail hounds, recover the satchel and I will travel with you.",
+          "seconds": 4.94,
+          "tempo": 1.0,
+          "sha256": "8d48a9c3f203c040897891438797c65dea98843af92883689086140ccc2252d4"
+        },
+        "bg": {
+          "voice": "bg-BG-KalinaNeural",
+          "text": "Разчистете двете ловни кучета, вземете чантата и аз ще пътувам с вас.",
+          "seconds": 5.86,
+          "tempo": 1.0,
+          "sha256": "ec6e15d64b33e387c3f145a836fe429b2d6929191b705b1316f04792592bf8d9"
+        },
+        "fr": {
+          "voice": "fr-FR-DeniseNeural",
+          "text": "Éliminez les deux chiens de piste, récupérez le cartable et je voyagerai avec vous.",
+          "seconds": 5.66,
+          "tempo": 1.0,
+          "sha256": "e6529f4837dcd4583140fca04f85882a5d09c676ecb6c718fe8a86f82a18691c"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Очистите двух гончих, заберите сумку, и я пойду с вами.",
+          "seconds": 5.45,
+          "tempo": 1.0,
+          "sha256": "971ab05336312b485d699b4a6cb69876d8aeba622ec474da742fe5127a696f1b"
+        },
+        "ar": {
+          "voice": "ar-EG-SalmaNeural",
+          "text": "قم بإخلاء مساري الصيد، واسترد الحقيبة وسأسافر معك.",
+          "seconds": 6.12,
+          "tempo": 1.0,
+          "sha256": "5508eb90c46184dedec58e7384fb8cf661ad6e6bfd8b690f5c4d28a699f0e4c5"
+        }
+      }
+    },
+    "720582ec59c9e998849c": {
+      "source": "The satchel lies southeast of here, behind the fallen wall by the watchtower post. Stay on the open ground and watch the hounds' windups.",
+      "speaker": "lyra",
+      "clips": {
+        "en": "res://assets/audio/voice/en/720582ec59c9e998849c.ogg",
+        "bg": "res://assets/audio/voice/bg/720582ec59c9e998849c.ogg",
+        "fr": "res://assets/audio/voice/fr/720582ec59c9e998849c.ogg",
+        "ar": "res://assets/audio/voice/ar/720582ec59c9e998849c.ogg",
+        "ru": "res://assets/audio/voice/ru/720582ec59c9e998849c.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-SoniaNeural",
+          "text": "The satchel lies southeast of here, behind the fallen wall by the watchtower post. Stay on the open ground and watch the hounds' windups.",
+          "seconds": 9.55,
+          "tempo": 1.0,
+          "sha256": "ba28cb8f85dc06b8876e35431618231e7e4770ba40f2426de2e4e4e95809e9d8"
+        },
+        "bg": {
+          "voice": "bg-BG-KalinaNeural",
+          "text": "Раницата се намира на югоизток от тук, зад падналата стена до поста на наблюдателната кула. Останете на открито и наблюдавайте намотките на хрътките.",
+          "seconds": 11.47,
+          "tempo": 1.0,
+          "sha256": "1bac81c7ef9be19f40f87a5528b7cc8621375e6c961d28c81d1511d613994169"
+        },
+        "fr": {
+          "voice": "fr-FR-DeniseNeural",
+          "text": "La sacoche se trouve au sud-est d'ici, derrière le mur effondré, près du poste de guet. Restez sur le terrain ouvert et surveillez les mouvements des chiens.",
+          "seconds": 10.54,
+          "tempo": 1.0,
+          "sha256": "0460c21e14f11c60bb73540241ed2842fb108b67a83a91cf3db4a0222f0f5907"
+        },
+        "ar": {
+          "voice": "ar-EG-SalmaNeural",
+          "text": "تقع الحقيبة جنوب شرق هنا، خلف الجدار المنهار بالقرب من مركز برج المراقبة. ابق على الأرض المفتوحة وشاهد تقلبات كلاب الصيد.",
+          "seconds": 13.06,
+          "tempo": 1.0,
+          "sha256": "22cbb6e4b0c2cbb4a00290c1660e841e93f4e12ba29782e20c939c214bdcdce1"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Сумка лежит к юго-востоку отсюда, за рухнувшей стеной возле поста сторожевой башни. Оставайтесь на открытой местности и наблюдайте за тем, как гончие заводятся.",
+          "seconds": 12.14,
+          "tempo": 1.0,
+          "sha256": "07d681dbdc31e4e88dab6cf3a643e09c6f6487e66c47472ecb6a46cea7f5136c"
+        }
+      }
+    },
+    "89362dab44734489961e": {
+      "source": "The Commander ordered us to hold the memorial hall. The wounded were still inside when the ward closed. Cael left to seek help; the report calls him a deserter.",
+      "speaker": "narrator",
+      "clips": {
+        "bg": "res://assets/audio/voice/bg/89362dab44734489961e.ogg",
+        "en": "res://assets/audio/voice/en/89362dab44734489961e.ogg",
+        "fr": "res://assets/audio/voice/fr/89362dab44734489961e.ogg",
+        "ru": "res://assets/audio/voice/ru/89362dab44734489961e.ogg",
+        "ar": "res://assets/audio/voice/ar/89362dab44734489961e.ogg"
+      },
+      "metadata": {
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Командирът ни нареди да задържим мемориалната зала. Ранените все още бяха вътре, когато отделението затвори. Кейл си тръгна да търси помощ; докладът го нарича дезертьор.",
+          "seconds": 13.42,
+          "tempo": 1.0,
+          "sha256": "3b888e7975fd7eb4d5334ad90445da890510d6bcabacb4355bec94bd1bba3659"
+        },
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "The Commander ordered us to hold the memorial hall. The wounded were still inside when the ward closed. Cael left to seek help; the report calls him a deserter.",
+          "seconds": 11.71,
+          "tempo": 1.0,
+          "sha256": "e85d6bd3075a592a8dac4ae82c4b51bacc334d39959c190fa3e6cab4270ba693"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Le commandant nous a ordonné de tenir la salle commémorative. Les blessés étaient toujours à l’intérieur lorsque la salle a fermé ses portes. Cael est parti chercher de l'aide ; le rapport le qualifie de déserteur.",
+          "seconds": 13.54,
+          "tempo": 1.0,
+          "sha256": "ec930ee0272dc6f088c80d5dd4cc785d603b58e884372ef70825536074e86d22"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Командующий приказал нам удерживать мемориальный зал. Раненые все еще находились внутри, когда палата закрылась. Сил ушел искать помощи; в отчете он назван дезертиром.",
+          "seconds": 13.97,
+          "tempo": 1.0,
+          "sha256": "45bf3836deaf79762b0e08687ac8714ae7a96469533ea9e8f63af59d75138e4f"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "أمرنا القائد بإقامة القاعة التذكارية. وكان الجرحى لا يزالون بالداخل عندما أُغلق الجناح. غادر كايل لطلب المساعدة؛ التقرير يصفه بالهارب.",
+          "seconds": 14.52,
+          "tempo": 1.0,
+          "sha256": "fceab7f507e4d87aa8adc6cf43da47f56045ffe2123c6ae8bf8afaf8f9a23d96"
+        }
+      }
+    },
+    "ac7b7ec50b94affc32a6": {
+      "source": "The oath bound our mentor to this place. The record names the people he tried to save.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/ac7b7ec50b94affc32a6.ogg",
+        "bg": "res://assets/audio/voice/bg/ac7b7ec50b94affc32a6.ogg",
+        "fr": "res://assets/audio/voice/fr/ac7b7ec50b94affc32a6.ogg",
+        "ru": "res://assets/audio/voice/ru/ac7b7ec50b94affc32a6.ogg",
+        "ar": "res://assets/audio/voice/ar/ac7b7ec50b94affc32a6.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "The oath bound our mentor to this place. The record names the people he tried to save.",
+          "seconds": 7.1,
+          "tempo": 1.0,
+          "sha256": "2b5fd50201a8de01c18f3b811e3d266a4fc73c4b0d7944b0314cc785cf43e396"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Клетвата обвърза нашия ментор с това място. Записът поименува хората, които той се е опитал да спаси.",
+          "seconds": 8.38,
+          "tempo": 1.0,
+          "sha256": "f78a3fa3f05f8f4f324fa5cbaa4a7b95419d4b0006ed03f20ef51d5cd2a4c7d5"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Le serment liait notre mentor à cet endroit. Le dossier nomme les personnes qu'il a tenté de sauver.",
+          "seconds": 6.91,
+          "tempo": 1.0,
+          "sha256": "48e823d3f9e9f463123e47bd03c31f251d501f287e43706b6877f46ca56c4fab"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Клятва привязала нашего наставника к этому месту. В записи указаны имена людей, которых он пытался спасти.",
+          "seconds": 9.31,
+          "tempo": 1.0,
+          "sha256": "64981448bcb1a3d312eb04b3d711c1889de15b5f9d9686ed406b03da2f9c03ee"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "القسم ربط معلمنا بهذا المكان. يسمي السجل الأشخاص الذين حاول إنقاذهم.",
+          "seconds": 7.75,
+          "tempo": 1.0,
+          "sha256": "49833668cacab1aefc49038e7f46bb7e56c2e9e69c3fd6b4c4de70e685a24317"
+        }
+      }
+    },
+    "5b47deb3a7d0692298ac": {
+      "source": "Return to Sir Cael. The recovered record stays in your journal.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/5b47deb3a7d0692298ac.ogg",
+        "bg": "res://assets/audio/voice/bg/5b47deb3a7d0692298ac.ogg",
+        "fr": "res://assets/audio/voice/fr/5b47deb3a7d0692298ac.ogg",
+        "ru": "res://assets/audio/voice/ru/5b47deb3a7d0692298ac.ogg",
+        "ar": "res://assets/audio/voice/ar/5b47deb3a7d0692298ac.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Return to Sir Cael. The recovered record stays in your journal.",
+          "seconds": 5.86,
+          "tempo": 1.0,
+          "sha256": "424b9197b38830501119a27d83ae9361e304f672aab51a49bab80a220ba7b575"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Върнете се при сър Каел. Възстановеният запис остава във вашия дневник.",
+          "seconds": 6.6,
+          "tempo": 1.0,
+          "sha256": "568f6696602e4c29e19554b979d48cf311b834dfe455fed9f9b08d3505778c79"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Retournez voir Sire Cael. L'enregistrement récupéré reste dans votre journal.",
+          "seconds": 6.46,
+          "tempo": 1.0,
+          "sha256": "bbb370708e5db78b0c0456485435e79b85ca5a297abc35c864c81720965661d4"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Вернитесь к сэру Силу. Восстановленная запись останется в вашем журнале.",
+          "seconds": 7.18,
+          "tempo": 1.0,
+          "sha256": "cc007bf5123dfbf638ec63c28b0b2e6e3a06b53e9c189e1866523c9e2bacc3a2"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "العودة إلى السير كايل. يبقى السجل المسترد في دفتر يومياتك.",
+          "seconds": 6.58,
+          "tempo": 1.0,
+          "sha256": "49715f370d5018f15ec0a368b1fe7429d6fa799d0b7c060bc02c30336d378fb2"
+        }
+      }
+    },
+    "90b53f828eb6132ebafd": {
+      "source": "I left this order to find help. No one returned with me. They call that desertion.",
+      "speaker": "cael",
+      "clips": {
+        "en": "res://assets/audio/voice/en/90b53f828eb6132ebafd.ogg",
+        "bg": "res://assets/audio/voice/bg/90b53f828eb6132ebafd.ogg",
+        "fr": "res://assets/audio/voice/fr/90b53f828eb6132ebafd.ogg",
+        "ru": "res://assets/audio/voice/ru/90b53f828eb6132ebafd.ogg",
+        "ar": "res://assets/audio/voice/ar/90b53f828eb6132ebafd.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "I left this order to find help. No one returned with me. They call that desertion.",
+          "seconds": 7.63,
+          "tempo": 1.0,
+          "sha256": "6f098d56cc64a5cd864a66e22304715c2d913a6a14913887601e1290da458ca7"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Напуснах тази поръчка, за да намеря помощ. Никой не се върна с мен. Наричат ​​това дезертиране.",
+          "seconds": 8.83,
+          "tempo": 1.0,
+          "sha256": "a865ca9923d23a5ec34abece0d327be956d975af0b156c9ae03b5ac1b9544085"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "J'ai quitté cette commande pour trouver de l'aide. Personne n'est revenu avec moi. On appelle ça la désertion.",
+          "seconds": 8.33,
+          "tempo": 1.0,
+          "sha256": "dfb30483159a29f4b7c60e648cf8f2bdd41bc628defea6ab03a0bf1442ef57b9"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Я оставил этот заказ, чтобы найти помощь. Со мной никто не вернулся. Они называют это дезертирством.",
+          "seconds": 10.13,
+          "tempo": 1.0,
+          "sha256": "cace9495e03e176ce564474d9c45e0d867f2a4b7d38bfda8adaf4a41526e7d21"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "لقد تركت هذا الطلب للحصول على المساعدة. ولم يعد أحد معي. يسمون ذلك الهجر.",
+          "seconds": 9.36,
+          "tempo": 1.0,
+          "sha256": "062c26b34953b9ce9bd02181cef104aae601e7c9e8bacecdd440847dbce46be7"
+        }
+      }
+    },
+    "c39d0e4f7f76120c2e10": {
+      "source": "Three sentries still patrol the courtyard and barracks. Clear them, then recover the expedition record from the memorial hall to the northwest. I need to know who was left behind.",
+      "speaker": "cael",
+      "clips": {
+        "en": "res://assets/audio/voice/en/c39d0e4f7f76120c2e10.ogg",
+        "bg": "res://assets/audio/voice/bg/c39d0e4f7f76120c2e10.ogg",
+        "fr": "res://assets/audio/voice/fr/c39d0e4f7f76120c2e10.ogg",
+        "ru": "res://assets/audio/voice/ru/c39d0e4f7f76120c2e10.ogg",
+        "ar": "res://assets/audio/voice/ar/c39d0e4f7f76120c2e10.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Three sentries still patrol the courtyard and barracks. Clear them, then recover the expedition record from the memorial hall to the northwest. I need to know who was left behind.",
+          "seconds": 12.94,
+          "tempo": 1.0,
+          "sha256": "b8c50e25f33ebe2896ed2af8c0e3d156bccdd91dd6e8da0e7f4972f384c894ab"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Трима часови все още патрулират в двора и казармите. Изчистете ги, след това възстановете записа на експедицията от мемориалната зала на северозапад. Трябва да знам кой е изоставен.",
+          "seconds": 14.21,
+          "tempo": 1.0,
+          "sha256": "72a501cbfa4276cf5d1b7aba37fec377d56060e777d3015badefaaf892b64180"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Trois sentinelles patrouillent toujours dans la cour et la caserne. Éliminez-les, puis récupérez le dossier de l'expédition dans la salle commémorative au nord-ouest. J'ai besoin de savoir qui a été laissé derrière.",
+          "seconds": 13.7,
+          "tempo": 1.0,
+          "sha256": "e6be295d0c2dd86123fe6843534a57f258a80e328ccd45bcaec291e723993d5c"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Трое часовых все еще патрулируют двор и казармы. Очистите их, а затем заберите отчет об экспедиции в мемориальном зале на северо-западе. Мне нужно знать, кто остался позади.",
+          "seconds": 14.28,
+          "tempo": 1.0,
+          "sha256": "9baa8d6d2cc5fe145ed950429e57468e2d7ad159b556e5038337feaa240631ed"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "لا يزال ثلاثة حراس يقومون بدوريات في الفناء والثكنات. قم بمسحها، ثم استرجع سجل البعثة من القاعة التذكارية إلى الشمال الغربي. أريد أن أعرف من بقي في الخلف.",
+          "seconds": 15.24,
+          "tempo": 1.0,
+          "sha256": "6987a7e341f9597d73a87546146071c7319d938bd358ed23c87c44bc3bafa9db"
+        }
+      }
+    },
+    "71981f5571bb789f03cc": {
+      "source": "His oath is ended. The record will help us remember the man he was.",
+      "speaker": "cael",
+      "clips": {
+        "en": "res://assets/audio/voice/en/71981f5571bb789f03cc.ogg",
+        "bg": "res://assets/audio/voice/bg/71981f5571bb789f03cc.ogg",
+        "ru": "res://assets/audio/voice/ru/71981f5571bb789f03cc.ogg",
+        "fr": "res://assets/audio/voice/fr/71981f5571bb789f03cc.ogg",
+        "ar": "res://assets/audio/voice/ar/71981f5571bb789f03cc.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "His oath is ended. The record will help us remember the man he was.",
+          "seconds": 5.69,
+          "tempo": 1.0,
+          "sha256": "9bbd731f5179b7b2b8f77c274cf638d5bcef3dcbdb888b9208a6eb18e4f39a28"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Клетвата му приключи. Записът ще ни помогне да си спомним какъв човек беше.",
+          "seconds": 6.6,
+          "tempo": 1.0,
+          "sha256": "9f03d6bda8d2f3e71b0747fd1e87367319305acddfe881f755ab67728748bfb2"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Его клятва закончилась. Запись поможет нам вспомнить, каким человеком он был.",
+          "seconds": 7.56,
+          "tempo": 1.0,
+          "sha256": "e98be5401c8d01a6a5b0a8213b7345d27c145ed2b3129a5c7c1916c146190081"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Son serment est terminé. Le dossier nous aidera à nous souvenir de l'homme qu'il était.",
+          "seconds": 6.02,
+          "tempo": 1.0,
+          "sha256": "0dda9c0ad15de57da1aec7fa9835f9edc053d8fceeac19bfd417be85ffb22071"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "انتهى قسمه. سيساعدنا السجل على تذكر الرجل الذي كان عليه.",
+          "seconds": 6.72,
+          "tempo": 1.0,
+          "sha256": "917c5a21f442a226d38a9a1ef550876cd10b4534418520954fe6de12fd4ab9f3"
+        }
+      }
+    },
+    "354e531ce956059bff79": {
+      "source": "He was your mentor too. His sanctum is north of the collapsed courtyard. Watch for his second crosscut. His lowered blade is your opening. After he falls, break the Oath Seal to open the mountain road.",
+      "speaker": "cael",
+      "clips": {
+        "bg": "res://assets/audio/voice/bg/354e531ce956059bff79.ogg",
+        "en": "res://assets/audio/voice/en/354e531ce956059bff79.ogg",
+        "fr": "res://assets/audio/voice/fr/354e531ce956059bff79.ogg",
+        "ar": "res://assets/audio/voice/ar/354e531ce956059bff79.ogg",
+        "ru": "res://assets/audio/voice/ru/354e531ce956059bff79.ogg"
+      },
+      "metadata": {
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Той беше и ваш ментор. Неговото светилище е северно от срутения двор. Внимавайте за втория му напречен удар. Спуснатото му острие е вашият отвор. След като той падне, счупете клетвения печат, за да отворите планинския път.",
+          "seconds": 18.86,
+          "tempo": 1.0,
+          "sha256": "c151484d63cbecdcb60c0c7cb6c4a5c7ebb11ce9a5dc60b693a8ef474afcccc4"
+        },
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "He was your mentor too. His sanctum is north of the collapsed courtyard. Watch for his second crosscut. His lowered blade is your opening. After he falls, break the Oath Seal to open the mountain road.",
+          "seconds": 16.3,
+          "tempo": 1.0,
+          "sha256": "04f8305da36d462952f8e37892716cbe774556e28f23a0310c5ceb861fdd8a28"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Il était aussi votre mentor. Son sanctuaire se trouve au nord de la cour effondrée. Surveillez son deuxième croisement. Sa lame abaissée est votre ouverture. Après sa chute, brisez le sceau du serment pour ouvrir la route de la montagne.",
+          "seconds": 16.94,
+          "tempo": 1.0,
+          "sha256": "ad7edc2e2be2a3a82d1f845295aca64210d40c9645875eccf8d21896969c9bee"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "لقد كان معلمك أيضًا. يقع حرمه شمال الفناء المنهار. انتبه لتقاطعه الثاني. نصله المنخفض هو افتتاحك. بعد سقوطه، اكسر ختم القسم لفتح الطريق الجبلي.",
+          "seconds": 17.86,
+          "tempo": 1.0,
+          "sha256": "2514a493f9c4b0835534cff09ba8792644c1b9d2c045f81263ca23ad4115d6e0"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Он также был вашим наставником. Его святилище находится к северу от разрушенного двора. Следите за его вторым ударом. Его опущенный клинок — ваше открытие. После того, как он упадет, сломайте Печать Клятвы, чтобы открыть горную дорогу.",
+          "seconds": 21.26,
+          "tempo": 1.0,
+          "sha256": "372d04ca70147a3e813eddbf3ebc53e0cd171b4a2ce25b4d2791e312102b1f57"
+        }
+      }
+    },
+    "fc0015d6414ad836a338": {
+      "source": "The wizard has fallen, but the curse still clings to this anchor. All four seals are broken. Shatter the artifact and end the curse?",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/fc0015d6414ad836a338.ogg",
+        "bg": "res://assets/audio/voice/bg/fc0015d6414ad836a338.ogg",
+        "fr": "res://assets/audio/voice/fr/fc0015d6414ad836a338.ogg",
+        "ru": "res://assets/audio/voice/ru/fc0015d6414ad836a338.ogg",
+        "ar": "res://assets/audio/voice/ar/fc0015d6414ad836a338.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "The wizard has fallen, but the curse still clings to this anchor. All four seals are broken. Shatter the artifact and end the curse?",
+          "seconds": 10.25,
+          "tempo": 1.0,
+          "sha256": "55d2ed32a284d8c429d690c8e2ba1af8c994ba603879c0c29ac6b70cf6b29cd3"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Магьосникът падна, но проклятието все още се придържа към тази котва. И четирите печата са счупени. Разбийте артефакта и сложете край на проклятието?",
+          "seconds": 12.12,
+          "tempo": 1.0,
+          "sha256": "df5d03d52516f630ebbe98656d9e68549c658505e080dc4e11268a47c49c3fce"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Le sorcier est tombé, mais la malédiction s'accroche toujours à cette ancre. Les quatre sceaux sont brisés. Briser l'artefact et mettre fin à la malédiction ?",
+          "seconds": 10.92,
+          "tempo": 1.0,
+          "sha256": "fdf0e01012d552ed834fbb35fe5c50c09a11ef1739282a972977b02f5dfc4c4b"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Волшебник пал, но проклятие все еще цепляется за этот якорь. Все четыре печати сломаны. Разбить артефакт и снять проклятие?",
+          "seconds": 12.1,
+          "tempo": 1.0,
+          "sha256": "a54b1a357178af42256d3e7b3e6e5c95b3a4fe463ac614f4fb7b56f0105fa582"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "لقد سقط الساحر، لكن اللعنة لا تزال متمسكة بهذه المرساة. جميع الأختام الأربعة مكسورة. تحطيم القطعة الأثرية وإنهاء اللعنة؟",
+          "seconds": 13.01,
+          "tempo": 1.0,
+          "sha256": "5d9537c0b329ee641aa1ef7043c262b75f0b627d89635fd94f23131bc4e5eccf"
+        }
+      }
+    },
+    "ce3b1dbd2374c2d5bdc2": {
+      "source": "Your journey will be saved at the restored refuge. You can continue exploring afterward.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/ce3b1dbd2374c2d5bdc2.ogg",
+        "bg": "res://assets/audio/voice/bg/ce3b1dbd2374c2d5bdc2.ogg",
+        "fr": "res://assets/audio/voice/fr/ce3b1dbd2374c2d5bdc2.ogg",
+        "ru": "res://assets/audio/voice/ru/ce3b1dbd2374c2d5bdc2.ogg",
+        "ar": "res://assets/audio/voice/ar/ce3b1dbd2374c2d5bdc2.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Your journey will be saved at the restored refuge. You can continue exploring afterward.",
+          "seconds": 6.98,
+          "tempo": 1.0,
+          "sha256": "38c04293dde931ba1d4e6f219d4400870f25857ba6556efcf175e49fbef1670f"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Вашето пътуване ще бъде запазено в реставрираното убежище. Можете да продължите да изследвате след това.",
+          "seconds": 8.23,
+          "tempo": 1.0,
+          "sha256": "d8aadbb4b78b2f496ca2c29b996b0ec4b049a0c21f9ce8aa56fc346c37f605f5"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Votre voyage sera sauvegardé au refuge restauré. Vous pourrez ensuite poursuivre votre exploration.",
+          "seconds": 7.22,
+          "tempo": 1.0,
+          "sha256": "467c362d232b7b1ac0fd28a44ef6570d6cf0527a8a4252ecf4195b49ce9896ad"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Ваше путешествие будет сохранено в восстановленном убежище. Вы можете продолжить исследование позже.",
+          "seconds": 8.42,
+          "tempo": 1.0,
+          "sha256": "6c0ded458b1dc74b31dc65e6bf633380a7cf876eb3b1ff581120cbcc0251548f"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "سيتم حفظ رحلتك في الملجأ المستعاد. يمكنك مواصلة الاستكشاف بعد ذلك.",
+          "seconds": 7.63,
+          "tempo": 1.0,
+          "sha256": "a799baafe6ff13b1b17c6e0c54ae411e3aaa7fa927486f2a69721d8ed88c74f9"
+        }
+      }
+    },
+    "82ac6f3f559d7fd5e04a": {
+      "source": "Four seals feed one anchor. Defeat the wizard, then shatter the central artifact by your own hand. His death alone will not cleanse the kingdom.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/82ac6f3f559d7fd5e04a.ogg",
+        "bg": "res://assets/audio/voice/bg/82ac6f3f559d7fd5e04a.ogg",
+        "fr": "res://assets/audio/voice/fr/82ac6f3f559d7fd5e04a.ogg",
+        "ru": "res://assets/audio/voice/ru/82ac6f3f559d7fd5e04a.ogg",
+        "ar": "res://assets/audio/voice/ar/82ac6f3f559d7fd5e04a.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Four seals feed one anchor. Defeat the wizard, then shatter the central artifact by your own hand. His death alone will not cleanse the kingdom.",
+          "seconds": 11.09,
+          "tempo": 1.0,
+          "sha256": "de12d6ce4bdfc0dbfde902cb9c08a8e58b8c05c643c7c85d9e524325b73361ab"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Четири уплътнения захранват една котва. Победете магьосника, след което разбийте централния артефакт от собствената си ръка. Само смъртта му няма да изчисти кралството.",
+          "seconds": 13.27,
+          "tempo": 1.0,
+          "sha256": "98efd41e7dfaaa922839ce57d9f447532c3eb33769db8db08a6ff4ac626f39fc"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Quatre joints alimentent une ancre. Battez le sorcier, puis brisez l'artefact central de votre propre main. Sa mort à elle seule ne purifiera pas le royaume.",
+          "seconds": 11.18,
+          "tempo": 1.0,
+          "sha256": "1f8c378ba3931d4c62bc91210ac5823c777d035a0323434d59df124acfa22c68"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Четыре печати питают один якорь. Победите волшебника, а затем разбейте центральный артефакт собственной рукой. Одна только его смерть не очистит королевство.",
+          "seconds": 13.34,
+          "tempo": 1.0,
+          "sha256": "69d0765f3c26f7f3b22e2d1d8543be49ca85058977248d3180bb55dd0681e5a5"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "أربعة أختام تغذي مرساة واحدة. اهزم الساحر، ثم حطم القطعة الأثرية المركزية بيدك. موته وحده لن يطهر المملكة.",
+          "seconds": 12.72,
+          "tempo": 1.0,
+          "sha256": "a0d36f1119c97d261c0cfa4f72c1ff0e8b4967edff2cd0a9d81325afcbcd0924"
+        }
+      }
+    },
+    "209b8b4753c06d550d45": {
+      "source": "We travel together, or I wait at the refuge. Only one companion can follow. Rest at a lantern to recover a downed companion.",
+      "speaker": "lyra",
+      "clips": {
+        "bg": "res://assets/audio/voice/bg/209b8b4753c06d550d45.ogg",
+        "en": "res://assets/audio/voice/en/209b8b4753c06d550d45.ogg",
+        "fr": "res://assets/audio/voice/fr/209b8b4753c06d550d45.ogg",
+        "ar": "res://assets/audio/voice/ar/209b8b4753c06d550d45.ogg",
+        "ru": "res://assets/audio/voice/ru/209b8b4753c06d550d45.ogg"
+      },
+      "metadata": {
+        "bg": {
+          "voice": "bg-BG-KalinaNeural",
+          "text": "Пътуваме заедно или чакам в убежището. Само един спътник може да го последва. Починете на фенер, за да върнете свален спътник.",
+          "seconds": 11.52,
+          "tempo": 1.0,
+          "sha256": "6ad4d28e79daa57c612459252dfbb22d4cb48d7ec56c921f3e9f38386e5ac51c"
+        },
+        "en": {
+          "voice": "en-GB-SoniaNeural",
+          "text": "We travel together, or I wait at the refuge. Only one companion can follow. Rest at a lantern to recover a downed companion.",
+          "seconds": 9.67,
+          "tempo": 1.0,
+          "sha256": "7767c305dd47ef872cf16fff28820c3af44cbb27e0644802f0a5071171d9d122"
+        },
+        "fr": {
+          "voice": "fr-FR-DeniseNeural",
+          "text": "Nous voyageons ensemble, ou j'attends au refuge. Un seul compagnon peut suivre. Reposez-vous près d'une lanterne pour récupérer un compagnon abattu.",
+          "seconds": 11.35,
+          "tempo": 1.0,
+          "sha256": "52b07d02f1d149f8742147aeeb32d3d71dea998bffc5ee0df6da1bf4b719b8d6"
+        },
+        "ar": {
+          "voice": "ar-EG-SalmaNeural",
+          "text": "نسافر معًا، أو أنتظر في الملجأ. يمكن لرفيق واحد فقط أن يتبعه. استرح عند الفانوس لاستعادة رفيقك الذي سقط.",
+          "seconds": 13.39,
+          "tempo": 1.0,
+          "sha256": "8724dfd4acf054a48480ff68d14ead6f47c1e791ecc02a202aec573f3b63db68"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Мы путешествуем вместе, или я жду в убежище. Следовать за ним может только один спутник. Отдохните у фонаря, чтобы найти сбитого товарища.",
+          "seconds": 12.65,
+          "tempo": 1.0,
+          "sha256": "9bb5abddd337fa49ea828c5be79058246d8b5ff545e9edf9fda0c2c8f1cdb47d"
+        }
+      }
+    },
+    "09219849590bbc364a88": {
+      "source": "We travel together, or I wait at the refuge. Only one companion can follow. Rest at a lantern to recover a downed companion.",
+      "speaker": "cael",
+      "clips": {
+        "en": "res://assets/audio/voice/en/09219849590bbc364a88.ogg",
+        "bg": "res://assets/audio/voice/bg/09219849590bbc364a88.ogg",
+        "fr": "res://assets/audio/voice/fr/09219849590bbc364a88.ogg",
+        "ru": "res://assets/audio/voice/ru/09219849590bbc364a88.ogg",
+        "ar": "res://assets/audio/voice/ar/09219849590bbc364a88.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "We travel together, or I wait at the refuge. Only one companion can follow. Rest at a lantern to recover a downed companion.",
+          "seconds": 10.58,
+          "tempo": 1.0,
+          "sha256": "48e7edef71aa07227fd728fa4bdcc238583b378412066a2bd3e96ee3e2c8aeb2"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Пътуваме заедно или чакам в убежището. Само един спътник може да го последва. Починете на фенер, за да върнете свален спътник.",
+          "seconds": 11.14,
+          "tempo": 1.0,
+          "sha256": "2e72965f61669dc70d56380739f44e79bb528f3f747c2598a1c0f499897311dd"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Nous voyageons ensemble, ou j'attends au refuge. Un seul compagnon peut suivre. Reposez-vous près d'une lanterne pour récupérer un compagnon abattu.",
+          "seconds": 10.92,
+          "tempo": 1.0,
+          "sha256": "06609ebf4a8e3cd33f90e9722b6fd8e258ec2fd427d10bba7d87e389ac0f5d3f"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Мы путешествуем вместе, или я жду в убежище. Следовать за ним может только один спутник. Отдохните у фонаря, чтобы найти сбитого товарища.",
+          "seconds": 12.91,
+          "tempo": 1.0,
+          "sha256": "a98ebc1fa6a5ed7b03d2cb89bc50a3918e16b431afeab625c7afaf000f4e2e3f"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "نسافر معًا، أو أنتظر في الملجأ. يمكن لرفيق واحد فقط أن يتبعه. استرح عند الفانوس لاستعادة رفيقك الذي سقط.",
+          "seconds": 12.14,
+          "tempo": 1.0,
+          "sha256": "6871b977069696370d297860335a76f8ebcd96e5796f4bdc167133e52aee4644"
+        }
+      }
+    },
+    "d155ca4fae345d69ea3e": {
+      "source": "His oath is ended. I will carry the names from the memorial, not the shame that kept me here.",
+      "speaker": "cael",
+      "clips": {
+        "en": "res://assets/audio/voice/en/d155ca4fae345d69ea3e.ogg",
+        "bg": "res://assets/audio/voice/bg/d155ca4fae345d69ea3e.ogg",
+        "fr": "res://assets/audio/voice/fr/d155ca4fae345d69ea3e.ogg",
+        "ru": "res://assets/audio/voice/ru/d155ca4fae345d69ea3e.ogg",
+        "ar": "res://assets/audio/voice/ar/d155ca4fae345d69ea3e.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "His oath is ended. I will carry the names from the memorial, not the shame that kept me here.",
+          "seconds": 7.08,
+          "tempo": 1.0,
+          "sha256": "57dec2007daebdad693ee9651ed920fbc29981a0b73f5ad436e663ba04dfc299"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Клетвата му приключи. Ще нося имената от мемориала, а не срама, който ме задържа тук.",
+          "seconds": 7.37,
+          "tempo": 1.0,
+          "sha256": "ffa82d11bd1f814e485f91bca842307485c443b7a6f512e94f9e36bce875ec2e"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Son serment est terminé. Je porterai les noms du mémorial, pas la honte qui m'a retenu ici.",
+          "seconds": 6.89,
+          "tempo": 1.0,
+          "sha256": "812eceff64f69f654be7ae27b24e33abdd1fb98aa4755b5b4912489361dbdfa7"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Его клятва закончилась. Я буду нести имена из мемориала, а не стыд, который удерживал меня здесь.",
+          "seconds": 8.98,
+          "tempo": 1.0,
+          "sha256": "32174ce7a3e91192c3e21162f4914ee5acd574de0af3554b067a2fe86ad8659a"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "انتهى قسمه. سأحمل الأسماء من النصب التذكاري، وليس العار الذي أبقاني هنا.",
+          "seconds": 7.97,
+          "tempo": 1.0,
+          "sha256": "627e21c1189acceb315ee16b4b4e12d65169ab11b6dcf94d8f7d473688e292b8"
+        }
+      }
+    },
+    "7d39732334de5ed0ea6c": {
+      "source": "Complete the ally's authored rescue or recruitment quest",
+      "speaker": "lyra",
+      "clips": {
+        "en": "res://assets/audio/voice/en/7d39732334de5ed0ea6c.ogg",
+        "bg": "res://assets/audio/voice/bg/7d39732334de5ed0ea6c.ogg",
+        "ru": "res://assets/audio/voice/ru/7d39732334de5ed0ea6c.ogg",
+        "fr": "res://assets/audio/voice/fr/7d39732334de5ed0ea6c.ogg",
+        "ar": "res://assets/audio/voice/ar/7d39732334de5ed0ea6c.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-SoniaNeural",
+          "text": "Complete the ally's authored rescue or recruitment quest",
+          "seconds": 4.3,
+          "tempo": 1.0,
+          "sha256": "4bb05a508a51230e04de947efd22b3c7575a949af67023c39b09892e3e817abb"
+        },
+        "bg": {
+          "voice": "bg-BG-KalinaNeural",
+          "text": "Завършете мисията на съюзника за спасяване или набиране",
+          "seconds": 4.92,
+          "tempo": 1.0,
+          "sha256": "1c2ea2519f4d40cba96f355765e82de760afd3b82b608d2bee25509e002ca00d"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Завершите авторский квест по спасению или вербовке союзника.",
+          "seconds": 5.21,
+          "tempo": 1.0,
+          "sha256": "6413a7e6754f97d40083cb97541f7dab6f2baf7201ab943a7c878b0d55f36205"
+        },
+        "fr": {
+          "voice": "fr-FR-DeniseNeural",
+          "text": "Terminez la quête de sauvetage ou de recrutement créée par l'allié.",
+          "seconds": 4.56,
+          "tempo": 1.0,
+          "sha256": "bbab2332394426ad60ec477cf4019b3c5769e8e8e225761f742195bddfb792e7"
+        },
+        "ar": {
+          "voice": "ar-EG-SalmaNeural",
+          "text": "أكمل مهمة الإنقاذ أو التجنيد المكتوبة للحليف",
+          "seconds": 4.99,
+          "tempo": 1.0,
+          "sha256": "828138011c1bee902a9ed3d10e53549762c34c8b07740a2db34abb51aa11336a"
+        }
+      }
+    },
+    "28eaa9c7a2fdab2b645c": {
+      "source": "Recover the expedition record and return to Sir Cael",
+      "speaker": "cael",
+      "clips": {
+        "en": "res://assets/audio/voice/en/28eaa9c7a2fdab2b645c.ogg",
+        "bg": "res://assets/audio/voice/bg/28eaa9c7a2fdab2b645c.ogg",
+        "ru": "res://assets/audio/voice/ru/28eaa9c7a2fdab2b645c.ogg",
+        "fr": "res://assets/audio/voice/fr/28eaa9c7a2fdab2b645c.ogg",
+        "ar": "res://assets/audio/voice/ar/28eaa9c7a2fdab2b645c.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Recover the expedition record and return to Sir Cael",
+          "seconds": 4.37,
+          "tempo": 1.0,
+          "sha256": "b525f9ec93113eb13f42dd58e0b38ce64c1e4ce383427c2aabdc619282bb580f"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Възстановете записа на експедицията и се върнете при сър Каел",
+          "seconds": 4.75,
+          "tempo": 1.0,
+          "sha256": "9fe496539d46860717ed79b4ddc1ec8c678bdf6f0ed19f3d0aec6970cc081e41"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Найдите отчет об экспедиции и вернитесь к сэру Силу.",
+          "seconds": 4.73,
+          "tempo": 1.0,
+          "sha256": "0ed0f159e12866b38a90f2a4bcd204b0b859f33d5fe06406c8eb28b684786026"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Récupérez le dossier de l'expédition et retournez voir Sire Cael.",
+          "seconds": 4.73,
+          "tempo": 1.0,
+          "sha256": "a4ec013dafe7ff59ad12874df8ffd2add60f9bd563f0b882cb2910d6a80b3b0f"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "استرجع سجل الرحلة الاستكشافية وارجع إلى السير كايل",
+          "seconds": 4.87,
+          "tempo": 1.0,
+          "sha256": "e52004fcf8c6a311c7c028719bba8ed21b85c01d6175ecd070ff38d02a7f681b"
+        }
+      }
+    },
+    "291c915318fcbe893a72": {
+      "source": "Sword is already fully upgraded",
+      "speaker": "oren",
+      "clips": {
+        "en": "res://assets/audio/voice/en/291c915318fcbe893a72.ogg",
+        "bg": "res://assets/audio/voice/bg/291c915318fcbe893a72.ogg",
+        "ru": "res://assets/audio/voice/ru/291c915318fcbe893a72.ogg",
+        "fr": "res://assets/audio/voice/fr/291c915318fcbe893a72.ogg",
+        "ar": "res://assets/audio/voice/ar/291c915318fcbe893a72.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Sword is already fully upgraded",
+          "seconds": 3.02,
+          "tempo": 1.0,
+          "sha256": "d5b325ada8ce812b275ece2c2d8c0afa30bc52082dc26d1b7a9106558ee0bc4d"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Мечът вече е напълно надграден",
+          "seconds": 3.05,
+          "tempo": 1.0,
+          "sha256": "08191e260c9c11adaf01b6bcc2b621fd9107f33e665a7320472e4dfdb78036a4"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Меч уже полностью обновлен.",
+          "seconds": 3.29,
+          "tempo": 1.0,
+          "sha256": "6698007fc9365264ff002042966a5843f518a4395a83246a4204696fe64e11aa"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Sword est déjà entièrement mis à niveau",
+          "seconds": 3.14,
+          "tempo": 1.0,
+          "sha256": "71b2cdebd9e46b3312d868f0260062e9edaff23e1de6269dd0748bfb8e28c622"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "تمت ترقية السيف بالكامل بالفعل",
+          "seconds": 3.6,
+          "tempo": 1.0,
+          "sha256": "8ef044009266e3c4bfd58d619ecaff663766b0ec82f550401bd5bd991fd5cab5"
+        }
+      }
+    },
+    "9aa8308ab26f55bb6abf": {
+      "source": "Need 60 shards",
+      "speaker": "oren",
+      "clips": {
+        "en": "res://assets/audio/voice/en/9aa8308ab26f55bb6abf.ogg",
+        "bg": "res://assets/audio/voice/bg/9aa8308ab26f55bb6abf.ogg",
+        "fr": "res://assets/audio/voice/fr/9aa8308ab26f55bb6abf.ogg",
+        "ru": "res://assets/audio/voice/ru/9aa8308ab26f55bb6abf.ogg",
+        "ar": "res://assets/audio/voice/ar/9aa8308ab26f55bb6abf.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Need 60 shards",
+          "seconds": 2.57,
+          "tempo": 1.0,
+          "sha256": "8ce25bcc90c39cfc2337b108704eb74e3adcb9fa5840f3ffdc3f565d540d7f97"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Нуждаете се от 60 фрагменти",
+          "seconds": 3.19,
+          "tempo": 1.0,
+          "sha256": "f97ea43d660304db61c72f8430bf3ea6c9fd1f48932f9d6e2896d85ce0d1e751"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Besoin de fragments 60",
+          "seconds": 2.86,
+          "tempo": 1.0,
+          "sha256": "0a07a436dba0e9459706b9d5f3c6ee00b181ff65bc817bc99073d97cf9edd6f3"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Нужны осколки 60",
+          "seconds": 3.24,
+          "tempo": 1.0,
+          "sha256": "0140b3e7cbe3ad12e0e534495cd9fe496e4c9099a48ee5338d52ed13b6f66877"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "بحاجة إلى أجزاء 60",
+          "seconds": 3.26,
+          "tempo": 1.0,
+          "sha256": "f8b23a0bb35fee383b5015ed1e7af5c3993fb9972e484aa538feaad665f3e2b5"
+        }
+      }
+    },
+    "78444f57e7932f11c4ba": {
+      "source": "Need 120 shards",
+      "speaker": "oren",
+      "clips": {
+        "en": "res://assets/audio/voice/en/78444f57e7932f11c4ba.ogg",
+        "bg": "res://assets/audio/voice/bg/78444f57e7932f11c4ba.ogg",
+        "ru": "res://assets/audio/voice/ru/78444f57e7932f11c4ba.ogg",
+        "fr": "res://assets/audio/voice/fr/78444f57e7932f11c4ba.ogg",
+        "ar": "res://assets/audio/voice/ar/78444f57e7932f11c4ba.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Need 120 shards",
+          "seconds": 3.19,
+          "tempo": 1.0,
+          "sha256": "68aa663a9208043d9adac28fd5ffb23808f57ed15ec4ad286084c39f113d231f"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Нуждаете се от 120 фрагменти",
+          "seconds": 3.43,
+          "tempo": 1.0,
+          "sha256": "5c622c8447d626bc93b335e9fc64820dd76499dcafdd0d35a4ad246c6e252f13"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Нужны осколки 120",
+          "seconds": 3.17,
+          "tempo": 1.0,
+          "sha256": "58f265b82df6a81d643bb1151461a68fdb90d1e627d855cd504dcdbb00e7df1b"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Besoin de fragments 120",
+          "seconds": 2.64,
+          "tempo": 1.0,
+          "sha256": "6362a5ee18e066c77a0006e76b5b11a7151d92387816241ccfb775840509cab8"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "بحاجة إلى أجزاء 120",
+          "seconds": 3.79,
+          "tempo": 1.0,
+          "sha256": "11db648b85bed3492d2a2f2f7b6680028b4e3d97a981d066911a733e368a75f8"
+        }
+      }
+    },
+    "f53a9ae0b19c80e28c8f": {
+      "source": "Sword upgraded to tier 1",
+      "speaker": "oren",
+      "clips": {
+        "en": "res://assets/audio/voice/en/f53a9ae0b19c80e28c8f.ogg",
+        "bg": "res://assets/audio/voice/bg/f53a9ae0b19c80e28c8f.ogg",
+        "ru": "res://assets/audio/voice/ru/f53a9ae0b19c80e28c8f.ogg",
+        "fr": "res://assets/audio/voice/fr/f53a9ae0b19c80e28c8f.ogg",
+        "ar": "res://assets/audio/voice/ar/f53a9ae0b19c80e28c8f.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Sword upgraded to tier 1",
+          "seconds": 2.76,
+          "tempo": 1.0,
+          "sha256": "0e423ffda40199cadf8708b9082f5980409fa433939606d6ca1856571ffda99c"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Мечът е надграден до ниво 1",
+          "seconds": 3.07,
+          "tempo": 1.0,
+          "sha256": "ac983d5f3e21097a8fb5feacb99335a8848f7fe2d03db9f71f568887b73eb65f"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Меч повышен до уровня 1.",
+          "seconds": 3.26,
+          "tempo": 1.0,
+          "sha256": "c87a054683a9d253c15f3a519b3c495a5667cae21ffc25a202507f288b73ab34"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Épée améliorée au niveau 1",
+          "seconds": 2.54,
+          "tempo": 1.0,
+          "sha256": "3197531353355576f9a0632ad36f45ed97a70f5d3d4a4d47d5057ca2441a1a8e"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "تمت ترقية السيف إلى المستوى 1",
+          "seconds": 3.6,
+          "tempo": 1.0,
+          "sha256": "b0ec466fdf68edce3e30bcc213e8f8812f0b6ab33ca789f0cf2102bd0550d531"
+        }
+      }
+    },
+    "4eadaa4828eeeb99a99d": {
+      "source": "Sword upgraded to tier 2",
+      "speaker": "oren",
+      "clips": {
+        "en": "res://assets/audio/voice/en/4eadaa4828eeeb99a99d.ogg",
+        "bg": "res://assets/audio/voice/bg/4eadaa4828eeeb99a99d.ogg",
+        "ru": "res://assets/audio/voice/ru/4eadaa4828eeeb99a99d.ogg",
+        "fr": "res://assets/audio/voice/fr/4eadaa4828eeeb99a99d.ogg",
+        "ar": "res://assets/audio/voice/ar/4eadaa4828eeeb99a99d.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Sword upgraded to tier 2",
+          "seconds": 2.88,
+          "tempo": 1.0,
+          "sha256": "8feb1731a0779ca7dee676777b77e3accaf72a9aeddafc8a4770aac5fb583e87"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Мечът е надграден до ниво 2",
+          "seconds": 2.95,
+          "tempo": 1.0,
+          "sha256": "9bada04be2c213e0440ebd2f8fa7ecf966b45ddf613fee54d2b390993ab6db32"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Меч повышен до уровня 2.",
+          "seconds": 2.95,
+          "tempo": 1.0,
+          "sha256": "8d4f843e1c6976db9bfc59aed34bfa027cbad9e5d3ec0e052ea482a5fab7c93d"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Épée améliorée au niveau 2",
+          "seconds": 2.64,
+          "tempo": 1.0,
+          "sha256": "053917fcde79c430c3dbdc8f66d21642f8e67f463b6cd2fcf6a4b1a5d28bf096"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "تمت ترقية السيف إلى المستوى 2",
+          "seconds": 3.62,
+          "tempo": 1.0,
+          "sha256": "a7eae4ea291ca3e7b4ca96b72e29e01f096f23d8d9eecabf4350f6a4c288545e"
+        }
+      }
+    },
+    "0fce2061a04315d50e60": {
+      "source": "Maldrek seized the citadel. Through four ancient seals, his curse reached the kingdom.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/0fce2061a04315d50e60.ogg",
+        "bg": "res://assets/audio/voice/bg/0fce2061a04315d50e60.ogg",
+        "fr": "res://assets/audio/voice/fr/0fce2061a04315d50e60.ogg",
+        "ru": "res://assets/audio/voice/ru/0fce2061a04315d50e60.ogg",
+        "ar": "res://assets/audio/voice/ar/0fce2061a04315d50e60.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Maldrek seized the citadel. Through four ancient seals, his curse reached the kingdom.",
+          "seconds": 6.86,
+          "tempo": 1.0,
+          "sha256": "e3506e107d8479465e66cc5c7fe106bcc60adfd3cd3ffe4607add02cf32a7903"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Малдрек превзе цитаделата. Чрез четири древни печата неговото проклятие достигнало кралството.",
+          "seconds": 7.78,
+          "tempo": 1.0,
+          "sha256": "2259ec08980383f4458b1d6b5394bc57f184882c926da07f46ab0d3c1d946c89"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Maldrek s'empare de la citadelle. Grâce à quatre sceaux anciens, sa malédiction atteignit le royaume.",
+          "seconds": 7.54,
+          "tempo": 1.0,
+          "sha256": "01d5b5fd5e9d8aa0140375eb500ab3a21c15a351cbdfbf28cf6f5e1246fe9597"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Малдрек захватил цитадель. Через четыре древних печати его проклятие достигло королевства.",
+          "seconds": 8.02,
+          "tempo": 1.0,
+          "sha256": "777b07ee33f68456e140e0a928311f52dc63c327451a7cc267549b4a25905732"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "استولى مالدريك على القلعة. ومن خلال أربعة أختام قديمة، وصلت لعنته إلى المملكة.",
+          "seconds": 8.88,
+          "tempo": 1.0,
+          "sha256": "673372dc0db07d5b4ac1a68f8ac77db04fb6ecded761889196754605b8ecf601"
+        }
+      }
+    },
+    "1eecef0df64ccd980657": {
+      "source": "The Order marched along the old forest road. You went with them.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/1eecef0df64ccd980657.ogg",
+        "bg": "res://assets/audio/voice/bg/1eecef0df64ccd980657.ogg",
+        "ru": "res://assets/audio/voice/ru/1eecef0df64ccd980657.ogg",
+        "fr": "res://assets/audio/voice/fr/1eecef0df64ccd980657.ogg",
+        "ar": "res://assets/audio/voice/ar/1eecef0df64ccd980657.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "The Order marched along the old forest road. You went with them.",
+          "seconds": 5.33,
+          "tempo": 1.0,
+          "sha256": "1fa295d9e30259c0edd95bd69ddf9686972dd2c301217fb5792b78c14fd5f513"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Орденът марширува по стария горски път. Ти отиде с тях.",
+          "seconds": 5.57,
+          "tempo": 1.0,
+          "sha256": "3b2ffb7b731fca6a4b455c64b41ec76a8fa81ca5596edc88f30e12722926eaa4"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Орден двинулся по старой лесной дороге. Ты пошел с ними.",
+          "seconds": 5.98,
+          "tempo": 1.0,
+          "sha256": "1b07ca51a19d1343a8c27647327cb57637e92d568f610c8b3c32a1b354073690"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "L'Ordre a marché le long de l'ancienne route forestière. Vous êtes allé avec eux.",
+          "seconds": 5.81,
+          "tempo": 1.0,
+          "sha256": "88b964f84e032ae7530a9f75722dfc9c3f20716c43e4fa52296ddb53eee3a732"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "سار النظام على طول طريق الغابة القديم. ذهبت معهم.",
+          "seconds": 6.22,
+          "tempo": 1.0,
+          "sha256": "422105656fe8547ab84c23e8ca2e32608dd6a8a950efa891b290efd916f8c50b"
+        }
+      }
+    },
+    "544af9c85d3436249585": {
+      "source": "The curse broke the expedition. Beneath the eclipse, the road fell silent.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/544af9c85d3436249585.ogg",
+        "bg": "res://assets/audio/voice/bg/544af9c85d3436249585.ogg",
+        "fr": "res://assets/audio/voice/fr/544af9c85d3436249585.ogg",
+        "ru": "res://assets/audio/voice/ru/544af9c85d3436249585.ogg",
+        "ar": "res://assets/audio/voice/ar/544af9c85d3436249585.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "The curse broke the expedition. Beneath the eclipse, the road fell silent.",
+          "seconds": 6.46,
+          "tempo": 1.0,
+          "sha256": "7ab34541440a0edba901dfebb62fcff2453f0cedf584c0cd5a030673c2f29303"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Проклятието прекъсна експедицията. Под затъмнението пътят замлъкна.",
+          "seconds": 6.12,
+          "tempo": 1.0,
+          "sha256": "53c6d0afbb6ac93d9bc6dddc23e22eb4e8465e1653e8a35a156f037d0e097186"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "La malédiction a brisé l'expédition. Sous l'éclipse, la route se tut.",
+          "seconds": 6.1,
+          "tempo": 1.0,
+          "sha256": "3b337a8c617414e68ea55c1ab8629c4c70be432ca30a2afc4ff6e2c1bbb76cdb"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Проклятие разрушило экспедицию. Под затмением дорога погрузилась в тишину.",
+          "seconds": 7.37,
+          "tempo": 1.0,
+          "sha256": "c7a1366c453be51f15e0bf8834e83bcb2d9b0c81f56b0b841825b6d56174b22a"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "اللعنة حطمت الرحلة الاستكشافية. وتحت الكسوف، صمت الطريق.",
+          "seconds": 7.75,
+          "tempo": 1.0,
+          "sha256": "d293862da8180e993b921e07ba04eaf9a7d880ce9184aba893379069b5eb1e73"
+        }
+      }
+    },
+    "88b19f8c082de28f9b63": {
+      "source": "You survived. One lantern still burns. Find the others.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/88b19f8c082de28f9b63.ogg",
+        "bg": "res://assets/audio/voice/bg/88b19f8c082de28f9b63.ogg",
+        "fr": "res://assets/audio/voice/fr/88b19f8c082de28f9b63.ogg",
+        "ar": "res://assets/audio/voice/ar/88b19f8c082de28f9b63.ogg",
+        "ru": "res://assets/audio/voice/ru/88b19f8c082de28f9b63.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "You survived. One lantern still burns. Find the others.",
+          "seconds": 6.86,
+          "tempo": 1.0,
+          "sha256": "c2e7752ce2f556168cca487809531765676e3d4095a8a79625f472bab4b60d82"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Ти оцеля. Един фенер все още гори. Намерете другите.",
+          "seconds": 6.43,
+          "tempo": 1.0,
+          "sha256": "b4d8eba16210ae5963fb3acc66788bfbe7a78f5338d8bc064bc544b8dbfb5282"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Vous avez survécu. Une lanterne brûle encore. Trouvez les autres.",
+          "seconds": 6.7,
+          "tempo": 1.0,
+          "sha256": "ee455d401d160d0b1764e6f1cdaadf7517fb67a93d9f4d9883fecae9ea5d8c49"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "لقد نجوت. ولا يزال أحد المصابيح مشتعلًا. ابحث عن الآخرين.",
+          "seconds": 8.26,
+          "tempo": 1.0,
+          "sha256": "bdd698978cf00f7dbfad74efa9e9c4d21226a4c682806b74c454ee6b1c6a3d61"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Вы выжили. Один фонарь все еще горит. Найдите остальных.",
+          "seconds": 7.9,
+          "tempo": 1.0,
+          "sha256": "3a4a39a1fc790ac38ad657fec7bd78309ba664d319236ff5718a93fc1f2f506e"
+        }
+      }
+    },
+    "9cb049b7f757dabb1a6c": {
+      "source": "Maldrek has fallen. The curse still clings to the artifact.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/9cb049b7f757dabb1a6c.ogg",
+        "bg": "res://assets/audio/voice/bg/9cb049b7f757dabb1a6c.ogg",
+        "ru": "res://assets/audio/voice/ru/9cb049b7f757dabb1a6c.ogg",
+        "fr": "res://assets/audio/voice/fr/9cb049b7f757dabb1a6c.ogg",
+        "ar": "res://assets/audio/voice/ar/9cb049b7f757dabb1a6c.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Maldrek has fallen. The curse still clings to the artifact.",
+          "seconds": 5.57,
+          "tempo": 1.0,
+          "sha256": "3ac630aa8697f5af7e0fad700cfebf8db26abe0f72084f77e23b08c03f4be0ff"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Малдрек падна. Проклятието все още е свързано с артефакта.",
+          "seconds": 5.47,
+          "tempo": 1.0,
+          "sha256": "0e81542fdd7e2e1ce5bbb06ed3011839b71db11d65db25324acbb9e76702c310"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Малдрек пал. Проклятие всё ещё связано с артефактом.",
+          "seconds": 5.88,
+          "tempo": 1.0,
+          "sha256": "bf9b4f154fe8b9ed455dfd2053ddee092c6cae677a579ae59ddfb8bb4a9735aa"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Maldrek est tombé. La malédiction reste liée à l’artefact.",
+          "seconds": 5.33,
+          "tempo": 1.0,
+          "sha256": "fe8f784a2b5aa9190a034ca20bbc0fa3a029663e86e656bf2daa1d394b3d89d6"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "سقط مالدريك. ما زالت اللعنة مرتبطة بالقطعة الأثرية.",
+          "seconds": 6.26,
+          "tempo": 1.0,
+          "sha256": "d5d302b5d639949826a2f076acc0a094f457bf8237276b273887563fb46dadbe"
+        }
+      }
+    },
+    "c6b532b1c3f8a4a96c6e": {
+      "source": "Shatter the central artifact to end the curse",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://assets/audio/voice/en/c6b532b1c3f8a4a96c6e.ogg",
+        "bg": "res://assets/audio/voice/bg/c6b532b1c3f8a4a96c6e.ogg",
+        "ru": "res://assets/audio/voice/ru/c6b532b1c3f8a4a96c6e.ogg",
+        "fr": "res://assets/audio/voice/fr/c6b532b1c3f8a4a96c6e.ogg",
+        "ar": "res://assets/audio/voice/ar/c6b532b1c3f8a4a96c6e.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Shatter the central artifact to end the curse",
+          "seconds": 3.62,
+          "tempo": 1.0,
+          "sha256": "5ce80ff31c917d02e5b214505e877db2476a2d5ea514ea77453d5c120cfd904d"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Разбийте централния артефакт, за да прекратите проклятието",
+          "seconds": 4.7,
+          "tempo": 1.0,
+          "sha256": "44fa8730eafe95b2ae91cc4b4f3d6c29747b7d86d3ace3f1859f4a6544a1c132"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Разбейте центральный артефакт, чтобы снять проклятие.",
+          "seconds": 5.0,
+          "tempo": 1.032,
+          "sha256": "2bfbd05902fa753f7d9aee16260f485f88358971b7f2f7df87a00ba9435d4529"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Brisez l'artefact central pour mettre fin à la malédiction",
+          "seconds": 4.34,
+          "tempo": 1.0,
+          "sha256": "a386b20e347e3a524b27160a3c36aa87e52089c9b61c8c20c05c967d5e3d8134"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "حطم القطعة الأثرية المركزية لإنهاء اللعنة",
+          "seconds": 4.32,
+          "tempo": 1.0,
+          "sha256": "9c07119b2cb690aabe5eb7715de93328a506aa4506ae67a0afc3b8ea27e4950c"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Resend confirmation email": [
+    "Изпрати нов имейл за потвърждение",
+    "Отправить письмо подтверждения повторно",
+    "Renvoyer l’e-mail de confirmation",
+    "إعادة إرسال رسالة التأكيد"
+  ],
+  "If this address is awaiting confirmation, a new email has been requested.": [
+    "Ако този адрес чака потвърждение, е заявен нов имейл. Проверете входящата поща и папката за спам.",
+    "Если этот адрес ожидает подтверждения, запрошено новое письмо. Проверьте входящие и папку «Спам».",
+    "Si cette adresse attend une confirmation, un nouvel e-mail a été demandé. Vérifiez votre boîte de réception et les indésirables.",
+    "إذا كان هذا العنوان بانتظار التأكيد، فقد طُلب إرسال رسالة جديدة. تحقق من البريد الوارد والرسائل غير المرغوب فيها."
+  ],
+  "The verification link or code has expired. Request a new confirmation email.": [
+    "Връзката или кодът за потвърждение е изтекъл. Поискайте нов имейл за потвърждение.",
+    "Срок действия ссылки или кода истёк. Запросите новое письмо подтверждения.",
+    "Le lien ou le code de vérification a expiré. Demandez un nouvel e-mail de confirmation.",
+    "انتهت صلاحية رابط أو رمز التحقق. اطلب رسالة تأكيد جديدة."
+  ]
+}

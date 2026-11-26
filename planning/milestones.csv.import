@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://ce5qpqymblp4f"
+
+[deps]
+
+files=["res://planning/milestones.title.translation", "res://planning/milestones.depends.translation", "res://planning/milestones.status.translation", "res://planning/milestones.acceptance.translation"]
+
+source_file="res://planning/milestones.csv"
+dest_files=["res://planning/milestones.title.translation", "res://planning/milestones.depends.translation", "res://planning/milestones.status.translation", "res://planning/milestones.acceptance.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

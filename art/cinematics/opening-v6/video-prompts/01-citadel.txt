@@ -1,0 +1,12 @@
+SHOT 01-citadel
+Input: keyframes/01-citadel.png
+Target: 10 seconds, 16:9. Generate actual temporal motion.
+Maintain the provided character identity, equipment, costume and architecture.
+Subject and environment action: Cloud banks cross the moon; pine tips bend; the same terraced citadel emerges through fog. Faint violet haze gathers at the highest keep.
+Camera: Slow aerial push toward the central stair axis; natural parallax; no building morphing.
+Natural weight, grounded feet, coherent hands, stable faces and heraldry.
+Real wind response in cloth, hair, foliage and clouds; consistent physical light.
+No new characters, costume changes, body morphing, teleporting props or camera-only still pan.
+No baked narration, dialogue, captions, logo or text. Keep output private.
+Sound direction for later mix: Low wind, one distant bell, restrained low strings; no spoken text baked into video.
+Do not purchase credits or submit a paid upgrade.

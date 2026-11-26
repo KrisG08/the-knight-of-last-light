@@ -1,0 +1,74 @@
+{
+	"front_projection": {
+		"alpha": true,
+		"rect": [
+			0.180223286151886,
+			0.0526315793395042,
+			0.637958526611328,
+			0.89314192533493
+		],
+		"x_bounds": [
+			-0.373653904084236,
+			0.373812952349263
+		]
+	},
+	"height": 3.1,
+	"paint": "Reference-projected UVs with independent rear paint, roughness and view-confidence masks",
+	"parts": {
+		"body": {
+			"mesh": "res://assets/models/meshy/painted/iron-warden-body.res",
+			"origin": [
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		"left_arm": {
+			"mesh": "res://assets/models/meshy/painted/iron-warden-left_arm.res",
+			"origin": [
+				-0.558000028133392,
+				2.38700008392334,
+				0.0
+			]
+		},
+		"left_leg": {
+			"mesh": "res://assets/models/meshy/painted/iron-warden-left_leg.res",
+			"origin": [
+				-0.277449995279312,
+				1.46940004825592,
+				0.0
+			]
+		},
+		"right_arm": {
+			"mesh": "res://assets/models/meshy/painted/iron-warden-right_arm.res",
+			"origin": [
+				0.558000028133392,
+				2.38700008392334,
+				0.0
+			]
+		},
+		"right_leg": {
+			"mesh": "res://assets/models/meshy/painted/iron-warden-right_leg.res",
+			"origin": [
+				0.277449995279312,
+				1.46940004825592,
+				0.0
+			]
+		}
+	},
+	"rear_projection": {
+		"alpha": true,
+		"rect": [
+			0.108423687517643,
+			0.00762195140123367,
+			0.780650556087494,
+			0.969512224197388
+		],
+		"x_bounds": [
+			-0.373653904084236,
+			0.373812952349263
+		]
+	},
+	"source_triangles": 560004.0,
+	"triangles": 69998.0
+}

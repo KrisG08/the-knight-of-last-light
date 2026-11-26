@@ -1,0 +1,48 @@
+{
+	"height": 2.6,
+	"paint": "Reference-projected UVs with independent rear paint, roughness and view-confidence masks",
+	"parts": {
+		"body": {
+			"mesh": "res://assets/models/meshy/painted/gravedigger-body.res",
+			"origin": [
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		"left_arm": {
+			"mesh": "res://assets/models/meshy/painted/gravedigger-left_arm.res",
+			"origin": [
+				-0.467999994754791,
+				2.00200009346008,
+				0.0
+			]
+		},
+		"left_leg": {
+			"mesh": "res://assets/models/meshy/painted/gravedigger-left_leg.res",
+			"origin": [
+				-0.232700005173683,
+				1.23239994049072,
+				0.0
+			]
+		},
+		"right_arm": {
+			"mesh": "res://assets/models/meshy/painted/gravedigger-right_arm.res",
+			"origin": [
+				0.467999994754791,
+				2.00200009346008,
+				0.0
+			]
+		},
+		"right_leg": {
+			"mesh": "res://assets/models/meshy/painted/gravedigger-right_leg.res",
+			"origin": [
+				0.232700005173683,
+				1.23239994049072,
+				0.0
+			]
+		}
+	},
+	"source_triangles": 287412.0,
+	"triangles": 71852.0
+}

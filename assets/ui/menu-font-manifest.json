@@ -1,0 +1,27 @@
+[
+  {
+    "path": "assets/fonts/NotoSerif.ttf",
+    "sha256": "4d8e6761424656867019081a1a01336f3cb086982682698714054fc33f782713",
+    "bytes": 1887192,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserif/NotoSerif%5Bwdth%2Cwght%5D.ttf"
+  },
+  {
+    "path": "assets/fonts/NotoNaskhArabic.ttf",
+    "sha256": "67b5a525a661b607971fbd3f96a81b89d3a768e74534fca84f18ac97e6fab72f",
+    "bytes": 307592,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notonaskharabic/NotoNaskhArabic%5Bwght%5D.ttf"
+  },
+  {
+    "path": "assets/ui/main-menu-original-v1.png",
+    "sha256": "c0df4271e7ce9ac8086192e8b7a4de20e8b035c05eef93193eda84e346c11119",
+    "bytes": 2356643,
+    "source": "docs/art/menu-original-v1.md"
+  },
+  {
+    "path": "assets/fonts/ElMessiri.ttf",
+    "sha256": "5d58d5259d2accccba39cffe12e1226e88b6afc5150e3605eb2a9c2fe06ccab0",
+    "bytes": 138664,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/elmessiri/ElMessiri%5Bwght%5D.ttf",
+    "role": "Shared Latin Cyrillic Arabic family; medium body and bold title"
+  }
+]

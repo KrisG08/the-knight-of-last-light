@@ -1,0 +1,3 @@
+[functions.account-confirmation]
+# This one endpoint serves only fixed public instructions and never accesses data.
+verify_jwt = false

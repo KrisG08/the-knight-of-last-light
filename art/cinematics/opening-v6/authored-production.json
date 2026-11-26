@@ -1,0 +1,21 @@
+{
+  "type": "Authored Godot 3D animation; independent video, score and localized narration",
+  "duration_seconds": 80,
+  "fps": 30,
+  "frames": 2400,
+  "source_rendered_frames": 4800,
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "files": {
+    "opening-desktop-picture30.ogv": {
+      "bytes": 175545926,
+      "sha256": "ad1273c81d06dd2aa387b316bd5ef9ead557d857a83604bc29164962aa2b82d2"
+    },
+    "opening-mobile-picture30.ogv": {
+      "bytes": 49133500,
+      "sha256": "38f692f780e1e430a438f3a51c37b6d40932a05e5481eb5606b74cc674bc4d57"
+    }
+  },
+  "installed": true,
+  "localized_narration_clips": 40,
+  "legacy_preserved_at": "art/cinematics/opening-v5-archive"
+}

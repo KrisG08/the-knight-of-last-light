@@ -1,0 +1,15 @@
+id,title,depends_on,status,acceptance_reference
+M0,Repository and boot,,implemented,docs/10-roadmap.md
+M1,Knight playground,M0,owner_accepted,docs/10-roadmap.md
+M2,Combat prototype,M1,owner_accepted,docs/10-roadmap.md
+M3,Durable progression,M2,implemented_pending_ui_review,docs/10-roadmap.md
+M4,Village graybox,M3,implemented_pending_route_review,docs/10-roadmap.md
+M5,First boss and route,M4,implemented_pending_boss_playtest,docs/10-roadmap.md
+M6,Slice presentation,M5,development_build_ready_human_acceptance_pending,docs/10-roadmap.md
+M7,Companion proof,M6,implemented_pending_companion_playtest,docs/10-roadmap.md
+M8,Blackwood chapter,M7,implemented_pending_chapter_playtest,docs/10-roadmap.md
+M9,Order chapter,M8,implemented_pending_chapter_playtest,docs/10-roadmap.md
+M10,Peaks chapter,M9,implemented_pending_chapter_playtest,docs/10-roadmap.md
+M11,Finale,M10,implemented_pending_campaign_playtest,docs/10-roadmap.md
+M12,Release candidate,M11,partial_usability_acceptance_pending,docs/10-roadmap.md
+

@@ -1,0 +1,74 @@
+{
+	"front_projection": {
+		"alpha": true,
+		"rect": [
+			0.287081331014633,
+			0.0382775105535984,
+			0.422647535800934,
+			0.931419432163239
+		],
+		"x_bounds": [
+			-0.234728681074606,
+			0.23527163106042
+		]
+	},
+	"height": 1.85,
+	"paint": "Reference-projected UVs with independent rear paint, roughness and view-confidence masks",
+	"parts": {
+		"body": {
+			"mesh": "res://assets/models/meshy/painted/oren-body.res",
+			"origin": [
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		"left_arm": {
+			"mesh": "res://assets/models/meshy/painted/oren-left_arm.res",
+			"origin": [
+				-0.333000004291534,
+				1.42449998855591,
+				0.0
+			]
+		},
+		"left_leg": {
+			"mesh": "res://assets/models/meshy/painted/oren-left_leg.res",
+			"origin": [
+				-0.165574997663498,
+				0.876900017261505,
+				0.0
+			]
+		},
+		"right_arm": {
+			"mesh": "res://assets/models/meshy/painted/oren-right_arm.res",
+			"origin": [
+				0.333000004291534,
+				1.42449998855591,
+				0.0
+			]
+		},
+		"right_leg": {
+			"mesh": "res://assets/models/meshy/painted/oren-right_leg.res",
+			"origin": [
+				0.165574997663498,
+				0.876900017261505,
+				0.0
+			]
+		}
+	},
+	"rear_projection": {
+		"alpha": true,
+		"rect": [
+			0.146484375,
+			0.0078125,
+			0.69921875,
+			0.973958313465118
+		],
+		"x_bounds": [
+			-0.234728681074606,
+			0.23527163106042
+		]
+	},
+	"source_triangles": 137476.0,
+	"triangles": 34368.0
+}

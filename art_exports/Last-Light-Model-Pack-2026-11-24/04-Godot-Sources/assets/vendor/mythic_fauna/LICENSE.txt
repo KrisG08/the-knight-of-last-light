@@ -1,0 +1,20 @@
+Icy Dragon by chengzijieczj — Creative Commons Attribution 4.0 International.
+Original: https://sketchfab.com/3d-models/icy-dragon-2db9268227b943e6a41e88390f2875a6
+Public simplified sample: https://afk.ai/rig/samples/icy-dragon.glb
+
+Crystal deer by Coffeek — Creative Commons Attribution 4.0 International.
+Original: https://sketchfab.com/3d-models/crystal-deer-99ca940c1f574ea19b7d314f4a743fa7
+Public simplified sample: https://afk.ai/rig/samples/crystal-deer.glb
+
+License: https://creativecommons.org/licenses/by/4.0/
+Changes for Last Light: static mesh integration, placement, scale/orientation and
+subtle procedural idle scale. No original skeleton/animation is claimed and no
+author endorsement is implied. Source GLBs retained unchanged; hashes in manifest.
+0.5.8 also applies a separate desaturated ash/brown scale material to dragon mesh
+copies; original model materials/textures remain unchanged in the source asset.
+
+Moon fox / kitsune derives from Fox by Alexei Ostapenko, CC BY 4.0:
+https://sketchfab.com/3d-models/fox-4e37c303f8a241aaa2511bd9f3019273
+Changes: existing anatomical partitions; initial pale/five-tail treatment replaced
+in 0.5.8 by a larger single-tailed dark hound with skull-like fur markings.
+Source files/provenance retained in assets/vendor/hostile_sources/.

@@ -1,0 +1,31 @@
+{
+  "tool": "OpenAI built-in image generation",
+  "created": "2026-11-08",
+  "notes": "docs/art/menu-wind-v2.md",
+  "assets": [
+    {
+      "path": "assets/ui/menu-wind/foliage.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "d3eea02d56463e25a22de7e64b326c908f172e95409482cd9a4b45d5b45ac86a"
+    },
+    {
+      "path": "assets/ui/menu-wind/knight.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "322bf091d02edd86b69b2692c8e1da954cee56f99239480e51e4cd8e50519d4b"
+    },
+    {
+      "path": "assets/ui/menu-wind/landscape.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "999eff0f814e0f82a3cdba110f35d449acb6aff06bbb7ba01322141ae4261067"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "date": "2026-11-24",
+  "failures": 0,
+  "game_version": "0.5.62",
+  "models": [
+    {
+      "bytes": 1994892,
+      "file": "02-GLB/characters/meshy-cael.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 1891904,
+      "file": "02-GLB/characters/meshy-fallen-commander.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 653224,
+      "file": "02-GLB/characters/meshy-goblin.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2783276,
+      "file": "02-GLB/characters/meshy-gravedigger.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2710280,
+      "file": "02-GLB/characters/meshy-iron-warden.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 1816580,
+      "file": "02-GLB/characters/meshy-knight.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 1252244,
+      "file": "02-GLB/characters/meshy-lyra.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2691832,
+      "file": "02-GLB/characters/meshy-maldrek.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 1345668,
+      "file": "02-GLB/characters/meshy-oren.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2481720,
+      "file": "02-GLB/characters/meshy-thorn-beast.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 4427092,
+      "file": "02-GLB/characters/player-knight.glb",
+      "mesh_instances": 8.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2772292,
+      "file": "02-GLB/creatures/ash_dragon.glb",
+      "mesh_instances": 3.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 369092,
+      "file": "02-GLB/creatures/barghest.glb",
+      "mesh_instances": 7.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2888992,
+      "file": "02-GLB/creatures/dwarf.glb",
+      "mesh_instances": 7.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2241616,
+      "file": "02-GLB/creatures/gargoyle.glb",
+      "mesh_instances": 23.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 653228,
+      "file": "02-GLB/creatures/goblin.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2645476,
+      "file": "02-GLB/creatures/sentinel.glb",
+      "mesh_instances": 16.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 653512,
+      "file": "02-GLB/creatures/troll.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2578676,
+      "file": "02-GLB/creatures/wraith.glb",
+      "mesh_instances": 15.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 4139020,
+      "file": "02-GLB/imported/crusader_knight.glb",
+      "mesh_instances": 6.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 1551128,
+      "file": "02-GLB/imported/crystal-deer.glb",
+      "mesh_instances": 7.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 4717156,
+      "file": "02-GLB/imported/dead_tree_trunk.glb",
+      "mesh_instances": 1.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 1010616,
+      "file": "02-GLB/imported/fern_02.glb",
+      "mesh_instances": 4.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 3141372,
+      "file": "02-GLB/imported/icy-dragon.glb",
+      "mesh_instances": 3.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2402516,
+      "file": "02-GLB/imported/large_castle_door.glb",
+      "mesh_instances": 3.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 8370504,
+      "file": "02-GLB/imported/modular_fort_01.glb",
+      "mesh_instances": 22.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 26950748,
+      "file": "02-GLB/imported/pine_sapling_small.glb",
+      "mesh_instances": 3.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 1808908,
+      "file": "02-GLB/imported/red-fox.glb",
+      "mesh_instances": 2.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 3227936,
+      "file": "02-GLB/imported/rock_moss_set_01.glb",
+      "mesh_instances": 6.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 1663316,
+      "file": "02-GLB/imported/strong-knight.glb",
+      "mesh_instances": 5,
+      "note": "Static imported source; custom channels/rig removed; Godot readback passed in model-pack-import-repaired.log"
+    },
+    {
+      "bytes": 864312,
+      "file": "02-GLB/props/family_locket.glb",
+      "mesh_instances": 2.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2248872,
+      "file": "02-GLB/props/gothic_arch.glb",
+      "mesh_instances": 6.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 3739488,
+      "file": "02-GLB/props/lantern.glb",
+      "mesh_instances": 9.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2383600,
+      "file": "02-GLB/props/memorial.glb",
+      "mesh_instances": 3.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 229816,
+      "file": "02-GLB/props/reliquary.glb",
+      "mesh_instances": 1.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 349860,
+      "file": "02-GLB/props/scout_satchel.glb",
+      "mesh_instances": 4.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2403784,
+      "file": "02-GLB/props/sword.glb",
+      "mesh_instances": 3.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 8270120,
+      "file": "02-GLB/props/village_house.glb",
+      "mesh_instances": 191.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 4303464,
+      "file": "02-GLB/villains/commander.glb",
+      "mesh_instances": 14.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 4406784,
+      "file": "02-GLB/villains/gravedigger.glb",
+      "mesh_instances": 8.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 1987004,
+      "file": "02-GLB/villains/hound.glb",
+      "mesh_instances": 12.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 4332156,
+      "file": "02-GLB/villains/maldrek.glb",
+      "mesh_instances": 15.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 5095792,
+      "file": "02-GLB/villains/shade.glb",
+      "mesh_instances": 8.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 5060852,
+      "file": "02-GLB/villains/soldier.glb",
+      "mesh_instances": 20.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2481708,
+      "file": "02-GLB/villains/thorn.glb",
+      "mesh_instances": 5.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 2966260,
+      "file": "02-GLB/villains/villager.glb",
+      "mesh_instances": 7.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 5881920,
+      "file": "02-GLB/villains/warden.glb",
+      "mesh_instances": 11.0,
+      "note": "Static portable model; Godot export/readback passed in model-pack-export-complete.log"
+    },
+    {
+      "bytes": 38321212,
+      "file": "03-Worlds/refuge.glb",
+      "mesh_instances": 15670,
+      "note": "static world geometry including code-authored buildings, props, instanced nature and portals; no gameplay, sky or animated shaders; structural GLB validation by packager"
+    },
+    {
+      "bytes": 33788624,
+      "file": "03-Worlds/village.glb",
+      "mesh_instances": 16859,
+      "note": "static world geometry including code-authored buildings, props, instanced nature and portals; no gameplay, sky or animated shaders; structural GLB validation by packager"
+    },
+    {
+      "bytes": 26512040,
+      "file": "03-Worlds/blackwood.glb",
+      "mesh_instances": 15867,
+      "note": "static world geometry including code-authored buildings, props, instanced nature and portals; no gameplay, sky or animated shaders; structural GLB validation by packager"
+    },
+    {
+      "bytes": 11532856,
+      "file": "03-Worlds/order.glb",
+      "mesh_instances": 15871,
+      "note": "static world geometry including code-authored buildings, props, instanced nature and portals; no gameplay, sky or animated shaders; structural GLB validation by packager"
+    },
+    {
+      "bytes": 14343108,
+      "file": "03-Worlds/peaks.glb",
+      "mesh_instances": 12513,
+      "note": "static world geometry including code-authored buildings, props, instanced nature and portals; no gameplay, sky or animated shaders; structural GLB validation by packager"
+    },
+    {
+      "bytes": 12445408,
+      "file": "03-Worlds/citadel.glb",
+      "mesh_instances": 18227,
+      "note": "static world geometry including code-authored buildings, props, instanced nature and portals; no gameplay, sky or animated shaders; structural GLB validation by packager"
+    },
+    {
+      "bytes": 4965516,
+      "file": "03-Worlds/crypt.glb",
+      "mesh_instances": 12734,
+      "note": "static world geometry including code-authored buildings, props, instanced nature and portals; no gameplay, sky or animated shaders; structural GLB validation by packager"
+    },
+    {
+      "bytes": 13579880,
+      "file": "03-Worlds/grove.glb",
+      "mesh_instances": 14891,
+      "note": "static world geometry including code-authored buildings, props, instanced nature and portals; no gameplay, sky or animated shaders; structural GLB validation by packager"
+    },
+    {
+      "bytes": 5311308,
+      "file": "03-Worlds/sanctum.glb",
+      "mesh_instances": 12878,
+      "note": "static world geometry including code-authored buildings, props, instanced nature and portals; no gameplay, sky or animated shaders; structural GLB validation by packager"
+    },
+    {
+      "bytes": 5935412,
+      "file": "03-Worlds/forge.glb",
+      "mesh_instances": 12759,
+      "note": "static world geometry including code-authored buildings, props, instanced nature and portals; no gameplay, sky or animated shaders; structural GLB validation by packager"
+    },
+    {
+      "bytes": 5479908,
+      "file": "03-Worlds/ritual.glb",
+      "mesh_instances": 13072,
+      "note": "static world geometry including code-authored buildings, props, instanced nature and portals; no gameplay, sky or animated shaders; structural GLB validation by packager"
+    }
+  ]
+}

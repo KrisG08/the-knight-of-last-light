@@ -1,0 +1,12 @@
+SHOT 04-march
+Input: keyframes/04-march.png
+Target: 10 seconds, 16:9. Generate actual temporal motion.
+Maintain the provided character identity, equipment, costume and architecture.
+Subject and environment action: The exact sun-tabard knight and two distant Order knights walk with weight along the current wet forest road. Cloth, hands, knees and shoulders move naturally.
+Camera: Side-front tracking at chest height with a gentle push toward the protagonist; no static poses or skating feet.
+Natural weight, grounded feet, coherent hands, stable faces and heraldry.
+Real wind response in cloth, hair, foliage and clouds; consistent physical light.
+No new characters, costume changes, body morphing, teleporting props or camera-only still pan.
+No baked narration, dialogue, captions, logo or text. Keep output private.
+Sound direction for later mix: Armored footsteps, leather and chainmail; distant thunder grows.
+Do not purchase credits or submit a paid upgrade.

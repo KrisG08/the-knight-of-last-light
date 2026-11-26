@@ -1,0 +1,38 @@
+{
+  "Tap an enemy to focus; tap again or drag to release. Attacks can focus automatically.": [
+    "Докосни враг за прицелване; докосни пак или плъзни вдясно за освобождаване. Атаките могат да избират цел автоматично.",
+    "Коснитесь врага для захвата цели; коснитесь снова или проведите справа для отмены. Атаки могут выбирать цель автоматически.",
+    "Touchez un ennemi pour le cibler ; touchez-le à nouveau ou glissez à droite pour libérer la caméra. Les attaques peuvent cibler automatiquement.",
+    "المس عدواً لتثبيت الهدف؛ المسه مجدداً أو اسحب في الجانب الأيمن لتحرير الكاميرا. يمكن للهجمات اختيار هدف تلقائياً."
+  ],
+  "Left stick: move; push fully to sprint. Drag empty space on the right to look.": [
+    "Ляв джойстик: движение; наклони докрай за спринт. Плъзни по празно място вдясно за оглеждане.",
+    "Левый стик: движение; отклоните до упора для спринта. Проведите по свободному месту справа для обзора.",
+    "Stick gauche : se déplacer ; poussez à fond pour sprinter. Glissez dans un espace libre à droite pour regarder.",
+    "العصا اليسرى للحركة؛ ادفعها بالكامل للركض. اسحب في مساحة فارغة يميناً للنظر."
+  ],
+  "Sword: tap for light; hold for heavy. Shield: hold to guard.": [
+    "Меч: докосни за лек удар; задръж за тежък. Щит: задръж за защита.",
+    "Меч: касание — лёгкий удар; удержание — тяжёлый. Щит: удерживайте для защиты.",
+    "Épée : touchez pour un coup léger ; maintenez pour un coup puissant. Bouclier : maintenez pour parer.",
+    "السيف: المس لضربة خفيفة؛ اضغط مطولاً لضربة ثقيلة. الدرع: اضغط مطولاً للحماية."
+  ],
+  "Curved arrow: tap to dodge; swipe up to jump.": [
+    "Извита стрелка: докосни за избягване; плъзни нагоре за скок.",
+    "Изогнутая стрелка: касание для уклонения; смахните вверх для прыжка.",
+    "Flèche courbe : touchez pour esquiver ; glissez vers le haut pour sauter.",
+    "السهم المنحني: المس للمراوغة؛ اسحب للأعلى للقفز."
+  ],
+  "Diamond: interact nearby or drink a flask away from objects.": [
+    "Ромб: взаимодействие наблизо или пиене на еликсир далеч от обекти.",
+    "Ромб: взаимодействие поблизости или фляга вдали от объектов.",
+    "Losange : interagir à proximité ou boire une fiole loin des objets.",
+    "المعين: تفاعل مع الأشياء القريبة أو اشرب قارورة بعيداً عنها."
+  ],
+  "Pause opens the journal, map, equipment and companion orders.": [
+    "От паузата се отварят дневникът, картата, екипировката и командите за придружителя.",
+    "Из паузы доступны журнал, карта, снаряжение и команды спутнику.",
+    "La pause donne accès au journal, à la carte, à l’équipement et aux ordres du compagnon.",
+    "تتيح قائمة الإيقاف المؤقت فتح اليوميات والخريطة والمعدات وأوامر الرفيق."
+  ]
+}

@@ -1,0 +1,17 @@
+THE LAST LANTERN - STAGED OPENING NARRATION
+
+Eight original authored narrative passages, localized into English, Bulgarian,
+Russian, French and Arabic. Forty synthetic speech clips generated with
+Microsoft Edge speech synthesis under the owner's existing explicit permission.
+No accounts, saves, personal information, recordings or microphone input sent.
+No voice cloning or professional actor/lip-sync claim.
+
+English: en-GB-RyanNeural
+Bulgarian: bg-BG-BorislavNeural
+Russian: ru-RU-SvetlanaNeural (same established project narrator)
+French: fr-FR-HenriNeural
+Arabic: ar-EG-ShakirNeural
+
+Generation and exact text/hash/timing receipts: manifest.json and ../voice-masters/.
+Audio is staged outside runtime. The active game voice manifest is unchanged.
+Existing project source-asset attributions remain applicable separately.

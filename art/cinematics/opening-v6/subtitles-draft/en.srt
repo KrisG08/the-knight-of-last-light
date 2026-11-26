@@ -1,0 +1,31 @@
+1
+00:00:00,400 --> 00:00:09,600
+Four ancient seals once guarded the kingdom. Above them stood the citadel, watched over by the Order.
+
+2
+00:00:10,400 --> 00:00:19,600
+Maldrek seized it and bound the seals to an artifact. He drained the kingdom's life to prolong his reign.
+
+3
+00:00:20,400 --> 00:00:29,600
+Crops withered. The dead rose. Those who survived were dragged behind iron doors.
+
+4
+00:00:30,400 --> 00:00:39,600
+Your master led the Order down the old forest road. You believed you could still reach the citadel.
+
+5
+00:00:40,400 --> 00:00:49,600
+Maldrek saw you coming. He raised his staff, and the curse tore open the sky.
+
+6
+00:00:50,400 --> 00:00:59,600
+Shields shattered. Your companions fell. You reached for a fallen knight, but the darkness took him.
+
+7
+00:01:00,400 --> 00:01:09,600
+You woke among broken banners. Beyond the silent trees, one lantern was still burning.
+
+8
+00:01:10,400 --> 00:01:19,600
+A ruined chapel waits beyond the trees. Find the other survivors. You cannot reclaim this kingdom alone.

@@ -1,0 +1,4982 @@
+{
+  "%d / %d": [
+    "%d / %d",
+    "%d / %d",
+    "%d / %d",
+    "%d / %d"
+  ],
+  "%d flasks  ·  %d shards": [
+    "%d колби · %d парчета",
+    "Колбы %d · Осколки %d",
+    "Flacons %d · Tessons %d",
+    "قوارير %d · شظايا %d"
+  ],
+  "%d seals broken · %d allies recruited · %d pickups/documents": [
+    "%d печатите са счупени · %d съюзници са вербувани · %d пикапи/документи",
+    "%d печати сломаны · %d набраны союзники · %d пикапы/документы",
+    "Sceaux %d brisés · Alliés %d recrutés · Collectes/documents %d",
+    "كسر أختام %d · تجنيد حلفاء %d · التقاطات/مستندات %d"
+  ],
+  "%s  Journal    %s  Pause": [
+    "%s Журнал %s Пауза",
+    "%s Журнал %s Пауза",
+    "Journal %s %s Pause",
+    "%s  Journal    %s  Pause"
+  ],
+  "%s %d / %d · %s · [%s] follow / hold": [
+    "%s %d / %d · %s · [%s] следване / задържане",
+    "%s %d / %d · %s · [%s] следовать/удерживать",
+    "%s %d / %d · %s · [%s] suivre/maintenir",
+    "%s %d / %d · %s · [%s] متابعة / تعليق"
+  ],
+  "%s / %s Move · mouse Look · %s / %s Attack": [
+    "%s / %s Движение · мишка Поглед · %s / %s Атака",
+    "%s / %s Перемещение · Взгляд мышью · %s / %s Атака",
+    "%s / %s Déplacer · Regard de souris · %s / %s Attaque",
+    "%s / %s Move · mouse Look · %s / %s Attack"
+  ],
+  "%s Block · %s Dodge · %s Jump · %s Heal": [
+    "%s Блок · %s Избягване · %s Скок · %s Изцеление",
+    "%s Блок · %s Уклонение · %s Прыжок · %s Исцеление",
+    "Bloc %s · Esquive %s · Saut %s · Guérison %s",
+    "%s بلوك · %s دودج · %s القفز · %s شفاء"
+  ],
+  "%s Companion follow / hold": [
+    "%s Companion следване / задържане",
+    "%s Компаньон следовать/удерживать",
+    "%s Suivi/maintien du compagnon",
+    "%s متابعة / تعليق للرفيق"
+  ],
+  "%s Lock · %s Interact · %s Journal · %s Pause": [
+    "%s Заключване · %s Взаимодействие · %s Журнал · %s Пауза",
+    "%s Блокировка · %s Взаимодействие · %s Журнал · %s Пауза",
+    "Verrouillage %s · Interaction %s · Journal %s · Pause %s",
+    "قفل %s · تفاعل %s · مجلة %s · إيقاف مؤقت %s"
+  ],
+  "%s · %s": [
+    "%s · %s",
+    "%s · %s",
+    "%s · %s",
+    "%s · %s"
+  ],
+  "%s · %s · defeated %d times": [
+    "%s · %s · победен %d пъти",
+    "%s · %s · победил %d раз",
+    "%s · %s · a vaincu %d fois",
+    "%s · %s · هزم %d مرات"
+  ],
+  "%s · WORLD PROGRESS": [
+    "%s · СВЕТОВЕН ПРОГРЕС",
+    "%s · МИРОВОЙ ПРОГРЕСС",
+    "%s · PROGRÈS MONDIAL",
+    "%s · التقدم العالمي"
+  ],
+  "%s: %d / %d": [
+    "%s: %d / %d",
+    "%s: %d / %d",
+    "%s : %d / %d",
+    "%s: %d / %d"
+  ],
+  ". Backup unavailable; files preserved": [
+    ". Не е налично архивиране; запазени файлове",
+    ". Резервное копирование недоступно; файлы сохранены",
+    ". Sauvegarde indisponible ; fichiers conservés",
+    ". النسخ الاحتياطي غير متوفر؛ الملفات المحفوظة"
+  ],
+  "A FLAME THAT WILL NOT DIE.": [
+    "ПЛАМЪК, КОЙТО НЯМА ДА УМРЕ.",
+    "ПЛАМЯ, КОТОРОЕ НЕ УМИРАЕТ.",
+    "UNE FLAMME QUI NE MOURIRA PAS.",
+    "شعلة لا تموت."
+  ],
+  "A KINGDOM WITHOUT DAWN.": [
+    "КРАЛСТВО БЕЗ ЗОРА.",
+    "КОРОЛЕВСТВО БЕЗ РАССВЕТА.",
+    "UN ROYAUME SANS AUBE.",
+    "مملكة بلا فجر."
+  ],
+  "A gravedigger guards the seal beneath the burial yard. Defeating him will not be enough: the seal itself must be broken.": [
+    "Гробар пази печата под гробния двор. Да го победиш няма да е достатъчно: самият печат трябва да бъде счупен.",
+    "Могильщик охраняет печать под могильником. Победить его будет недостаточно: необходимо сломать саму печать.",
+    "Un fossoyeur garde le sceau sous le cimetière. Le vaincre ne suffira pas : il faudra briser le sceau lui-même.",
+    "يقوم حفار القبور بحراسة الختم الموجود أسفل ساحة الدفن. لن تكون هزيمته كافية: يجب كسر الختم نفسه."
+  ],
+  "A name remembered · +40 XP · +30 shards": [
+    "Запомнено име · +40 XP · +30 шарда",
+    "Имя запомнилось · +40 опыта · +30 осколков",
+    "Un nom mémorisé · +40 XP · +30 fragments",
+    "اسم تم تذكره · +40 XP · +30 شظية"
+  ],
+  "ABANDONED MINE": [
+    "ИЗОСТАВЕНА МИНА",
+    "ЗАБРОШЕННАЯ ШАХТА",
+    "MINE ABANDONNÉE",
+    "منجم مهجور"
+  ],
+  "ALLIES": [
+    "СЪЮЗНИЦИ",
+    "СОЮЗНИКИ",
+    "ALLIÉS",
+    "الحلفاء"
+  ],
+  "ASHEN PEAKS": [
+    "ПЕПЕЛНИТЕ ВЪРХОВЕ",
+    "ЭШЕН ПИКС",
+    "PICS CENDRES",
+    "قمم رمادية"
+  ],
+  "ASHEN VILLAGE": [
+    "СЕЛО ПЕПЕЛО",
+    "ДЕРЕВНЯ АШЕН",
+    "VILLAGE DES CENDRES",
+    "قرية أشين"
+  ],
+  "ASHEN VILLAGE · SQUARE": [
+    "СЕЛО ПЕПЕЛО · ПЛ",
+    "ДЕРЕВНЯ АШЕН · ПЛОЩАДЬ",
+    "VILLAGE DE CENDRES · PLACE",
+    "قرية أشين · الميدان"
+  ],
+  "AbandonedCartCollision": [
+    "Сблъсък на изоставена количка",
+    "AbandonedCartCollision",
+    "Collision de panier abandonné",
+    "تصادم عربة التسوق المهجورة"
+  ],
+  "Activate that lantern before travelling to it": [
+    "Активирайте този фенер, преди да пътувате до него",
+    "Активируйте этот фонарь, прежде чем отправиться к нему.",
+    "Activez cette lanterne avant de vous y rendre",
+    "قم بتنشيط هذا الفانوس قبل السفر إليه"
+  ],
+  "Activate the lantern · cross the bridge to the forge fortress": [
+    "Активирайте фенера · пресечете моста до крепостта ковачница",
+    "Активировать фонарь · перейти мост в крепость-кузницу.",
+    "Activer la lanterne · traverser le pont jusqu'à la forteresse-forge",
+    "قم بتنشيط الفانوس · اعبر الجسر إلى قلعة الصياغة"
+  ],
+  "Activate the lantern · free captives or face Maldrek to the north": [
+    "Активирайте фенера · освободете пленници или се изправете срещу Малдрек на север",
+    "Активируйте фонарь · освободите пленников или повернитесь лицом к Малдреку на севере.",
+    "Activez la lanterne · libérez les captifs ou affrontez Maldrek au nord",
+    "قم بتنشيط الفانوس · حرر الأسرى أو واجه مالدريك في الشمال"
+  ],
+  "ActivateCheckpoint": [
+    "Активиране на контролна точка",
+    "АктивироватьCheckpoint",
+    "ActiverCheckpoint",
+    "تنشيط نقطة التفتيش"
+  ],
+  "Alexei Ostapenko / CC BY 4.0": [
+    "Алексей Остапенко / CC BY 4.0",
+    "Алексей Остапенко / CC BY 4.0",
+    "Alexeï Ostapenko / CC BY 4.0",
+    "أليكسي أوستابينكو / CC BY 4.0"
+  ],
+  "All four regional seals must be broken before entering the citadel": [
+    "И четирите регионални печата трябва да бъдат счупени, преди да влезете в цитаделата",
+    "Перед входом в цитадель необходимо сломать все четыре региональные печати.",
+    "Les quatre sceaux régionaux doivent être brisés avant d'entrer dans la citadelle.",
+    "يجب كسر الأختام الإقليمية الأربعة قبل دخول القلعة"
+  ],
+  "Already bound to": [
+    "Вече сте обвързани с",
+    "Уже привязан",
+    "Déjà lié à",
+    "منضم بالفعل إلى"
+  ],
+  "Already completed": [
+    "Вече завършено",
+    "Уже завершено",
+    "Déjà terminé",
+    "اكتمل بالفعل"
+  ],
+  "Andy Woodhead / CC BY 4.0": [
+    "Анди Удхед / CC BY 4.0",
+    "Энди Вудхед / CC BY 4.0",
+    "Andy Woodhead / CC BY 4.0",
+    "آندي وودهيد / CC BY 4.0"
+  ],
+  "Animated menus": [
+    "Анимирани менюта",
+    "Анимированные меню",
+    "Menus animés",
+    "القوائم المتحركة"
+  ],
+  "Approach the fallen soldier. Middle mouse locks target.": [
+    "Приближете падналия войник. Средният бутон на мишката заключва целта.",
+    "Подойдите к павшему солдату. Средняя мышь фиксирует цель.",
+    "Approchez-vous du soldat tombé au combat. La souris centrale verrouille la cible.",
+    "اقترب من الجندي الذي سقط. هدف أقفال الماوس الأوسط."
+  ],
+  "ArenaHorizon": [
+    "ArenaHorizon",
+    "ArenaHorizon",
+    "ArenaHorizon",
+    "أرينا هورايزون"
+  ],
+  "Arm": [
+    "Arm",
+    "Постановка на охрану",
+    "Bras",
+    "الذراع"
+  ],
+  "ArmSkeleton": [
+    "ArmSkeleton",
+    "АрмСкелет",
+    "BrasSquelette",
+    "هيكل الذراع"
+  ],
+  "Ashen Peaks": [
+    "Пепелните върхове",
+    "Пепельные Пики",
+    "Pics cendrés",
+    "القمم الرمادية"
+  ],
+  "Ashen Peaks: the abandoned mine is west. Cross the railed bridge to reach the forge fortress. The service bar opens from the fortress side.": [
+    "Пепелните върхове: изоставената мина е на запад. Пресечете релсовия мост, за да стигнете до крепостта ковачница. Сервизният бар се отваря от страната на крепостта.",
+    "Ашен-Пикс: заброшенная шахта находится на западе. Пересеките рельсовый мост, чтобы добраться до крепости-кузницы. Сервис-бар открывается со стороны крепости.",
+    "Pics des Cendres : la mine abandonnée est à l'ouest. Traversez le pont ferroviaire pour atteindre la forteresse-forge. Le bar de service s'ouvre du côté de la forteresse.",
+    "قمم الرماد: المنجم المهجور يقع في الغرب. اعبر الجسر المسور للوصول إلى قلعة الصياغة. يفتح شريط الخدمة من جانب القلعة."
+  ],
+  "Ashen Village": [
+    "Пепелното село",
+    "Деревня Пепла",
+    "Village des Cendres",
+    "قرية أشين"
+  ],
+  "Ashen Village campaign": [
+    "Кампания Пепелното село",
+    "Кампания в Деревне Пепла",
+    "Campagne du village cendré",
+    "حملة قرية أشين"
+  ],
+  "Ashen Village · north": [
+    "Пепелното село · север",
+    "Деревня Пепла · север",
+    "Village cendré · nord",
+    "قرية أشين · الشمال"
+  ],
+  "Ask about the Commander": [
+    "Попитайте за командира",
+    "Спросить о командире",
+    "Renseignez-vous sur le commandant",
+    "اسأل عن القائد"
+  ],
+  "Ask about the crypt": [
+    "Попитайте за криптата",
+    "Спросить о склепе",
+    "Renseignez-vous sur la crypte",
+    "اسأل عن القبو"
+  ],
+  "Ask about the village": [
+    "Попитайте за селото",
+    "Спросить о деревне",
+    "Renseignez-vous sur le village",
+    "اسأل عن القرية"
+  ],
+  "Ask where to look": [
+    "Попитайте къде да търсите",
+    "Спросите, где искать",
+    "Demandez où chercher",
+    "اسأل أين تبحث"
+  ],
+  "Attack: tap for light, hold for heavy (automatically selects a nearby visible target)": [
+    "Атака: докоснете за лека, задръжте за тежка (автоматично избира близка видима цел)",
+    "Атака: нажмите для легкого удара, удерживайте для тяжелого (автоматически выбирает ближайшую видимую цель)",
+    "Attaque : appuyez pour léger, maintenez enfoncé pour intense (sélectionne automatiquement une cible visible à proximité)",
+    "الهجوم: اضغط للضغط الخفيف، اضغط مع الاستمرار للضغط الثقيل (يحدد تلقائيًا هدفًا مرئيًا قريبًا)"
+  ],
+  "AttackTelegraph": [
+    "AttackTelegraph",
+    "AttackTelegraph",
+    "AttaqueTélégraphe",
+    "هجوم التلغراف"
+  ],
+  "AuthoredRuinDressing": [
+    "AuthoredRuinDressing",
+    "Автор: RuinDressing",
+    "AuteurRuinDressing",
+    "المؤلفRuinDressing"
+  ],
+  "Authorization: Bearer": [
+    "Упълномощаване: Приносител",
+    "Авторизация: носитель",
+    "Autorisation : Porteur",
+    "التفويض: الحامل"
+  ],
+  "AwningCameraCollision": [
+    "Сблъсък на тента с камера",
+    "AwningCameraCollision",
+    "AuventCaméraCollision",
+    "تصادم كاميرا المظلة"
+  ],
+  "BARRED SHORTCUT": [
+    "ПРЯК КЪТ С БРЕГА",
+    "ЗАПРЕЩЕННЫЙ ЯРЛЫК",
+    "RACCOURCI BARRÉ",
+    "الاختصار المحظور"
+  ],
+  "BENCHMARK COMPLETE:": [
+    "БЕНЧМАРК ЗАВЪРШЕН:",
+    "ПРОВЕРКА ЗАВЕРШЕНА:",
+    "RÉFÉRENCE COMPLÈTE :",
+    "اكتمال المعيار:"
+  ],
+  "BLACKWOOD": [
+    "ЧЕРНОЛЕС",
+    "БЛЭКВУД",
+    "BOIS NOIR",
+    "بلاكوود"
+  ],
+  "BLACKWOOD LANTERN": [
+    "ФЕНЕР ЧЕРНОЛЕС",
+    "ФОНАРЬ ЧЕРНОГО ДЕРЕВА",
+    "LANTERNE EN BOIS NOIR",
+    "فانوس خشب أسود"
+  ],
+  "BLACKWOOD WARD": [
+    "БЛЕКУУД УОРД",
+    "ОХРАНА БЛЭКВУД",
+    "QUARTIER BOIS-NOIR",
+    "جناح بلاكوود"
+  ],
+  "BLIGHTED HOLLOW": [
+    "ИЗМЪРЛЕНА КУХА",
+    "ЗАЧЁТНАЯ ПУСТАЯ",
+    "CREUX flétri",
+    "مجوف مظلم"
+  ],
+  "BOSSES": [
+    "ШЕФОВЕ",
+    "БОССЫ",
+    "BOSS",
+    "الرؤساء"
+  ],
+  "BURIAL CHAMBER": [
+    "ГРОБНА КАМЕРА",
+    "ПОГОРОННАЯ КАМЕРА",
+    "CHAMBRE FUNÉRAIRE",
+    "غرفة الدفن"
+  ],
+  "BURIAL SEAL": [
+    "ПОГРОБЕН ПЕЧАТ",
+    "ПОГРЕБИТЕЛЬНАЯ ПЕЧАТЬ",
+    "SCEAU FUNÉRAIRE",
+    "ختم الدفن"
+  ],
+  "BURIAL SEAL BROKEN": [
+    "ПОГРОБЕН ПЕЧАТ СЧУПЕН",
+    "ПЕЧАТЬ ПОГРЕБЕНИЯ СЛОМАНА",
+    "SCEAU FUNÉRAIRE BRISÉ",
+    "ختم الدفن مكسور"
+  ],
+  "BURNING MILL": [
+    "ГОРЕЩА МЕЛИЦА",
+    "ОБЖИГАТЕЛЬНАЯ МЕЛЬНИЦА",
+    "BROYEUR À BRÛLAGE",
+    "مطحنة الحرق"
+  ],
+  "Back": [
+    "Назад",
+    "Назад",
+    "Retour",
+    "العودة"
+  ],
+  "Back to credits": [
+    "Назад към кредитите",
+    "Вернуться к титрам",
+    "Retour aux crédits",
+    "العودة إلى الاعتمادات"
+  ],
+  "Back to journal": [
+    "Назад към дневника",
+    "Вернуться в журнал",
+    "Retour au journal",
+    "العودة إلى المجلة"
+  ],
+  "Begin another journey": [
+    "Започнете друго пътуване",
+    "Начните новое путешествие",
+    "Commencez un autre voyage",
+    "ابدأ رحلة أخرى"
+  ],
+  "Binding updated": [
+    "Обвързването е актуализирано",
+    "Привязка обновлена.",
+    "Liaison mise à jour",
+    "تم تحديث الرابط"
+  ],
+  "Blackwood": [
+    "Чернолес",
+    "Блэквуд",
+    "Bois noir",
+    "بلاكوود"
+  ],
+  "Blackwood already discovered": [
+    "Чернолес вече е открит",
+    "Чернолесье уже обнаружен",
+    "Bois-Noir déjà découvert",
+    "اكتشف بلاكوود بالفعل"
+  ],
+  "Blackwood chapter progress requires discovered forest and save schema 3": [
+    "Напредъкът в глава Чернолес изисква открита гора и схема за запис 3",
+    "Для прохождения главы Чернолесье необходимо обнаружить лес и сохранить схему 3.",
+    "La progression du chapitre Bois-Noir nécessite la découverte de la forêt et la sauvegarde du schéma 3",
+    "يتطلب التقدم في فصل الغابة السوداء اكتشاف الغابة وحفظ المخطط 3"
+  ],
+  "Blackwood discovery prerequisites missing": [
+    "Липсват предпоставки за откриване на Чернолес",
+    "Отсутствуют необходимые условия для обнаружения Чернолесье",
+    "Conditions préalables à la découverte de Bois-Noir manquantes",
+    "متطلبات اكتشاف الغابة السوداء مفقودة"
+  ],
+  "Blackwood remains warded. Break the Burial Seal first.": [
+    "Чернолес остава защитен. Първо счупете погребалния печат.",
+    "Блэквуд остается защищенным. Сначала сломайте погребальную печать.",
+    "Bois-Noir reste protégé. Brisez d'abord le sceau funéraire.",
+    "يظل بلاكوود محميًا. كسر ختم الدفن أولا."
+  ],
+  "Blackwood: the eastern watchtower road leads north. Turn west at the northern trail to reach the root shrine. The root bar opens from the northern side.": [
+    "Чернолес: пътят на източната наблюдателна кула води на север. Завийте на запад по северната пътека, за да стигнете до коренното светилище. Коренната лента се отваря от северната страна.",
+    "Блэквуд: дорога к восточной сторожевой башне ведет на север. Поверните на запад по северной тропе, чтобы добраться до корневого храма. Корневая перекладина открывается с северной стороны.",
+    "Bois-Noir : la route de la tour de guet à l'est mène au nord. Tournez vers l’ouest sur le sentier nord pour atteindre le sanctuaire racine. La barre racine s'ouvre du côté nord.",
+    "بلاكوود: طريق برج المراقبة الشرقي يؤدي إلى الشمال. اتجه غربًا عند المسار الشمالي للوصول إلى ضريح الجذر. يفتح شريط الجذر من الجانب الشمالي."
+  ],
+  "BlackwoodArchitecture": [
+    "BlackwoodArchitecture",
+    "BlackwoodArchitecture",
+    "BlackwoodArchitecture",
+    "هندسة بلاكوود"
+  ],
+  "BlackwoodHorizon": [
+    "BlackwoodHorizon",
+    "BlackwoodHorizon",
+    "BlackwoodHorizon",
+    "بلاكوود هورايزون"
+  ],
+  "Blocked · -%d HP": [
+    "Блокиран · -%d HP",
+    "Заблокировано · -%d HP",
+    "Bloqué · -%d HP",
+    "محظور · -%d HP"
+  ],
+  "Boss reward/fact mismatch": [
+    "Несъответствие между наградата и факта на шефа",
+    "Несоответствие награды и фактов босса",
+    "Inadéquation récompense/fait du boss",
+    "عدم تطابق مكافأة الرئيس/الحقيقة"
+  ],
+  "Bound Shade": [
+    "Свързан нюанс",
+    "Связанная тень",
+    "Ombre liée",
+    "ظل مقيد"
+  ],
+  "Break": [
+    "Прекъсване",
+    "Перерыв",
+    "Pause",
+    "استراحة"
+  ],
+  "Break Burial Seal": [
+    "Счупете погребалния печат",
+    "Сломать погребальную печать",
+    "Briser le sceau funéraire",
+    "كسر ختم الدفن"
+  ],
+  "Break Burial Seal first": [
+    "Първо счупете погребалния печат",
+    "Сначала сломайте погребальную печать",
+    "Briser le sceau funéraire en premier",
+    "قم بكسر ختم الدفن أولاً"
+  ],
+  "Break Forge Seal": [
+    "Счупете ковашкия печат",
+    "Сломать кузнечную печать",
+    "Briser le sceau de forge",
+    "كسر ختم الصياغة"
+  ],
+  "Break Oath Seal": [
+    "Прекъснете клетвения печат",
+    "Нарушить печать присяги",
+    "Rompre le sceau du serment",
+    "كسر ختم القسم"
+  ],
+  "Break Oath Seal first": [
+    "Първо разчупете клетвения печат",
+    "Сначала сломайте печать присяги",
+    "Rompre le sceau du serment en premier",
+    "اكسر ختم القسم أولاً"
+  ],
+  "Break Root Seal": [
+    "Счупете уплътнението на корена",
+    "Разрыв корневого уплотнения",
+    "Briser le sceau de racine",
+    "كسر ختم الجذر"
+  ],
+  "Break Root Seal first": [
+    "Първо счупете уплътнението на корена",
+    "Сначала сломайте корневую пломбу",
+    "Briser le sceau de racine en premier",
+    "قم بكسر ختم الجذر أولاً"
+  ],
+  "Break all four regional seals before entering the citadel": [
+    "Счупете и четирите регионални печата, преди да влезете в цитаделата",
+    "Сломайте все четыре региональные печати перед входом в цитадель.",
+    "Briser les quatre sceaux régionaux avant d'entrer dans la citadelle",
+    "اكسر الأختام الإقليمية الأربعة قبل دخول القلعة"
+  ],
+  "Break the Burial Seal before entering Blackwood": [
+    "Счупете погребалния печат, преди да влезете в Чернолес",
+    "Сломайте погребальную печать перед входом в Блэквуд.",
+    "Briser le sceau funéraire avant d'entrer dans Bois-Noir",
+    "اكسر ختم الدفن قبل دخول بلاكوود"
+  ],
+  "Break the Burial Seal inside the crypt": [
+    "Счупете погребалния печат вътре в криптата",
+    "Сломайте погребальную печать внутри склепа.",
+    "Briser le sceau funéraire à l'intérieur de la crypte",
+    "اكسر ختم الدفن داخل القبو"
+  ],
+  "Break the Forge Seal inside the fortress": [
+    "Счупете печата на ковачницата вътре в крепостта",
+    "Сломайте печать кузницы внутри крепости.",
+    "Briser le sceau de la forge à l'intérieur de la forteresse",
+    "اكسر ختم الصياغة داخل القلعة"
+  ],
+  "Break the Oath Seal before entering Ashen Peaks": [
+    "Счупете печата на клетвата, преди да влезете в Пепелните върхове",
+    "Сломайте печать клятвы перед входом в Пепельные Пики.",
+    "Briser le sceau du serment avant d'entrer dans Pics des Cendres",
+    "اكسر ختم القسم قبل الدخول إلى قمم الرماد"
+  ],
+  "Break the Oath Seal inside the Commander's sanctum": [
+    "Счупете клетвения печат в светилището на командира",
+    "Сломайте печать клятвы в святилище командира.",
+    "Briser le sceau du serment à l'intérieur du sanctuaire du commandant",
+    "اكسر ختم القسم داخل حرم القائد"
+  ],
+  "Break the Oath Seal to discover Ashen Peaks": [
+    "Разчупете печата на клетвата, за да откриете Пепелните върхове",
+    "Сломайте печать клятвы, чтобы открыть Пепельные Пики",
+    "Brisez le sceau du serment pour découvrir Pics des Cendres",
+    "اكسر ختم القسم لتكتشف قمم Ashen"
+  ],
+  "Break the Root Seal inside the guardian grove": [
+    "Счупете коренния печат вътре в горичката пазител",
+    "Сломайте Корневую Печать в роще стражей.",
+    "Briser le sceau des racines à l'intérieur du bosquet des gardiens",
+    "اكسر ختم الجذر داخل البستان الحارس"
+  ],
+  "Break the Root Seal to discover the Order's Ruins": [
+    "Счупете коренния печат, за да откриете руините на Ордена",
+    "Сломайте корневую печать, чтобы обнаружить руины Ордена.",
+    "Brisez le sceau racine pour découvrir les ruines de l'Ordre",
+    "اكسر ختم الجذر لاكتشاف أطلال النظام"
+  ],
+  "Break the artifact · end the curse": [
+    "Разбийте артефакта · сложете край на проклятието",
+    "Разбить артефакт · снять проклятие",
+    "Briser l'artefact · mettre fin à la malédiction",
+    "اكسر القطعة الأثرية · أنهي اللعنة"
+  ],
+  "Break the curse": [
+    "Разчупете проклятието",
+    "Снять проклятие",
+    "Briser la malédiction",
+    "اكسر اللعنة"
+  ],
+  "BreakSeal": [
+    "BreakSeal",
+    "Разрыв печати",
+    "BreakSeal",
+    "كسر الختم"
+  ],
+  "Broken seal has no defeated guardian": [
+    "Счупеният печат няма победен пазител",
+    "У сломанной печати нет побежденного стража.",
+    "Le sceau brisé n'a pas de gardien vaincu",
+    "الختم المكسور ليس له ولي مهزوم"
+  ],
+  "Burial Chamber": [
+    "Гробна камера",
+    "Погребальная камера",
+    "Chambre funéraire",
+    "غرفة الدفن"
+  ],
+  "Burial Seal intact": [
+    "Погребалният печат непокътнат",
+    "Погребальная печать нетронута",
+    "Sceau funéraire intact",
+    "ختم الدفن سليم"
+  ],
+  "BurialAmbience": [
+    "BurialAmbience",
+    "BurialAmbience",
+    "Ambiance funéraire",
+    "أجواء الدفن"
+  ],
+  "BurialArchitecture": [
+    "Погребална архитектура",
+    "BurialArchitecture",
+    "Architecture funéraire",
+    "هندسة الدفن"
+  ],
+  "BurialOmen": [
+    "Погребална поличба",
+    "Погребальное предзнаменование",
+    "EnterrementOmen",
+    "دفنOmen"
+  ],
+  "BurialVault": [
+    "BurialVault",
+    "BurialVault\nКнопка",
+    "Coffre funéraire\nBouton",
+    "BurialVault"
+  ],
+  "Button": [
+    "Бутон",
+    "Кнопка",
+    "Bouton",
+    "زر"
+  ],
+  "CAEL": [
+    "КАЕЛ",
+    "КАЭЛЬ",
+    "CAEL",
+    "كايل"
+  ],
+  "CENTRAL ARTIFACT": [
+    "ЦЕНТРАЛЕН АРТЕФАКТ",
+    "ЦЕНТРАЛЬНЫЙ АРТЕФАКТ",
+    "ARTEFACT CENTRAL",
+    "القطعة الأثرية المركزية"
+  ],
+  "CHAPEL OF THE LOST": [
+    "ПАРАКЛИС НА ИЗГУБЕНИТЕ",
+    "ЧАСОВНЯ ПОТЕРЯННЫХ",
+    "CHAPELLE DES PERDUS",
+    "كنيسة الضائعين"
+  ],
+  "CHARACTER": [
+    "ХАРАКТЕР",
+    "ПЕРСОНАЖ",
+    "PERSONNAGE",
+    "الشخصية"
+  ],
+  "CITADEL": [
+    "ЦИТАДЕЛА",
+    "ЦИТАДЕЛЬ",
+    "CITADELLE",
+    "القلعة"
+  ],
+  "CITADEL LANTERN": [
+    "ФЕНЕР НА ЦИТАДЕЛАТА",
+    "ФОНАРЬ ЦИТАДЕЛИ",
+    "LANTERNE CITADELLE",
+    "فانوس القلعة"
+  ],
+  "COLLAPSED COURTYARD": [
+    "СРУШЕН ДВОР",
+    "РАЗРУШЕННЫЙ ДВОР",
+    "COUR EFFONDRÉE",
+    "الفناء المنهار"
+  ],
+  "COMMANDER'S SANCTUM": [
+    "СВЕТИЛИЩЕ НА КОМАНДИРА",
+    "Святилище КОМАНДИРА",
+    "SANCTUM DU COMMANDANT",
+    "حرم القائد"
+  ],
+  "CURRENT LEAD": [
+    "ТЕКУЩ ЛИД",
+    "ТЕКУЩИЙ ЛИДЕР",
+    "PLOMB ACTUEL",
+    "الرصاص الحالي"
+  ],
+  "Cael encounter/quest mismatch": [
+    "Несъответствие при среща/куест на Каел",
+    "Несоответствие встречи и квеста с Силом",
+    "Inadéquation rencontre/quête avec Cael",
+    "عدم تطابق مواجهة/مهمة كايل"
+  ],
+  "Cael left to seek aid while the wounded sheltered in the memorial hall. The Commander held the ward. The dead were people he tried to save.": [
+    "Кейл напусна да потърси помощ, докато ранените се приютиха в мемориалната зала. Командирът държеше отделението. Мъртвите бяха хора, които той се опита да спаси.",
+    "Сил ушел за помощью, пока раненые укрылись в мемориальном зале. Командир держал оборону. Погибшими были люди, которых он пытался спасти.",
+    "Cael partit chercher de l'aide pendant que les blessés s'abritaient dans la salle commémorative. Le commandant tenait la protection. Les morts étaient des gens qu'il essayait de sauver.",
+    "غادر كايل لطلب المساعدة بينما احتمى الجرحى في القاعة التذكارية. أمسك القائد الجناح. القتلى هم الأشخاص الذين حاول إنقاذهم."
+  ],
+  "Cael recruitment requires expedition record": [
+    "Набирането на Каел изисква запис на експедиция",
+    "Для набора Сила требуется запись об экспедиции",
+    "Le recrutement de Cael nécessite un dossier d'expédition",
+    "يتطلب توظيف كايل سجلًا للبعثة"
+  ],
+  "Cael recruitment/reward mismatch": [
+    "Несъответствие при набиране/възнаграждение на Каел",
+    "Несоответствие набора и вознаграждения Каэль",
+    "Inadéquation recrutement/récompense de Cael",
+    "عدم تطابق توظيف/مكافأة كايل"
+  ],
+  "Camera sensitivity": [
+    "Чувствителност на камерата",
+    "Чувствительность камеры",
+    "Sensibilité de la caméra",
+    "حساسية الكاميرا"
+  ],
+  "Cannot create save directory": [
+    "Не може да се създаде директория за запис",
+    "Невозможно создать каталог для сохранения.",
+    "Impossible de créer le répertoire de sauvegarde",
+    "لا يمكن إنشاء دليل الحفظ"
+  ],
+  "Cannot preserve save backup": [
+    "Не може да се запази резервно копие",
+    "Невозможно сохранить резервную копию сохранения.",
+    "Impossible de conserver la sauvegarde",
+    "لا يمكن الاحتفاظ بنسخة احتياطية للحفظ"
+  ],
+  "Cannot promote backup": [
+    "Не може да се насърчава архивирането",
+    "Невозможно продвигать резервную копию.",
+    "Impossible de promouvoir la sauvegarde",
+    "لا يمكن ترقية النسخ الاحتياطي"
+  ],
+  "Cannot read save": [
+    "Не може да се чете и записва",
+    "Невозможно прочитать сохранение.",
+    "Impossible de lire la sauvegarde",
+    "لا يمكن قراءة الحفظ"
+  ],
+  "Cannot replace save; previous save and backup preserved": [
+    "Не може да замени запис; предишното запазване и архивирането са запазени",
+    "Невозможно заменить сохранение; предыдущее сохранение и резервная копия сохранены",
+    "Impossible de remplacer la sauvegarde ; sauvegarde et sauvegarde précédentes préservées",
+    "لا يمكن استبدال الحفظ؛ تم حفظ الحفظ والنسخ الاحتياطي السابق"
+  ],
+  "Cannot rest during combat": [
+    "Не може да почива по време на битка",
+    "Невозможно отдохнуть во время боя.",
+    "Impossible de se reposer pendant le combat",
+    "لا يمكن الراحة أثناء القتال"
+  ],
+  "Cannot upgrade during combat": [
+    "Не може да се надгражда по време на битка",
+    "Невозможно обновить во время боя.",
+    "Impossible de mettre à niveau pendant le combat",
+    "لا يمكن الترقية أثناء القتال"
+  ],
+  "Cannot write temporary save": [
+    "Не може да се запише временно записване",
+    "Невозможно записать временное сохранение.",
+    "Impossible d'écrire une sauvegarde temporaire",
+    "لا يمكن كتابة الحفظ المؤقت"
+  ],
+  "Change companions outside combat": [
+    "Сменете спътници извън битката",
+    "Смена компаньонов вне боя",
+    "Changer de compagnon en dehors du combat",
+    "قم بتغيير رفاقك خارج القتال"
+  ],
+  "Chapter I complete · Blackwood discovered": [
+    "Глава I завършена · Чернолес открит",
+    "Глава I завершена · Блэквуд обнаружил",
+    "Chapitre I terminé · Bois-Noir découvert",
+    "أكمل الفصل الأول · اكتشف بلاكوود"
+  ],
+  "Chapter I · Ashen Village": [
+    "Глава I · Село Ашен",
+    "Глава I · Деревня Пепла",
+    "Chapitre I · Village cendré",
+    "الفصل الأول · قرية أشين"
+  ],
+  "Chapter II complete · Order's Ruins discovered": [
+    "Глава II е завършена · Открити са руините на Ордена",
+    "Глава II завершена · Руины Ордена обнаружены",
+    "Chapitre II terminé · Ruines de l'Ordre découvertes",
+    "اكتمل الفصل الثاني · تم اكتشاف أطلال النظام"
+  ],
+  "Chapter II · Blackwood": [
+    "Глава II · Чернолес",
+    "Глава II · Блэквуд",
+    "Chapitre II · Bois noir",
+    "الفصل الثاني · بلاكوود"
+  ],
+  "Chapter III complete · Ashen Peaks discovered": [
+    "Глава III е завършена · Открити са върховете Ашен",
+    "Глава III завершена · Открыты Пепельные Пики",
+    "Chapitre III terminé · Pics des Cendres découvert",
+    "الفصل الثالث كاملاً · تم اكتشاف قمم الرماد"
+  ],
+  "Chapter III · The Order": [
+    "Глава III · Редът",
+    "Глава III · Орден",
+    "Chapitre III · L'Ordre",
+    "الفصل الثالث · الأمر"
+  ],
+  "Chapter IV complete · Eclipse Citadel discovered": [
+    "Глава IV завършена · Цитаделата на затъмнението е открита",
+    "Глава IV завершена · Обнаружена Цитадель Затмения",
+    "Chapitre IV terminé · Découverte de la Citadelle d'Éclipse",
+    "الفصل الرابع كاملاً · إكتشاف قلعة الكسوف"
+  ],
+  "Chapter IV · Ashen Peaks": [
+    "Глава IV · Пепелните върхове",
+    "Глава IV · Пепельные Пики",
+    "Chapitre IV · Pics cendrés",
+    "الفصل الرابع · القمم الرمادية"
+  ],
+  "Chapter V · The Citadel": [
+    "Глава V · Цитаделата",
+    "Глава V · Цитадель",
+    "Chapitre V · La Citadelle",
+    "الفصل الخامس · القلعة"
+  ],
+  "Chapter four objective mismatch": [
+    "Глава четвърта цел несъответствие",
+    "Несоответствие целей четвертой главы",
+    "Inadéquation des objectifs du chapitre quatre",
+    "عدم تطابق أهداف الفصل الرابع"
+  ],
+  "Chapter three objective mismatch": [
+    "Глава трета цел несъответствие",
+    "Несоответствие целей третьей главы",
+    "Inadéquation des objectifs du chapitre trois",
+    "عدم تطابق أهداف الفصل الثالث"
+  ],
+  "Chapter two objective mismatch": [
+    "Глава втора цел несъответствие",
+    "Несоответствие целей второй главы",
+    "Inadéquation des objectifs du chapitre deux",
+    "عدم تطابق أهداف الفصل الثاني"
+  ],
+  "ChapterArenaDetail": [
+    "Подробности за арената на главата",
+    "ГлаваАренаДеталь",
+    "ChapterArenaDétail",
+    "تفاصيل ساحة الفصل"
+  ],
+  "ChapterLandscape": [
+    "ГлаваПейзаж",
+    "ГлаваЛандшафт",
+    "ChapitrePaysage",
+    "الفصل المناظر الطبيعية"
+  ],
+  "Character rank %d · XP %d / %d": [
+    "Ранг на персонаж %d · XP %d / %d",
+    "Ранг персонажа %d · XP %d / %d",
+    "Rang du personnage %d · XP %d / %d",
+    "رتبة الشخصية %d · XP %d / %d"
+  ],
+  "CharacterRegalia": [
+    "Характер Регалия",
+    "Регалии персонажа",
+    "PersonnageRegalia",
+    "شخصية ريجاليا"
+  ],
+  "Check your email for a confirmation code.": [
+    "Проверете имейла си за код за потвърждение.",
+    "Проверьте свою электронную почту на наличие кода подтверждения.",
+    "Vérifiez votre courrier électronique pour obtenir un code de confirmation.",
+    "تحقق من بريدك الإلكتروني للحصول على رمز التأكيد."
+  ],
+  "Check your email for a recovery code.": [
+    "Проверете имейла си за код за възстановяване.",
+    "Проверьте свою электронную почту на наличие кода восстановления.",
+    "Vérifiez votre courrier électronique pour obtenir un code de récupération.",
+    "تحقق من بريدك الإلكتروني بحثًا عن رمز الاسترداد."
+  ],
+  "Check your email, password or verification code.": [
+    "Проверете своя имейл, парола или код за потвърждение.",
+    "Проверьте свой адрес электронной почты, пароль или код подтверждения.",
+    "Vérifiez votre e-mail, votre mot de passe ou votre code de vérification.",
+    "تحقق من بريدك الإلكتروني أو كلمة المرور أو رمز التحقق."
+  ],
+  "Checkpoint activated; progress saved": [
+    "Контролната точка е активирана; прогресът е запазен",
+    "Контрольная точка активирована; прогресс сохранен",
+    "Point de contrôle activé ; progression enregistrée",
+    "تم تفعيل نقطة التفتيش؛ تم حفظ التقدم"
+  ],
+  "Choose an activated lantern. Travel restores you and your selected companion; ordinary encounters reset. Your recovery moves to the destination.": [
+    "Изберете активиран фенер. Пътуването възстановява вас и вашия избран спътник; обикновените срещи се нулират. Вашето възстановяване се придвижва към дестинацията.",
+    "Выберите активированный фонарь. Путешествие восстанавливает вас и выбранного вами спутника; Обычные встречи сбрасываются. Ваше восстановление перемещается в пункт назначения.",
+    "Choisissez une lanterne activée. Le voyage vous restaure, vous et votre compagnon sélectionné ; les rencontres ordinaires sont réinitialisées. Votre récupération se déplace vers la destination.",
+    "اختر فانوسًا نشطًا. السفر يعيدك أنت ورفيقك المختار؛ إعادة تعيين اللقاءات العادية. ينتقل تعافيك إلى الوجهة."
+  ],
+  "Citadel discovery requires four broken seals": [
+    "Откриването на Цитаделата изисква четири счупени печата",
+    "Для открытия Цитадели необходимы четыре сломанные печати.",
+    "La découverte de la Citadelle nécessite quatre sceaux brisés",
+    "يتطلب اكتشاف القلعة أربعة أختام مكسورة"
+  ],
+  "Citadel: prison cells lie west, the inscription east, and the ritual chamber north.": [
+    "Цитадела: затворническите килии са на запад, надписът на изток, а ритуалната камера на север.",
+    "Цитадель: тюремные камеры лежат на западе, надпись на востоке, а ритуальная палата на севере.",
+    "Citadelle : les cellules de la prison se trouvent à l'ouest, l'inscription à l'est et la chambre rituelle au nord.",
+    "القلعة: زنازين السجن تقع غربًا، والنقش شرقًا، وغرفة الطقوس شمالًا."
+  ],
+  "CitadelHorizon": [
+    "Цитадела Хоризонт",
+    "ЦитадельГоризонт",
+    "CitadelleHorizon",
+    "أفق القلعة"
+  ],
+  "ClaimPickup": [
+    "ClaimPickup",
+    "Получение претензии",
+    "Récupération de réclamation",
+    "المطالبة بالالتقاط"
+  ],
+  "Clear the two trail hounds, recover the satchel and I will travel with you.": [
+    "Разчистете двете ловни кучета, вземете чантата и аз ще пътувам с вас.",
+    "Очистите двух гончих, заберите сумку, и я пойду с вами.",
+    "Éliminez les deux chiens de piste, récupérez le cartable et je voyagerai avec vous.",
+    "قم بإخلاء مساري الصيد، واسترد الحقيبة وسأسافر معك."
+  ],
+  "ClearForestTrail": [
+    "ClearForestTrail",
+    "ClearForestTrail",
+    "ClearForestTrail",
+    "كلير فورست تريل"
+  ],
+  "ClearMill": [
+    "ClearMill",
+    "ClearMill",
+    "ClearMill",
+    "كليرميل"
+  ],
+  "ClearOrderCourtyard": [
+    "ClearOrderCourtyard",
+    "ClearOrderCourtyard",
+    "ClearOrderCourtyard",
+    "ClearOrderCourtyard"
+  ],
+  "ClearPrison": [
+    "ClearPrison",
+    "ClearPrison",
+    "EffacerPrison",
+    "كلير بريسون"
+  ],
+  "Close record": [
+    "Затваряне на записа",
+    "Закрыть запись",
+    "Fermer l'enregistrement",
+    "إغلاق السجل"
+  ],
+  "Collect family token": [
+    "Съберете семеен жетон",
+    "Соберите семейный токен.",
+    "Récupérer le jeton familial",
+    "اجمع رمز العائلة"
+  ],
+  "Collected ·": [
+    "Събрано ·",
+    "Собрано ·",
+    "Collecté ·",
+    "تم جمعها ·"
+  ],
+  "Combat prototype": [
+    "Боен прототип",
+    "Боевой прототип",
+    "Prototype de combat",
+    "النموذج القتالي"
+  ],
+  "Commander progress requires discovered Order and schema five": [
+    "Напредъкът на командира изисква открит ред и схема пет",
+    "Для прогресса командира требуется обнаруженный Орден и пятая схема.",
+    "La progression du commandant nécessite la découverte de l'ordre et du schéma cinq.",
+    "يتطلب تقدم القائد اكتشاف الأمر والمخطط الخامس"
+  ],
+  "Commander's Sanctum": [
+    "Светилището на командира",
+    "Святилище командира",
+    "Sanctuaire du commandant",
+    "حرم القائد"
+  ],
+  "CommanderHall": [
+    "CommanderHall",
+    "Командирский зал",
+    "CommandantHall",
+    "قاعة القائد"
+  ],
+  "Companion orders": [
+    "Придружаващи поръчки",
+    "Сопутствующие заказы",
+    "Ordres compagnons",
+    "أوامر مصاحبة"
+  ],
+  "Companion progress requires save schema 2": [
+    "Напредъкът на придружителя изисква схема за запазване 2",
+    "Для работы сопутствующего приложения требуется сохранить схему 2.",
+    "La progression du compagnon nécessite la sauvegarde du schéma 2",
+    "يتطلب التقدم المصاحب حفظ المخطط 2"
+  ],
+  "Companions wait outside guardian arenas.": [
+    "Спътниците чакат пред арените на пазителите.",
+    "Спутники ждут снаружи арен стражей.",
+    "Les compagnons attendent à l'extérieur des arènes des gardiens.",
+    "الرفاق ينتظرون خارج ساحات الحراسة."
+  ],
+  "Companions will wait at the refuge": [
+    "Придружителите ще чакат в убежището",
+    "Спутники будут ждать в убежище.",
+    "Les compagnons attendront au refuge",
+    "سوف ينتظر الرفاق في الملجأ"
+  ],
+  "Complete the ally's authored rescue or recruitment quest": [
+    "Завършете мисията на съюзника за спасяване или набиране",
+    "Завершите авторский квест по спасению или вербовке союзника.",
+    "Terminez la quête de sauvetage ou de recrutement créée par l'allié.",
+    "أكمل مهمة الإنقاذ أو التجنيد المكتوبة للحليف"
+  ],
+  "CompleteCampaign": [
+    "Завършена кампания",
+    "Завершить кампанию",
+    "Campagne terminée",
+    "أكمل الحملة"
+  ],
+  "CompleteQuest": [
+    "Завършена мисия",
+    "Завершить квест",
+    "CompleteQuête",
+    "المهمة الكاملة"
+  ],
+  "CompleteTraining": [
+    "Пълно обучение",
+    "Полное обучение",
+    "Formation complète",
+    "التدريب الكامل"
+  ],
+  "Completed campaign must recover at restored refuge": [
+    "Завършената кампания трябва да се възстанови във възстановеното убежище",
+    "Завершенная кампания должна восстановиться в восстановленном убежище.",
+    "La campagne terminée doit être récupérée au refuge restauré",
+    "يجب استعادة الحملة المكتملة في الملجأ المستعاد"
+  ],
+  "Completed journeys always reload at the restored refuge.": [
+    "Завършените пътувания винаги се презареждат във възстановеното убежище.",
+    "Завершенные путешествия всегда перезагружаются в восстановленном убежище.",
+    "Les voyages terminés se rechargent toujours au refuge restauré.",
+    "يتم دائمًا إعادة تحميل الرحلات المكتملة في الملجأ المستعاد."
+  ],
+  "Conflicting mouse-wheel controls ignored": [
+    "Конфликтните контроли на колелото на мишката са игнорирани",
+    "Конфликтующие элементы управления колесиком мыши игнорируются.",
+    "Commandes de molette de souris en conflit ignorées",
+    "تم تجاهل عناصر تحكم عجلة الماوس المتعارضة"
+  ],
+  "Confront the Gravedigger north of the square": [
+    "Изправете се срещу Гробаря на север от площада",
+    "Сразитесь с Могильщиком к северу от площади.",
+    "Affrontez le Fossoyeur au nord de la place",
+    "واجه حفار القبور شمال الساحة"
+  ],
+  "Connection unavailable. Progress remains saved locally.": [
+    "Недостъпна връзка. Напредъкът остава запазен локално.",
+    "Соединение недоступно. Прогресс остается сохраненным локально.",
+    "Connexion indisponible. Les progrès restent enregistrés localement.",
+    "الاتصال غير متاح. يظل التقدم محفوظًا محليًا."
+  ],
+  "Content-Type: application/json": [
+    "Тип съдържание: приложение/json",
+    "Тип контента: application/json",
+    "Type de contenu : application/json",
+    "نوع المحتوى: application/json"
+  ],
+  "Continue along the road": [
+    "Продължете по пътя",
+    "Продолжайте идти по дороге.",
+    "Continuer le long de la route",
+    "استمر على طول الطريق"
+  ],
+  "Continue exploring": [
+    "Продължете да изследвате",
+    "Продолжить изучение",
+    "Continuer l'exploration",
+    "مواصلة الاستكشاف"
+  ],
+  "Continue selected slot": [
+    "Продължете избрания слот",
+    "Продолжить выбранный слот",
+    "Continuer l'emplacement sélectionné",
+    "تابع الفتحة المحددة"
+  ],
+  "Controls": [
+    "Контроли",
+    "Элементы управления",
+    "Contrôles",
+    "عناصر التحكم"
+  ],
+  "Courtyard already secured or undiscovered": [
+    "Дворът вече е обезопасен или неоткрит",
+    "Двор уже охраняется или не обнаружен",
+    "Cour déjà sécurisée ou non découverte",
+    "تم تأمين الفناء بالفعل أو لم يتم اكتشافه"
+  ],
+  "Cross inside the rails. The gorge is real; a fall returns you to your last lantern.": [
+    "Пресечете вътре в релсите. Дефилето е истинско; падането те връща към последния ти фенер.",
+    "Перекресток внутри рельсов. Ущелье настоящее; падение возвращает вас к последнему фонарю.",
+    "Traverser à l'intérieur des rails. La gorge est réelle ; une chute vous ramène à votre dernière lanterne.",
+    "اعبر داخل القضبان. الخانق حقيقي. السقوط يعيدك إلى فانوسك الأخير."
+  ],
+  "Curse broken": [
+    "Проклятието е развалено",
+    "Проклятие снято",
+    "Malédiction brisée",
+    "لعنة مكسورة"
+  ],
+  "CurvedSlateRoof": [
+    "CurvedSlateRoof",
+    "Крыша из изогнутого шифера",
+    "Toit courbé en ardoise",
+    "السقف المنحني"
+  ],
+  "DAWN OVER VEYR": [
+    "ЗОРА НАД ВЕЙР",
+    "РАССВЕТ НАД ВЕЙРОМ",
+    "AUBE SUR VEYR",
+    "الفجر فوق VEYR"
+  ],
+  "DEFEATED ·": [
+    "ПОБЕДЕН ·",
+    "ПОБЕДЕН ·",
+    "DÉFAÇU ·",
+    "مهزوم ·"
+  ],
+  "DJMaesen / CC BY 4.0": [
+    "DJMaesen / CC BY 4.0",
+    "DJMaesen / CC BY 4.0",
+    "DJMaesen / CC BY 4.0",
+    "DJMaesen / CC BY 4.0"
+  ],
+  "Damage %d → %d": [
+    "Щети %d → %d",
+    "Урон %d → %d",
+    "Dégâts %d → %d",
+    "الضرر %d → %d"
+  ],
+  "Defeat Iron Warden · move clear of the slam, punish recovery": [
+    "Победете Железният пазител · отдалечете се от удара, накажете възстановяване",
+    "Победить Железного Стража · уйти от удара, наказать восстановление",
+    "Vaincre Gardien de Fer · éloignez-vous du slam, punissez la récupération",
+    "اهزم الحارس الحديدي · ابتعد عن الضربة القاضية، وعاقب التعافي"
+  ],
+  "Defeat Maldrek before breaking the central artifact": [
+    "Победете Малдрек, преди да счупите централния артефакт",
+    "Победите Малдрека, прежде чем сломать центральный артефакт.",
+    "Battez Maldrek avant de briser l'artefact central",
+    "اهزم مالدريك قبل كسر القطعة الأثرية المركزية"
+  ],
+  "Defeat Maldrek first": [
+    "Победете Малдрек първо",
+    "Сначала победите Малдрека",
+    "Battez Maldrek en premier",
+    "اهزم مالدريك أولاً"
+  ],
+  "Defeat Maldrek · dodge the orb, leave marked ground": [
+    "Победете Малдрек · избягвайте кълбото, напуснете маркираната земя",
+    "Победить Малдрека · увернуться от сферы, оставить отмеченную землю",
+    "Vaincre Maldrek · esquiver l'orbe, quitter le terrain marqué",
+    "اهزم مالدريك · راوغ الجرم السماوي واترك أرضًا محددة"
+  ],
+  "Defeat Thorn Beast · sidestep lunges, punish recovery": [
+    "Победете Трънливият звяр · заобикаляйте нападения, наказвайте възстановяване",
+    "Победить Тернового Зверя · уклоняться от выпадов, наказывать восстановление",
+    "Vaincre Bête des Épines · éviter les fentes, punir la récupération",
+    "اهزم وحش الأشواك · الطعنات الجانبية، معاقبة التعافي"
+  ],
+  "Defeat or escape nearby enemies before talking": [
+    "Победете или избягайте от близките врагове, преди да говорите",
+    "Победите или убегите от ближайших врагов, прежде чем говорить.",
+    "Battez ou échappez aux ennemis proches avant de parler",
+    "اهزم الأعداء القريبين أو اهرب منهم قبل التحدث"
+  ],
+  "Defeat soldier to weaken seal": [
+    "Победете войник, за да отслабите печата",
+    "Победите солдата, чтобы ослабить печать.",
+    "Battre un soldat pour affaiblir le sceau",
+    "اهزم الجندي لإضعاف الختم"
+  ],
+  "Defeat the jailer first": [
+    "Първо победете тъмничаря",
+    "Сначала победите тюремщика",
+    "Battez d'abord le geôlier",
+    "اهزم السجان أولاً"
+  ],
+  "Defeat the mill guard before freeing Oren": [
+    "Победете пазача на мелницата, преди да освободите Орен",
+    "Победите охранника мельницы, прежде чем освободить Орена.",
+    "Battez le garde du moulin avant de libérer Oren",
+    "اهزم حارس الطاحونة قبل تحرير أورين"
+  ],
+  "Defeat the seal guardian first": [
+    "Победете първо пазителя на печата",
+    "Сначала победите стража печати.",
+    "Battez d'abord le gardien du sceau",
+    "اهزم حارس الختم أولاً"
+  ],
+  "Defeat the three sentries in the courtyard and barracks": [
+    "Победете тримата часови в двора и казармите",
+    "Победите трех часовых во дворе и в казармах.",
+    "Battez les trois sentinelles dans la cour et la caserne.",
+    "اهزم الحراس الثلاثة في الفناء والثكنات"
+  ],
+  "Defeat the two hounds near the fallen walls": [
+    "Победете двете хрътки близо до падналите стени",
+    "Победите двух гончих возле рухнувших стен.",
+    "Battez les deux chiens près des murs tombés.",
+    "اهزم كلبي الصيد بالقرب من الجدران المتساقطة"
+  ],
+  "DefeatBoss": [
+    "Победете шефа",
+    "Победить Босса",
+    "Vaincre le boss",
+    "اهزم الزعيم"
+  ],
+  "Discover Ashen Peaks before activating its lantern": [
+    "Открийте Пепелните върхове, преди да активирате неговия фенер",
+    "Откройте для себя Пепельные Пики, прежде чем активировать фонарь.",
+    "Découvrez Pics des Cendres avant d'activer sa lanterne",
+    "اكتشف قمم الرماد قبل تفعيل الفانوس الخاص بها"
+  ],
+  "Discover Ashen Peaks before challenging the Warden": [
+    "Открийте Пепелните върхове, преди да предизвикате Warden",
+    "Откройте для себя Пепельные Пики, прежде чем бросить вызов Стражу",
+    "Découvrez Pics des Cendres avant de défier le Gardien",
+    "اكتشف قمم الرماد قبل تحدي Warden"
+  ],
+  "Discover Ashen Peaks before entering the forge fortress": [
+    "Открийте Пепелните върхове, преди да влезете в крепостта на ковачницата",
+    "Откройте для себя Пепельные Пики, прежде чем войти в крепость-кузницу.",
+    "Découvrez Pics des Cendres avant d'entrer dans la forteresse-forge",
+    "اكتشف قمم الرماد قبل الدخول إلى قلعة الصياغة"
+  ],
+  "Discover Blackwood before activating its lantern": [
+    "Открийте Чернолес, преди да активирате неговия фенер",
+    "Откройте для себя Блэквуд, прежде чем активировать его фонарь.",
+    "Découvrez Bois-Noir avant d'activer sa lanterne",
+    "اكتشف بلاكوود قبل تفعيل فانوسها"
+  ],
+  "Discover Blackwood before challenging its guardian": [
+    "Открийте Чернолес, преди да предизвикате неговия пазител",
+    "Откройте для себя Блэквуд, прежде чем бросить вызов его стражу",
+    "Découvrez Bois-Noir avant de défier son gardien",
+    "اكتشف بلاكوود قبل تحدي ولي الأمر"
+  ],
+  "Discover Blackwood before entering the root shrine": [
+    "Открийте Чернолес, преди да влезете в коренното светилище",
+    "Откройте для себя Блэквуд, прежде чем войти в корневой храм.",
+    "Découvrez Bois-Noir avant d'entrer dans le sanctuaire racine",
+    "اكتشف بلاكوود قبل الدخول إلى ضريح الجذر"
+  ],
+  "Discover the Order's Ruins before activating its lantern": [
+    "Открийте руините на Ордена, преди да активирате неговия фенер",
+    "Откройте руины Ордена, прежде чем активировать его фонарь.",
+    "Découvrez les ruines de l'Ordre avant d'activer sa lanterne",
+    "اكتشف أطلال النظام قبل تفعيل فانوسه"
+  ],
+  "Discover the Order's Ruins before challenging the Commander": [
+    "Открийте руините на Ордена, преди да предизвикате Командира",
+    "Откройте для себя руины Ордена, прежде чем бросить вызов командиру.",
+    "Découvrez les ruines de l'Ordre avant de défier le Commandant",
+    "اكتشف أطلال النظام قبل تحدي القائد"
+  ],
+  "Discover the Order's Ruins before entering the sanctum": [
+    "Открийте руините на Ордена, преди да влезете в светилището",
+    "Прежде чем войти в святилище, откройте руины Ордена.",
+    "Découvrez les ruines de l'Ordre avant d'entrer dans le sanctuaire",
+    "اكتشف أطلال النظام قبل دخول الحرم"
+  ],
+  "Discover the citadel before activating its lantern": [
+    "Открийте цитаделата, преди да активирате нейния фенер",
+    "Откройте цитадель, прежде чем активировать ее фонарь.",
+    "Découvrez la citadelle avant d'activer sa lanterne",
+    "اكتشف القلعة قبل تفعيل فانوسها"
+  ],
+  "Discover the citadel before challenging Maldrek": [
+    "Открийте цитаделата, преди да предизвикате Малдрек",
+    "Откройте для себя цитадель, прежде чем бросить вызов Малдреку",
+    "Découvrez la citadelle avant de défier Maldrek",
+    "اكتشف القلعة قبل تحدي مالدريك"
+  ],
+  "Discover the citadel before entering the ritual chamber": [
+    "Открийте цитаделата, преди да влезете в ритуалната стая",
+    "Откройте для себя цитадель, прежде чем войти в ритуальную комнату.",
+    "Découvrez la citadelle avant d'entrer dans la chambre rituelle",
+    "اكتشف القلعة قبل الدخول إلى غرفة الطقوس"
+  ],
+  "Discover the citadel first": [
+    "Първо открийте цитаделата",
+    "Сначала откройте цитадель",
+    "Découvrez d'abord la citadelle",
+    "اكتشف القلعة أولاً"
+  ],
+  "DistantCitadelLandmark": [
+    "Ориентир на далечната цитадела",
+    "Отдаленная цитадель",
+    "LointainCitadelLandmark",
+    "معلم القلعة البعيد"
+  ],
+  "Dodge: tap · Guard: hold": [
+    "Избягване: докоснете · Защита: задръжте",
+    "Уклонение: коснитесь · Охрана: удерживайте",
+    "Esquive : appuyez sur · Garde : maintenez",
+    "دودج: اضغط على · الحرس: اضغط باستمرار"
+  ],
+  "Dodged": [
+    "Избегнат",
+    "Уклонился",
+    "Esquivé",
+    "تم التهرب"
+  ],
+  "E ·": [
+    "E ·",
+    "Э ·",
+    "E ·",
+    "هـ ·"
+  ],
+  "E · Activate / rest": [
+    "E · Активиране / почивка",
+    "E · Активировать/отключить",
+    "E · Activer/reposer",
+    "E · التنشيط / الراحة"
+  ],
+  "E · Break seal": [
+    "E · Счупете уплътнението",
+    "E · Сломать пломбу",
+    "E · Joint de rupture",
+    "E · كسر الختم"
+  ],
+  "E · Break the curse": [
+    "E · Разчупете проклятието",
+    "E · Снять проклятие",
+    "E · Briser la malédiction",
+    "E · كسر اللعنة"
+  ],
+  "E · Break training seal": [
+    "E · Счупете печат за обучение",
+    "E · Печать тренировки перерыва",
+    "E · Briser le sceau d'entraînement",
+    "E · كسر ختم التدريب"
+  ],
+  "E · Collect": [
+    "E · Събиране",
+    "E · Собрать",
+    "E · Collecter",
+    "هـ · اجمع"
+  ],
+  "E · Enter": [
+    "E · Въведете",
+    "E · Ввод",
+    "E · Entrer",
+    "هـ · أدخل"
+  ],
+  "E · Enter Iron Warden arena": [
+    "E · Влезте в арената на Железният пазител",
+    "E · Выйти на арену Железного Стража.",
+    "E · Entrez dans l'arène Gardien de Fer",
+    "E · أدخل ساحة الحارس الحديدي"
+  ],
+  "E · Enter burial chamber": [
+    "E · Влезте в гробната камера",
+    "E · Войти в погребальную камеру.",
+    "E · Entrez dans la chambre funéraire",
+    "E · أدخل حجرة الدفن"
+  ],
+  "E · Enter forest": [
+    "E · Влезте в гората",
+    "E · Войти в лес",
+    "E · Entrer dans la forêt",
+    "E · أدخل الغابة"
+  ],
+  "E · Enter guardian grove": [
+    "E · Влезте в пазителската горичка",
+    "E · Войти в рощу стражей.",
+    "E · Entrez dans le bosquet des gardiens",
+    "E · أدخل بستان الوصي"
+  ],
+  "E · Equipment": [
+    "E · Оборудване",
+    "E · Оборудование",
+    "E · Équipement",
+    "هـ · المعدات"
+  ],
+  "E · Face Maldrek": [
+    "E · Лице Малдрек",
+    "E · Лицо Малдрека",
+    "E · Visage Maldrek",
+    "E · وجه مالدريك"
+  ],
+  "E · Leave before battle / after victory": [
+    "E · Напускане преди битка / след победа",
+    "E · Уйти перед боем/после победы",
+    "E · Partir avant la bataille / après la victoire",
+    "E · المغادرة قبل المعركة / بعد النصر"
+  ],
+  "E · Read": [
+    "E · Прочетете",
+    "E · Читать",
+    "E · Lire",
+    "هـ · القراءة"
+  ],
+  "E · Recover": [
+    "E · Възстановяване",
+    "E · Восстановить",
+    "E · Récupérer",
+    "E · الاسترداد"
+  ],
+  "E · Release after defeating jailer": [
+    "E · Освобождаване след победа над тъмничаря",
+    "E · Освободиться после победы над тюремщиком.",
+    "E · Libération après avoir vaincu le geôlier",
+    "E · أطلق سراحك بعد هزيمة السجان"
+  ],
+  "E · Remember the lost": [
+    "E · Спомнете си изгубеното",
+    "E · Вспомни потерянное",
+    "E · Souvenez-vous des perdus",
+    "هـ · تذكر المفقود"
+  ],
+  "E · Rest": [
+    "E · Почивка",
+    "E · Отдых",
+    "E · Repos",
+    "هـ · الراحة"
+  ],
+  "E · Return": [
+    "E · Връщане",
+    "E · Возврат",
+    "E · Retour",
+    "هـ · العودة"
+  ],
+  "E · Return outside battle": [
+    "E · Връщане извън битката",
+    "E · Возврат за пределы боя.",
+    "E · Retour en dehors de la bataille",
+    "E · العودة إلى خارج المعركة"
+  ],
+  "E · Talk": [
+    "E · Говорете",
+    "E · Обсуждение",
+    "E · Parler",
+    "ه · الحديث"
+  ],
+  "E · Travel": [
+    "E · Пътуване",
+    "E · Путешествие",
+    "E · Voyage",
+    "هـ · السفر"
+  ],
+  "EAST TO WATCHTOWER": [
+    "НА ИЗТОК КЪМ СТРАЖЕВАТА КУЛА",
+    "ВОСТОК ДО СТОРОЖЕВОЙ БАШНИ",
+    "À L'EST DE LA TOUR DE GARDE",
+    "شرقًا إلى برج المراقبة"
+  ],
+  "ECLIPSE CITADEL": [
+    "ЦИТАДЕЛА НА ЗАТЪМНЕНИЕТО",
+    "ЦИТАДЕЛЬ ЗАТМЕНИЯ",
+    "CITADELLE D'ÉCLIPSE",
+    "قلعة الكسوف"
+  ],
+  "ECLIPSE GATEHOUSE": [
+    "ПОРТА НА ЗАТЪМНЕНИЕ",
+    "СТОРОНА ЗАТМЕНИЯ",
+    "PORTE ECLIPSE",
+    "بوابة إكليبس"
+  ],
+  "ENEMY VICTORIES": [
+    "ПОБЕДИ НА ВРАГА",
+    "ПОБЕДЫ ВРАГА",
+    "VICTOIRES ENNEMIS",
+    "انتصارات العدو"
+  ],
+  "EQUIPMENT": [
+    "ОБОРУДВАНЕ",
+    "ОБОРУДОВАНИЕ",
+    "ÉQUIPEMENT",
+    "المعدات"
+  ],
+  "EXPEDITION MEMORIAL": [
+    "МЕМОРИАЛ НА ЕКСПЕДИЦИЯТА",
+    "МЕМОРИАЛ ЭКСПЕДИЦИИ",
+    "MÉMORIAL DE L'EXPÉDITION",
+    "نصب تذكاري للرحلة الاستكشافية"
+  ],
+  "EXPEDITION RECORD": [
+    "РЕКОРД ЗА ЕКСПЕДИЦИЯ",
+    "ЗАПИСЬ ЭКСПЕДИЦИИ",
+    "DOSSIER D'EXPÉDITION",
+    "سجل الرحلة الاستكشافية"
+  ],
+  "EXPLORED REGIONS": [
+    "ИЗСЛЕДВАНИ РЕГИОНИ",
+    "ИЗУЧЕННЫЕ РЕГИОНЫ",
+    "RÉGIONS EXPLORÉES",
+    "المناطق المستكشفة"
+  ],
+  "Each new journey has its own save. Switching first saves your current progress.": [
+    "Всяко ново пътуване има свое собствено запазване. Превключването първо запазва текущия ви напредък.",
+    "Каждое новое путешествие имеет свое сохранение. Первое переключение сохраняет текущий прогресс.",
+    "Chaque nouveau voyage possède sa propre sauvegarde. Changer en premier enregistre votre progression actuelle.",
+    "كل رحلة جديدة لها حفظها الخاص. يؤدي التبديل أولاً إلى حفظ تقدمك الحالي."
+  ],
+  "Earlier ordinary-enemy victories were not recorded by older versions.": [
+    "По-ранни победи на обикновен враг не са записани от по-старите версии.",
+    "Более ранние победы обычных врагов не фиксировались старыми версиями.",
+    "Les victoires précédentes des ennemis ordinaires n'étaient pas enregistrées par les anciennes versions.",
+    "لم يتم تسجيل انتصارات العدو العادي السابقة في الإصدارات الأقدم."
+  ],
+  "East loop: mill and Oren. West loop: graveyard and lost token.": [
+    "Източна линия: мелница и Орен. Западна линия: гробище и изгубен жетон.",
+    "Восточная петля: мельница и Орен. Западная петля: кладбище и потерянный жетон.",
+    "Boucle Est : moulin et Oren. Boucle Ouest : cimetière et jeton perdu.",
+    "الحلقة الشرقية: الطاحونة وأورين. الحلقة الغربية: المقبرة والرمز المفقود."
+  ],
+  "Eclipse Citadel": [
+    "Цитаделата на затъмнението",
+    "Цитадель Затмения",
+    "Citadelle de l'Éclipse",
+    "قلعة الكسوف"
+  ],
+  "EclipseCitadelArchitecture": [
+    "EclipseCitadelArchitecture",
+    "EclipseCitadelArchitecture",
+    "EclipseCitadelArchitecture",
+    "EclipseCitadelArchitecture"
+  ],
+  "Effects volume": [
+    "Сила на звука",
+    "Громкость эффектов",
+    "Volume des effets",
+    "حجم التأثيرات"
+  ],
+  "Ending prerequisites missing": [
+    "Липсват предпоставки за край",
+    "Отсутствуют необходимые условия для завершения",
+    "Conditions préalables de fin manquantes",
+    "متطلبات الإنهاء الأساسية مفقودة"
+  ],
+  "Enemy attack tempo (assist)": [
+    "Темпо на атака на врага (помощ)",
+    "Скорость атаки противника (помощь)",
+    "Tempo d'attaque ennemie (assistance)",
+    "وتيرة هجوم العدو (المساعدة)"
+  ],
+  "Enter Ashen Peaks": [
+    "Влезте в Пепелните върхове",
+    "Введите Пепельные Пики",
+    "Entrez dans les pics cendrés",
+    "أدخل قمم الرماد"
+  ],
+  "Enter Ashen Peaks through the northeast Order passage": [
+    "Влезте в Пепелните върхове през североизточния проход на Order",
+    "Войдите в Пепельные Пики через северо-восточный проход Ордена.",
+    "Entrez dans Pics des Cendres par le passage nord-est de l'Ordre.",
+    "أدخل قمم الرماد عبر ممر النظام الشمالي الشرقي"
+  ],
+  "Enter Blackwood": [
+    "Влезте в Чернолес",
+    "Введите Блэквуд",
+    "Entrez Bois-Noir",
+    "أدخل بلاكوود"
+  ],
+  "Enter Blackwood through the northeast passage": [
+    "Влезте в Чернолес през североизточния проход",
+    "Войдите в Блэквуд через северо-восточный проход.",
+    "Entrez dans Bois-Noir par le passage nord-est",
+    "أدخل بلاكوود عبر الممر الشمالي الشرقي"
+  ],
+  "Enter Commander sanctum": [
+    "Влезте в Commander sanctum",
+    "Войдите в убежище командира.",
+    "Entrez dans le sanctuaire du Commandant",
+    "أدخل حرم القائد"
+  ],
+  "Enter Eclipse Citadel": [
+    "Влезте в Цитаделата на Затъмнението",
+    "Войдите в Цитадель Затмения.",
+    "Entrez dans la Citadelle d'Éclipse",
+    "أدخل قلعة الكسوف"
+  ],
+  "Enter Eclipse Citadel through the northeast mountain ward": [
+    "Влезте в Цитаделата на затъмнението през североизточния планински район",
+    "Войдите в Цитадель Затмения через северо-восточный горный район.",
+    "Entrez dans la Citadelle d'Éclipse par le quartier montagneux nord-est.",
+    "أدخل قلعة الكسوف عبر جناح الجبل الشمالي الشرقي"
+  ],
+  "Enter Order's Ruins": [
+    "Влезте в руините на Ордена",
+    "Войдите в руины Ордена",
+    "Entrez dans les ruines de l'ordre",
+    "أدخل أطلال الطلب"
+  ],
+  "Enter Order's Ruins through the northeast forest ward": [
+    "Влезте в руините на Ордена през североизточния горски район",
+    "Войдите в Руины Ордена через северо-восточный лесной район.",
+    "Entrez dans les ruines de l'Ordre en passant par le quartier forestier nord-est",
+    "أدخل أطلال النظام عبر جناح الغابة الشمالي الشرقي"
+  ],
+  "Enter Thorn Beast grove": [
+    "Влезте в горичката на Трънливият звяр",
+    "Войдите в рощу Тернового Зверя.",
+    "Entrez dans le bosquet des bêtes épineuses",
+    "أدخل بستان وحش الأشواك"
+  ],
+  "Enter a valid email address.": [
+    "Въведете валиден имейл адрес.",
+    "Введите действительный адрес электронной почты.",
+    "Saisissez une adresse e-mail valide.",
+    "أدخل عنوان بريد إلكتروني صالحًا."
+  ],
+  "Enter burial chamber": [
+    "Влезте в гробната камера",
+    "Войдите в погребальную камеру.",
+    "Entrez dans la chambre funéraire",
+    "أدخل حجرة الدفن"
+  ],
+  "Enter forge fortress": [
+    "Влезте в крепостта ковачница",
+    "Войдите в крепость-кузницу.",
+    "Entrez dans la forteresse-forge",
+    "أدخل قلعة الصياغة"
+  ],
+  "Enter the courtyard": [
+    "Влез в двора",
+    "Войдите во двор.",
+    "Entrez dans la cour",
+    "أدخل الفناء"
+  ],
+  "Equipment / upgrades [Tab]": [
+    "Оборудване/надстройки [Tab]",
+    "Оборудование/улучшения [Tab]",
+    "Équipements / mises à niveau [Tab]",
+    "المعدات / ترقيات [Tab]"
+  ],
+  "Escape your pursuers before entering the forge": [
+    "Избягайте от преследвачите си, преди да влезете в ковачницата",
+    "Убегайте от преследователей, прежде чем войти в кузницу",
+    "Échappez à vos poursuivants avant d'entrer dans la forge",
+    "اهرب من مطاردك قبل دخول الصياغة"
+  ],
+  "Escape your pursuers before entering the grove": [
+    "Избягайте от преследвачите си, преди да влезете в горичката",
+    "Убегайте от преследователей, прежде чем войти в рощу.",
+    "Échappez à vos poursuivants avant d'entrer dans le bosquet",
+    "اهرب من مطاردك قبل دخول البستان"
+  ],
+  "Escape your pursuers before entering the ritual chamber": [
+    "Избягайте от преследвачите си, преди да влезете в ритуалната стая",
+    "Убегайте от преследователей, прежде чем войти в ритуальную комнату.",
+    "Échappez à vos poursuivants avant d'entrer dans la chambre rituelle",
+    "اهرب من مطاردك قبل دخول غرفة الطقوس"
+  ],
+  "Escape your pursuers before entering the sanctum": [
+    "Избягайте от преследвачите си, преди да влезете в светилището",
+    "Убегайте от преследователей, прежде чем войти в святилище",
+    "Échappez à vos poursuivants avant d'entrer dans le sanctuaire",
+    "اهرب من مطاردك قبل دخول الحرم"
+  ],
+  "Escape your pursuers before returning to Peaks": [
+    "Избягайте от преследвачите си, преди да се върнете към Върховете",
+    "Убегайте от преследователей, прежде чем вернуться в Пикс.",
+    "Échappez à vos poursuivants avant de retourner à Peaks",
+    "اهرب من مطاردك قبل العودة إلى بيكس"
+  ],
+  "Escape your pursuers before travelling to the peaks": [
+    "Избягайте от преследвачите си, преди да пътувате до върховете",
+    "Убегайте от преследователей, прежде чем отправиться на вершины",
+    "Échappez à vos poursuivants avant de vous rendre vers les sommets",
+    "اهرب من مطاردك قبل السفر إلى القمم"
+  ],
+  "Expedition record": [
+    "Рекорд на експедиция",
+    "Запись об экспедиции",
+    "Dossier d'expédition",
+    "سجل الرحلة الاستكشافية"
+  ],
+  "Expedition record prerequisites missing": [
+    "Липсват предпоставки за запис на експедиция",
+    "Отсутствуют необходимые условия для записи об экспедиции.",
+    "Conditions préalables au dossier d'expédition manquantes",
+    "المتطلبات الأساسية لسجل الرحلة الاستكشافية مفقودة"
+  ],
+  "Expedition record recovered · return to Sir Cael": [
+    "Записът на експедицията е възстановен · върнете се при сър Кейл",
+    "Запись об экспедиции восстановлена · вернуться к сэру Силу",
+    "Dossier d'expédition récupéré · retour à Sire Cael",
+    "تم استرداد سجل الرحلة الاستكشافية · العودة إلى السير كايل"
+  ],
+  "Experience exceeds next rank threshold": [
+    "Опитът надхвърля следващия праг за ранг",
+    "Опыт превышает порог следующего ранга",
+    "L'expérience dépasse le seuil de rang suivant",
+    "الخبرة تتجاوز عتبة التصنيف التالي"
+  ],
+  "Explored area": [
+    "Проучен район",
+    "Исследованная область",
+    "Zone explorée",
+    "المنطقة المستكشفة"
+  ],
+  "FAMILY TOKEN": [
+    "СЕМЕЙЕН ТОКЕН",
+    "СЕМЕЙНЫЙ ТОКЕН",
+    "JETON FAMILLE",
+    "رمز العائلة"
+  ],
+  "FORGE EMBERS": [
+    "КОВЕТЕ ЖАРАВА",
+    "КУЗОВАТЬ ЭЛЬГИ",
+    "BRAISES DE FORGE",
+    "تشكيل الجمر"
+  ],
+  "FORGE FORTRESS": [
+    "КРЕПОСТ НА КОВАНИЦА",
+    "КУЗНИЦА КРЕПОСТИ",
+    "FORGE FORTERESSE",
+    "تشكيل القلعة"
+  ],
+  "FORGE SEAL": [
+    "КОВАЧЕН ПЕЧАТ",
+    "КУЗНАЯ ПЕЧАТЬ",
+    "JOINT DE FORGE",
+    "تشكيل الختم"
+  ],
+  "FORGE SEAL BROKEN": [
+    "ПЕЧАТЪТ НА КОВАЧКАТА Е СЧУПЕН",
+    "КУЗОВНАЯ ПЕЧАТЬ СЛОМАНА",
+    "JOINT DE FORGE CASSÉ",
+    "تم كسر ختم الصياغة"
+  ],
+  "FOUR SEALS HAVE FALLEN": [
+    "ПАДНАХА ЧЕТИРИ ПЕЧАТА",
+    "ЧЕТЫРЕ ПЕЧАТИ УПАЛИ",
+    "QUATRE phoques sont tombés",
+    "سقطت أربعة أختام"
+  ],
+  "Face Maldrek": [
+    "Обърнете се към Малдрек",
+    "Лицо Малдрека",
+    "Visage Maldrek",
+    "وجه مالدريك"
+  ],
+  "Face the Commander · two crosscuts, then counter": [
+    "Изправете се с лице към командира · два кръстосани удара, след това контра",
+    "Лицом к командиру · два перекрестных удара, затем контрудар",
+    "Affrontez le Commandant · deux coupes transversales, puis contrez",
+    "واجه القائد · قطعتين متقاطعتين، ثم قم بالعداد"
+  ],
+  "Face the Fallen Commander in the northern sanctum": [
+    "Изправете се срещу падналия командир в северното светилище",
+    "Встретьтесь с Падшим командиром в северном святилище.",
+    "Affrontez le commandant déchu dans le sanctuaire nord",
+    "واجه القائد الذي سقط في الحرم الشمالي"
+  ],
+  "Fallen Commander": [
+    "Падналият командир",
+    "Падший командир",
+    "Commandant déchu",
+    "القائد الساقط"
+  ],
+  "Fallen Soldier": [
+    "Паднал войник",
+    "Павший солдат",
+    "Soldat tombé au combat",
+    "جندي ساقط"
+  ],
+  "Family keepsake": [
+    "Семеен спомен",
+    "Семейный подарок на память",
+    "Souvenir de famille",
+    "تذكار عائلي"
+  ],
+  "Family quest has no token": [
+    "Семейната мисия няма жетон",
+    "Семейный квест не имеет жетона",
+    "La quête familiale n'a pas de jeton",
+    "مهمة العائلة ليس لها أي رمز مميز"
+  ],
+  "Family quest reward mismatch": [
+    "Несъответствие на наградите за семейни мисии",
+    "Несоответствие награды за семейный квест",
+    "Inadéquation des récompenses des quêtes familiales",
+    "عدم تطابق مكافأة مهمة العائلة"
+  ],
+  "Family token": [
+    "Семеен токен",
+    "Семейный токен",
+    "Jeton familial",
+    "رمز العائلة"
+  ],
+  "Family token found · bring it to the refuge memorial": [
+    "Семеен жетон е намерен · донесете го на мемориала на убежището",
+    "Найден семейный жетон · отнесите его к мемориалу убежища",
+    "Jeton familial trouvé · apportez-le au mémorial du refuge",
+    "تم العثور على رمز العائلة · أحضره إلى النصب التذكاري للملجأ"
+  ],
+  "Family token mismatch": [
+    "Несъответствие на токена на семейството",
+    "Несоответствие семейного токена",
+    "Incompatibilité des jetons familiaux",
+    "عدم تطابق رمز العائلة"
+  ],
+  "Family token ·": [
+    "Семеен токен ·",
+    "Семейный токен ·",
+    "Jeton familial ·",
+    "رمز العائلة ·"
+  ],
+  "Final chapter mismatch": [
+    "Несъответствие на последната глава",
+    "Несоответствие последней главы",
+    "Incompatibilité du dernier chapitre",
+    "الفصل الأخير غير متطابق"
+  ],
+  "Finale progress requires discovered citadel and schema seven": [
+    "Напредъкът във финала изисква открита цитадела и схема седем",
+    "Для прохождения финала требуется обнаруженная цитадель и седьмая схема.",
+    "La progression finale nécessite la découverte de la citadelle et du schéma sept.",
+    "يتطلب التقدم النهائي اكتشاف القلعة والمخطط السابع"
+  ],
+  "Find Sir Cael west of the Order courtyard": [
+    "Намерете сър Каел на запад от двора на Ордена",
+    "Найдите сэра Сила к западу от двора Ордена.",
+    "Trouvez Sire Cael à l'ouest de la cour de l'Ordre.",
+    "ابحث عن السير كايل غرب فناء النظام"
+  ],
+  "Find Sir Cael west of the courtyard; the memorial hall lies beyond the barracks.": [
+    "Намерете сър Кейл на запад от двора; мемориалната зала се намира отвъд казармата.",
+    "Найдите сэра Сила к западу от двора; мемориальный зал находится за казармами.",
+    "Trouvez Sire Cael à l'ouest de la cour ; la salle commémorative se trouve au-delà de la caserne.",
+    "ابحث عن السير كايل غرب الفناء؛ تقع القاعة التذكارية خارج الثكنات."
+  ],
+  "Find survivors · Oren is at the eastern mill": [
+    "Намерете оцелели · Орен е в източната мелница",
+    "Найдите выживших · Орен на восточной мельнице.",
+    "Trouver des survivants · Oren est au moulin de l'Est",
+    "ابحث عن ناجين · أورين موجود في الطاحونة الشرقية"
+  ],
+  "Find the family token before returning it": [
+    "Намерете токена на семейството, преди да го върнете",
+    "Найдите семейный токен, прежде чем возвращать его.",
+    "Trouvez le jeton familial avant de le rendre",
+    "ابحث عن رمز العائلة قبل إعادته"
+  ],
+  "Find the scout beside the western forest path": [
+    "Намерете скаута до западната горска пътека",
+    "Найдите разведчика рядом с западной лесной тропой.",
+    "Trouvez l'éclaireur à côté du chemin forestier ouest",
+    "ابحث عن الكشاف بجانب مسار الغابة الغربي"
+  ],
+  "Finish the encounter before freeing prisoners": [
+    "Завършете срещата, преди да освободите затворниците",
+    "Завершите столкновение, прежде чем освободить заключенных.",
+    "Terminez la rencontre avant de libérer les prisonniers",
+    "قم بإنهاء المواجهة قبل تحرير السجناء"
+  ],
+  "Finish the encounter before reading": [
+    "Завършете срещата, преди да прочетете",
+    "Завершите встречу, прежде чем читать.",
+    "Terminez la rencontre avant de lire",
+    "قم بإنهاء اللقاء قبل القراءة"
+  ],
+  "Finish the encounter before talking": [
+    "Завършете срещата, преди да говорите",
+    "Завершите встречу, прежде чем говорить.",
+    "Terminez la rencontre avant de parler",
+    "قم بإنهاء اللقاء قبل التحدث"
+  ],
+  "FirstRecovery": [
+    "Първо възстановяване",
+    "Первое восстановление",
+    "Première récupération",
+    "الاسترداد الأول"
+  ],
+  "Follow me": [
+    "Следвайте ме",
+    "Следуй за мной",
+    "Suivez-moi",
+    "تابعوني"
+  ],
+  "Follow the watchtower road to the root shrine": [
+    "Следвайте пътя на наблюдателната кула до коренното светилище",
+    "Следуйте по дороге сторожевой башни к корневому святилищу.",
+    "Suivez la route de la tour de guet jusqu'au sanctuaire racine",
+    "اتبع طريق برج المراقبة إلى ضريح الجذر"
+  ],
+  "Font licenses": [
+    "Лицензи за шрифтове",
+    "Лицензии на шрифты",
+    "Licences de polices",
+    "تراخيص الخطوط"
+  ],
+  "Forest quest has no discovery": [
+    "Мисията на гората няма открития",
+    "В лесном квесте нет открытий",
+    "La quête forestière n'a pas de découverte",
+    "ليس هناك اكتشاف في مهمة الغابة"
+  ],
+  "Forest root bar": [
+    "Горска коренна лента",
+    "Корневая панель леса",
+    "Barre racine de forêt",
+    "شريط جذر الغابة"
+  ],
+  "Forest shortcut opened · direct route to lantern": [
+    "Прекият път към гората е отворен · директен път към фенера",
+    "Открыт ярлык в лесу · прямой путь к фонарю",
+    "Raccourci forestier ouvert · route directe vers la lanterne",
+    "تم فتح اختصار الغابة · الطريق المباشر إلى الفانوس"
+  ],
+  "Forest trail already secured or undiscovered": [
+    "Горска пътека вече е обезопасена или неоткрита",
+    "Лесная тропа уже охраняется или не обнаружена",
+    "Sentier forestier déjà sécurisé ou non découvert",
+    "تم تأمين مسار الغابة بالفعل أو لم يتم اكتشافه"
+  ],
+  "ForestHorizon": [
+    "ForestHorizon",
+    "Лесной горизонт",
+    "HorizonForêt",
+    "فورست هورايزون"
+  ],
+  "ForestTerrain": [
+    "ForestTerrain",
+    "Лесной ландшафт",
+    "ForêtTerrain",
+    "تضاريس الغابات"
+  ],
+  "ForgeArchitecture": [
+    "ForgeArchitecture",
+    "ForgeArchitecture",
+    "ForgeArchitecture",
+    "الهندسة المعمارية"
+  ],
+  "ForgeVault": [
+    "ForgeVault",
+    "ForgeVault",
+    "ForgeVault",
+    "فورجيفولت"
+  ],
+  "Four broken seals required": [
+    "Необходими са четири счупени печата",
+    "Требуется четыре сломанных пломбы.",
+    "Quatre sceaux brisés requis",
+    "يلزم وجود أربعة أختام مكسورة"
+  ],
+  "Four seals feed one anchor. Defeat the wizard, then shatter the central artifact by your own hand. His death alone will not cleanse the kingdom.": [
+    "Четири уплътнения захранват една котва. Победете магьосника, след което разбийте централния артефакт от собствената си ръка. Само смъртта му няма да изчисти кралството.",
+    "Четыре печати питают один якорь. Победите волшебника, а затем разбейте центральный артефакт собственной рукой. Одна только его смерть не очистит королевство.",
+    "Quatre joints alimentent une ancre. Battez le sorcier, puis brisez l'artefact central de votre propre main. Sa mort à elle seule ne purifiera pas le royaume.",
+    "أربعة أختام تغذي مرساة واحدة. اهزم الساحر، ثم حطم القطعة الأثرية المركزية بيدك. موته وحده لن يطهر المملكة."
+  ],
+  "Free Oren": [
+    "Освободете Орен",
+    "Освободить Орена",
+    "Oren gratuit",
+    "أورين مجاني"
+  ],
+  "Free prisoners": [
+    "Освободени затворници",
+    "Освободите заключенных",
+    "Prisonniers libres",
+    "السجناء الأحرار"
+  ],
+  "Free the prisoners": [
+    "Освободете затворниците",
+    "Освободите заключенных",
+    "Libérer les prisonniers",
+    "حرر السجناء"
+  ],
+  "FreePrisoners": [
+    "FreePrisoners",
+    "Свободные заключенные",
+    "Prisonniers libres",
+    "السجناء الأحرار"
+  ],
+  "Fullscreen": [
+    "Цял екран",
+    "Полноэкранный режим",
+    "Plein écran",
+    "ملء الشاشة"
+  ],
+  "GRAVEDIGGER'S CRYPT": [
+    "КРИПТАТА НА ГРОБА",
+    "СКЛЕП МОГИЛЬНИКА",
+    "CRYPTE DU FOSCASSEUR",
+    "سرداب حفار القبور"
+  ],
+  "GaitChest": [
+    "Гръден кош",
+    "ПоходкаГрудь",
+    "DémarchePoitrine",
+    "جايت تشيست"
+  ],
+  "Gamepad is not supported in this build. Assist keeps progression/rewards identical.": [
+    "Геймпадът не се поддържа в тази компилация. Assist поддържа прогресията/наградите идентични.",
+    "Геймпад не поддерживается в этой сборке. Assist сохраняет прогресс/награды одинаковыми.",
+    "La manette de jeu n'est pas prise en charge dans cette version. Assist maintient la progression/les récompenses identiques.",
+    "لوحة الألعاب غير مدعومة في هذا الإصدار. المساعدة تحافظ على التقدم/المكافآت متطابقة."
+  ],
+  "Go east around the root ridge, past the watchtower, then west to the root shrine.": [
+    "Отидете на изток около коренния хребет, покрай наблюдателната кула, след това на запад до коренния храм.",
+    "Идите на восток вокруг корневого гребня, мимо сторожевой башни, затем на запад к корневому храму.",
+    "Allez vers l'est autour de la crête des racines, passez devant la tour de guet, puis vers l'ouest jusqu'au sanctuaire des racines.",
+    "اتجه شرقًا حول قمة الجذر، مرورًا ببرج المراقبة، ثم غربًا إلى ضريح الجذر."
+  ],
+  "Gravedigger": [
+    "Гробар",
+    "Могильщик",
+    "Fossoyeur",
+    "حفار القبور"
+  ],
+  "Graybox progression · temporary geometry": [
+    "Прогресия на сивата кутия · временна геометрия",
+    "Прогресс серого ящика · временная геометрия",
+    "Progression Graybox · géométrie temporaire",
+    "تقدم Graybox · الهندسة المؤقتة"
+  ],
+  "GroveHorizon": [
+    "GroveHorizon",
+    "ГроувГоризонт",
+    "GroveHorizon",
+    "جروف هورايزون"
+  ],
+  "Guard broken!": [
+    "Защитата е счупена!",
+    "Защита сломана!",
+    "Garde cassée !",
+    "تم كسر الحماية!"
+  ],
+  "Guardian": [
+    "Пазител",
+    "Страж",
+    "Gardien",
+    "الوصي"
+  ],
+  "Guardian still lives": [
+    "Пазителят все още е жив",
+    "Страж все еще жив",
+    "Le tuteur vit toujours",
+    "لا يزال الوصي على قيد الحياة"
+  ],
+  "HP %d / %d   Stamina %d / 100": [
+    "HP %d / %d Издръжливост %d / 100",
+    "HP %d / %d Выносливость %d / 100",
+    "HP %d / %d Endurance %d / 100",
+    "HP %d / %d القدرة على التحمل %d / 100"
+  ],
+  "He was your mentor too. His sanctum is north of the collapsed courtyard. Watch for his second crosscut. His lowered blade is your opening. After he falls, break the Oath Seal to open the mountain road.": [
+    "Той беше и ваш ментор. Неговото светилище е северно от срутения двор. Внимавайте за втория му напречен удар. Спуснатото му острие е вашият отвор. След като той падне, счупете клетвения печат, за да отворите планинския път.",
+    "Он также был вашим наставником. Его святилище находится к северу от разрушенного двора. Следите за его вторым ударом. Его опущенный клинок — ваше открытие. После того, как он упадет, сломайте Печать Клятвы, чтобы открыть горную дорогу.",
+    "Il était aussi votre mentor. Son sanctuaire se trouve au nord de la cour effondrée. Surveillez son deuxième croisement. Sa lame abaissée est votre ouverture. Après sa chute, brisez le sceau du serment pour ouvrir la route de la montagne.",
+    "لقد كان معلمك أيضًا. يقع حرمه شمال الفناء المنهار. انتبه لتقاطعه الثاني. نصله المنخفض هو افتتاحك. بعد سقوطه، اكسر ختم القسم لفتح الطريق الجبلي."
+  ],
+  "Healed +45 HP": [
+    "Излекувани +45 HP",
+    "Восстановлено +45 HP.",
+    "Guéri +45 PV",
+    "تم الشفاء +45 من الصحة"
+  ],
+  "Healing charges %d / 3   |   %s": [
+    "Такси за лечение %d / 3 |   %s",
+    "Заряды на исцеление %d / 3 |   %s",
+    "Charges de guérison %d / 3 |   %s",
+    "رسوم الشفاء %d / 3 |   %s"
+  ],
+  "Healing… damage interrupts": [
+    "Изцеление... прекъсване на щетите",
+    "Лечение… прерывание урона",
+    "Guérison… interruption des dégâts",
+    "الشفاء... يقاطع الضرر"
+  ],
+  "Heavy attack": [
+    "Тежка атака",
+    "Тяжелая атака",
+    "Attaque lourde",
+    "هجوم عنيف"
+  ],
+  "Help Lyra": [
+    "Помогнете на Лира",
+    "Помогите Лире",
+    "Aide Lyra",
+    "ساعد ليرا"
+  ],
+  "HillsideForest": [
+    "HillsideForest",
+    "Лес на склоне холма",
+    "Forêt à flanc de colline",
+    "غابة هيلسايد"
+  ],
+  "His oath is ended. I will carry the names from the memorial, not the shame that kept me here.": [
+    "Клетвата му приключи. Ще нося имената от мемориала, а не срама, който ме задържа тук.",
+    "Его клятва закончилась. Я буду нести имена из мемориала, а не стыд, который удерживал меня здесь.",
+    "Son serment est terminé. Je porterai les noms du mémorial, pas la honte qui m'a retenu ici.",
+    "انتهى قسمه. سأحمل الأسماء من النصب التذكاري، وليس العار الذي أبقاني هنا."
+  ],
+  "His oath is ended. The record will help us remember the man he was.": [
+    "Клетвата му приключи. Записът ще ни помогне да си спомним какъв човек беше.",
+    "Его клятва закончилась. Запись поможет нам вспомнить, каким человеком он был.",
+    "Son serment est terminé. Le dossier nous aidera à nous souvenir de l'homme qu'il était.",
+    "انتهى قسمه. سيساعدنا السجل على تذكر الرجل الذي كان عليه."
+  ],
+  "Hit rejected": [
+    "Попадението е отхвърлено",
+    "Обращение отклонено",
+    "Appel rejeté",
+    "تم رفض النتيجة"
+  ],
+  "Hit · -%d HP": [
+    "Хит · -%d HP",
+    "Удар · -%d HP",
+    "Coup · -%d HP",
+    "اضغط على · -%d HP"
+  ],
+  "Hold this position": [
+    "Задръжте тази позиция",
+    "Удерживайте эту позицию",
+    "Tenir ce poste",
+    "شغل هذا المنصب"
+  ],
+  "Hollow Villager": [
+    "Кух селянин",
+    "Полый житель деревни",
+    "Villageois creux",
+    "القروي المجوف"
+  ],
+  "Hope returns to Lantern Refuge": [
+    "Надеждата се завръща в Фенерното убежище",
+    "Хоуп возвращается в убежище фонарей",
+    "L'espoir revient au Refuge des Lanternes",
+    "يعود الأمل إلى ملجأ الفانوس"
+  ],
+  "HostileHealth": [
+    "HostileHealth",
+    "HostileHealth",
+    "HostileHealth",
+    "الصحة العدائية"
+  ],
+  "I left this order to find help. No one returned with me. They call that desertion.": [
+    "Напуснах тази поръчка, за да намеря помощ. Никой не се върна с мен. Наричат ​​това дезертиране.",
+    "Я оставил этот заказ, чтобы найти помощь. Со мной никто не вернулся. Они называют это дезертирством.",
+    "J'ai quitté cette commande pour trouver de l'aide. Personne n'est revenu avec moi. On appelle ça la désertion.",
+    "لقد تركت هذا الطلب للحصول على المساعدة. ولم يعد أحد معي. يسمون ذلك الهجر."
+  ],
+  "I thought the ward would never lift. The hounds drove me from the watchtower. My bandages and maps are in a satchel by the fallen wall.": [
+    "Мислех, че отделението никога няма да се вдигне. Хрътките ме изгониха от наблюдателната кула. Бинтовете и картите ми са в чанта до падналата стена.",
+    "Я думал, что защита никогда не снимется. Гончие выгнали меня со сторожевой вышки. Мои бинты и карты лежат в сумке у обрушившейся стены.",
+    "Je pensais que la protection ne se lèverait jamais. Les chiens m'ont chassé de la tour de guet. Mes bandages et mes cartes sont dans une sacoche près du mur tombé.",
+    "اعتقدت أن الجناح لن يُرفع أبدًا. طردتني كلاب الصيد من برج المراقبة. ضماداتي وخرائطي موجودة في حقيبتي بجوار الجدار المنهار."
+  ],
+  "Imported journeys: %d": [
+    "Импортирани пътувания: %d",
+    "Импортированные поездки: %d.",
+    "Trajets importés : %d",
+    "الرحلات المستوردة: %d"
+  ],
+  "Improve equipped sword": [
+    "Подобрете екипирания меч",
+    "Улучшить экипированный меч.",
+    "Améliorer l'épée équipée",
+    "تحسين السيف المجهز"
+  ],
+  "Incoming damage (assist)": [
+    "Входящи щети (помощ)",
+    "Входящий урон (помощь)",
+    "Dégâts reçus (assistance)",
+    "الضرر الوارد (المساعدة)"
+  ],
+  "Inspect bridge": [
+    "Проверете моста",
+    "Осмотр моста",
+    "Inspecter le pont",
+    "فحص الجسر"
+  ],
+  "Inspect deeper forest path": [
+    "Проверете по-дълбоката горска пътека",
+    "Осмотрите более глубокую лесную тропу.",
+    "Inspecter un chemin forestier plus profond",
+    "افحص مسار الغابة الأعمق"
+  ],
+  "Invalid active companion": [
+    "Невалиден активен придружител",
+    "Недопустимый активный спутник.",
+    "Compagnon actif non valide",
+    "رفيق نشط غير صالح"
+  ],
+  "Invalid character numbers": [
+    "Невалидни номера на символи",
+    "Недопустимые номера символов.",
+    "Numéros de caractères non valides",
+    "أرقام أحرف غير صالحة"
+  ],
+  "Invalid content version or slot": [
+    "Невалидна версия на съдържанието или слот",
+    "Неверная версия контента или слот.",
+    "Version de contenu ou emplacement non valide",
+    "إصدار أو فتحة محتوى غير صالحة"
+  ],
+  "Invalid controls ignored; defaults retained": [
+    "Игнорирани невалидни контроли; настройките по подразбиране се запазват",
+    "Недопустимые элементы управления игнорируются; настройки по умолчанию сохранены",
+    "Contrôles non valides ignorés ; valeurs par défaut conservées",
+    "تم تجاهل عناصر التحكم غير الصالحة؛ تم الاحتفاظ بالافتراضيات"
+  ],
+  "Invalid ending state": [
+    "Невалидно крайно състояние",
+    "Недопустимое конечное состояние.",
+    "État de fin non valide",
+    "حالة النهاية غير صالحة"
+  ],
+  "Invalid enemy defeat count": [
+    "Невалиден брой поражения на врага",
+    "Неверный счетчик поражений противника.",
+    "Nombre de défaites ennemies invalide",
+    "عدد هزيمة العدو غير صالح"
+  ],
+  "Invalid enemy description": [
+    "Невалидно описание на врага",
+    "Неверное описание врага.",
+    "Description de l'ennemi invalide",
+    "وصف العدو غير صالح"
+  ],
+  "Invalid enemy history": [
+    "Невалидна история на врага",
+    "Неверная история врагов.",
+    "Historique de l'ennemi invalide",
+    "سجل العدو غير صالح"
+  ],
+  "Invalid enemy identity": [
+    "Невалидна самоличност на врага",
+    "Неверный идентификатор врага.",
+    "Identité de l'ennemi invalide",
+    "هوية العدو غير صالحة"
+  ],
+  "Invalid equipment": [
+    "Невалидно оборудване",
+    "Недопустимое оборудование.",
+    "Équipement invalide",
+    "معدات غير صالحة"
+  ],
+  "Invalid journey": [
+    "Невалидно пътуване",
+    "Недопустимое путешествие.",
+    "Trajet invalide",
+    "رحلة غير صالحة"
+  ],
+  "Invalid journey history origin": [
+    "Невалиден произход на историята на пътуването",
+    "Неверное происхождение истории поездок.",
+    "Origine de l'historique de trajet non valide",
+    "أصل سجل الرحلة غير صالح"
+  ],
+  "Invalid or duplicate entries in": [
+    "Невалидни или дублиращи се записи в",
+    "Неверные или повторяющиеся записи в",
+    "Entrées invalides ou en double dans",
+    "إدخالات غير صالحة أو مكررة"
+  ],
+  "Invalid or duplicate visited region": [
+    "Невалиден или дублиран посетен регион",
+    "Неверный или повторяющийся посещенный регион.",
+    "Région visitée non valide ou en double",
+    "المنطقة التي تمت زيارتها غير صالحة أو مكررة"
+  ],
+  "Invalid quest state": [
+    "Невалидно състояние на мисията",
+    "Неверное состояние квеста.",
+    "État de quête invalide",
+    "حالة المهمة غير صالحة"
+  ],
+  "Invalid recovery spawn": [
+    "Невалидно възстановяване",
+    "Неверный спавн восстановления.",
+    "Génération de récupération non valide",
+    "ظهور الاسترداد غير صالح"
+  ],
+  "Invalid save schema": [
+    "Невалидна схема за запис",
+    "Неверная схема сохранения.",
+    "Schéma de sauvegarde non valide",
+    "مخطط الحفظ غير صالح"
+  ],
+  "Invalid save timestamp": [
+    "Невалидно времево клеймо за запазване",
+    "Неверная отметка времени сохранения.",
+    "Horodatage d'enregistrement non valide",
+    "الطابع الزمني للحفظ غير صالح"
+  ],
+  "Invalid slot": [
+    "Невалиден слот",
+    "Неверный слот",
+    "Emplacement non valide",
+    "فتحة غير صالحة"
+  ],
+  "Invalid visited regions": [
+    "Невалидни посетени региони",
+    "Недопустимые посещенные регионы.",
+    "Régions visitées non valides",
+    "المناطق التي تمت زيارتها غير صالحة"
+  ],
+  "Invert camera Y": [
+    "Обърнете камера Y",
+    "Инвертировать камеру Y",
+    "Inverser la caméra Y",
+    "كاميرا عكسية Y"
+  ],
+  "Iron Warden": [
+    "Железен пазач",
+    "Железный страж",
+    "Gardien de Fer",
+    "حارس الحديد"
+  ],
+  "JOURNAL": [
+    "Дневник",
+    "ЖУРНАЛ",
+    "JOURNAL",
+    "المجلة"
+  ],
+  "JOURNEY": [
+    "ПЪТУВАНЕ",
+    "ПУТЕШЕСТВИЕ",
+    "VOYAGE",
+    "الرحلة"
+  ],
+  "JUMP ROUTE · F": [
+    "МАРШРУТ ЗА СКАЧАНЕ · F",
+    "МАРШРУТ ПРЫЖКА · F",
+    "ITINÉRAIRE DE SAUT · F",
+    "طريق القفز · F"
+  ],
+  "Journal  [%s]": [
+    "Журнал [%s]",
+    "Журнал [%s]",
+    "Journal [%s]",
+    "المجلة [%s]"
+  ],
+  "Journal, jump, flask override, target selection and companion orders are in Pause": [
+    "Заповедите за дневник, скок, колба, избор на цел и придружители са в пауза",
+    "Журнал, прыжок, переопределение флакона, выбор цели и приказы компаньона находятся на паузе.",
+    "Les commandes de journal, de saut, de remplacement de flacon, de sélection de cible et de compagnon sont en pause",
+    "اليومية والقفز وتجاوز القارورة واختيار الهدف والأوامر المصاحبة في وضع الإيقاف المؤقت"
+  ],
+  "Journey %d": [
+    "Пътуване %d",
+    "Путешествие %d",
+    "Voyage %d",
+    "رحلة %d"
+  ],
+  "Journey %d · %s": [
+    "Пътуване %d · %s",
+    "Путешествие %d · %s",
+    "Voyage %d · %s",
+    "رحلة %d · %s"
+  ],
+  "Journey in progress": [
+    "Пътуването е в ход",
+    "Путешествие продолжается",
+    "Voyage en cours",
+    "الرحلة جارية"
+  ],
+  "Journey saved. Choose Continue journey to return.": [
+    "Пътуването е запазено. Изберете Продължете пътуването, за да се върнете.",
+    "Путешествие сохранено. Выберите Продолжить путешествие, чтобы вернуться.",
+    "Trajet enregistré. Choisissez Continuer le voyage pour revenir.",
+    "تم حفظ الرحلة. اختر مواصلة الرحلة للعودة."
+  ],
+  "Journey storage limit reached; existing saves preserved": [
+    "Лимитът за съхранение за пътуване е достигнат; запазени съществуващи записвания",
+    "Достигнут лимит хранилища для путешествия; существующие сохранения сохранены",
+    "Limite de stockage Journey atteinte ; sauvegardes existantes préservées",
+    "تم الوصول إلى الحد الأقصى لتخزين الرحلة؛ تم حفظ الحفظ الموجود"
+  ],
+  "KEEPSAKE": [
+    "СПОМЕН",
+    "НАПОМНИ",
+    "SOUVENIR",
+    "تذكار"
+  ],
+  "KNOWN ROUTES": [
+    "ПОЗНАТИ МАРШРУТИ",
+    "ИЗВЕСТНЫЕ МАРШРУТЫ",
+    "ITINÉRAIRES CONNUS",
+    "الطرق المعروفة"
+  ],
+  "Keep inside the rails": [
+    "Дръжте се вътре в релсите",
+    "Держитесь внутри рельсов.",
+    "Rester à l'intérieur des rails",
+    "احتفظ به داخل القضبان"
+  ],
+  "Keepsake": [
+    "Спомен",
+    "Сувенир на память",
+    "Souvenir",
+    "تذكار"
+  ],
+  "KingsRoad": [
+    "KingsRoad",
+    "КингсРоуд",
+    "Route des Rois",
+    "طريق الملوك"
+  ],
+  "KingsRoadSettlement": [
+    "KingsRoadSettlement",
+    "КингсРоудСетлмент",
+    "KingsRoadSettlement",
+    "KingsRoadSettlement"
+  ],
+  "Knight sword · equipped · tier %d": [
+    "Рицарски меч · оборудван · ниво %d",
+    "Рыцарский меч · экипирован · уровень %d",
+    "Épée de chevalier · équipée · niveau %d",
+    "سيف الفارس · مجهز · الطبقة %d"
+  ],
+  "KnightLocomotion": [
+    "KnightLocomotion",
+    "KnightLocomotion",
+    "ChevalierLocomotion",
+    "حركة الفارس"
+  ],
+  "LANTERN": [
+    "ФЕНЕР",
+    "ФОНАРЬ",
+    "LANTERNE",
+    "فانوس"
+  ],
+  "LANTERN REFUGE": [
+    "УБИЩИЩЕ ЗА ФЕНЕР",
+    "Убежище ФОНАРЕЙ",
+    "REFUGE LANTERNE",
+    "ملجأ الفانوس"
+  ],
+  "LANTERN ROUTES": [
+    "ФЕНЕРНИ МАРШРУТИ",
+    "ФОНАРНЫЕ МАРШРУТЫ",
+    "ITINÉRAIRES DES LANTERNES",
+    "مسارات الفانوس"
+  ],
+  "LMB": [
+    "LMB",
+    "ЛКМ",
+    "LMB",
+    "إل إم بي"
+  ],
+  "LMB Attack   Q Heavy   RMB Block   Space Dodge": [
+    "LMB Attack Q Heavy RMB Block Space Dodge",
+    "Атака ЛКМ Q Тяжелый ПКМ Блок Уклонение от пробела",
+    "LMB Attack Q Heavy RMB Block Space Dodge",
+    "دودج LMB Attack Q الثقيل RMB Block Space"
+  ],
+  "LOCKED · %s": [
+    "ЗАКЛЮЧЕНО · %s",
+    "ЗАБЛОКИРОВАНО · %s",
+    "VERROUILLÉ · %s",
+    "مغلق · %s"
+  ],
+  "LOCKED · Fallen Soldier · HP %d": [
+    "ЗАКЛЮЧЕНО · Паднал войник · HP %d",
+    "ЗАБЛОКИРОВАНО · Павший солдат · HP %d",
+    "VERROUILLÉ · Soldat tombé au combat · HP %d",
+    "مغلق · جندي ساقط · HP %d"
+  ],
+  "LYRA": [
+    "ЛИРА",
+    "ЛИРА",
+    "LYRE",
+    "ليرا"
+  ],
+  "LYRA · Scout": [
+    "ЛИРА · Скаут",
+    "ЛИРА · Разведчик",
+    "LYRA · Éclaireur",
+    "ليرا · الكشافة"
+  ],
+  "Label": [
+    "Етикет",
+    "Метка",
+    "Libellé",
+    "التسمية"
+  ],
+  "Lantern Refuge": [
+    "Убежище на фенери",
+    "Убежище фонарей",
+    "Refuge des lanternes",
+    "ملجأ الفانوس"
+  ],
+  "Lantern travel / activated routes": [
+    "Пътуване с фенер / активирани маршрути",
+    "Путешествие фонаря/активированные маршруты",
+    "Voyage lanterne / itinéraires activés",
+    "سفر الفانوس / المسارات المفعلة"
+  ],
+  "LearnRitual": [
+    "LearnRitual",
+    "Ритуал обучения",
+    "ApprendreRituel",
+    "تعلم الطقوس"
+  ],
+  "Leave": [
+    "Напусни",
+    "Уйти",
+    "Congé",
+    "غادر"
+  ],
+  "Leave inscription": [
+    "Оставете надпис",
+    "Оставить надпись",
+    "Laisser l'inscription",
+    "اترك النقش"
+  ],
+  "Left pad: move; push to its edge to run · drag right: look": [
+    "Ляв панел: движение; натиснете до ръба му, за да бягате · плъзнете надясно: погледнете",
+    "Левая панель: перемещение; подтолкни к краю, чтобы бежать · перетащи вправо: смотри",
+    "Pad gauche : déplacer ; poussez jusqu'au bord pour courir · faites glisser vers la droite : regardez",
+    "اللوحة اليسرى: تحرك؛ ادفع إلى حافتها للتشغيل · اسحب لليمين: انظر"
+  ],
+  "Leg": [
+    "Крак",
+    "Нога",
+    "Jambe",
+    "الساق"
+  ],
+  "LegSkeleton": [
+    "Крак Скелет",
+    "Скелет ноги",
+    "JambeSquelette",
+    "هيكل الساق"
+  ],
+  "Lift shortcut bar (village side)": [
+    "Лента за бърз достъп за повдигане (от страната на селото)",
+    "Панель быстрого доступа к лифту (со стороны деревни)",
+    "Barre de raccourci d'ascenseur (côté village)",
+    "رفع شريط الاختصار (جانب القرية)"
+  ],
+  "Lift the root bar from the northern side": [
+    "Повдигнете основната лента от северната страна",
+    "Поднимите корневую балку с северной стороны.",
+    "Soulevez la barre de racine du côté nord",
+    "ارفع شريط الجذر من الجانب الشمالي"
+  ],
+  "Lift the service bar from the fortress side": [
+    "Повдигнете сервизната лента от страната на крепостта",
+    "Поднимите сервисную планку со стороны крепости.",
+    "Soulevez la barre de service du côté de la forteresse",
+    "ارفع شريط الخدمة من جانب القلعة"
+  ],
+  "Light attack": [
+    "Лека атака",
+    "Легкая атака",
+    "Attaque légère",
+    "هجوم خفيف"
+  ],
+  "Load selected slot": [
+    "Зареждане на избрания слот",
+    "Загрузить выбранный слот",
+    "Charger l'emplacement sélectionné",
+    "قم بتحميل الفتحة المحددة"
+  ],
+  "Lose your pursuers before entering Blackwood": [
+    "Загубете преследвачите си, преди да влезете в Чернолес",
+    "Освободитесь от преследователей, прежде чем войти в Блэквуд.",
+    "Perdez vos poursuivants avant d'entrer dans Bois-Noir",
+    "افقد ملاحقيك قبل دخول بلاكوود"
+  ],
+  "Lose your pursuers before entering the Order's Ruins": [
+    "Загубете преследвачите си, преди да влезете в руините на Ордена",
+    "Освободитесь от преследователей, прежде чем войти в Руины Ордена.",
+    "Perdez vos poursuivants avant d'entrer dans les ruines de l'Ordre",
+    "افقد مطاردك قبل الدخول إلى أطلال النظام"
+  ],
+  "Lose your pursuers before entering the citadel": [
+    "Загубете преследвачите си, преди да влезете в цитаделата",
+    "Освободитесь от преследователей, прежде чем войти в цитадель.",
+    "Perdez vos poursuivants avant d'entrer dans la citadelle",
+    "افقد مطاردك قبل دخول القلعة"
+  ],
+  "Lose your pursuers before entering the crypt": [
+    "Загубете преследвачите си, преди да влезете в криптата",
+    "Освободитесь от преследователей, прежде чем войти в склеп.",
+    "Perdez vos poursuivants avant d'entrer dans la crypte",
+    "افقد مطاردك قبل دخول القبو"
+  ],
+  "Lose your pursuers before returning to Blackwood": [
+    "Загубете преследвачите си, преди да се върнете в Чернолес",
+    "Освободитесь от преследователей, прежде чем вернуться в Блэквуд.",
+    "Perdez vos poursuivants avant de retourner à Bois-Noir",
+    "افقد ملاحقيك قبل العودة إلى بلاكوود"
+  ],
+  "Lose your pursuers before returning to Order ruins": [
+    "Загубете преследвачите си, преди да се върнете в руините на Ордена",
+    "Освободитесь от преследователей, прежде чем вернуться к руинам Ордена.",
+    "Perdez vos poursuivants avant de retourner dans les ruines de l'Ordre",
+    "افقد مطاردك قبل العودة إلى أطلال النظام"
+  ],
+  "Lose your pursuers before travelling": [
+    "Загубете преследвачите си, преди да пътувате",
+    "Избавьтесь от преследователей перед путешествием",
+    "Perdez vos poursuivants avant de voyager",
+    "افقد مطاردك قبل السفر"
+  ],
+  "Low graphics · disable real-time shadows": [
+    "Ниска графика · деактивиране на сенките в реално време",
+    "Низкая графика · отключить тени в реальном времени",
+    "Graphiques faibles · désactiver les ombres en temps réel",
+    "رسومات منخفضة · تعطيل الظلال في الوقت الحقيقي"
+  ],
+  "Lyra": [
+    "Лира",
+    "Лира",
+    "Lyre",
+    "ليرا"
+  ],
+  "Lyra joins your journey · +40 XP · +20 shards": [
+    "Лира се присъединява към вашето пътуване · +40 XP · +20 фрагмента",
+    "Лира присоединяется к вашему путешествию · +40 опыта · +20 осколков",
+    "Lyra rejoint votre voyage · +40 XP · +20 fragments",
+    "تنضم ليرا إلى رحلتك · +40 XP · +20 شظية"
+  ],
+  "Lyra must be met in Blackwood": [
+    "Лира трябва да се срещне в Чернолес",
+    "Лиру нужно встретить в Блэквуде.",
+    "Lyra doit être rencontrée à Bois-Noir",
+    "يجب مقابلة ليرا في بلاكوود"
+  ],
+  "Lyra needs her scout satchel and a safe trail": [
+    "Лира се нуждае от своята скаутска чанта и безопасна пътека",
+    "Лире нужна ее разведывательная сумка и безопасный след.",
+    "Lyra a besoin de son cartable d'éclaireur et d'un sentier sécurisé",
+    "تحتاج ليرا إلى حقيبة الكشافة الخاصة بها وطريق آمن"
+  ],
+  "Lyra quest missing": [
+    "Мисията на Лира липсва",
+    "Отсутствует квест Лиры",
+    "Quête Lyra manquante",
+    "مهمة ليرا مفقودة"
+  ],
+  "Lyra recruitment has no recovered satchel": [
+    "Набирането на Лира няма открита чанта",
+    "У набора Лиры не найдена сумка",
+    "Le recrutement Lyra n'a pas de cartable récupéré",
+    "لم يتم استرداد حقيبة تجنيد ليرا"
+  ],
+  "Lyra recruitment/reward mismatch": [
+    "Несъответствие при набиране/възнаграждение на Лира",
+    "Несоответствие набора/награды Лиры",
+    "Inadéquation recrutement/récompense Lyra",
+    "عدم تطابق توظيف ليرا/المكافأة"
+  ],
+  "Lyra: follow / wait at refuge": [
+    "Лира: последвайте / изчакайте в убежището",
+    "Лира: следовать/ждать в убежище",
+    "Lyra : suivre/attendre au refuge",
+    "ليرا: اتبع / انتظر في الملجأ"
+  ],
+  "MEMORIAL": [
+    "МЕМОРИАЛ",
+    "МЕМОРИАЛ",
+    "COMMÉMORIAL",
+    "تذكار"
+  ],
+  "MEMORIAL  ←": [
+    "МЕМОРИАЛ ←",
+    "МЕМОРИАЛ ←",
+    "MÉMORIAL ←",
+    "تذكار ←"
+  ],
+  "MEMORIAL HALL": [
+    "МЕМОРИАЛНА ЗАЛА",
+    "МЕМОРИАЛЬНЫЙ ЗАЛ",
+    "SALLE COMMÉMORATIVE",
+    "القاعة التذكارية"
+  ],
+  "MINE  ←": [
+    "МОЙ ←",
+    "МОЙ ←",
+    "LE MIEN ←",
+    "الألغام ←"
+  ],
+  "MISSIONS": [
+    "МИСИИ",
+    "МИССИИ",
+    "MISSIONS",
+    "المهام"
+  ],
+  "MMB": [
+    "MMB",
+    "ММБ",
+    "MMB",
+    "ميغابايت"
+  ],
+  "Maldrek": [
+    "Малдрек",
+    "Малдрек",
+    "Maldrek",
+    "مالدريك"
+  ],
+  "Maldrek seized the citadel. Through four ancient seals, his curse reached the kingdom.": [
+    "Малдрек превзе цитаделата. Чрез четири древни печата неговото проклятие достигнало кралството.",
+    "Малдрек захватил цитадель. Через четыре древних печати его проклятие достигло королевства.",
+    "Maldrek s'empare de la citadelle. Grâce à quatre sceaux anciens, sa malédiction atteignit le royaume.",
+    "استولى مالدريك على القلعة. ومن خلال أربعة أختام قديمة، وصلت لعنته إلى المملكة."
+  ],
+  "Maldrek's ward holds until he falls": [
+    "Защитата на Малдрек се държи, докато той падне",
+    "Оберег Малдрека удерживается, пока он не упадет.",
+    "La protection de Maldrek tient jusqu'à ce qu'il tombe",
+    "جناح مالدريك صامد حتى يسقط"
+  ],
+  "MarketCanopyCollision": [
+    "MarketCanopyCollision",
+    "MarketCanopyCollision",
+    "MarketCanopyCollision",
+    "تصادم السوق"
+  ],
+  "MarketCounterCollision": [
+    "MarketCounterCollision",
+    "MarketCounterCollision",
+    "MarketCounterCollision",
+    "تصادم السوق"
+  ],
+  "Master": [
+    "Майстор",
+    "Мастер",
+    "Maître",
+    "ماجستير"
+  ],
+  "Master volume": [
+    "Главен обем",
+    "Основной том",
+    "Volume principal",
+    "المجلد الرئيسي"
+  ],
+  "MausoleumCollision": [
+    "Мавзолеен сблъсък",
+    "МавзолейСтолкновение",
+    "MausoléeCollision",
+    "اصطدام الضريح"
+  ],
+  "MausoleumRoofCollision": [
+    "MausoleumRoofCollision",
+    "МавзолейКрышаКоллизия",
+    "MausoléeToitCollision",
+    "اصطدام سقف الضريح"
+  ],
+  "Maximum tier reached": [
+    "Достигнато е максимално ниво",
+    "Достигнут максимальный уровень",
+    "Niveau maximum atteint",
+    "تم الوصول إلى الحد الأقصى للمستوى"
+  ],
+  "Meet Sir Cael in the Order's Ruins": [
+    "Срещнете сър Сейл в руините на Ордена",
+    "Встретьтесь с сэром Силом в руинах Ордена.",
+    "Rencontrez Sire Cael dans les ruines de l'Ordre",
+    "تعرف على السير كايل في أطلال النظام"
+  ],
+  "MeetCael": [
+    "Запознайте се с Каел",
+    "MeetCael",
+    "RencontrezCael",
+    "ميت كايل"
+  ],
+  "MeetLyra": [
+    "Запознайте се с Лира",
+    "Знакомьтесь, Лира",
+    "RencontrezLyra\nMenu",
+    "تعرف على ليرا"
+  ],
+  "Menu": [
+    "Меню",
+    "Меню",
+    "Menu",
+    "القائمة"
+  ],
+  "Menu volume": [
+    "Сила на звука на менюто",
+    "Громкость меню",
+    "Volume des menus",
+    "حجم القائمة"
+  ],
+  "Meshy 6 Lite / CC BY 4.0": [
+    "Meshy 6 Lite / CC BY 4.0",
+    "Meshy 6 Lite / CC BY 4.0",
+    "Meshy 6 Lite / CC PAR 4.0",
+    "Meshy 6 Lite / CC BY 4.0"
+  ],
+  "MeshyBody": [
+    "MeshyBody",
+    "MeshyBody",
+    "Corps maillé",
+    "ميشي بودي"
+  ],
+  "Mill guard defeated": [
+    "Пазачът на мелницата е победен",
+    "Охранник мельницы побеждён.",
+    "Garde du moulin vaincu",
+    "هزم حارس الطاحونة"
+  ],
+  "Missing": [
+    "Липсва",
+    "Отсутствует",
+    "Manquant",
+    "مفقود"
+  ],
+  "Missing arrival point; current area preserved": [
+    "Липсваща точка на пристигане; запазена текуща площ",
+    "Отсутствует точка прибытия; текущая территория сохранена",
+    "Point d'arrivée manquant ; zone actuelle préservée",
+    "نقطة الوصول مفقودة؛ المنطقة الحالية محفوظة"
+  ],
+  "Missing journey history": [
+    "Липсваща история на пътуването",
+    "Отсутствует история поездок.",
+    "Historique de voyage manquant",
+    "تاريخ الرحلة مفقود"
+  ],
+  "Missing verified model part:": [
+    "Липсваща потвърдена част от модела:",
+    "Отсутствует проверенная часть модели:",
+    "Pièce de modèle vérifiée manquante :",
+    "جزء النموذج الذي تم التحقق منه مفقود:"
+  ],
+  "Mission": [
+    "Мисия",
+    "Миссия",
+    "Missions",
+    "المهمة"
+  ],
+  "MobileFrontEnd": [
+    "MobileFrontEnd",
+    "MobileFrontEnd",
+    "MobileFrontEnd",
+    "MobileFrontEnd"
+  ],
+  "Mouse %d": [
+    "Мишка %d",
+    "Мышь %d",
+    "Souris %d",
+    "ماوس %d"
+  ],
+  "Music": [
+    "Музика",
+    "Музыка",
+    "Musique",
+    "الموسيقى"
+  ],
+  "Music volume": [
+    "Сила на звука на музиката (запазена)",
+    "Громкость музыки (зарезервировано)",
+    "Volume de la musique (réservé)",
+    "حجم الموسيقى (محجوز)"
+  ],
+  "MythicFauna": [
+    "Митична фауна",
+    "Мифическая фауна",
+    "Faune Mythique",
+    "الحيوانات الأسطورية"
+  ],
+  "Navigation not ready; previous area preserved. Retry travel.": [
+    "Навигацията не е готова; запазена предишна площ. Повторно пътуване.",
+    "Навигация не готова; предыдущая территория сохранена. Повторите поездку.",
+    "Navigation non prête ; zone précédente préservée. Réessayez de voyager.",
+    "التنقل غير جاهز؛ المنطقة السابقة محفوظة. أعد محاولة السفر."
+  ],
+  "NavigationOrnament": [
+    "Орнамент за навигация",
+    "Навигационный орнамент",
+    "NavigationOrnement",
+    "زخرفة التنقل"
+  ],
+  "Need %d shards": [
+    "Нуждаете се от %d фрагменти",
+    "Нужны осколки %d",
+    "Besoin de fragments %d",
+    "بحاجة إلى أجزاء %d"
+  ],
+  "New journey in selected slot…": [
+    "Ново пътуване в избрания слот...",
+    "Новое путешествие в выбранном слоте…",
+    "Nouveau voyage dans l'emplacement sélectionné…",
+    "رحلة جديدة في الفتحة المحددة..."
+  ],
+  "Next upgrade: %s": [
+    "Следваща надстройка: %s",
+    "Следующее обновление: %s",
+    "Prochaine mise à niveau : %s",
+    "الترقية التالية: %s"
+  ],
+  "No saved game in this slot": [
+    "Няма запазена игра в този слот",
+    "В этом слоте нет сохраненной игры",
+    "Aucune partie sauvegardée dans cet emplacement",
+    "لا توجد لعبة محفوظة في هذه الفتحة"
+  ],
+  "North to root shrine": [
+    "На север към коренното светилище",
+    "К северу от корневого храма",
+    "Nord jusqu'au sanctuaire racine",
+    "من الشمال إلى ضريح الجذر"
+  ],
+  "Northwest to root shrine": [
+    "На северозапад до коренното светилище",
+    "Северо-запад к корневому храму",
+    "Nord-ouest jusqu'au sanctuaire racine",
+    "من الشمال الغربي إلى ضريح الجذر"
+  ],
+  "Not defeated ·": [
+    "Не е победен ·",
+    "Не побеждён ·",
+    "Pas vaincu ·",
+    "لم يُهزم ·"
+  ],
+  "Not yet": [
+    "Все още не",
+    "Еще нет",
+    "Pas encore",
+    "ليس بعد"
+  ],
+  "OATH SEAL": [
+    "КЛЕТВЕН ПЕЧАТ",
+    "ПЕЧАТЬ К ПРИСЯГЕ",
+    "SCEAU DE SERMENT",
+    "ختم القسم"
+  ],
+  "OATH SEAL BROKEN": [
+    "ПЕЧАТЪТ НА КЛЕТВАТА Е СЛУЧЕН",
+    "ПЕЧАТЬ КЛЯТВЫ СЛОМАНА",
+    "SCEAU DE SERMENT BRISÉ",
+    "ختم القسم مكسور"
+  ],
+  "OF LAST LIGHT": [
+    "ОТ ПОСЛЕДНАТА СВЕТЛИНА",
+    "ПОСЛЕДНЕГО СВЕТА",
+    "DE LA DERNIÈRE LUMIÈRE",
+    "من الضوء الأخير"
+  ],
+  "OLD KING'S ROAD": [
+    "ПЪТЯТ НА СТАРИЯ КРАЛ",
+    "СТАРАЯ КОРОЛЕВСКАЯ ДОРОГА",
+    "ROUTE DU VIEUX ROI",
+    "طريق الملك القديم"
+  ],
+  "OLD TRAINING COURTYARD": [
+    "СТАР ДВОР ЗА ОБУЧЕНИЕ",
+    "СТАРЫЙ ТРЕНИРОВОЧНЫЙ ДВОР",
+    "ANCIENNE COUR D'ENTRAÎNEMENT",
+    "ساحة التدريب القديمة"
+  ],
+  "OPEN LEDGE · safe fall reset": [
+    "ОТВОРЕН ПЕРВАД · нулиране при безопасно падане",
+    "ОТКРЫТЫЙ выступ · сброс безопасного падения",
+    "REVÊTEMENT OUVERT · réinitialisation de chute en toute sécurité",
+    "OPEN LEDGE · إعادة ضبط السقوط الآمن"
+  ],
+  "ORDER BARRACKS": [
+    "ПОРЪЧАЙТЕ КАЗАРМИ",
+    "КАЗАРМЫ ПРИКАЗА",
+    "COMMANDER DES CASERNES",
+    "ترتيب الثكنات"
+  ],
+  "ORDER LANTERN": [
+    "ПОРЪЧАЙТЕ ФЕНЕР",
+    "ЗАКАЗАТЬ ФОНАРЬ",
+    "COMMANDER LANTERNE",
+    "اطلب الفانوس"
+  ],
+  "ORDER RUINS  ↑": [
+    "ПОРЪЧАЙ РУИНИ ↑",
+    "РУИНЫ ЗАКАЗА ↑",
+    "COMMANDER LES RUINES ↑",
+    "اطلب الأنقاض ↑"
+  ],
+  "ORDER'S RUINS": [
+    "РУИНИ НА ОРДЕН",
+    "РУИНЫ ОРДЕНА",
+    "RUINES DE L'ORDRE",
+    "بقايا الطلب"
+  ],
+  "OREN": [
+    "ОРЕН",
+    "ОРЕН",
+    "OREN",
+    "أورين"
+  ],
+  "OREN · Blacksmith": [
+    "ОРЕН · Ковач",
+    "ОРЕН · Кузнец",
+    "OREN · Forgeron",
+    "أورين · حداد"
+  ],
+  "OREN · Captive": [
+    "ОРЕН · Пленник",
+    "ОРЕН · Пленник",
+    "OREN · Captif",
+    "أورين · أسير"
+  ],
+  "OREN · Refuge forge": [
+    "ОРЕН · Ковачница за убежище",
+    "ОРЕН · Кузница-убежище",
+    "OREN · Forge du refuge",
+    "أورين · صياغة الملجأ"
+  ],
+  "Online service is not configured yet.": [
+    "Онлайн услугата все още не е конфигурирана.",
+    "Онлайн-сервис еще не настроен.",
+    "Le service en ligne n'est pas encore configuré.",
+    "لم يتم تكوين الخدمة عبر الإنترنت بعد."
+  ],
+  "Only the selected campaign slot will be replaced. Training saves are separate.": [
+    "Ще бъде заменен само избраният слот за кампания. Запазванията на обучението са отделни.",
+    "Будет заменен только выбранный слот кампании. Тренировочные сохранения идут отдельно.",
+    "Seul l'emplacement de campagne sélectionné sera remplacé. Les sauvegardes de formation sont distinctes.",
+    "سيتم استبدال خانة الحملة المحددة فقط. عمليات حفظ التدريب منفصلة."
+  ],
+  "Open forest shortcut": [
+    "Отваряне на горски пряк път",
+    "Открыть ярлык леса",
+    "Raccourci d'ouverture de la forêt",
+    "فتح اختصار الغابة"
+  ],
+  "Open from fortress side": [
+    "Отворете от страната на крепостта",
+    "Открыто со стороны крепости",
+    "Ouvert du côté de la forteresse",
+    "مفتوح من جانب القلعة"
+  ],
+  "Open from northern side": [
+    "Отворете от северната страна",
+    "Открыто с северной стороны.",
+    "Ouvert du côté nord",
+    "مفتوح من الجهة الشمالية"
+  ],
+  "Open from village side": [
+    "Отворете от страната на селото",
+    "Открыто со стороны села",
+    "Ouvert côté village",
+    "مفتوح من جانب القرية"
+  ],
+  "Open service path": [
+    "Отворен път на услугата",
+    "Открыть путь к службе",
+    "Chemin de service ouvert",
+    "فتح مسار الخدمة"
+  ],
+  "OpenCowl": [
+    "OpenCowl",
+    "OpenCowl",
+    "OpenCowl",
+    "أوبن كول"
+  ],
+  "OpenForestShortcut": [
+    "OpenForestShortcut",
+    "OpenForestShortcut",
+    "OpenForestShortcut",
+    "OpenForestShortcut"
+  ],
+  "OpenPeaksShortcut": [
+    "OpenPeaks Shortcut",
+    "OpenPeaksShortcut",
+    "Raccourci OpenPeaks",
+    "OpenPeaksShortcut"
+  ],
+  "OpenShortcut": [
+    "OpenShortcut",
+    "OpenShortcut",
+    "OuvrirShortcut",
+    "OpenShortcut"
+  ],
+  "OpeningFilm": [
+    "Начален филм",
+    "Вступительный фильм",
+    "Film d'ouverture",
+    "الفيلم الافتتاحي"
+  ],
+  "OpeningWorldStory": [
+    "OpeningWorldStory",
+    "Открытие WorldStory",
+    "Ouverture du monde",
+    "قصة العالم المفتوحة"
+  ],
+  "OptionButton": [
+    "Опционален бутон",
+    "Опционная кнопка",
+    "Bouton d'option",
+    "زر الخيار"
+  ],
+  "Order quest progress requires discovered ruins and schema four": [
+    "Напредъкът в мисията за поръчка изисква открити руини и схема четири",
+    "Для выполнения квеста Приказа необходимы обнаруженные руины и четвертая схема.",
+    "La progression de la quête de commande nécessite la découverte de ruines et le schéma quatre.",
+    "يتطلب تقدم مهمة الطلب اكتشاف الأطلال والمخطط الرابع"
+  ],
+  "Order route requires broken Root Seal": [
+    "Маршрутът на поръчката изисква счупен коренен печат",
+    "Для маршрута заказа требуется сломанное корневое уплотнение.",
+    "L'itinéraire de commande nécessite un joint racine brisé",
+    "يتطلب مسار الطلب كسرًا في ختم الجذر"
+  ],
+  "Order ruins: barracks flank the courtyard. The memorial hall lies northwest; the sanctum is north.": [
+    "Руини на поръчката: казарми отстрани на двора. Мемориалната зала е разположена на северозапад; светилището е на север.",
+    "Руины Ордена: казармы по обеим сторонам двора. Мемориальный зал находится на северо-западе; святилище находится на севере.",
+    "Ruines de l'ordre : des casernes flanquent la cour. La salle commémorative se trouve au nord-ouest ; le sanctuaire est au nord.",
+    "أطلال النظام: ثكنات تحيط بالفناء. تقع القاعة التذكارية في الشمال الغربي. الحرم هو الشمال."
+  ],
+  "Order's Ruins": [
+    "Руините на Ордена",
+    "Руины Ордена",
+    "Ruines de l'Ordre",
+    "أنقاض الطلب"
+  ],
+  "OrderArchitecture": [
+    "Архитектура на поръчката",
+    "Архитектура заказа",
+    "OrdreArchitecture",
+    "هندسة النظام"
+  ],
+  "OrderHorizon": [
+    "OrderHorizon",
+    "Горизонт заказа",
+    "Horizon de Commande",
+    "OrderHorizon"
+  ],
+  "Ordinary enemies return after resting/reloading; victory history remains. Boss victories and world unlocks persist. Loading resumes safely at the last lantern.": [
+    "Обикновените врагове се връщат след почивка/презареждане; историята на победата остава. Победите на босовете и отключванията на света продължават. Зареждането се възобновява безопасно при последния фенер.",
+    "Обычные враги возвращаются после отдыха/перезарядки; история побед остается. Победы над боссами и открытия мира сохраняются. Загрузка возобновляется благополучно у последнего фонаря.",
+    "Les ennemis ordinaires reviennent après s'être reposés/rechargés ; l’histoire de la victoire demeure. Les victoires de boss et les déverrouillages du monde persistent. Le chargement reprend en toute sécurité à la dernière lanterne.",
+    "يعود الأعداء العاديون بعد الراحة/إعادة التحميل؛ ويبقى تاريخ النصر. تستمر انتصارات الزعماء وفتح العالم. يستأنف التحميل بأمان عند الفانوس الأخير."
+  ],
+  "Oren recruitment/rescue mismatch": [
+    "Несъответствие при набиране/спасяване на Орен",
+    "Несоответствие набора и спасения Орена",
+    "Inadéquation recrutement/sauvetage d'Oren",
+    "عدم تطابق عملية تجنيد/إنقاذ أورين"
+  ],
+  "Oren rescue prerequisites missing": [
+    "Липсват предпоставки за спасяване на Орен",
+    "Отсутствуют необходимые условия для спасения Орена.",
+    "Conditions préalables au sauvetage d'Oren manquantes",
+    "متطلبات إنقاذ أورين مفقودة"
+  ],
+  "Oren rescued · he will meet you at the refuge · +60 XP / shards": [
+    "Орен е спасен · той ще ви срещне в убежището · +60 XP / шардове",
+    "Орен спасен · он встретит вас в убежище · +60 опыта / осколков",
+    "Oren sauvé · il vous retrouvera au refuge · +60 XP / éclats",
+    "تم إنقاذ أورين · سوف يقابلك في الملجأ · +60 XP / شظايا"
+  ],
+  "Oren reward mismatch": [
+    "Несъответствие на наградата Орен",
+    "Несоответствие награды Орена",
+    "Inadéquation des récompenses Oren",
+    "عدم تطابق مكافأة أورين"
+  ],
+  "Oren ·": [
+    "Орен ·",
+    "Орен ·",
+    "Oren ·",
+    "أورين ·"
+  ],
+  "Oren · safe at the refuge; sword upgrades available.": [
+    "Орен · в безопасност в убежището; налични надстройки за меч.",
+    "Орен · в безопасности в убежище; Доступны улучшения меча.",
+    "Oren · en sécurité au refuge ; améliorations d'épée disponibles.",
+    "أورين · آمن في الملجأ؛ ترقيات السيف المتاحة."
+  ],
+  "OrenForge": [
+    "OrenForge",
+    "ОренФордж",
+    "OrenForge",
+    "أورينفورج"
+  ],
+  "Original friendly kit": [
+    "Оригинален приятелски комплект",
+    "Оригинальный дружелюбный комплект",
+    "Kit convivial original",
+    "مجموعة أصلية ودية"
+  ],
+  "Other slots remain unchanged.": [
+    "Другите слотове остават непроменени.",
+    "Остальные слоты остаются без изменений.",
+    "Les autres emplacements restent inchangés.",
+    "تظل الفتحات الأخرى دون تغيير."
+  ],
+  "PASSAGE UNLOCKED": [
+    "ПАРАЗЪТ СЕ ОТКЛЮЧИ",
+    "ПРОХОД РАЗБЛОКИРОВАН",
+    "PASSAGE DÉBLOQUÉ",
+    "تم فتح الممر"
+  ],
+  "PAUSED": [
+    "НА ПАУЗА",
+    "ПРИОСТАНОВЛЕНО",
+    "EN PAUSE",
+    "متوقف مؤقتًا"
+  ],
+  "PEAKS LANTERN": [
+    "ФЕНЕР PEAKS",
+    "ФОНАРЬ ПИКС",
+    "LANTERNE DES PICS",
+    "فانوس القمم"
+  ],
+  "PRISON": [
+    "ЗАТВОР",
+    "ТЮРЬМА",
+    "PRISON",
+    "السجن"
+  ],
+  "PRISON  ←": [
+    "ЗАТВОР ←",
+    "ТЮРЬМА ←",
+    "PRISON ←",
+    "السجن ←"
+  ],
+  "PRISONERS FREED": [
+    "ЗАТВОРНИЦИ ОСВОБОДЕНИ",
+    "ЗАКЛЮЧЕННЫЕ ОСВОБОЖДЕНЫ",
+    "PRISONNIERS LIBÉRÉS",
+    "إطلاق سراح السجناء"
+  ],
+  "PanelContainer": [
+    "Панел Контейнер",
+    "ПанельКонтейнер",
+    "Conteneur de panneaux",
+    "حاوية اللوحة"
+  ],
+  "Passage open": [
+    "Отворен проход",
+    "Проход открыт",
+    "Passage ouvert",
+    "الممر مفتوح"
+  ],
+  "Password updated": [
+    "Паролата е актуализирана",
+    "Пароль обновлен.",
+    "Mot de passe mis à jour",
+    "تم تحديث كلمة المرور"
+  ],
+  "Passwords do not match.": [
+    "Паролите не съвпадат.",
+    "Пароли не совпадают.",
+    "Les mots de passe ne correspondent pas.",
+    "كلمات المرور غير متطابقة."
+  ],
+  "Peaks chapter progress requires discovery and schema six": [
+    "Напредъкът в главата на върховете изисква откриване и схема шест",
+    "Для прогресса в главе «Пики» требуется обнаружение и шестая схема.",
+    "La progression du chapitre Peaks nécessite une découverte et le schéma six",
+    "يتطلب تقدم فصل الذروة الاكتشاف والمخطط السادس"
+  ],
+  "Peaks route requires broken Oath Seal": [
+    "Маршрутът на върховете изисква счупен клетвен печат",
+    "Для прохождения маршрута Пикс требуется сломанная клятвенная печать.",
+    "L'itinéraire des sommets nécessite le sceau du serment brisé.",
+    "يتطلب طريق القمم ختم القسم المكسور"
+  ],
+  "Peaks service path": [
+    "Пиков път на обслужване",
+    "Путь службы Peaks",
+    "Chemin de service des pics",
+    "مسار خدمة الذروة"
+  ],
+  "PeaksArchitecture": [
+    "PeaksArchitecture",
+    "PeaksArchitecture",
+    "PeaksArchitecture",
+    "هندسة القمم"
+  ],
+  "PeaksHorizon": [
+    "PeaksHorizon",
+    "ПиксГоризонт",
+    "PicsHorizon",
+    "قمم الأفق"
+  ],
+  "PhotogrammetryDressing": [
+    "Фотограметрия Обличане",
+    "ФотограмметрияПеревязка",
+    "PhotogrammétrieHabillage",
+    "القياس التصويري"
+  ],
+  "Please free me. I can work again if the chapel still stands.": [
+    "Моля, освободете ме. Мога да работя отново, ако параклисът все още стои.",
+    "Пожалуйста, освободите меня. Я смогу снова работать, если часовня все еще стоит.",
+    "S'il vous plaît, libérez-moi. Je peux à nouveau travailler si la chapelle est toujours debout.",
+    "من فضلك حررني. يمكنني العمل مرة أخرى إذا كانت الكنيسة لا تزال قائمة."
+  ],
+  "Press a key or mouse button. Escape cancels.": [
+    "Натиснете клавиш или бутон на мишката. Escape се отменя.",
+    "Нажмите клавишу или кнопку мыши. Побег отменяется.",
+    "Appuyez sur une touche ou sur le bouton de la souris. L'évasion s'annule.",
+    "اضغط على مفتاح أو زر الماوس. الهروب يلغي."
+  ],
+  "Prison rescue prerequisites/reward mismatch": [
+    "Несъответствие на предпоставки за спасяване от затвора/възнаграждение",
+    "Предварительные условия спасения из тюрьмы/несоответствие награды",
+    "Conditions préalables au sauvetage en prison/inadéquation des récompenses",
+    "متطلبات إنقاذ السجن الأساسية/عدم تطابق المكافأة"
+  ],
+  "Progress updated": [
+    "Прогресът е актуализиран",
+    "Прогресс обновлен.",
+    "Progression mise à jour",
+    "تم تحديث التقدم"
+  ],
+  "R Heal   MMB Lock   E Interact   Tab Equipment   Esc Pause": [
+    "R Излекуване на MMB Заключване E Взаимодействие с раздел Оборудване Esc Пауза",
+    "R Исцеление блокировки MMB E Вкладка «Взаимодействие» Оборудование Esc Пауза",
+    "R Guérir le verrouillage MMB E Onglet Interagir Équipement Échap Pause",
+    "R Heal MMB Lock E، علامة التبويب التفاعلية، Esc، المعدات"
+  ],
+  "RANK %d  ·  Sword +%d": [
+    "РАНГ %d · Меч +%d",
+    "РАНГ %d · Меч +%d",
+    "RANG %d · Épée +%d",
+    "الرتبة %d · سيف +%d"
+  ],
+  "RECORDED VICTORIES": [
+    "ЗАПИСАНИ ПОБЕДИ",
+    "ЗАРЕГИСТРИРОВАННЫЕ ПОБЕДЫ",
+    "VICTOIRES ENREGISTRÉES",
+    "الانتصارات المسجلة"
+  ],
+  "RESCUED SURVIVOR": [
+    "СПАСЕН ОЦЕЛЯЛ",
+    "СПАСЕН ВЫЖИВШИЙ",
+    "SURVIVANT SAUVÉ",
+    "ناجٍ تم إنقاذه"
+  ],
+  "REVIEW": [
+    "ПРЕГЛЕД",
+    "ОБЗОР",
+    "RÉVISION",
+    "مراجعة"
+  ],
+  "RIDGE BRIDGE": [
+    "ГРЕБЕН МОСТ",
+    "МОСТ РИДЖ",
+    "PONT DE CRÊTE",
+    "جسر ريدج"
+  ],
+  "RIDGE BRIDGE  ↑": [
+    "РИДЖ МОСТ ↑",
+    "МОСТ РИДЖ ↑",
+    "PONT DE CRÊTE ↑",
+    "جسر ريدج ↑"
+  ],
+  "RITUAL ASCENT": [
+    "РИТУАЛНО ИЗКАЧВАНЕ",
+    "РИТУАЛЬНОЕ ВОСХОЖДЕНИЕ",
+    "ASCENSION RITUEL",
+    "صعود طقوسي"
+  ],
+  "RITUAL ASCENT  ↑": [
+    "РИТУАЛНО ИЗКАЧВАНЕ ↑",
+    "РИТУАЛЬНОЕ ПОДЪЕМ ↑",
+    "ASCENSION RITUEL ↑",
+    "الصعود الشعائري ↑"
+  ],
+  "RITUAL INSCRIPTION": [
+    "РИТУАЛЕН НАДПИС",
+    "РИТУАЛЬНАЯ НАПИСЬ",
+    "INSCRIPTION RITUEL",
+    "نقش طقوسي"
+  ],
+  "RMB": [
+    "RMB",
+    "ПКМ",
+    "RMB",
+    "يوان"
+  ],
+  "ROOT BAR": [
+    "ROOT BAR",
+    "КОРНЕВАЯ ПАНЕЛЬ",
+    "BARRE RACINE",
+    "شريط الجذر"
+  ],
+  "ROOT SEAL": [
+    "КОРЕНОВО УПЛЪТНЕНИЕ",
+    "КОРНЕВОЕ УПЛОТНЕНИЕ",
+    "JOINT DE RACINE",
+    "ختم الجذر"
+  ],
+  "ROOT SEAL BROKEN": [
+    "СЧУПЕНО УПЛЪТНЕНИЕ",
+    "КОРНЕВОЕ УПЛОТНЕНИЕ СЛОМАНО",
+    "JOINT DE RACINE CASSÉ",
+    "تم كسر ختم الجذر"
+  ],
+  "ROOT SHRINE": [
+    "КОРЕН СВЕТИЛИЩЕ",
+    "КОРНЕВЫЙ СВЯТОЙ",
+    "SANCTUAIRE RACINE",
+    "ضريح الجذر"
+  ],
+  "ROOT SHRINE  ←": [
+    "СВЕТИЛИЩЕ ←",
+    "КОРНЕВЫЙ ХРАМ ←",
+    "SANCTUAIRE RACINE ←",
+    "ضريح الجذر ←"
+  ],
+  "ROOT SHRINE  ↑": [
+    "КОРЕН СВЕТИЛИЩЕ ↑",
+    "КОРНЕВЫЙ СВЯТИН ↑",
+    "SANCTUAIRE RACINE ↑",
+    "ضريح الجذر ↑"
+  ],
+  "Rank %d · %d/5 bosses · %d enemy victories": [
+    "Ранг %d · %d/5 боса · %d победи на врага",
+    "Ранг %d · %d/5 боссов · %d победы врагов",
+    "Rang %d · Boss %d/5 · Victoires ennemies %d",
+    "الرتبة %d · %d/5 زعماء · انتصارات العدو %d"
+  ],
+  "Rank %d · XP %d · Shards %d · Sword +%d": [
+    "Ранг %d · XP %d · Shards %d · Меч +%d",
+    "Ранг %d · Опыт %d · Осколки %d · Меч +%d",
+    "Rang %d · XP %d · Éclats %d · Épée +%d",
+    "الرتبة %d · XP %d · الشظايا %d · السيف + %d"
+  ],
+  "Read expedition record": [
+    "Прочетете записа на експедицията",
+    "Чтение записи экспедиции",
+    "Lire le dossier d'expédition",
+    "قراءة سجل البعثة"
+  ],
+  "Read mine inscription": [
+    "Прочетете моя надпис",
+    "Прочтите мою надпись",
+    "Lire l'inscription de la mine",
+    "اقرأ نقشي"
+  ],
+  "Read recovered expedition record": [
+    "Прочетете записа на възстановената експедиция",
+    "Прочитать восстановленную запись экспедиции.",
+    "Lire le dossier d'expédition récupéré",
+    "اقرأ سجل البعثة المستردة"
+  ],
+  "Read ritual inscription": [
+    "Прочетете ритуалния надпис",
+    "Прочитать ритуальную надпись.",
+    "Lire l'inscription rituelle",
+    "قراءة نقش الطقوس"
+  ],
+  "ReadExpedition": [
+    "ReadExpedition",
+    "ЧитатьЭкспедицию",
+    "LireExpédition",
+    "قراءة البعثة"
+  ],
+  "Rebind cancelled": [
+    "Повторното свързване е отменено",
+    "Повторное связывание отменено.",
+    "Reliure annulée",
+    "تم إلغاء إعادة الربط"
+  ],
+  "Rebind selected action…": [
+    "Повторно свързване на избраното действие...",
+    "Повторно привязать выбранное действие…",
+    "Relier l'action sélectionnée…",
+    "إعادة ربط الإجراء المحدد..."
+  ],
+  "Recover Lyra's satchel by the watchtower post": [
+    "Вземете чантата на Лира до стълба на наблюдателната кула",
+    "Найдите сумку Лиры у столба сторожевой башни.",
+    "Récupérer le cartable de Lyra près du poste de guet",
+    "قم باستعادة حقيبة ليرا من مركز برج المراقبة"
+  ],
+  "Recover scout satchel": [
+    "Вземете скаутска чанта",
+    "Найти сумку разведчика.",
+    "Récupérer la sacoche d'éclaireur",
+    "استعادة حقيبة الكشافة"
+  ],
+  "Recover the expedition record and return to Sir Cael": [
+    "Възстановете записа на експедицията и се върнете при сър Каел",
+    "Найдите отчет об экспедиции и вернитесь к сэру Силу.",
+    "Récupérez le dossier de l'expédition et retournez voir Sire Cael.",
+    "استرجع سجل الرحلة الاستكشافية وارجع إلى السير كايل"
+  ],
+  "Recover the expedition record from the memorial hall": [
+    "Вземете записа на експедицията от мемориалната зала",
+    "Найдите отчет об экспедиции в мемориальном зале.",
+    "Récupérer le dossier de l'expédition dans la salle commémorative",
+    "استرجع سجل البعثة من القاعة التذكارية"
+  ],
+  "Recover the expedition record in the northwest memorial hall": [
+    "Възстановете записа на експедицията в северозападната мемориална зала",
+    "Найдите отчет об экспедиции в северо-западном мемориальном зале.",
+    "Récupérez le dossier de l'expédition dans la salle commémorative nord-ouest",
+    "استرجع سجل البعثة في القاعة التذكارية الشمالية الغربية"
+  ],
+  "Recovered": [
+    "Възстановено",
+    "Восстановлено",
+    "Récupéré",
+    "تم الاسترجاع"
+  ],
+  "Recovered backup; latest unsaved progress may be lost": [
+    "Възстановено архивиране; последният незаписан напредък може да бъде загубен",
+    "Восстановлена резервная копия; последний несохраненный прогресс может быть потерян",
+    "Sauvegarde récupérée ; la dernière progression non enregistrée peut être perdue",
+    "النسخة الاحتياطية المستردة؛ قد يتم فقدان أحدث التقدم غير المحفوظ"
+  ],
+  "Recruit and select a companion before giving orders": [
+    "Наемете и изберете спътник, преди да дадете заповеди",
+    "Наймите и выберите компаньона, прежде чем отдавать приказы.",
+    "Recruter et sélectionner un compagnon avant de donner des ordres",
+    "قم بتجنيد واختيار رفيق قبل إعطاء الأوامر"
+  ],
+  "Recruit that companion before selecting them": [
+    "Наемете този спътник, преди да го изберете",
+    "Наймите этого компаньона, прежде чем выбирать его.",
+    "Recrutez ce compagnon avant de le sélectionner",
+    "قم بتجنيد هذا الرفيق قبل تحديده"
+  ],
+  "RecruitAlly": [
+    "RecruitAlly",
+    "РекрутАлли",
+    "RecruitAlly",
+    "RecruitAlly"
+  ],
+  "Recruited ·": [
+    "Вербуван ·",
+    "Нанят ·",
+    "Recruté ·",
+    "تم تجنيده ·"
+  ],
+  "Reload resumes healthy at the lantern.": [
+    "Презареждането се възобновява здраво на фенера.",
+    "Перезагрузка возобновляется на фонаре.",
+    "Le rechargement reprend sain à la lanterne.",
+    "يتم استئناف عملية إعادة التحميل بشكل سليم عند الفانوس."
+  ],
+  "Replace selected campaign slot?": [
+    "Замяна на избрания слот за кампания?",
+    "Заменить выбранное место кампании?",
+    "Remplacer l'emplacement de campagne sélectionné ?",
+    "هل تريد استبدال خانة الحملة المحددة؟"
+  ],
+  "Replace selected journey?": [
+    "Замяна на избраното пътуване?",
+    "Заменить выбранное путешествие?",
+    "Remplacer le trajet sélectionné ?",
+    "هل تريد استبدال الرحلة المحددة؟"
+  ],
+  "Rescue Oren": [
+    "Спасете Орен",
+    "Спасти Орена",
+    "Sauver Oren",
+    "أنقذ أورين"
+  ],
+  "RescueOren": [
+    "RescueOren",
+    "Спасение Орена",
+    "SauvetageOren",
+    "إنقاذ أورين"
+  ],
+  "Rest / activate lantern": [
+    "Почивка/активиране на фенера",
+    "Отдохните/активируйте фонарь",
+    "Reposer/activer la lanterne",
+    "راحة / تنشيط الفانوس"
+  ],
+  "Restart training encounter": [
+    "Рестартирайте обучителната среща",
+    "Перезапустить тренировочную встречу.",
+    "Redémarrer la rencontre de formation",
+    "أعد تشغيل لقاء التدريب"
+  ],
+  "Rested at the lantern. Encounter reset.": [
+    "Почива до фенера. Нулиране на срещата.",
+    "Отдыхал у фонаря. Сброс встречи.",
+    "Reposé à la lanterne. Rencontre réinitialisée.",
+    "استريح عند الفانوس. إعادة تعيين اللقاء."
+  ],
+  "Restore default settings and controls": [
+    "Възстановяване на настройките и контролите по подразбиране",
+    "Восстановление настроек и элементов управления по умолчанию",
+    "Restaurer les paramètres et les commandes par défaut",
+    "استعادة الإعدادات وعناصر التحكم الافتراضية"
+  ],
+  "Resume": [
+    "Резюме",
+    "Резюме",
+    "Reprendre",
+    "استئناف"
+  ],
+  "Retry saving progress": [
+    "Повторен опит за запазване на прогреса",
+    "Повторите попытку сохранения прогресса.",
+    "Réessayez d'enregistrer la progression",
+    "أعد محاولة حفظ التقدم"
+  ],
+  "Retry saving ritual": [
+    "Опитайте отново ритуала за запазване",
+    "Повторите ритуал сохранения.",
+    "Réessayer le rituel de sauvegarde",
+    "أعد محاولة حفظ طقوس"
+  ],
+  "Return family token": [
+    "Върнете фамилен токен",
+    "Вернуть семейный токен",
+    "Retourner le jeton familial",
+    "إرجاع رمز العائلة"
+  ],
+  "Return record · ask Cael to join": [
+    "Връщане на запис · помолете Каел да се присъедини",
+    "Вернуть запись · попросить Сила присоединиться",
+    "Retourner l'enregistrement · demander à Cael de se joindre",
+    "سجل العودة · اطلب من كايل الانضمام"
+  ],
+  "Return satchel · ask Lyra to join": [
+    "Върнете чантата · помолете Лира да се присъедини",
+    "Вернуть сумку · попросить Лиру присоединиться",
+    "Retourner le cartable · demander à Lyra de nous rejoindre",
+    "حقيبة العودة · اطلب من ليرا الانضمام"
+  ],
+  "Return the expedition record to Sir Cael": [
+    "Върнете записа на експедицията на сър Кейл",
+    "Верните отчет об экспедиции сэру Силу.",
+    "Rendre le dossier de l'expédition à Sire Cael",
+    "أعد سجل البعثة إلى السير كايل"
+  ],
+  "Return the satchel to Lyra and ask her to join": [
+    "Върнете чантата на Лира и я помолете да се присъедини",
+    "Верните сумку Лире и попросите ее присоединиться.",
+    "Remettez le cartable à Lyra et demandez-lui de nous rejoindre.",
+    "أعد الحقيبة إلى ليرا واطلب منها الانضمام"
+  ],
+  "Return to Ashen Peaks": [
+    "Върнете се към Пепелните върхове",
+    "Возвращение в Ашен Пикс",
+    "Retour aux Pics Cendrés",
+    "العودة إلى قمم الرماد"
+  ],
+  "Return to Blackwood": [
+    "Върнете се в Чернолес",
+    "Возвращение в Блэквуд",
+    "Retour à Bois-Noir",
+    "العودة إلى بلاكوود"
+  ],
+  "Return to Order ruins": [
+    "Връщане към руините на поръчката",
+    "Вернуться к руинам Ордена",
+    "Retour aux ruines de l'Ordre",
+    "العودة إلى أنقاض النظام"
+  ],
+  "Return to Sir Cael. The recovered record stays in your journal.": [
+    "Върнете се при сър Каел. Възстановеният запис остава във вашия дневник.",
+    "Вернитесь к сэру Силу. Восстановленная запись останется в вашем журнале.",
+    "Retournez voir Sire Cael. L'enregistrement récupéré reste dans votre journal.",
+    "العودة إلى السير كايل. يبقى السجل المسترد في دفتر يومياتك."
+  ],
+  "Return to checkpoint": [
+    "Върнете се към контролно-пропускателния пункт",
+    "Возврат к контрольной точке.",
+    "Retour au point de contrôle",
+    "العودة إلى نقطة التفتيش"
+  ],
+  "Return to citadel": [
+    "Върнете се в цитаделата",
+    "Возвращение в цитадель.",
+    "Retour à la citadelle",
+    "العودة إلى القلعة"
+  ],
+  "Return to refuge": [
+    "Върнете се в убежището",
+    "Возвращение в убежище",
+    "Retour au refuge",
+    "العودة إلى الملجأ"
+  ],
+  "Return to the lantern to rest": [
+    "Върнете се при фенера за почивка",
+    "Вернитесь к фонарю, чтобы отдохнуть.",
+    "Retour à la lanterne pour se reposer",
+    "العودة إلى الفانوس للراحة"
+  ],
+  "Return to village": [
+    "Върнете се в селото",
+    "Возвращение в деревню.",
+    "Retour au village",
+    "العودة إلى القرية"
+  ],
+  "Ritual Chamber": [
+    "Ритуална зала",
+    "Ритуальная палата",
+    "Chambre rituelle",
+    "غرفة الطقوس"
+  ],
+  "RitualHallArchitecture": [
+    "Архитектура на Ритуална зала",
+    "Архитектура Ритуального Зала",
+    "RitualHallArchitecture",
+    "معمارية قاعة الطقوس"
+  ],
+  "RitualVault": [
+    "RitualVault",
+    "Ритуальное хранилище",
+    "Coffre Rituel",
+    "RitualVault"
+  ],
+  "RoadTowerWall": [
+    "RoadTowerWall",
+    "RoadTowerWall",
+    "Mur de tour routière",
+    "جدار برج الطريق"
+  ],
+  "Root Seal intact": [
+    "Уплътнението на корена е непокътнато",
+    "Корневое уплотнение не повреждено",
+    "Joint de racine intact",
+    "ختم الجذر سليم"
+  ],
+  "SANCTUM  ↑": [
+    "СВЕТИЛИЩЕ ↑",
+    "САНКТУМ ↑",
+    "SANCTUM ↑",
+    "الحرم ↑"
+  ],
+  "SAVED JOURNEYS": [
+    "ЗАПАЗЕНИ ПЪТУВАНИЯ",
+    "СОХРАНЕННЫЕ ПУТЕШЕСТВИЯ",
+    "VOYAGES SAUVEGARDÉS",
+    "الرحلات المحفوظة"
+  ],
+  "SCOUT SATCHEL": [
+    "СКАУТСКА ЧАНТА",
+    "СУМКА РАЗВЕДЧИКА",
+    "SAC SCOUTIQUE",
+    "حقيبة الكشافة"
+  ],
+  "SCOUT WATCHTOWER": [
+    "СКАУТСКА СТРАЖЕВА КУЛА",
+    "СТОРОЖЕВАЯ БАШНЯ РАЗВЕДЧИКА",
+    "TOUR DE GARDE DES SCOUTS",
+    "برج المراقبة الكشفية"
+  ],
+  "SEAL BROKEN": [
+    "ПЕЧАТНИКЪТ СЧУПЕН",
+    "УПЛОТНЕНИЕ СЛОМАНО",
+    "JOINT CASSÉ",
+    "الختم مكسور"
+  ],
+  "SERVICE BAR": [
+    "СЕРВИЗЕН БАР",
+    "СЕРВИСНАЯ ПАНЕЛЬ",
+    "BARRE DE SERVICE",
+    "شريط الخدمة"
+  ],
+  "SETTINGS · TOUCH & AUDIO": [
+    "НАСТРОЙКИ · ДОКОСВАНЕ И АУДИО",
+    "НАСТРОЙКИ · СЕНСОР И АУДИО",
+    "PARAMÈTRES · TACTILE ET AUDIO",
+    "الإعدادات · اللمس والصوت"
+  ],
+  "SETTINGS · keyboard / mouse": [
+    "НАСТРОЙКИ · клавиатура / мишка",
+    "НАСТРОЙКИ · клавиатура/мышь",
+    "PARAMÈTRES · clavier / souris",
+    "الإعدادات · لوحة المفاتيح / الماوس"
+  ],
+  "SFX": [
+    "SFX",
+    "SFX",
+    "Effets sonores",
+    "مؤثرات صوتية"
+  ],
+  "SIR CAEL": [
+    "СЪР КЕЙЛ",
+    "СЭР КЭЛ",
+    "MONSIEUR CAEL",
+    "السير كايل"
+  ],
+  "SLOPE ROUTE": [
+    "МАРШРУТ ПО НАКЛАС",
+    "НАКЛОННЫЙ МАРШРУТ",
+    "PARCOURS DE PENTE",
+    "مسار المنحدر"
+  ],
+  "SURVIVOR": [
+    "ОЦЕЛЕЛ",
+    "ВЫЖИВШИЙ",
+    "SURVIVANT",
+    "الناجي"
+  ],
+  "SanctumVault": [
+    "SanctumVault",
+    "Хранилище Святилища",
+    "SanctumVault",
+    "سانكتمفولت"
+  ],
+  "Satchel prerequisites missing": [
+    "Липсват предпоставки за чантата",
+    "Отсутствуют необходимые условия для Satchel",
+    "Prérequis de sacoche manquants",
+    "متطلبات الحقيبة الأساسية مفقودة"
+  ],
+  "Save and quit": [
+    "Запазете и излезте",
+    "Сохранить и выйти.",
+    "Enregistrer et quitter",
+    "قم بالحفظ والخروج"
+  ],
+  "Save and return to the menu before switching accounts.": [
+    "Запазете и се върнете към менюто, преди да смените акаунта.",
+    "Сохраните и вернитесь в меню перед переключением учетных записей.",
+    "Enregistrez et revenez au menu avant de changer de compte.",
+    "احفظ وارجع إلى القائمة قبل تبديل الحسابات."
+  ],
+  "Save belongs to another slot": [
+    "Запазването принадлежи към друг слот",
+    "Сохранение принадлежит другому слоту",
+    "La sauvegarde appartient à un autre emplacement",
+    "الحفظ ينتمي إلى فتحة أخرى"
+  ],
+  "Save exceeds size limit": [
+    "Запазеното надхвърля ограничението за размер",
+    "Размер сохранения превышает ограничение",
+    "L'enregistrement dépasse la taille limite",
+    "الحفظ يتجاوز الحد الأقصى للحجم"
+  ],
+  "Save is incomplete or corrupt": [
+    "Записът е непълен или повреден",
+    "Сохранение неполное или поврежденное.",
+    "L'enregistrement est incomplet ou corrompu",
+    "الحفظ غير مكتمل أو تالف"
+  ],
+  "Save loaded": [
+    "Запаметяването е заредено",
+    "Сохранение загружено",
+    "Sauvegarde chargée",
+    "تم الحفظ"
+  ],
+  "Save must be an object": [
+    "Запазването трябва да е обект",
+    "Сохранение должно быть объектом.",
+    "La sauvegarde doit être un objet",
+    "يجب أن يكون الحفظ كائنًا"
+  ],
+  "Save settings and back": [
+    "Запазете настройките и обратно",
+    "Сохранить настройки и вернуться обратно",
+    "Enregistrer les paramètres et retour",
+    "حفظ الإعدادات والعودة"
+  ],
+  "Save slot %d": [
+    "Слот за запазване %d",
+    "Ячейка для сохранения %d",
+    "Enregistrer l'emplacement %d",
+    "فتحة الحفظ %d"
+  ],
+  "Save verification failed; use backup recovery": [
+    "Запазването на проверката е неуспешно; използвайте възстановяване на резервно копие",
+    "Проверка сохранения не удалась; использовать резервное восстановление",
+    "La vérification de l'enregistrement a échoué ; utiliser la récupération de sauvegarde",
+    "فشل التحقق من الحفظ؛ استخدام استرداد النسخ الاحتياطي"
+  ],
+  "Scout satchel": [
+    "Скаутска чанта",
+    "Ранец разведчика",
+    "Cartable scout",
+    "حقيبة الكشافة"
+  ],
+  "Scout satchel recovered · return to Lyra": [
+    "Върнете се в Лира",
+    "Ранец разведчика найден · вернуться к Лире",
+    "Sacoche Scout récupérée · retour à Lyra",
+    "تم استرداد حقيبة الكشافة · العودة إلى ليرا"
+  ],
+  "Scout trail south; follow the eastern watchtower road to the root shrine.": [
+    "Скаутска пътека на юг; следвайте пътя на източната наблюдателна кула до коренното светилище.",
+    "Разведывательная тропа на юг; следуйте по восточной дороге сторожевой башни к корневому храму.",
+    "Sentier scout sud ; suivez la route de la tour de guet est jusqu'au sanctuaire racine.",
+    "مسار الكشافة جنوبًا؛ اتبع طريق برج المراقبة الشرقي إلى ضريح الجذر."
+  ],
+  "Seal already broken": [
+    "Печатът вече е счупен",
+    "Печать уже сломана",
+    "Sceau déjà brisé",
+    "الختم مكسور بالفعل"
+  ],
+  "Seal broken · passage unlocked": [
+    "Печатът е счупен · проходът е отключен",
+    "Печать сломана · проход открыт",
+    "Sceau brisé · passage déverrouillé",
+    "الختم مكسور · تم فتح الممر"
+  ],
+  "Seal fact mismatch": [
+    "Фактическо несъответствие на печата",
+    "Несоответствие фактов печати",
+    "Incohérence des faits du sceau",
+    "عدم تطابق حقيقة الختم"
+  ],
+  "Select a slot, then start or load a journey.": [
+    "Изберете слот, след което започнете или заредете пътуване.",
+    "Выберите слот, затем начните или загрузите путешествие.",
+    "Sélectionnez un créneau, puis démarrez ou chargez un trajet.",
+    "حدد فتحة، ثم ابدأ الرحلة أو قم بتحميلها."
+  ],
+  "Service path is unknown or already open": [
+    "Пътят на услугата е неизвестен или вече е отворен",
+    "Путь к службе неизвестен или уже открыт",
+    "Le chemin du service est inconnu ou est déjà ouvert",
+    "مسار الخدمة غير معروف أو مفتوح بالفعل"
+  ],
+  "Service path opened · return to the bridge": [
+    "Сервизният път е отворен · върнете се на моста",
+    "Путь обслуживания открыт · вернуться на мост",
+    "Chemin de service ouvert · retour au pont",
+    "تم فتح مسار الخدمة · العودة إلى الجسر"
+  ],
+  "SetActiveCompanion": [
+    "SetActiveCompanion",
+    "SetActiveCompanion",
+    "SetActiveCompanion",
+    "SetActiveCompanion"
+  ],
+  "Settings could not be saved; changes apply this session": [
+    "Настройките не могат да бъдат запазени; промените се прилагат тази сесия",
+    "Не удалось сохранить настройки; изменения применяются в этом сеансе",
+    "Les paramètres n'ont pas pu être enregistrés ; les changements s'appliquent à cette session",
+    "لا يمكن حفظ الإعدادات؛ تنطبق التغييرات على هذه الجلسة"
+  ],
+  "Shards %d": [
+    "Shards %d",
+    "Осколки %d",
+    "Fragments %d",
+    "شظايا %d"
+  ],
+  "Shatter the central artifact to end the curse": [
+    "Разбийте централния артефакт, за да прекратите проклятието",
+    "Разбейте центральный артефакт, чтобы снять проклятие.",
+    "Brisez l'artefact central pour mettre fin à la malédiction",
+    "حطم القطعة الأثرية المركزية لإنهاء اللعنة"
+  ],
+  "Shortcut is unknown or already open": [
+    "Пряк път е неизвестен или вече е отворен",
+    "Ярлык неизвестен или уже открыт",
+    "Le raccourci est inconnu ou déjà ouvert",
+    "الاختصار غير معروف أو مفتوح بالفعل"
+  ],
+  "Shortcut open ·": [
+    "Отворен пряк път ·",
+    "Ярлык открыт ·",
+    "Raccourci ouvert ·",
+    "الاختصار مفتوح ·"
+  ],
+  "Sign in again to synchronize. Local progress is safe.": [
+    "Влезте отново, за да синхронизирате. Локалният прогрес е безопасен.",
+    "Войдите еще раз для синхронизации. Локальный прогресс безопасен.",
+    "Connectez-vous à nouveau pour synchroniser. Le progrès local est sûr.",
+    "قم بتسجيل الدخول مرة أخرى للمزامنة. التقدم المحلي آمن."
+  ],
+  "Sign in to synchronize your journeys.": [
+    "Влезте, за да синхронизирате вашите пътувания.",
+    "Войдите в систему, чтобы синхронизировать свои поездки.",
+    "Connectez-vous pour synchroniser vos parcours.",
+    "قم بتسجيل الدخول لمزامنة رحلاتك."
+  ],
+  "Signed in": [
+    "Влезли сте",
+    "Выполнен вход",
+    "Connecté",
+    "تم تسجيل الدخول"
+  ],
+  "Simulated write failure; progress remains unsaved": [
+    "Симулиран отказ при запис; напредъкът остава незаписан",
+    "Имитация сбоя записи; прогресс остается несохраненным",
+    "Échec d'écriture simulé ; la progression n'est pas enregistrée",
+    "محاكاة فشل الكتابة؛ التقدم لا يزال غير محفوظ"
+  ],
+  "Sir Cael": [
+    "Сър Кейл",
+    "Сэр Сил",
+    "Monsieur Cael",
+    "السير كايل"
+  ],
+  "Sir Cael joins · +50 XP · +25 shards": [
+    "Сър Сейл се присъединява · +50 XP · +25 шарда",
+    "Сэр Сил присоединяется · +50 опыта · +25 осколков",
+    "Sire Cael rejoint · +50 XP · +25 fragments",
+    "انضم السير كايل · +50 XP · +25 شظية"
+  ],
+  "Sir Cael's expedition": [
+    "Експедицията на сър Сейл",
+    "Экспедиция сэра Сила",
+    "L'expédition de Sire Cael",
+    "رحلة السير كايل الاستكشافية"
+  ],
+  "Sir Cael: follow / wait at refuge": [
+    "Сър Кейл: следвайте/изчакайте в убежището",
+    "Сэр Сил: следовать/ждать в убежище",
+    "Sire Cael : suivre/attendre au refuge",
+    "السير كايل: اتبع / انتظر في الملجأ"
+  ],
+  "SkinnedArm": [
+    "Одрана ръка",
+    "SkinnedArm",
+    "Bras écorché",
+    "ذراع ذو بشرة"
+  ],
+  "SkinnedLegLeft": [
+    "SkinnedLegLeft",
+    "SkinnedLegLeft",
+    "SkinnedLegGauche",
+    "ذو الساق اليسرى"
+  ],
+  "SkinnedLegRight": [
+    "SkinnedLegRight",
+    "SkinnedLegRight",
+    "SkinnedLegRight",
+    "ذو بشرة ساق يمين"
+  ],
+  "Soldier defeated · +10 XP · +5 shards · Saved": [
+    "Войникът е победен · +10 XP · +5 шарда · Запазен",
+    "Солдат побеждён · +10 опыта · +5 осколков · Сохранено",
+    "Soldat vaincu · +10 XP · +5 fragments · Sauvé",
+    "هزم جندي · +10 XP · +5 شظايا · تم الحفظ"
+  ],
+  "Speak to Cael and secure the courtyard before recovering the record": [
+    "Говорете с Каел и обезопасете двора, преди да възстановите записа",
+    "Поговорите с Силом и обеспечьте безопасность двора, прежде чем восстановить запись.",
+    "Parlez à Cael et sécurisez la cour avant de récupérer le dossier",
+    "تحدث إلى كايل وقم بتأمين الفناء قبل استعادة السجل"
+  ],
+  "Speak to Lyra and secure the trail before recovering her satchel": [
+    "Говорете с Лира и обезопасете следите, преди да вземете чантата й",
+    "Поговорите с Лирой и найдите след, прежде чем забрать ее сумку.",
+    "Parlez à Lyra et sécurisez la piste avant de récupérer son cartable",
+    "تحدث إلى ليرا وقم بتأمين المسار قبل استعادة حقيبتها"
+  ],
+  "Stand beside an activated lantern outside combat and choose a known destination": [
+    "Застанете до активиран фенер извън битката и изберете известна дестинация",
+    "Встаньте рядом с активированным фонарем вне боя и выберите известное место назначения.",
+    "Placez-vous à côté d'une lanterne activée en dehors du combat et choisissez une destination connue.",
+    "قف بجانب الفانوس المنشط خارج القتال واختر وجهة معروفة"
+  ],
+  "Stand beside an activated lantern outside combat to travel. Only lanterns you have already activated can be destinations. Your discovered roads remain open for walking.": [
+    "Застанете до активиран фенер извън битката, за да пътувате. Само фенери, които вече сте активирали, могат да бъдат дестинации. Вашите открити пътища остават отворени за ходене.",
+    "Чтобы путешествовать, встаньте рядом с активированным фонарем вне боя. Пунктами назначения могут быть только фонари, которые вы уже активировали. Открытые вами дороги остаются открытыми для прогулок.",
+    "Placez-vous à côté d'une lanterne activée en dehors du combat pour voyager. Seules les lanternes que vous avez déjà activées peuvent être des destinations. Vos routes découvertes restent ouvertes à la promenade.",
+    "قف بجانب الفانوس المنشط خارج القتال للسفر. فقط الفوانيس التي قمت بتنشيطها بالفعل يمكن أن تكون وجهات. تظل طرقك المكتشفة مفتوحة للمشي."
+  ],
+  "Stand by the training anvil outside an action to upgrade": [
+    "Застанете до тренировъчната наковалня извън действие за надграждане",
+    "Стойте возле тренировочной наковальни вне действия, чтобы обновиться.",
+    "Se tenir près de l'enclume d'entraînement en dehors d'une action de mise à niveau",
+    "قف بجانب سندان التدريب خارج إجراء الترقية"
+  ],
+  "Start selected slot": [
+    "Стартирайте избрания слот",
+    "Запуск выбранного слота",
+    "Démarrer l'emplacement sélectionné",
+    "ابدأ الفتحة المحددة"
+  ],
+  "Step into the burial chamber. Watch the Gravedigger's shovel.": [
+    "Влезте в гробната камера. Гледайте лопатата на Гробаря.",
+    "Войдите в погребальную камеру. Следите за лопатой Могильщика.",
+    "Entrez dans la chambre funéraire. Regardez la pelle du Fossoyeur.",
+    "ادخل إلى حجرة الدفن. شاهد مجرفة حفار القبور."
+  ],
+  "Subtitles/text cues always on. Shake, flashes and motion blur are absent.": [
+    "Субтитрите/текстовите знаци са винаги включени. Липсват трептене, светкавици и замъгляване при движение.",
+    "Субтитры/текстовые подсказки всегда включены. Дрожание, вспышки и размытость изображения отсутствуют.",
+    "Les sous-titres/textes sont toujours activés. Les secousses, les flashs et le flou de mouvement sont absents.",
+    "الترجمات/الإشارات النصية قيد التشغيل دائمًا. الاهتزاز والومضات وطمس الحركة غائبة."
+  ],
+  "SummitStairways": [
+    "SummitStairways",
+    "СаммитЛестницы",
+    "Escaliers du Sommet",
+    "سلالم القمة"
+  ],
+  "Sword +%d · %d shards · %d XP toward next rank": [
+    "Меч +%d · %d фрагменти · %d XP към следващия ранг",
+    "Меч +%d · %d осколки · %d Опыт для перехода к следующему рангу",
+    "Épée + %d · Éclats %d · %d XP vers le rang suivant",
+    "سيف + %d · شظايا %d · %d XP نحو المرتبة التالية"
+  ],
+  "Sword damage %d · shards %d": [
+    "Щети от меч %d · фрагменти %d",
+    "Урон мечом %d · осколки %d",
+    "Dégâts de l'épée %d · éclats %d",
+    "ضرر السيف %d · الشظايا %d"
+  ],
+  "Sword is already fully upgraded": [
+    "Мечът вече е напълно надграден",
+    "Меч уже полностью обновлен.",
+    "Sword est déjà entièrement mis à niveau",
+    "تمت ترقية السيف بالكامل بالفعل"
+  ],
+  "Sword tier %d · shards %d": [
+    "Ниво на меч %d · фрагменти %d",
+    "Уровень меча %d · осколки %d",
+    "Niveau d'épée %d · éclats %d",
+    "طبقة السيف %d · الشظايا %d"
+  ],
+  "Sword upgraded to tier %d": [
+    "Мечът е надграден до ниво %d",
+    "Меч повышен до уровня %d.",
+    "Épée améliorée au niveau %d",
+    "تمت ترقية السيف إلى المستوى %d"
+  ],
+  "THE CURSE IS BROKEN": [
+    "ПРОКЛЯТИЯТА Е РАЗВАЛЕНА",
+    "ПРОКЛЯТИЕ РАЗРУШЕНО",
+    "LA MALÉDICTION EST BRISÉE",
+    "لقد تم كسر اللعنة"
+  ],
+  "THE FORGE": [
+    "КОВАНИЦАТА",
+    "КУЗНИЦА",
+    "LA FORGE",
+    "الصياغة"
+  ],
+  "THE KNIGHT": [
+    "РИЦАРЯТ",
+    "НОЧЬ",
+    "LE CHEVALIER",
+    "الفارس"
+  ],
+  "THE KNIGHT OF LAST LIGHT  /  M3": [
+    "РИЦАРЯТ ОТ ПОСЛЕДНАТА СВЕТЛИНА / M3",
+    "РЫЦАРЬ ПОСЛЕДНЕГО СВЕТА / M3",
+    "LE CHEVALIER DE LA DERNIÈRE LUMIÈRE / M3",
+    "فارس الضوء الأخير / M3"
+  ],
+  "THE LAST CAMP": [
+    "ПОСЛЕДНИЯТ ЛАГЕР",
+    "ПОСЛЕДНИЙ ЛАГЕРЬ",
+    "LE DERNIER CAMP",
+    "المعسكر الأخير"
+  ],
+  "THE OATH WARD HAS FALLEN": [
+    "КЛЕТВАТА УОРД Е ПАДНАЛА",
+    "ОХРАНА КЛЯТВЫ ПАЛЛА",
+    "LE SERMENT EST TOMBÉ",
+    "لقد سقط قسم القسم"
+  ],
+  "THE ROOT WARD HAS FALLEN": [
+    "ROOT WARD Е ПАДНАЛ",
+    "КОРНЕВАЯ ОХРАНА ПАДЛА",
+    "LA PROTECTION RACINE EST TOMBÉE",
+    "لقد سقط جناح الجذر"
+  ],
+  "TRAINING ANVIL": [
+    "ТРЕНИРОВЪЧНА НАКОВАЛНЯ",
+    "ТРЕНИРОВОЧНАЯ НАКОВАЛЬНЯ",
+    "ENCLUME D'ENTRAÎNEMENT",
+    "سندان التدريب"
+  ],
+  "Talk to Lyra": [
+    "Говорете с Лира",
+    "Поговорите с Лирой",
+    "Parlez à Lyra",
+    "تحدث إلى ليرا"
+  ],
+  "Talk to Oren": [
+    "Говорете с Орен",
+    "Поговорите с Ореном",
+    "Parlez à Oren",
+    "تحدث إلى أورين"
+  ],
+  "Talk to Sir Cael": [
+    "Говорете със сър Каел",
+    "Поговорите с сэром Силом.",
+    "Parlez à Sire Cael",
+    "تحدث إلى السير كايل"
+  ],
+  "Tap II PAUSE in the health panel, or press Android Back": [
+    "Докоснете II ПАУЗА в здравния панел или натиснете Android Back",
+    "Нажмите II PAUSE на панели состояния или нажмите Android Back.",
+    "Appuyez sur II PAUSE dans le panneau de santé ou appuyez sur Android Back.",
+    "اضغط على II PAUSE في لوحة الصحة، أو اضغط على Android Back"
+  ],
+  "Temporary save verification failed": [
+    "Проверката на временното запазване е неуспешна",
+    "Не удалось проверить временное сохранение.",
+    "Échec de la vérification de la sauvegarde temporaire",
+    "فشل التحقق من الحفظ المؤقت"
+  ],
+  "Text size (100 / 125 / 150%)": [
+    "Размер на текста (100 / 125 / 150%)",
+    "Размер текста (100/125/150%)",
+    "Taille du texte (100/125/150 %)",
+    "حجم النص (100 / 125 / 150%)"
+  ],
+  "That region is unavailable; current area preserved": [
+    "Този регион е недостъпен; запазена текуща площ",
+    "Этот регион недоступен; текущая территория сохранена",
+    "Cette région n'est pas disponible ; zone actuelle préservée",
+    "هذه المنطقة غير متاحة؛ المنطقة الحالية محفوظة"
+  ],
+  "The Commander ordered us to hold the memorial hall. The wounded were still inside when the ward closed. Cael left to seek help; the report calls him a deserter.": [
+    "Командирът ни нареди да задържим мемориалната зала. Ранените все още бяха вътре, когато отделението затвори. Кейл си тръгна да търси помощ; докладът го нарича дезертьор.",
+    "Командующий приказал нам удерживать мемориальный зал. Раненые все еще находились внутри, когда палата закрылась. Сил ушел искать помощи; в отчете он назван дезертиром.",
+    "Le commandant nous a ordonné de tenir la salle commémorative. Les blessés étaient toujours à l’intérieur lorsque la salle a fermé ses portes. Cael est parti chercher de l'aide ; le rapport le qualifie de déserteur.",
+    "أمرنا القائد بإقامة القاعة التذكارية. وكان الجرحى لا يزالون بالداخل عندما أُغلق الجناح. غادر كايل لطلب المساعدة؛ التقرير يصفه بالهارب."
+  ],
+  "The Eclipse Citadel ward is broken": [
+    "Защитата на Цитаделата на затъмнението е счупена",
+    "Защита Цитадели Затмения сломана.",
+    "Le quartier de la Citadelle d'Éclipse est brisé",
+    "جناح قلعة الكسوف مكسور"
+  ],
+  "The Forge": [
+    "Ковачницата",
+    "Кузница",
+    "La Forge",
+    "الصياغة"
+  ],
+  "The Gravedigger": [
+    "Гробарят",
+    "Могильщик",
+    "Le fossoyeur",
+    "حفار القبور"
+  ],
+  "The Knight of Last Light - M3 Review": [
+    "Рицарят на последната светлина - Ревю на M3",
+    "Рыцарь Последнего Света - Обзор M3",
+    "Le Chevalier de la Dernière Lumière - Revue M3",
+    "مراجعة فارس الضوء الأخير - M3"
+  ],
+  "The Knight of Last Light - Progression M3": [
+    "Рицарят на последната светлина - Прогресия M3",
+    "Рыцарь Последнего Света - Прогресс M3",
+    "Le Chevalier de la Dernière Lumière - Progression M3",
+    "فارس الضوء الأخير - التقدم M3"
+  ],
+  "The Knight of Last Light - v": [
+    "Рицарят на последната светлина - v",
+    "Рыцарь Последнего Света - v",
+    "Le Chevalier de la Dernière Lumière - v",
+    "فارس النور الأخير - v"
+  ],
+  "The Order marched along the old forest road. You went with them.": [
+    "Орденът марширува по стария горски път. Ти отиде с тях.",
+    "Орден двинулся по старой лесной дороге. Ты пошел с ними.",
+    "L'Ordre a marché le long de l'ancienne route forestière. Vous êtes allé avec eux.",
+    "سار النظام على طول طريق الغابة القديم. ذهبت معهم."
+  ],
+  "The Order passage is warded. Break the Root Seal first.": [
+    "Проходът на Ордена е защитен. Първо счупете уплътнението на корена.",
+    "Проход Ордена защищен защитой. Сначала сломайте корневую пломбу.",
+    "Le passage de l'Ordre est protégé. Brisez d’abord le sceau de racine.",
+    "ممر الأمر محمي. كسر ختم الجذر أولا."
+  ],
+  "The arena ward holds until the Gravedigger falls": [
+    "Защитата на арената се задържа, докато Гробарят падне",
+    "Оберег арены удерживается до тех пор, пока Могильщик не упадет.",
+    "La protection de l'arène tient jusqu'à la chute du Fossoyeur.",
+    "جناح الساحة صامد حتى سقوط حفار القبر"
+  ],
+  "The bar can only be lifted from the village side": [
+    "Лентата може да се вдигне само от страната на селото",
+    "Бар можно поднять только со стороны деревни.",
+    "La barre ne peut être levée que du côté du village",
+    "لا يمكن رفع الشريط إلا من جانب القرية"
+  ],
+  "The barred central street can be opened from its northern side.": [
+    "Заградената централна улица може да се отвори от северната й страна.",
+    "Зарешеченную центральную улицу можно открыть с северной стороны.",
+    "La rue centrale barrée peut être ouverte depuis son côté nord.",
+    "يمكن فتح الشارع المركزي المحظور من جهته الشمالية."
+  ],
+  "The courtyard sentries have fallen": [
+    "Стражите на двора са паднали",
+    "Дворовые часовые пали.",
+    "Les sentinelles de la cour sont tombées",
+    "سقط حراس الفناء"
+  ],
+  "The curse broke the expedition. Beneath the eclipse, the road fell silent.": [
+    "Проклятието прекъсна експедицията. Под затъмнението пътят замлъкна.",
+    "Проклятие разрушило экспедицию. Под затмением дорога погрузилась в тишину.",
+    "La malédiction a brisé l'expédition. Sous l'éclipse, la route se tut.",
+    "اللعنة حطمت الرحلة الاستكشافية. وتحت الكسوف، صمت الطريق."
+  ],
+  "The curse is broken · explore the peaceful kingdom": [
+    "Проклятието е развалено · изследвайте мирното кралство",
+    "Проклятие снято · исследуйте мирное королевство",
+    "La malédiction est brisée · explorez le royaume paisible",
+    "تم كسر اللعنة · اكتشف المملكة المسالمة"
+  ],
+  "The curse is broken · return to the restored refuge": [
+    "Проклятието е развалено · върнете се към възстановеното убежище",
+    "Проклятие снято · вернуться в восстановленное убежище",
+    "La malédiction est brisée · retour au refuge restauré",
+    "تم كسر اللعنة · العودة إلى الملجأ المستعاد"
+  ],
+  "The curse is broken · the roads are peaceful": [
+    "Проклятието е развалено · пътищата са мирни",
+    "Проклятие снято · дороги мирные",
+    "La malédiction est brisée · les routes sont paisibles",
+    "انكسرت اللعنة · الطرق سلمية"
+  ],
+  "The curse is broken. Your discoveries and victories remain recorded.": [
+    "Проклятието е развалено. Вашите открития и победи остават записани.",
+    "Проклятие снято. Ваши открытия и победы остаются записанными.",
+    "La malédiction est brisée. Vos découvertes et victoires restent enregistrées.",
+    "تم كسر اللعنة. اكتشافاتك وانتصاراتك تبقى مسجلة."
+  ],
+  "The forge is warm again. Find the burial yard north of the square. The forest ward will hold until the Burial Seal is broken.": [
+    "Ковачницата отново е топла. Намерете гробния двор на север от площада. Горският отдел ще се задържи, докато печатът на погребението не бъде счупен.",
+    "В кузнице снова тепло. Найдите кладбище к северу от площади. Лесной оберег будет действовать до тех пор, пока не будет сломана Погребальная печать.",
+    "La forge est à nouveau chaude. Trouvez le cimetière au nord de la place. Le garde forestier tiendra jusqu'à ce que le sceau funéraire soit brisé.",
+    "أصبح المساج دافئًا مرة أخرى. ابحث عن ساحة الدفن شمال الساحة. سيظل جناح الغابة صامدًا حتى يتم كسر ختم الدفن."
+  ],
+  "The forge ward holds until Iron Warden falls": [
+    "Ковачницата се задържа, докато Железният пазител падне",
+    "Кузница держится до тех пор, пока Железный Страж не падет.",
+    "La protection de la forge tient jusqu'à la chute d'Gardien de Fer.",
+    "يظل جناح الصياغة صامدًا حتى سقوط الحارس الحديدي"
+  ],
+  "The grove ward holds until the Thorn Beast falls": [
+    "Защитата за горичката се задържа, докато Тръновият звяр падне",
+    "Оберег рощи держится до тех пор, пока Шипованный зверь не падет.",
+    "La protection du bosquet tient jusqu'à ce que la bête épineuse tombe.",
+    "يستمر جناح البستان حتى يسقط وحش الشوكة"
+  ],
+  "The last camp is safe. Follow the old forest road north, past the chapel, to Ashen Village.": [
+    "Последният лагер е безопасен. Следвайте стария горски път на север, покрай параклиса, до Пепелното село.",
+    "Последний лагерь безопасен. Следуйте по старой лесной дороге на север, мимо часовни, к Деревне Пепла.",
+    "Le dernier camp est sûr. Suivez l'ancienne route forestière vers le nord, après la chapelle, jusqu'au village d'Ashen.",
+    "المعسكر الأخير آمن. اتبع طريق الغابة القديم شمالًا، مرورًا بالكنيسة، إلى قرية أشين."
+  ],
+  "The oath bound our mentor to this place. The record names the people he tried to save.": [
+    "Клетвата обвърза нашия ментор с това място. Записът поименува хората, които той се е опитал да спаси.",
+    "Клятва привязала нашего наставника к этому месту. В записи указаны имена людей, которых он пытался спасти.",
+    "Le serment liait notre mentor à cet endroit. Le dossier nomme les personnes qu'il a tenté de sauver.",
+    "القسم ربط معلمنا بهذا المكان. يسمي السجل الأشخاص الذين حاول إنقاذهم."
+  ],
+  "The old forest road connects Lantern Refuge and Ashen Village.": [
+    "Старият горски път свързва Фенерното убежище и Пепелното село.",
+    "Старая лесная дорога соединяет убежище фонарей и деревню Пепла.",
+    "L'ancienne route forestière relie le refuge Lantern et le village Ashen.",
+    "يربط طريق الغابة القديم ملجأ الفانوس وقرية أشين."
+  ],
+  "The ore carts stand empty. The Warden sealed the forge when the kingdom fell. A service path east of the fortress leads back to the bridge; lift its bar from the north.": [
+    "Количките с руда стоят празни. Пазачът запечата ковачницата, когато кралството падна. Служебен път източно от крепостта води обратно към моста; повдигнете бара си от север.",
+    "Тележки с рудой стоят пустые. Страж запечатал кузницу, когда королевство пало. Служебный путь к востоку от крепости ведет обратно к мосту; подними свою планку с севера.",
+    "Les chariots à minerai sont vides. Le directeur a scellé la forge lorsque le royaume est tombé. Un chemin de service à l'est de la forteresse ramène au pont ; lève sa barre du nord.",
+    "عربات الخام تقف فارغة. أغلق الآمر الصياغة عندما سقطت المملكة. يؤدي مسار الخدمة شرق القلعة إلى الجسر. ارفع شريطها من الشمال."
+  ],
+  "The raised hammer warns of a local slam. Move clear, then punish the recovery.": [
+    "Повдигнатият чук предупреждава за локален удар. Преместете се чисто, след това накажете възстановяването.",
+    "Поднятый молот предупреждает о локальном ударе. Отойдите, а затем накажите восстановление.",
+    "Le marteau levé avertit d'un claquement local. Éloignez-vous, puis punissez la récupération.",
+    "تحذر المطرقة المرفوعة من الضربة القاضية المحلية. التحرك واضح، ثم معاقبة الانتعاش."
+  ],
+  "The refuge is their home now": [
+    "Убежището вече е техен дом",
+    "Теперь убежище — их дом.",
+    "Le refuge est leur maison maintenant",
+    "الملجأ هو موطنهم الآن"
+  ],
+  "The ritual could not be saved. Your session is preserved. Retry saving to finish.": [
+    "Ритуалът не можа да бъде запазен. Вашата сесия е запазена. Опитайте отново да запазите, за да завършите.",
+    "Ритуал не удалось сохранить. Ваша сессия сохранена. Повторите попытку сохранения, чтобы завершить.",
+    "Le rituel n'a pas pu être enregistré. Votre session est préservée. Réessayez d'enregistrer pour terminer.",
+    "لا يمكن حفظ الطقوس. يتم الحفاظ على جلستك. أعد محاولة الحفظ حتى النهاية."
+  ],
+  "The road to Ashen Peaks is open": [
+    "Пътят към Пепелните върхове е отворен",
+    "Дорога в Ашен Пикс открыта.",
+    "La route vers Pics des Cendres est ouverte",
+    "الطريق إلى قمم الرماد مفتوح"
+  ],
+  "The route is still warded": [
+    "Маршрутът все още е защитен",
+    "Маршрут все еще охраняется",
+    "L'itinéraire est toujours balisé",
+    "لا يزال المسار محميًا"
+  ],
+  "The sanctum ward holds until the Commander falls": [
+    "Светилището се задържа, докато Командирът падне",
+    "Оберег святилища удерживается до тех пор, пока Командующий не падет.",
+    "La protection du sanctuaire tient jusqu'à ce que le commandant tombe.",
+    "يظل جناح الحرم قائمًا حتى سقوط القائد"
+  ],
+  "The satchel lies southeast of here, behind the fallen wall by the watchtower post. Stay on the open ground and watch the hounds' windups.": [
+    "Раницата се намира на югоизток от тук, зад падналата стена до поста на наблюдателната кула. Останете на открито и наблюдавайте намотките на хрътките.",
+    "Сумка лежит к юго-востоку отсюда, за рухнувшей стеной возле поста сторожевой башни. Оставайтесь на открытой местности и наблюдайте за тем, как гончие заводятся.",
+    "La sacoche se trouve au sud-est d'ici, derrière le mur effondré, près du poste de guet. Restez sur le terrain ouvert et surveillez les mouvements des chiens.",
+    "تقع الحقيبة جنوب شرق هنا، خلف الجدار المنهار بالقرب من مركز برج المراقبة. ابق على الأرض المفتوحة وشاهد تقلبات كلاب الصيد."
+  ],
+  "The things in the churchyard were our neighbors. Something below the graves keeps calling them back.": [
+    "Нещата в двора на църквата бяха наши съседи. Нещо под гробовете продължава да ги зове обратно.",
+    "Существа на кладбище были нашими соседями. Что-то под могилами продолжает звать их обратно.",
+    "Les choses dans le cimetière étaient nos voisins. Quelque chose sous les tombes ne cesse de les rappeler.",
+    "الأشياء الموجودة في باحة الكنيسة كانت لجيراننا. هناك شيء ما تحت القبور يستمر في استدعائهم مرة أخرى."
+  ],
+  "The trail hounds are defeated": [
+    "Хрътките са победени",
+    "Гончие побеждены.",
+    "Les chiens de piste sont vaincus",
+    "تم هزيمة كلاب الصيد"
+  ],
+  "The wizard and four seals must be defeated first": [
+    "Магьосникът и четирите печата трябва да бъдат победени първо",
+    "Сначала нужно победить волшебника и четыре печати.",
+    "Le sorcier et les quatre sceaux doivent d'abord être vaincus",
+    "يجب هزيمة المعالج والأختام الأربعة أولاً"
+  ],
+  "The wizard has fallen, but the curse still clings to this anchor. All four seals are broken. Shatter the artifact and end the curse?": [
+    "Магьосникът падна, но проклятието все още се придържа към тази котва. И четирите печата са счупени. Разбийте артефакта и сложете край на проклятието?",
+    "Волшебник пал, но проклятие все еще цепляется за этот якорь. Все четыре печати сломаны. Разбить артефакт и снять проклятие?",
+    "Le sorcier est tombé, mais la malédiction s'accroche toujours à cette ancre. Les quatre sceaux sont brisés. Briser l'artefact et mettre fin à la malédiction ?",
+    "لقد سقط الساحر، لكن اللعنة لا تزال متمسكة بهذه المرساة. جميع الأختام الأربعة مكسورة. تحطيم القطعة الأثرية وإنهاء اللعنة؟"
+  ],
+  "This replaces only the selected save slot.": [
+    "Това замества само избрания слот за запис.",
+    "Заменяет только выбранный слот для сохранения.",
+    "Ceci remplace uniquement l'emplacement de sauvegarde sélectionné.",
+    "يؤدي هذا إلى استبدال فتحة الحفظ المحددة فقط."
+  ],
+  "This save belongs to another prototype; preserved": [
+    "Това запазване принадлежи на друг прототип; запазени",
+    "Это сохранение принадлежит другому прототипу; сохраненный",
+    "Cette sauvegarde appartient à un autre prototype ; préservé",
+    "ينتمي هذا الحفظ إلى نموذج أولي آخر؛ محفوظ"
+  ],
+  "This training build cannot load campaign regions; save preserved": [
+    "Тази обучителна компилация не може да зарежда региони на кампания; спаси запазен",
+    "Эта обучающая сборка не может загружать регионы кампании; сохранить сохраненным",
+    "Cette version de formation ne peut pas charger les régions de campagne ; sauvegarder préservé",
+    "لا يمكن لهذا الإصدار التدريبي تحميل مناطق الحملة؛ حفظ محفوظ"
+  ],
+  "Thorn Beast": [
+    "Трънски звяр",
+    "Терновый зверь",
+    "Bête épineuse",
+    "الوحش الشائك"
+  ],
+  "Thorn Grove": [
+    "Трънливата горичка",
+    "Терновая роща",
+    "Bosquet d'épines",
+    "ثورن جروف"
+  ],
+  "Three sentries still patrol the courtyard and barracks. Clear them, then recover the expedition record from the memorial hall to the northwest. I need to know who was left behind.": [
+    "Трима часови все още патрулират в двора и казармите. Изчистете ги, след това възстановете записа на експедицията от мемориалната зала на северозапад. Трябва да знам кой е изоставен.",
+    "Трое часовых все еще патрулируют двор и казармы. Очистите их, а затем заберите отчет об экспедиции в мемориальном зале на северо-западе. Мне нужно знать, кто остался позади.",
+    "Trois sentinelles patrouillent toujours dans la cour et la caserne. Éliminez-les, puis récupérez le dossier de l'expédition dans la salle commémorative au nord-ouest. J'ai besoin de savoir qui a été laissé derrière.",
+    "لا يزال ثلاثة حراس يقومون بدوريات في الفناء والثكنات. قم بمسحها، ثم استرجع سجل البعثة من القاعة التذكارية إلى الشمال الغربي. أريد أن أعرف من بقي في الخلف."
+  ],
+  "TimberHouse": [
+    "Дървена къща",
+    "Тимберхаус",
+    "TimberHouse",
+    "تيمبر هاوس"
+  ],
+  "Too many attempts. Please wait before trying again.": [
+    "Твърде много опити. Моля, изчакайте, преди да опитате отново.",
+    "Слишком много попыток. Пожалуйста, подождите, прежде чем повторить попытку.",
+    "Trop de tentatives. Veuillez patienter avant de réessayer.",
+    "محاولات كثيرة جدًا. يرجى الانتظار قبل المحاولة مرة أخرى."
+  ],
+  "Training Grounds": [
+    "Тренировъчни площадки",
+    "Тренировочная площадка",
+    "Terrain d'entraînement",
+    "أرض التدريب"
+  ],
+  "Training alcove · return through arch": [
+    "Тренировъчна ниша · връщане през арка",
+    "Тренировочная ниша · возвращение через арку",
+    "Alcôve d'entraînement · retour par arche",
+    "كوة التدريب · العودة من خلال القوس"
+  ],
+  "Training journey · three save slots": [
+    "Обучително пътуване · три слота за запазване",
+    "Учебное путешествие · три слота для сохранения",
+    "Parcours de formation · trois emplacements de sauvegarde",
+    "رحلة التدريب · ثلاث فتحات حفظ"
+  ],
+  "Training reward already claimed": [
+    "Наградата за обучение вече е заявена",
+    "Награда за обучение уже получена",
+    "Récompense de formation déjà réclamée",
+    "تمت المطالبة بمكافأة التدريب بالفعل"
+  ],
+  "Training reward mismatch": [
+    "Несъответствие на наградата за обучение",
+    "Несоответствие вознаграждения за обучение",
+    "Inadéquation des récompenses de formation",
+    "عدم تطابق مكافأة التدريب"
+  ],
+  "Travel to": [
+    "Пътуване до",
+    "Путешествие в",
+    "Voyage à",
+    "السفر إلى"
+  ],
+  "Travel to village": [
+    "Пътуване до селото",
+    "Путешествие в деревню",
+    "Voyage au village",
+    "السفر إلى القرية"
+  ],
+  "Trial cleared · +100 XP · +60 shards": [
+    "Пробният период е изчистен · +100 XP · +60 шарда",
+    "Пробная версия пройдена · +100 опыта · +60 осколков",
+    "Essai terminé · +100 XP · +60 fragments",
+    "تم مسح النسخة التجريبية · +100 XP · +60 قطعة"
+  ],
+  "Two prisoners freed · +30 XP · +20 shards": [
+    "Двама затворници са освободени · +30 XP · +20 фрагмента",
+    "Двое заключенных освобождены · +30 опыта · +20 осколков",
+    "Deux prisonniers libérés · +30 XP · +20 fragments",
+    "تم إطلاق سراح سجينين · +30 XP · +20 شظية"
+  ],
+  "UNSAVED · Retry saving before quitting": [
+    "НЕЗАПАЗЕН · Опитайте отново да запазите, преди да излезете",
+    "НЕ СОХРАНЕНО · Повторите попытку сохранения перед выходом.",
+    "NON ENREGISTRÉ · Réessayez d'enregistrer avant de quitter",
+    "غير محفوظ · أعد محاولة الحفظ قبل الخروج"
+  ],
+  "UNSAVED · retry before quitting": [
+    "НЕЗАПАЗЕН · опитайте отново, преди да излезете",
+    "НЕ СОХРАНЕНО · повторите попытку, прежде чем выйти",
+    "NON ENREGISTRÉ · réessayez avant de quitter",
+    "غير محفوظ · أعد المحاولة قبل الخروج"
+  ],
+  "Unknown action": [
+    "Неизвестно действие",
+    "Неизвестное действие",
+    "Action inconnue",
+    "إجراء غير معروف"
+  ],
+  "Unknown checkpoint": [
+    "Неизвестна контролна точка",
+    "Неизвестная контрольная точка",
+    "Point de contrôle inconnu",
+    "نقطة تفتيش غير معروفة"
+  ],
+  "Unknown or already collected pickup": [
+    "Неизвестен или вече събран пикап",
+    "Неизвестный или уже забранный самовывоз",
+    "Collecte inconnue ou déjà collectée",
+    "الالتقاط غير معروف أو تم جمعه بالفعل"
+  ],
+  "Unknown or already defeated boss": [
+    "Неизвестен или вече победен шеф",
+    "Неизвестный или уже побеждённый босс",
+    "Boss inconnu ou déjà vaincu",
+    "رئيس غير معروف أو مهزوم بالفعل"
+  ],
+  "Unknown passage": [
+    "Неизвестен пасаж",
+    "Неизвестный отрывок",
+    "Passage inconnu",
+    "مقطع غير معروف"
+  ],
+  "Unknown passive creature:": [
+    "Неизвестно пасивно създание:",
+    "Неизвестное пассивное существо:",
+    "Créature passive inconnue :",
+    "مخلوق سلبي غير معروف:"
+  ],
+  "Unknown quest or state": [
+    "Неизвестно мисия или състояние",
+    "Неизвестный квест или состояние",
+    "Quête ou état inconnu",
+    "مهمة أو حالة غير معروفة"
+  ],
+  "Unknown recovery checkpoint": [
+    "Неизвестна контролна точка за възстановяване",
+    "Неизвестная контрольная точка восстановления.",
+    "Point de contrôle de récupération inconnu",
+    "نقطة تفتيش استرداد غير معروفة"
+  ],
+  "Unsaved progress: retry saving before switching journeys": [
+    "Незаписан напредък: опитайте отново да запазите, преди да смените пътуванията",
+    "Несохраненный прогресс: повторите попытку сохранения перед переключением маршрута.",
+    "Progression non enregistrée : réessayez de sauvegarder avant de changer de trajet",
+    "التقدم غير المحفوظ: أعد محاولة الحفظ قبل تبديل الرحلات"
+  ],
+  "Unsupported": [
+    "Не се поддържа",
+    "Не поддерживается",
+    "Non pris en charge",
+    "غير مدعوم"
+  ],
+  "Unsupported input": [
+    "Неподдържан вход",
+    "Неподдерживаемый ввод",
+    "Entrée non prise en charge",
+    "إدخال غير مدعوم"
+  ],
+  "Unsupported save version; original preserved": [
+    "Неподдържана версия за запис; запазен оригинал",
+    "Неподдерживаемая версия сохранения; оригинал сохранился",
+    "Version de sauvegarde non prise en charge ; original conservé",
+    "نسخة حفظ غير مدعومة؛ الأصلي المحفوظ"
+  ],
+  "Upgrade costs 60 / 120 shards.": [
+    "Надграждането струва 60 / 120 фрагмента.",
+    "Обновление стоит 60/120 осколков.",
+    "La mise à niveau coûte 60/120 fragments.",
+    "تكاليف الترقية 60 / 120 قطعة."
+  ],
+  "Upgrade sword (near training anvil)": [
+    "Меч за надграждане (близо до тренировъчната наковалня)",
+    "Улучшить меч (возле тренировочной наковальни)",
+    "Amélioration de l'épée (près de l'enclume d'entraînement)",
+    "ترقية السيف (بالقرب من سندان التدريب)"
+  ],
+  "UpgradeWeapon": [
+    "Надграждане на оръжие",
+    "Обновление оружия",
+    "Mise à niveau de l'arme",
+    "ترقية السلاح"
+  ],
+  "Use / Flask: tap to interact nearby, or heal in combat / away from objects": [
+    "Използвайте / колба: докоснете, за да взаимодействате наблизо, или лекувайте в битка / далеч от обекти",
+    "Использование/Настой: коснитесь, чтобы взаимодействовать поблизости или исцеляться в бою/вдали от объектов.",
+    "Utilisation / Flacon : appuyez pour interagir à proximité, ou soigner au combat / loin des objets",
+    "الاستخدام / القارورة: انقر للتفاعل بالقرب منك، أو للشفاء في القتال / بعيدًا عن الأشياء"
+  ],
+  "Use a password of at least 10 characters.": [
+    "Използвайте парола от поне 10 знака.",
+    "Используйте пароль длиной не менее 10 символов.",
+    "Utilisez un mot de passe d'au moins 10 caractères.",
+    "استخدم كلمة مرور مكونة من 10 أحرف على الأقل."
+  ],
+  "VILLAGE": [
+    "СЕЛО",
+    "ДЕРЕВНЯ",
+    "VILLAGE",
+    "القرية"
+  ],
+  "VILLAGE LANTERN": [
+    "СЕЛСКИ ФЕНЕР",
+    "ДЕРЕВЕНСКИЙ ФОНАРЬ",
+    "LANTERNE DE VILLAGE",
+    "فانوس القرية"
+  ],
+  "Version": [
+    "Версия",
+    "Версия",
+    "Version",
+    "الإصدار"
+  ],
+  "Village gate": [
+    "Селска порта",
+    "Деревенские ворота",
+    "Porte du village",
+    "بوابة القرية"
+  ],
+  "Village shortcut opened": [
+    "Прекият път към селото е отворен",
+    "Открыт ярлык деревни.",
+    "Raccourci du village ouvert",
+    "تم فتح اختصار القرية"
+  ],
+  "Village: eastern mill, western burial yard, crypt north of the square.": [
+    "Село: източна мелница, западно гробище, крипта северно от площада.",
+    "Деревня: восточная мельница, западный могильник, склеп к северу от площади.",
+    "Village : moulin est, cimetière ouest, crypte au nord de la place.",
+    "القرية: الطاحونة الشرقية، ساحة الدفن الغربية، سرداب شمال الساحة."
+  ],
+  "VillageHorizon": [
+    "VillageHorizon",
+    "Деревня Горизонт",
+    "VillageHorizon",
+    "قرية الأفق"
+  ],
+  "VillageLandscape": [
+    "Селски пейзаж",
+    "ДеревенскийПейзаж",
+    "VillagePaysage",
+    "منظر القرية"
+  ],
+  "VillageMausoleum": [
+    "Селски мавзолей",
+    "Деревенский Мавзолей",
+    "VillageMausolée",
+    "ضريح القرية"
+  ],
+  "VillageStorageCollision": [
+    "VillageStorageCollision",
+    "VillageStorageCollision",
+    "VillageStorageCollision",
+    "VillageStorageCollision"
+  ],
+  "VillageStreetDetail": [
+    "VillageStreetDetail",
+    "VillageStreetDetail",
+    "VillageStreetDétail",
+    "تفاصيل شارع القرية"
+  ],
+  "VillageTrades": [
+    "VillageTrades",
+    "VillageTrades",
+    "Métiers du Village",
+    "فيلاج تريدس"
+  ],
+  "VillageTroughCollision": [
+    "VillageTroughCollision",
+    "VillageTroughCollision",
+    "VillageTroughCollision",
+    "تصادم القرية"
+  ],
+  "VillageWellCollision": [
+    "VillageWellCollision",
+    "VillageWellCollision",
+    "VillageWellCollision",
+    "VillageWellCollision"
+  ],
+  "VillageWoodpileCollision": [
+    "VillageWoodpileCollision",
+    "VillageWoodpileCollision",
+    "VillageBoisCollision",
+    "VillageWoodpileCollision"
+  ],
+  "VisitBlackwood": [
+    "Посетете Чернолес",
+    "Посетите Чернолесье",
+    "VisitezBlackwood",
+    "قم بزيارة بلاكوود"
+  ],
+  "VisitCitadel": [
+    "Посетете Цитадела",
+    "Посетите Цитадель",
+    "Visitez la Citadelle",
+    "قم بزيارة القلعة"
+  ],
+  "VisitOrder": [
+    "VisitOrder",
+    "ПосетитеОрдер",
+    "VisitOrder",
+    "طلب الزيارة"
+  ],
+  "VisitPeaks": [
+    "VisitPeaks",
+    "ПосетитеПикс",
+    "VisitPeaks",
+    "قم بزيارة القمم"
+  ],
+  "WASD Move   Mouse Look   Shift Sprint   F Jump": [
+    "WASD Преместване на мишката Поглед Shift Спринт F Скок",
+    "WASD Перемещение Мышь Взгляд Shift Спринт F Прыжок",
+    "WASD Déplacer la souris Rechercher Shift Sprint F Saut",
+    "WASD حرك الماوس وانظر Shift Sprint F Jump"
+  ],
+  "WATCHTOWER  →": [
+    "СТРАЖЕВА КУЛА →",
+    "СТОРОЖЕВАЯ БАШНЯ →",
+    "TOUR DE GARDE →",
+    "برج المراقبة →"
+  ],
+  "WORLD": [
+    "СВЯТ",
+    "МИР",
+    "MONDE",
+    "العالم"
+  ],
+  "Wait at the refuge": [
+    "Изчакайте в убежището",
+    "Подождите в убежище.",
+    "Attendre au refuge",
+    "انتظر في الملجأ"
+  ],
+  "Wall-clock intervals between rendered process callbacks. Scripted workload with HP replenishment and forced boss phase; no human victory/FPS guarantee. Not headless. Power mode/background tasks recorded separately.": [
+    "Интервали на стенен часовник между изобразените обратни извиквания на процеса. Скриптирано работно натоварване с попълване на HP и фаза на принудителен шеф; няма гаранция за човешка победа/FPS. Не без глава. Режим на захранване/фонови задачи, записани отделно.",
+    "Интервалы настенных часов между отрисовываемыми обратными вызовами процесса. Заскриптованная рабочая нагрузка с пополнением HP и принудительной фазой босса; никакой гарантии человеческой победы/FPS. Не безголовый. Режим электропитания/фоновые задачи записываются отдельно.",
+    "Intervalles d'horloge murale entre les rappels de processus rendus. Charge de travail scriptée avec réapprovisionnement HP et phase de boss forcé ; aucune garantie de victoire humaine/FPS. Pas sans tête. Mode d'alimentation/tâches en arrière-plan enregistrées séparément.",
+    "فترات ساعة الحائط بين عمليات الاسترجاعات المقدمة. عبء العمل المكتوب مع تجديد HP ومرحلة الرئيس القسري؛ لا يوجد ضمان للنصر البشري/FPS. ليس مقطوع الرأس. يتم تسجيل مهام وضع الطاقة/الخلفية بشكل منفصل."
+  ],
+  "Watch the Thorn Beast's head: sidestep the lunge and punish its recovery.": [
+    "Гледайте главата на Трънския звяр: отклонете хвърлянето и накажете възстановяването му.",
+    "Следите за головой Тернового Зверя: уклоняйтесь от выпада и наказывайте его за восстановление.",
+    "Observez la tête de la bête épineuse : évitez la fente et punissez sa récupération.",
+    "شاهد رأس الوحش الشوكي: تجنب الاندفاع وعاقبه على التعافي."
+  ],
+  "We travel together, or I wait at the refuge. Only one companion can follow. Rest at a lantern to recover a downed companion.": [
+    "Пътуваме заедно или чакам в убежището. Само един спътник може да го последва. Починете на фенер, за да върнете свален спътник.",
+    "Мы путешествуем вместе, или я жду в убежище. Следовать за ним может только один спутник. Отдохните у фонаря, чтобы найти сбитого товарища.",
+    "Nous voyageons ensemble, ou j'attends au refuge. Un seul compagnon peut suivre. Reposez-vous près d'une lanterne pour récupérer un compagnon abattu.",
+    "نسافر معًا، أو أنتظر في الملجأ. يمكن لرفيق واحد فقط أن يتبعه. استرح عند الفانوس لاستعادة رفيقك الذي سقط."
+  ],
+  "West: mine. North: guarded bridge and forge fortress. Activate the Peaks lantern.": [
+    "Запад: мой. Север: охраняван мост и ковачница. Активирайте фенера Peaks.",
+    "Запад: мой. Север: охраняемый мост и крепость-кузница. Активируйте фонарь Пикс.",
+    "Ouest : le mien. Nord : pont gardé et forge forteresse. Activez la lanterne Peaks.",
+    "الغرب: خاصتي. الشمال: جسر حراسة وقلعة. تفعيل فانوس القمم."
+  ],
+  "West: prison. East: ritual inscription. North: Maldrek. Activate the citadel lantern.": [
+    "Запад: затвор. Изток: ритуален надпис. Север: Малдрек. Активирайте фенера на цитаделата.",
+    "Запад: тюрьма. Восток: ритуальная надпись. Север: Малдрек. Активируйте фонарь цитадели.",
+    "Ouest : prison. Est : inscription rituelle. Nord : Maldrek. Activez la lanterne de la citadelle.",
+    "الغرب: السجن. الشرق: نقش طقسي. الشمال: مالدريك. تفعيل فانوس القلعة."
+  ],
+  "Wheel ↑": [
+    "Колело ↑",
+    "Колесо ↑",
+    "Roue ↑",
+    "العجلة ↑"
+  ],
+  "Wheel ↓": [
+    "Колело ↓",
+    "Колесо ↓",
+    "Roue ↓",
+    "العجلة ↓"
+  ],
+  "WoodlandRidges": [
+    "Woodland Ridges",
+    "ВудлендРиджес",
+    "Crêtes boisées",
+    "وودلاند ريدجز"
+  ],
+  "Worn shield · equipped": [
+    "Износен щит · оборудван",
+    "Изношенный щит · есть",
+    "Bouclier usé · équipé",
+    "درع مهترئ · مجهز"
+  ],
+  "YOU FELL": [
+    "ПАДНАХТЕ",
+    "ТЫ УПАЛА",
+    "VOUS ÊTES TOMBE",
+    "لقد سقطت"
+  ],
+  "YOU FELL · Return to the last lantern.": [
+    "ПАДНАХТЕ · Върнете се при последния фенер.",
+    "ВЫ УПАЛИ · Вернитесь к последнему фонарю.",
+    "VOUS TOMBE · Retournez à la dernière lanterne.",
+    "لقد سقطت · عد إلى الفانوس الأخير."
+  ],
+  "You came back. My tools are rough, but this sword can still hold an edge.": [
+    "Ти се върна. Инструментите ми са груби, но този меч все още може да държи острото.",
+    "Вы вернулись. Мои инструменты грубы, но этот меч все еще держит заточку.",
+    "Vous êtes revenu. Mes outils sont rudimentaires, mais cette épée peut quand même avoir un tranchant.",
+    "لقد عدت. أدواتي خشنة، لكن هذا السيف ما زال قادرًا على الاحتفاظ بحافته."
+  ],
+  "You stay signed in for this play session.": [
+    "Оставате влезли в системата за тази игрална сесия.",
+    "Вы остаетесь в системе на протяжении всего сеанса игры.",
+    "Vous restez connecté pour cette session de jeu.",
+    "يجب عليك البقاء مسجلاً الدخول لجلسة اللعب هذه."
+  ],
+  "You survived. One lantern still burns. Find the others.": [
+    "Ти оцеля. Един фенер все още гори. Намерете другите.",
+    "Вы выжили. Один фонарь все еще горит. Найдите остальных.",
+    "Vous avez survécu. Une lanterne brûle encore. Trouvez les autres.",
+    "لقد نجوت. ولا يزال أحد المصابيح مشتعلًا. ابحث عن الآخرين."
+  ],
+  "Your journey will be saved at the restored refuge. You can continue exploring afterward.": [
+    "Вашето пътуване ще бъде запазено в реставрираното убежище. Можете да продължите да изследвате след това.",
+    "Ваше путешествие будет сохранено в восстановленном убежище. Вы можете продолжить исследование позже.",
+    "Votre voyage sera sauvegardé au refuge restauré. Vous pourrez ensuite poursuivre votre exploration.",
+    "سيتم حفظ رحلتك في الملجأ المستعاد. يمكنك مواصلة الاستكشاف بعد ذلك."
+  ],
+  "Your mentor's crosscut has two swings. Wait for the lowered sword before countering.": [
+    "Crosscut на вашия ментор има два замаха. Изчакайте спуснатия меч, преди да контрирате.",
+    "Крест вашего наставника имеет два удара. Прежде чем нанести ответный удар, дождитесь опущенного меча.",
+    "Le crosscut de votre mentor comporte deux élans. Attendez l’épée baissée avant de contrer.",
+    "يحتوي المقطع العرضي لمرشدك على تأرجحين. انتظر السيف المخفض قبل الرد."
+  ],
+  "[%s] %s": [
+    "[%s] %s",
+    "[%s] %s",
+    "[%s] %s",
+    "[%s] %s"
+  ],
+  "[E] Rest at lantern · restores resources, resets soldier": [
+    "[E] Почивка на фенера · възстановява ресурси, нулира войник",
+    "[E] Отдых у фонаря · восстанавливает ресурсы, сбрасывает солдата",
+    "[E] Repos à la lanterne · restaure les ressources, réinitialise le soldat",
+    "[E] استريح عند الفانوس · استعادة الموارد، وإعادة ضبط الجندي"
+  ],
+  "[E] Training anvil · equipment and upgrades": [
+    "[E] Тренировъчна наковалня · оборудване и надстройки",
+    "[E] Учебная наковальня · оборудование и улучшения",
+    "[E] Enclume de formation · équipement et mises à niveau",
+    "[E] سندان التدريب · المعدات والترقيات"
+  ],
+  "[E] Training seal": [
+    "[E] Печат за обучение",
+    "[E] Учебная печать",
+    "[E] Sceau de formation",
+    "ختم التدريب [E]"
+  ],
+  "cannot find a safe route; regroup at a lantern or next safe passage.": [
+    "не може да намери безопасен маршрут; прегрупирайте се при фенер или следващия безопасен проход.",
+    "не может найти безопасный маршрут; перегруппируйтесь у фонаря или следующего безопасного прохода.",
+    "ne parvient pas à trouver un itinéraire sûr ; regroupez-vous près d’une lanterne ou du prochain passage sûr.",
+    "لا يمكن العثور على طريق آمن؛ أعد تجميع صفوفك عند الفانوس أو الممر الآمن التالي."
+  ],
+  "could not": [
+    "не можа",
+    "не удалось",
+    "n'a pas pu",
+    "لا يمكن ذلك"
+  ],
+  "lost the path; regroup at the next lantern.": [
+    "загуби пътя; прегрупирайте се на следващия фенер.",
+    "потерял путь; перегруппироваться у следующего фонаря.",
+    "a perdu le chemin ; regroupez-vous à la lanterne suivante.",
+    "فقد المسار؛ إعادة تجميع صفوفهم في الفانوس القادم."
+  ],
+  "needs safe recovery at a lantern": [
+    "се нуждае от безопасно възстановяване при фенер",
+    "необходимо безопасное восстановление у фонаря.",
+    "doit être récupéré en toute sécurité à une lanterne",
+    "يحتاج إلى استرداد آمن عند الفانوس"
+  ],
+  "seal first": [
+    "първо запечатайте",
+    "сначала запечатайте",
+    "sceau en premier",
+    "قم بالختم أولاً"
+  ],
+  "waits outside the guardian arena and will rejoin on return.": [
+    "чака извън арената на пазителя и ще се присъедини отново при завръщане.",
+    "ждет за пределами арены стражей и присоединится к ней по возвращении.",
+    "attend à l'extérieur de l'arène des gardiens et reviendra au retour.",
+    "ينتظر خارج ساحة الحارس وسينضم مرة أخرى عند العودة."
+  ],
+  "will accompany you": [
+    "ще ви придружи",
+    "будет сопровождать вас",
+    "vous accompagnera",
+    "سوف يرافقك"
+  ],
+  "will regroup at the next lantern; no safe arrival point was found.": [
+    "ще се прегрупира при следващия фенер; не е намерена безопасна точка на пристигане.",
+    "перегруппируется у следующего фонаря; безопасного пункта прибытия обнаружено не было.",
+    "se regrouperont à la prochaine lanterne ; aucun point d'arrivée sûr n'a été trouvé.",
+    "سوف يعيد تجميع صفوفه عند الفانوس التالي؛ لم يتم العثور على نقطة وصول آمنة."
+  ],
+  "· LOW": [
+    "· НИСКО",
+    "· НИЗКИЙ",
+    "· FAIBLE",
+    "· منخفض"
+  ],
+  "· Rank %d · %d/5 bosses": [
+    "· Ранг %d · %d/5 боса",
+    "· Ранг %d · %d/5 боссов",
+    "· Rang %d · %d/5 patrons",
+    "· الرتبة %d · %d/5 رؤساء"
+  ],
+  "· Saved": [
+    "· Запазено",
+    "· Сохранено",
+    "· Enregistré",
+    "· تم الحفظ"
+  ],
+  "· defeated": [
+    "· победен",
+    "· побеждён",
+    "· vaincu",
+    "· مهزوم"
+  ],
+  "· recovery needed": [
+    "· необходимо е възстановяване",
+    "· требуется восстановление",
+    "· récupération nécessaire",
+    "· مطلوب الاسترداد"
+  ]
+}

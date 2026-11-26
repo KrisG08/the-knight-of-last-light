@@ -1,0 +1,1298 @@
+{
+  "THE KNIGHT\nOF LAST LIGHT": [
+    "РИЦАРЯТ НА\nПОСЛЕДНАТА СВЕТЛИНА",
+    "РЫЦАРЬ\nПОСЛЕДНЕГО СВЕТА",
+    "LE CHEVALIER\nDE LA DERNIÈRE LUMIÈRE",
+    "فارس\nالنور الأخير"
+  ],
+  "A KINGDOM WITHOUT DAWN.\nA FLAME THAT WILL NOT DIE.": [
+    "КРАЛСТВО БЕЗ ЗОРА.\nПЛАМЪК, КОЙТО НЕ УГАСВА.",
+    "КОРОЛЕВСТВО БЕЗ РАССВЕТА.\nПЛАМЯ, КОТОРОЕ НЕ ПОГАСНЕТ.",
+    "UN ROYAUME SANS AUBE.\nUNE FLAMME QUI NE S'ÉTEINT PAS.",
+    "مملكة بلا فجر.\nوشعلة لا تنطفئ."
+  ],
+  "JOURNEY\nPAUSED": [
+    "ПЪТЕШЕСТВИЕТО\nЕ НА ПАУЗА",
+    "ПУТЕШЕСТВИЕ\nПРИОСТАНОВЛЕНО",
+    "VOYAGE\nEN PAUSE",
+    "الرحلة\nمتوقفة مؤقتًا"
+  ],
+  "YOUR JOURNEY": [
+    "ТВОЕТО ПЪТЕШЕСТВИЕ",
+    "ВАШЕ ПУТЕШЕСТВИЕ",
+    "VOTRE VOYAGE",
+    "رحلتك"
+  ],
+  "RETURN TO THE LIGHT": [
+    "ЗАВЪРНИ СЕ КЪМ СВЕТЛИНАТА",
+    "ВЕРНИТЕСЬ К СВЕТУ",
+    "RETOUR À LA LUMIÈRE",
+    "عُد إلى النور"
+  ],
+  "Continue journey": [
+    "Продължи пътешествието",
+    "Продолжить путешествие",
+    "Continuer le voyage",
+    "متابعة الرحلة"
+  ],
+  "Begin a new journey": [
+    "Започни ново пътешествие",
+    "Начать новое путешествие",
+    "Commencer un voyage",
+    "بدء رحلة جديدة"
+  ],
+  "Return to the journey": [
+    "Върни се в пътешествието",
+    "Вернуться в путешествие",
+    "Reprendre le voyage",
+    "العودة إلى الرحلة"
+  ],
+  "Resume journey": [
+    "Продължи пътешествието",
+    "Продолжить путешествие",
+    "Reprendre le voyage",
+    "استئناف الرحلة"
+  ],
+  "Return to the lantern": [
+    "Върни се при фенера",
+    "Вернуться к фонарю",
+    "Retourner à la lanterne",
+    "العودة إلى الفانوس"
+  ],
+  "Settings": [
+    "Настройки",
+    "Настройки",
+    "Paramètres",
+    "الإعدادات"
+  ],
+  "World progress": [
+    "Напредък в света",
+    "Прогресс в мире",
+    "Progression du monde",
+    "التقدم في العالم"
+  ],
+  "Saved journeys": [
+    "Запазени пътешествия",
+    "Сохранённые путешествия",
+    "Voyages sauvegardés",
+    "الرحلات المحفوظة"
+  ],
+  "More actions": [
+    "Още действия",
+    "Другие действия",
+    "Autres actions",
+    "إجراءات أخرى"
+  ],
+  "Credits": [
+    "Автори",
+    "Авторы",
+    "Crédits",
+    "فريق العمل"
+  ],
+  "Quit": [
+    "Изход",
+    "Выход",
+    "Quitter",
+    "خروج"
+  ],
+  "Save and main menu": [
+    "Запази и отвори менюто",
+    "Сохранить и выйти в меню",
+    "Sauvegarder et revenir au menu",
+    "حفظ والعودة إلى القائمة"
+  ],
+  "Back to menu": [
+    "Назад към менюто",
+    "Назад в меню",
+    "Retour au menu",
+    "العودة إلى القائمة"
+  ],
+  "Journal / routes": [
+    "Дневник / маршрути",
+    "Журнал / маршруты",
+    "Journal / itinéraires",
+    "السجل / المسارات"
+  ],
+  "Drink flask": [
+    "Изпий лечебната отвара",
+    "Выпить зелье",
+    "Boire une potion",
+    "شرب الجرعة"
+  ],
+  "Jump": [
+    "Скок",
+    "Прыжок",
+    "Sauter",
+    "القفز"
+  ],
+  "Lock / unlock target": [
+    "Заключи / освободи целта",
+    "Захватить / отпустить цель",
+    "Verrouiller / libérer la cible",
+    "تثبيت الهدف / تحريره"
+  ],
+  "Next target": [
+    "Следваща цел",
+    "Следующая цель",
+    "Cible suivante",
+    "الهدف التالي"
+  ],
+  "Companion follow / hold": [
+    "Придружител: следвай / стой",
+    "Спутник: следовать / ждать",
+    "Compagnon : suivre / attendre",
+    "المرافق: اتبع / انتظر"
+  ],
+  "Retry saving": [
+    "Опитай записа отново",
+    "Повторить сохранение",
+    "Réessayer la sauvegarde",
+    "إعادة محاولة الحفظ"
+  ],
+  "No saved journeys yet": [
+    "Все още няма записи",
+    "Пока нет сохранений",
+    "Aucun voyage sauvegardé",
+    "لا توجد رحلات محفوظة بعد"
+  ],
+  "An unwritten journey": [
+    "Една ненаписана история",
+    "Ненаписанная история",
+    "Une histoire à écrire",
+    "رحلة لم تُكتب بعد"
+  ],
+  "Version %s": [
+    "Версия %s",
+    "Версия %s",
+    "Version %s",
+    "الإصدار %s"
+  ],
+  "New journey %d": [
+    "Ново пътешествие %d",
+    "Новое путешествие %d",
+    "Nouveau voyage %d",
+    "رحلة جديدة %d"
+  ],
+  "Account": [
+    "Акаунт",
+    "Аккаунт",
+    "Compte",
+    "الحساب"
+  ],
+  "Language": [
+    "Език",
+    "Язык",
+    "Langue",
+    "اللغة"
+  ],
+  "Sign in": [
+    "Вход",
+    "Войти",
+    "Se connecter",
+    "تسجيل الدخول"
+  ],
+  "Create account": [
+    "Създай акаунт",
+    "Создать аккаунт",
+    "Créer un compte",
+    "إنشاء حساب"
+  ],
+  "Sign out": [
+    "Изход от акаунта",
+    "Выйти из аккаунта",
+    "Se déconnecter",
+    "تسجيل الخروج"
+  ],
+  "Email": [
+    "Имейл",
+    "Электронная почта",
+    "Adresse e-mail",
+    "البريد الإلكتروني"
+  ],
+  "Password": [
+    "Парола",
+    "Пароль",
+    "Mot de passe",
+    "كلمة المرور"
+  ],
+  "Display name": [
+    "Име в играта",
+    "Имя в игре",
+    "Nom affiché",
+    "الاسم المعروض"
+  ],
+  "Confirm password": [
+    "Потвърди паролата",
+    "Подтвердите пароль",
+    "Confirmer le mot de passe",
+    "تأكيد كلمة المرور"
+  ],
+  "Forgot password?": [
+    "Забравена парола?",
+    "Забыли пароль?",
+    "Mot de passe oublié ?",
+    "نسيت كلمة المرور؟"
+  ],
+  "Verification code": [
+    "Код за потвърждение",
+    "Код подтверждения",
+    "Code de vérification",
+    "رمز التحقق"
+  ],
+  "Verify email": [
+    "Потвърди имейла",
+    "Подтвердить почту",
+    "Vérifier l'adresse e-mail",
+    "تأكيد البريد الإلكتروني"
+  ],
+  "Reset password": [
+    "Възстанови паролата",
+    "Сбросить пароль",
+    "Réinitialiser le mot de passe",
+    "إعادة تعيين كلمة المرور"
+  ],
+  "Sync now": [
+    "Синхронизирай сега",
+    "Синхронизировать",
+    "Synchroniser",
+    "مزامنة الآن"
+  ],
+  "Import local journeys": [
+    "Прехвърли локалните записи",
+    "Импортировать местные сохранения",
+    "Importer les voyages locaux",
+    "استيراد الرحلات المحلية"
+  ],
+  "Play offline": [
+    "Играй офлайн",
+    "Играть без сети",
+    "Jouer hors ligne",
+    "اللعب دون اتصال"
+  ],
+  "Close": [
+    "Затвори",
+    "Закрыть",
+    "Fermer",
+    "إغلاق"
+  ],
+  "Cloud saves": [
+    "Облачни записи",
+    "Облачные сохранения",
+    "Sauvegardes cloud",
+    "الحفظ السحابي"
+  ],
+  "Local progress is safe while offline.": [
+    "Локалният напредък е защитен и без интернет.",
+    "Местный прогресс сохраняется и без интернета.",
+    "Votre progression locale est conservée hors ligne.",
+    "يبقى تقدمك المحلي محفوظًا دون اتصال."
+  ],
+  "Syncing journeys…": [
+    "Синхронизиране на записите…",
+    "Синхронизация сохранений…",
+    "Synchronisation des voyages…",
+    "جارٍ مزامنة الرحلات…"
+  ],
+  "Journeys synchronized": [
+    "Записите са синхронизирани",
+    "Сохранения синхронизированы",
+    "Voyages synchronisés",
+    "تمت مزامنة الرحلات"
+  ],
+  "Connecting…": [
+    "Свързване…",
+    "Подключение…",
+    "Connexion…",
+    "جارٍ الاتصال…"
+  ],
+  "HEALTH": [
+    "ЖИВОТ",
+    "ЗДОРОВЬЕ",
+    "VIE",
+    "الصحة"
+  ],
+  "STAMINA": [
+    "ИЗДРЪЖЛИВОСТ",
+    "ВЫНОСЛИВОСТЬ",
+    "ENDURANCE",
+    "القدرة على التحمل"
+  ],
+  "LOW": [
+    "НИСКО НИВО",
+    "МАЛО",
+    "FAIBLE",
+    "منخفض"
+  ],
+  "THE JOURNEY": [
+    "ПЪТЕШЕСТВИЕТО",
+    "ПУТЕШЕСТВИЕ",
+    "LE VOYAGE",
+    "الرحلة"
+  ],
+  "Preparing passage…": [
+    "Подготвяне на прехода…",
+    "Подготовка перехода…",
+    "Préparation du passage…",
+    "جارٍ تجهيز الممر…"
+  ],
+  "Skip film": [
+    "Пропусни клипчето",
+    "Пропустить ролик",
+    "Passer la cinématique",
+    "تخطي المقطع"
+  ],
+  "Skip film · Esc": [
+    "Пропусни · Esc",
+    "Пропустить · Esc",
+    "Passer · Échap",
+    "تخطي · Esc"
+  ],
+  "Continue to camp": [
+    "Продължи към лагера",
+    "Продолжить к лагерю",
+    "Continuer vers le camp",
+    "المتابعة إلى المخيم"
+  ],
+  "The opening film could not be loaded. Continue to the camp.": [
+    "Клипчето не се зареди. Продължи към лагера.",
+    "Не удалось загрузить ролик. Продолжайте к лагерю.",
+    "La cinématique n'a pas pu être chargée. Continuez vers le camp.",
+    "تعذر تحميل المقطع الافتتاحي. تابع إلى المخيم."
+  ],
+  "Progress saved; resume at the lantern checkpoint": [
+    "Напредъкът е запазен; продължаваш от фенера",
+    "Прогресс сохранён; продолжение у фонаря",
+    "Progression sauvegardée ; reprise à la lanterne",
+    "تم حفظ التقدم؛ ستستأنف من نقطة الفانوس"
+  ],
+  "Settings saved": [
+    "Настройките са запазени",
+    "Настройки сохранены",
+    "Paramètres enregistrés",
+    "تم حفظ الإعدادات"
+  ],
+  "Saved": [
+    "Запазено",
+    "Сохранено",
+    "Sauvegardé",
+    "محفوظ"
+  ],
+  "Use": [
+    "Използвай",
+    "Использовать",
+    "Utiliser",
+    "استخدام"
+  ],
+  "Pause": [
+    "Пауза",
+    "Пауза",
+    "Pause",
+    "إيقاف مؤقت"
+  ],
+  "Journal": [
+    "Дневник",
+    "Журнал",
+    "Journal",
+    "السجل"
+  ],
+  "RANK %d  ·  Sword +%d\n%d flasks  ·  %d shards": [
+    "РАНГ %d  ·  Меч +%d\n%d отвари  ·  %d отломки",
+    "РАНГ %d  ·  Меч +%d\n%d зелий  ·  %d осколков",
+    "RANG %d  ·  Épée +%d\n%d potions  ·  %d éclats",
+    "الرتبة %d  ·  السيف +%d\n%d جرعات  ·  %d شظايا"
+  ],
+  "Refuge": [
+    "Убежище",
+    "Убежище",
+    "Refuge",
+    "الملجأ"
+  ],
+  "Village": [
+    "Село",
+    "Деревня",
+    "Village",
+    "القرية"
+  ],
+  "Crypt": [
+    "Крипта",
+    "Склеп",
+    "Crypte",
+    "السرداب"
+  ],
+  "Blackwood": [
+    "Чернолес",
+    "Чернолесье",
+    "Bois-Noir",
+    "الغابة السوداء"
+  ],
+  "Grove": [
+    "Горичка",
+    "Роща",
+    "Bosquet",
+    "الأجمة"
+  ],
+  "Order": [
+    "Орденът",
+    "Орден",
+    "Ordre",
+    "الفُرسان"
+  ],
+  "Sanctum": [
+    "Светилище",
+    "Святилище",
+    "Sanctuaire",
+    "الحرم"
+  ],
+  "Peaks": [
+    "Върхове",
+    "Вершины",
+    "Sommets",
+    "القمم"
+  ],
+  "Forge": [
+    "Ковачница",
+    "Кузница",
+    "Forge",
+    "المسبك"
+  ],
+  "Citadel": [
+    "Цитадела",
+    "Цитадель",
+    "Citadelle",
+    "القلعة"
+  ],
+  "Ritual": [
+    "Ритуал",
+    "Ритуал",
+    "Rituel",
+    "الطقس"
+  ],
+  "Training": [
+    "Тренировка",
+    "Тренировка",
+    "Entraînement",
+    "التدريب"
+  ],
+  "%s  Journal    %s  Pause": [
+    "%s  Дневник    %s  Пауза",
+    "%s  Журнал    %s  Пауза",
+    "%s  Journal    %s  Pause",
+    "%s  السجل    %s  إيقاف مؤقت"
+  ],
+  "%s / %s Move · mouse Look · %s / %s Attack": [
+    "%s / %s Движение · мишка Поглед · %s / %s Атака",
+    "%s / %s Движение · мышь Обзор · %s / %s Атака",
+    "%s / %s Déplacement · souris Vue · %s / %s Attaque",
+    "%s / %s الحركة · الفأرة النظر · %s / %s الهجوم"
+  ],
+  "%d seals broken · %d allies recruited · %d pickups/documents": [
+    "%d разбити печата · %d съюзници · %d предмета/документа",
+    "%d разрушенных печатей · %d союзников · %d предметов/документов",
+    "%d sceaux brisés · %d alliés recrutés · %d objets/documents",
+    "%d أختام مكسورة · %d حلفاء · %d عناصر/وثائق"
+  ],
+  "Open the confirmation link in your email, then sign in here.": [
+    "Отвори връзката за потвърждение в имейла си, после влез тук.",
+    "Откройте ссылку подтверждения в письме, затем войдите здесь.",
+    "Ouvrez le lien de confirmation reçu par e-mail, puis connectez-vous ici.",
+    "افتح رابط التأكيد في بريدك الإلكتروني، ثم سجل الدخول هنا."
+  ],
+  "Password recovery is awaiting email service setup. Your local journeys are safe.": [
+    "Възстановяването на парола изчаква настройка на пощата. Локалните пътешествия са запазени.",
+    "Для восстановления пароля нужно настроить почтовую службу. Локальные путешествия сохранены.",
+    "La récupération du mot de passe attend la configuration du service e-mail. Vos voyages locaux sont conservés.",
+    "استعادة كلمة المرور تتطلب إعداد خدمة البريد. رحلاتك المحلية محفوظة."
+  ],
+  "Confirm your email before signing in.": [
+    "Потвърди имейла си, преди да влезеш.",
+    "Подтвердите адрес электронной почты перед входом.",
+    "Confirmez votre adresse e-mail avant de vous connecter.",
+    "أكد بريدك الإلكتروني قبل تسجيل الدخول."
+  ],
+  "Account registration is currently in testing. You can keep playing offline.": [
+    "Регистрацията на акаунти е в пробен режим. Можеш да продължиш офлайн.",
+    "Регистрация аккаунтов проходит тестирование. Вы можете играть офлайн.",
+    "La création de comptes est en cours de test. Vous pouvez continuer hors ligne.",
+    "إنشاء الحسابات قيد الاختبار حالياً. يمكنك متابعة اللعب دون اتصال."
+  ],
+  "Password recovery is temporarily unavailable. Your local journeys are safe.": [
+    "Възстановяването на парола временно не е достъпно. Локалните ти пътешествия са запазени.",
+    "Восстановление пароля временно недоступно. Ваши локальные путешествия сохранены.",
+    "La récupération du mot de passe est temporairement indisponible. Vos voyages locaux sont conservés.",
+    "استعادة كلمة المرور غير متاحة مؤقتاً. رحلاتك المحلية محفوظة."
+  ],
+  "Move forward": [
+    "Напред",
+    "Вперёд",
+    "Avancer",
+    "التقدم"
+  ],
+  "Move back": [
+    "Назад",
+    "Назад",
+    "Reculer",
+    "التراجع"
+  ],
+  "Move left": [
+    "Наляво",
+    "Влево",
+    "Aller à gauche",
+    "التحرك يساراً"
+  ],
+  "Move right": [
+    "Надясно",
+    "Вправо",
+    "Aller à droite",
+    "التحرك يميناً"
+  ],
+  "Sprint": [
+    "Спринт",
+    "Спринт",
+    "Sprinter",
+    "الركض السريع"
+  ],
+  "Dodge": [
+    "Отскок",
+    "Рывок",
+    "Esquiver",
+    "المراوغة"
+  ],
+  "Light attack": [
+    "Лек удар",
+    "Лёгкая атака",
+    "Attaque légère",
+    "هجوم خفيف"
+  ],
+  "Heavy attack": [
+    "Тежък удар",
+    "Тяжёлая атака",
+    "Attaque lourde",
+    "هجوم ثقيل"
+  ],
+  "Block": [
+    "Блокиране",
+    "Блок",
+    "Bloquer",
+    "الصد"
+  ],
+  "Heal": [
+    "Лечение",
+    "Лечение",
+    "Se soigner",
+    "العلاج"
+  ],
+  "Target lock": [
+    "Прицелване",
+    "Захват цели",
+    "Verrouiller la cible",
+    "تثبيت الهدف"
+  ],
+  "Cycle target": [
+    "Смени целта",
+    "Сменить цель",
+    "Changer de cible",
+    "تبديل الهدف"
+  ],
+  "Interact": [
+    "Взаимодействие",
+    "Взаимодействие",
+    "Interagir",
+    "التفاعل"
+  ],
+  "Equipment": [
+    "Екипировка",
+    "Снаряжение",
+    "Équipement",
+    "المعدات"
+  ],
+  "Companion order": [
+    "Заповед към придружителя",
+    "Приказ спутнику",
+    "Ordre au compagnon",
+    "أمر الرفيق"
+  ],
+  "Journey %d": [
+    "Пътешествие %d",
+    "Путешествие %d",
+    "Voyage %d",
+    "رحلة %d"
+  ],
+  "Journey %d · Rank %d · %d/5 bosses": [
+    "Пътешествие %d · Ранг %d · %d/5 босове",
+    "Путешествие %d · Ранг %d · %d/5 боссов",
+    "Voyage %d · Rang %d · %d/5 boss",
+    "رحلة %d · الرتبة %d · %d/5 زعماء"
+  ],
+  "Rank %d": [
+    "Ранг %d",
+    "Ранг %d",
+    "Rang %d",
+    "الرتبة %d"
+  ],
+  "%d/5 bosses": [
+    "%d/5 босове",
+    "%d/5 боссов",
+    "%d/5 boss",
+    "%d/5 زعماء"
+  ],
+  "%d enemy victories": [
+    "%d победи над врагове",
+    "%d побед над врагами",
+    "%d victoires sur les ennemis",
+    "%d انتصارات على الأعداء"
+  ],
+  "%d shards": [
+    "%d отломки",
+    "%d осколков",
+    "%d éclats",
+    "%d شظايا"
+  ],
+  "Shards %d": [
+    "Отломки %d",
+    "Осколки %d",
+    "Éclats %d",
+    "شظايا %d"
+  ],
+  "%d flasks": [
+    "%d отвари",
+    "%d зелий",
+    "%d potions",
+    "%d جرعات"
+  ],
+  "Sword +%d": [
+    "Меч +%d",
+    "Меч +%d",
+    "Épée +%d",
+    "السيف +%d"
+  ],
+  "WORLD PROGRESS": [
+    "НАПРЕДЪК В СВЕТА",
+    "ПРОГРЕСС МИРА",
+    "PROGRESSION DU MONDE",
+    "التقدم في العالم"
+  ],
+  "recovery needed": [
+    "нужно е възстановяване",
+    "требуется восстановление",
+    "récupération nécessaire",
+    "تتطلب الاستعادة"
+  ],
+  "active": [
+    "в ход",
+    "в процессе",
+    "en cours",
+    "قيد التنفيذ"
+  ],
+  "completed": [
+    "завършена",
+    "завершено",
+    "terminé",
+    "مكتمل"
+  ],
+  "recruited": [
+    "присъединен",
+    "присоединился",
+    "recruté",
+    "تم ضمه"
+  ],
+  "defeated": [
+    "победен",
+    "побеждён",
+    "vaincu",
+    "مهزوم"
+  ],
+  "Not defeated": [
+    "Непобеден",
+    "Не побеждён",
+    "Non vaincu",
+    "لم يُهزم"
+  ],
+  "Collected": [
+    "Събрано",
+    "Получено",
+    "Obtenu",
+    "تم جمعه"
+  ],
+  "Shortcut open": [
+    "Краткият път е отворен",
+    "Короткий путь открыт",
+    "Raccourci ouvert",
+    "الممر المختصر مفتوح"
+  ],
+  "follow": [
+    "следва те",
+    "следует",
+    "suit",
+    "يتبعك"
+  ],
+  "hold": [
+    "изчаква",
+    "ожидает",
+    "attend",
+    "ينتظر"
+  ],
+  "waiting": [
+    "изчаква",
+    "ожидает",
+    "en attente",
+    "بانتظارك"
+  ],
+  "downed": [
+    "повален",
+    "выведен из строя",
+    "à terre",
+    "عاجز"
+  ],
+  "suspended": [
+    "изчаква извън зоната",
+    "ожидает вне зоны",
+    "attend hors de la zone",
+    "ينتظر خارج المنطقة"
+  ],
+  "engage": [
+    "в бой",
+    "в бою",
+    "au combat",
+    "في القتال"
+  ],
+  "regroup": [
+    "връща се",
+    "возвращается",
+    "se regroupe",
+    "يعيد التجمع"
+  ],
+  "equipped": [
+    "екипирано",
+    "экипировано",
+    "équipé",
+    "مجهز"
+  ],
+  "defeated %d times": [
+    "победен %d пъти",
+    "побеждён %d раз",
+    "vaincu %d fois",
+    "هُزم %d مرات"
+  ],
+  "Rank %d · %d/5 bosses · %d enemy victories": [
+    "Ранг %d · %d/5 босове · %d победи над врагове",
+    "Ранг %d · %d/5 боссов · %d побед над врагами",
+    "Rang %d · %d/5 boss · %d victoires sur les ennemis",
+    "الرتبة %d · %d/5 زعماء · %d انتصارات على الأعداء"
+  ],
+  "Character rank %d · XP %d / %d": [
+    "Ранг %d · Опит %d / %d",
+    "Ранг %d · Опыт %d / %d",
+    "Rang %d · Expérience %d / %d",
+    "الرتبة %d · الخبرة %d / %d"
+  ],
+  "Rank %d · XP %d · Shards %d · Sword +%d": [
+    "Ранг %d · Опит %d · Отломки %d · Меч +%d",
+    "Ранг %d · Опыт %d · Осколки %d · Меч +%d",
+    "Rang %d · Expérience %d · Éclats %d · Épée +%d",
+    "الرتبة %d · الخبرة %d · الشظايا %d · السيف +%d"
+  ],
+  "%s Companion follow / hold": [
+    "%s Придружител: следвай / изчакай",
+    "%s Спутник: следовать / ждать",
+    "%s Compagnon : suivre / attendre",
+    "%s الرفيق: اتبع / انتظر"
+  ],
+  "ROOT BAR": [
+    "ПРЕГРАДА ОТ КОРЕНИ",
+    "ПРЕГРАДА ИЗ КОРНЕЙ",
+    "BARRIÈRE DE RACINES",
+    "حاجز الجذور"
+  ],
+  "THE ROOT WARD HAS FALLEN": [
+    "КОРЕННАТА ЗАЩИТА Е РАЗРУШЕНА",
+    "ЗАЩИТА КОРНЕЙ РАЗРУШЕНА",
+    "LA PROTECTION DES RACINES EST TOMBÉE",
+    "سقط حاجز الجذور"
+  ],
+  "Gamepad is not supported in this build. Assist keeps progression/rewards identical.": [
+    "Тази версия не поддържа контролер. Помощните настройки не променят напредъка и наградите.",
+    "Эта версия не поддерживает геймпад. Настройки помощи не меняют прогресс и награды.",
+    "Cette version ne prend pas en charge la manette. Les aides ne modifient ni la progression ni les récompenses.",
+    "وحدة التحكم غير مدعومة في هذه النسخة. إعدادات المساعدة لا تغير التقدم أو المكافآت."
+  ],
+  "Tap II PAUSE in the health panel, or press Android Back": [
+    "Докосни II ПАУЗА до живота или натисни бутона „Назад“ на Android",
+    "Нажмите II ПАУЗА у шкалы здоровья или кнопку «Назад» Android",
+    "Touchez II PAUSE près de la santé ou le bouton Retour Android",
+    "اضغط II إيقاف مؤقت بجوار الصحة أو زر الرجوع في Android"
+  ],
+  "Your mentor's crosscut has two swings. Wait for the lowered sword before countering.": [
+    "Учителят ти замахва два пъти при кръстосания удар. Изчакай да свали меча, преди да контраатакуваш.",
+    "Наставник делает два перекрёстных взмаха. Дождитесь, пока он опустит меч, и контратакуйте.",
+    "Votre mentor enchaîne deux frappes croisées. Attendez qu’il baisse son épée avant de riposter.",
+    "ينفذ معلمك ضربتين متقاطعتين. انتظر حتى يخفض سيفه ثم هاجم."
+  ],
+  "Ashen Village": [
+    "Пепелното село",
+    "Пепельная деревня",
+    "Village des Cendres",
+    "قرية الرماد"
+  ],
+  "Ashen Peaks": [
+    "Пепелните върхове",
+    "Пепельные вершины",
+    "Pics des Cendres",
+    "قمم الرماد"
+  ],
+  "Lantern Refuge": [
+    "Фенерното убежище",
+    "Приют Фонаря",
+    "Refuge de la Lanterne",
+    "ملجأ الفانوس"
+  ],
+  "Eclipse Citadel": [
+    "Цитаделата на затъмнението",
+    "Цитадель Затмения",
+    "Citadelle de l’Éclipse",
+    "قلعة الكسوف"
+  ],
+  "Thorn Grove": [
+    "Трънливата горичка",
+    "Терновая роща",
+    "Bosquet des Épines",
+    "أجمة الأشواك"
+  ],
+  "Iron Warden": [
+    "Железният пазител",
+    "Железный Страж",
+    "Gardien de Fer",
+    "الحارس الحديدي"
+  ],
+  "Thorn Beast": [
+    "Трънливият звяр",
+    "Терновый Зверь",
+    "Bête des Épines",
+    "وحش الأشواك"
+  ],
+  "Oren": [
+    "Орен",
+    "Орен",
+    "Oren",
+    "أورين"
+  ],
+  "Lyra": [
+    "Лира",
+    "Лира",
+    "Lyra",
+    "ليرا"
+  ],
+  "Sir Cael": [
+    "Сър Каел",
+    "Сэр Каэль",
+    "Sire Cael",
+    "السير كايل"
+  ],
+  "Cael": [
+    "Каел",
+    "Каэль",
+    "Cael",
+    "كايل"
+  ],
+  "Maldrek": [
+    "Малдрек",
+    "Малдрек",
+    "Maldrek",
+    "مالدريك"
+  ],
+  "BOSSES": [
+    "БОСОВЕ",
+    "БОССЫ",
+    "BOSS",
+    "الزعماء"
+  ],
+  "CHARACTER": [
+    "ГЕРОЙ",
+    "ГЕРОЙ",
+    "PERSONNAGE",
+    "الشخصية"
+  ],
+  "CURRENT LEAD": [
+    "ТЕКУЩА ЦЕЛ",
+    "ТЕКУЩАЯ ЦЕЛЬ",
+    "OBJECTIF ACTUEL",
+    "الهدف الحالي"
+  ],
+  "KNOWN ROUTES": [
+    "ПОЗНАТИ ПЪТИЩА",
+    "ИЗВЕСТНЫЕ ПУТИ",
+    "ITINÉRAIRES CONNUS",
+    "المسارات المعروفة"
+  ],
+  "ENEMY VICTORIES": [
+    "ПОБЕДИ НАД ВРАГОВЕ",
+    "ПОБЕДЫ НАД ВРАГАМИ",
+    "VICTOIRES SUR LES ENNEMIS",
+    "الانتصارات على الأعداء"
+  ],
+  "RECORDED VICTORIES": [
+    "ЗАПИСАНИ ПОБЕДИ",
+    "ЗАПИСАННЫЕ ПОБЕДЫ",
+    "VICTOIRES ENREGISTRÉES",
+    "الانتصارات المسجلة"
+  ],
+  "Journey in progress": [
+    "Пътешествието продължава",
+    "Путешествие продолжается",
+    "Voyage en cours",
+    "الرحلة مستمرة"
+  ],
+  "%s · WORLD PROGRESS": [
+    "%s · НАПРЕДЪК В СВЕТА",
+    "%s · ПРОГРЕСС МИРА",
+    "%s · PROGRESSION DU MONDE",
+    "%s · التقدم في العالم"
+  ],
+  "Sword +%d · %d shards · %d XP toward next rank": [
+    "Меч +%d · %d отломки · %d опит до следващия ранг",
+    "Меч +%d · %d осколков · %d опыта к следующему рангу",
+    "Épée +%d · %d éclats · %d points d’expérience vers le prochain rang",
+    "السيف +%d · %d شظايا · %d خبرة نحو الرتبة التالية"
+  ],
+  "%d XP toward next rank": [
+    "%d опит до следващия ранг",
+    "%d опыта к следующему рангу",
+    "%d points d’expérience vers le prochain rang",
+    "%d خبرة نحو الرتبة التالية"
+  ],
+  "The Order": [
+    "Орденът",
+    "Орден",
+    "L’Ordre",
+    "الفُرسان"
+  ],
+  "The Citadel": [
+    "Цитаделата",
+    "Цитадель",
+    "La Citadelle",
+    "القلعة"
+  ],
+  "Chapter %s": [
+    "Глава %s",
+    "Глава %s",
+    "Chapitre %s",
+    "الفصل %s"
+  ],
+  "Chapter %s complete": [
+    "Глава %s завършена",
+    "Глава %s завершена",
+    "Chapitre %s terminé",
+    "اكتمل الفصل %s"
+  ],
+  "Blackwood discovered": [
+    "Чернолес е открит",
+    "Чернолесье открыто",
+    "Bois-Noir découvert",
+    "تم اكتشاف الغابة السوداء"
+  ],
+  "Order's Ruins discovered": [
+    "Руините на Ордена са открити",
+    "Руины Ордена открыты",
+    "Ruines de l’Ordre découvertes",
+    "تم اكتشاف أطلال الفُرسان"
+  ],
+  "Ashen Peaks discovered": [
+    "Пепелните върхове са открити",
+    "Пепельные вершины открыты",
+    "Pics des Cendres découverts",
+    "تم اكتشاف قمم الرماد"
+  ],
+  "Eclipse Citadel discovered": [
+    "Цитаделата на затъмнението е открита",
+    "Цитадель Затмения открыта",
+    "Citadelle de l’Éclipse découverte",
+    "تم اكتشاف قلعة الكسوف"
+  ],
+  "West: mine. North: guarded bridge and forge fortress. Activate the Peaks lantern.": [
+    "На запад е мината. На север — охраняваният мост и крепостта с ковачницата. Активирай фенера във върховете.",
+    "На западе — шахта. На севере — охраняемый мост и крепость-кузница. Активируйте фонарь на вершинах.",
+    "À l’ouest : la mine. Au nord : le pont gardé et la forteresse de la forge. Activez la lanterne des pics.",
+    "غرباً: المنجم. شمالاً: الجسر المحروس وحصن المسبك. فعّل فانوس القمم."
+  ],
+  "The old forest road connects Lantern Refuge and Ashen Village.": [
+    "Старият горски път свързва Фенерното убежище с Пепелното село.",
+    "Старая лесная дорога соединяет Приют Фонаря и Пепельную деревню.",
+    "La vieille route forestière relie le Refuge de la Lanterne au Village des Cendres.",
+    "يربط طريق الغابة القديم ملجأ الفانوس بقرية الرماد."
+  ],
+  "Blackwood: the eastern watchtower road leads north. Turn west at the northern trail to reach the root shrine. The root bar opens from the northern side.": [
+    "Чернолес: пътят покрай източната наблюдателна кула води на север. Завий на запад по северната пътека, за да стигнеш до светилището на корените. Преградата от корени се отваря от северната страна.",
+    "Чернолесье: дорога у восточной сторожевой башни ведёт на север. На северной тропе поверните на запад к святилищу корней. Преграда из корней открывается с северной стороны.",
+    "Bois-Noir : la route de la tour de guet orientale mène au nord. Prenez le sentier vers l’ouest pour atteindre le sanctuaire des racines. La barrière s’ouvre depuis le nord.",
+    "الغابة السوداء: طريق برج المراقبة الشرقي يتجه شمالاً. انعطف غرباً عند الدرب الشمالي للوصول إلى مزار الجذور. يفتح حاجز الجذور من الشمال."
+  ],
+  "Order ruins: barracks flank the courtyard. The memorial hall lies northwest; the sanctum is north.": [
+    "Руините на Ордена: казармите са от двете страни на двора. Възпоменателната зала е на северозапад, а светилището — на север.",
+    "Руины Ордена: казармы стоят по сторонам двора. Мемориальный зал находится на северо-западе, святилище — на севере.",
+    "Ruines de l’Ordre : les casernes bordent la cour. La salle du souvenir se trouve au nord-ouest, le sanctuaire au nord.",
+    "أطلال الفُرسان: الثكنات على جانبي الفناء. قاعة الذكرى شمال غرب، والحرم شمالاً."
+  ],
+  "Ashen Peaks: the abandoned mine is west. Cross the railed bridge to reach the forge fortress. The service bar opens from the fortress side.": [
+    "Пепелните върхове: изоставената мина е на запад. Прекоси моста с парапети, за да стигнеш до крепостта с ковачницата. Служебната порта се отваря откъм крепостта.",
+    "Пепельные вершины: заброшенная шахта находится на западе. Перейдите мост с перилами к крепости-кузнице. Служебные ворота открываются со стороны крепости.",
+    "Pics des Cendres : la mine abandonnée est à l’ouest. Traversez le pont à rambardes pour atteindre la forteresse de la forge. La porte de service s’ouvre depuis la forteresse.",
+    "قمم الرماد: المنجم المهجور غرباً. اعبر الجسر ذي الحواجز للوصول إلى حصن المسبك. تفتح بوابة الخدمة من جهة الحصن."
+  ],
+  "Chapter I": [
+    "Глава I",
+    "Глава I",
+    "Chapitre I",
+    "الفصل I"
+  ],
+  "Chapter I complete": [
+    "Глава I завършена",
+    "Глава I завершена",
+    "Chapitre I terminé",
+    "اكتمل الفصل I"
+  ],
+  "Chapter II": [
+    "Глава II",
+    "Глава II",
+    "Chapitre II",
+    "الفصل II"
+  ],
+  "Chapter II complete": [
+    "Глава II завършена",
+    "Глава II завершена",
+    "Chapitre II terminé",
+    "اكتمل الفصل II"
+  ],
+  "Chapter III": [
+    "Глава III",
+    "Глава III",
+    "Chapitre III",
+    "الفصل III"
+  ],
+  "Chapter III complete": [
+    "Глава III завършена",
+    "Глава III завершена",
+    "Chapitre III terminé",
+    "اكتمل الفصل III"
+  ],
+  "Chapter IV": [
+    "Глава IV",
+    "Глава IV",
+    "Chapitre IV",
+    "الفصل IV"
+  ],
+  "Chapter IV complete": [
+    "Глава IV завършена",
+    "Глава IV завершена",
+    "Chapitre IV terminé",
+    "اكتمل الفصل IV"
+  ],
+  "Chapter V": [
+    "Глава V",
+    "Глава V",
+    "Chapitre V",
+    "الفصل V"
+  ],
+  "Chapter V complete": [
+    "Глава V завършена",
+    "Глава V завершена",
+    "Chapitre V terminé",
+    "اكتمل الفصل V"
+  ],
+  "Discover Ashen Peaks before challenging the Warden": [
+    "Открий Пепелните върхове, преди да предизвикаш Пазителя",
+    "Откройте Пепельные вершины, прежде чем вызвать Стража",
+    "Découvrez les Pics des Cendres avant d’affronter le Gardien",
+    "اكتشف قمم الرماد قبل مواجهة الحارس"
+  ],
+  "Enter Ashen Peaks through the northeast Order passage": [
+    "Влез в Пепелните върхове през североизточния проход на Ордена",
+    "Войдите в Пепельные вершины через северо-восточный проход Ордена",
+    "Rejoignez les Pics des Cendres par le passage nord-est de l’Ordre",
+    "ادخل قمم الرماد عبر ممر الفُرسان الشمالي الشرقي"
+  ],
+  "Enter Commander sanctum": [
+    "Влез в светилището на Командира",
+    "Войти в святилище Командира",
+    "Entrer dans le sanctuaire du Commandant",
+    "ادخل حرم القائد"
+  ],
+  "PEAKS LANTERN": [
+    "ФЕНЕРЪТ НА ВЪРХОВЕТЕ",
+    "ФОНАРЬ ВЕРШИН",
+    "LANTERNE DES PICS",
+    "فانوس القمم"
+  ],
+  "Peaks service path": [
+    "Служебният път във върховете",
+    "Служебный путь на вершинах",
+    "Chemin de service des pics",
+    "طريق الخدمة في القمم"
+  ],
+  "Satchel prerequisites missing": [
+    "Първо изпълни условията за намиране на чантата",
+    "Сначала выполните условия для поиска сумки",
+    "Remplissez d’abord les conditions de récupération de la sacoche",
+    "أكمل شروط العثور على الحقيبة أولاً"
+  ],
+  "Break the Oath Seal to discover Ashen Peaks": [
+    "Разбий Печата на клетвата, за да откриеш Пепелните върхове",
+    "Разрушьте Печать Клятвы, чтобы открыть Пепельные вершины",
+    "Brisez le Sceau du Serment pour découvrir les Pics des Cendres",
+    "اكسر ختم العهد لاكتشاف قمم الرماد"
+  ],
+  "DAWN OVER VEYR": [
+    "ЗОРА НАД ВЕЙР",
+    "РАССВЕТ НАД ВЕЙРОМ",
+    "L’AUBE SUR VEYR",
+    "الفجر فوق فير"
+  ],
+  "LMB Attack   Q Heavy   RMB Block   Space Dodge": [
+    "LMB Атака   Q Тежък удар   RMB Блок   Space Отскок",
+    "LMB Атака   Q Тяжёлая   RMB Блок   Space Рывок",
+    "LMB Attaque   Q Frappe lourde   RMB Parade   Space Esquive",
+    "LMB هجوم   Q ضربة ثقيلة   RMB صد   Space مراوغة"
+  ],
+  "R Heal   MMB Lock   E Interact   Tab Equipment   Esc Pause": [
+    "R Лечение   MMB Прицелване   E Взаимодействие   Tab Екипировка   Esc Пауза",
+    "R Лечение   MMB Захват цели   E Взаимодействие   Tab Снаряжение   Esc Пауза",
+    "R Soins   MMB Verrouiller   E Interagir   Tab Équipement   Esc Pause",
+    "R علاج   MMB تثبيت الهدف   E تفاعل   Tab معدات   Esc إيقاف مؤقت"
+  ],
+  "WASD Move   Mouse Look   Shift Sprint   F Jump": [
+    "WASD Движение   Мишка Поглед   Shift Спринт   F Скок",
+    "WASD Движение   Мышь Обзор   Shift Спринт   F Прыжок",
+    "WASD Déplacement   Souris Vue   Shift Course   F Saut",
+    "WASD حركة   الفأرة نظر   Shift ركض سريع   F قفز"
+  ],
+  "Graybox progression · temporary geometry": [
+    "Тестова прогресия · временна геометрия",
+    "Тестовая прогрессия · временная геометрия",
+    "Progression de test · géométrie temporaire",
+    "تقدم تجريبي · مجسمات مؤقتة"
+  ],
+  "OPEN LEDGE · safe fall reset": [
+    "ОТВОРЕН РЪБ · безопасно връщане при падане",
+    "ОТКРЫТЫЙ КРАЙ · безопасный возврат при падении",
+    "REBORD OUVERT · retour sécurisé après une chute",
+    "حافة مفتوحة · عودة آمنة عند السقوط"
+  ],
+  "Camera sensitivity": [
+    "Чувствителност на камерата",
+    "Чувствительность камеры",
+    "Sensibilité de la caméra",
+    "حساسية الكاميرا"
+  ],
+  "Text size (100 / 125 / 150%)": [
+    "Размер на текста (100 / 125 / 150%)",
+    "Размер текста (100 / 125 / 150%)",
+    "Taille du texte (100 / 125 / 150 %)",
+    "حجم النص (100 / 125 / 150%)"
+  ],
+  "Master volume": [
+    "Обща сила на звука",
+    "Общая громкость",
+    "Volume général",
+    "مستوى الصوت العام"
+  ],
+  "Effects volume": [
+    "Сила на звуковите ефекти",
+    "Громкость эффектов",
+    "Volume des effets",
+    "مستوى صوت المؤثرات"
+  ],
+  "Music volume": [
+    "Сила на музиката",
+    "Громкость музыки",
+    "Volume de la musique",
+    "مستوى صوت الموسيقى"
+  ],
+  "Menu volume": [
+    "Сила на звука в менюто",
+    "Громкость меню",
+    "Volume des menus",
+    "مستوى صوت القوائم"
+  ],
+  "Incoming damage (assist)": [
+    "Получавани щети (помощ)",
+    "Получаемый урон (помощь)",
+    "Dégâts reçus (aide)",
+    "الضرر المتلقى (مساعدة)"
+  ],
+  "Enemy attack tempo (assist)": [
+    "Скорост на вражеските атаки (помощ)",
+    "Темп атак врагов (помощь)",
+    "Cadence des attaques ennemies (aide)",
+    "وتيرة هجمات الأعداء (مساعدة)"
+  ],
+  "Animated menus": [
+    "Анимации в менюто",
+    "Анимация меню",
+    "Menus animés",
+    "قوائم متحركة"
+  ],
+  "Invert camera Y": [
+    "Обърни вертикалната камера",
+    "Инвертировать камеру по вертикали",
+    "Inverser l’axe vertical de la caméra",
+    "عكس حركة الكاميرا العمودية"
+  ],
+  "Low graphics · disable real-time shadows": [
+    "Ниска графика · изключва динамичните сенки",
+    "Низкая графика · отключает динамические тени",
+    "Graphismes réduits · désactive les ombres dynamiques",
+    "رسوم منخفضة · تعطيل الظلال الديناميكية"
+  ],
+  "Rebind selected action…": [
+    "Смени бутона за избраното действие…",
+    "Изменить кнопку выбранного действия…",
+    "Changer la touche de l’action sélectionnée…",
+    "تغيير زر الإجراء المحدد…"
+  ],
+  "Restore default settings and controls": [
+    "Възстанови началните настройки и управление",
+    "Восстановить исходные настройки и управление",
+    "Rétablir les paramètres et commandes par défaut",
+    "استعادة الإعدادات وأزرار التحكم الافتراضية"
+  ],
+  "Save settings and back": [
+    "Запази настройките и се върни",
+    "Сохранить настройки и вернуться",
+    "Enregistrer les paramètres et revenir",
+    "حفظ الإعدادات والرجوع"
+  ],
+  "Subtitles/text cues always on. Shake, flashes and motion blur are absent.": [
+    "Субтитрите и текстовите подсказки са винаги включени. Няма трептене на камерата, светкавици или замъгляване при движение.",
+    "Субтитры и текстовые подсказки всегда включены. Тряска камеры, вспышки и размытие движения отсутствуют.",
+    "Les sous-titres et indications textuelles sont toujours activés. Aucun tremblement de caméra, flash ou flou de mouvement.",
+    "الترجمة والإرشادات النصية مفعلة دائماً. لا يوجد اهتزاز للكاميرا أو ومضات أو ضبابية حركة."
+  ],
+  "Font licenses": [
+    "Лицензи на шрифтовете",
+    "Лицензии шрифтов",
+    "Licences des polices",
+    "تراخيص الخطوط"
+  ],
+  "Back to credits": [
+    "Обратно към авторите",
+    "Вернуться к авторам",
+    "Revenir aux crédits",
+    "الرجوع إلى الاعتمادات"
+  ],
+  "Original font license texts": [
+    "Оригинални лицензи на шрифтовете",
+    "Оригинальные лицензии шрифтов",
+    "Textes originaux des licences des polices",
+    "النصوص الأصلية لتراخيص الخطوط"
+  ],
+  "These legal texts are displayed in their original language.": [
+    "Правните текстове са показани на оригиналния им език.",
+    "Правовые тексты приведены на языке оригинала.",
+    "Ces textes juridiques sont présentés dans leur langue d’origine.",
+    "هذه النصوص القانونية معروضة بلغتها الأصلية."
+  ],
+  "Grave Hound": [
+    "Гробищна хрътка",
+    "Могильная гончая",
+    "Limier des Tombes",
+    "كلب المقابر"
+  ]
+}

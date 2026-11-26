@@ -1,0 +1,45 @@
+.godot/
+.tools/
+build/
+*.log
+
+# Local editor state, chat attachments and operating-system files.
+.codex/
+.agents/
+.codex-remote-attachments/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.py[cod]
+*.tmp
+*.bak
+*.dmp
+
+# Secrets, signing identities and player data never belong in source control.
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+**/export_credentials.cfg
+**/editor_settings-*.tres
+**/credentials.json
+**/session.json
+**/sessions.json
+**/settings.cfg
+**/userdata/
+**/user_data/
+**/saves/
+**/savegames/
+backend/supabase/.temp/
+backend/supabase/.branches/
+
+# These ZIPs duplicate the fully included, unpacked model/image folders.
+/art_exports/*.zip

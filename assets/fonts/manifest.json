@@ -1,0 +1,30 @@
+[
+  {
+    "source": "https://github.com/google/fonts",
+    "bytes": 109772,
+    "file": "BarlowSemiCondensed-SemiBold.ttf",
+    "sha256": "BD299F4BC5B44D30BE8D42E9BAD3A5DF7D66AF1CD55D0ED72A8B8916360A1424",
+    "license": "SIL OFL 1.1"
+  },
+  {
+    "source": "https://github.com/google/fonts",
+    "bytes": 125468,
+    "file": "Cinzel.ttf",
+    "sha256": "F4D83D34D1F6C741193E4ACF4B3DFF9531E5A67B6AA65228D00A7DB72A4E0F34",
+    "license": "SIL OFL 1.1"
+  },
+  {
+    "source": "https://github.com/google/fonts",
+    "bytes": 646340,
+    "file": "SourceSans3.ttf",
+    "sha256": "042FE2CC0B933E328410D7ACBD0AA6A1873DCA5AEF81875F4BC214B08825C7B9",
+    "license": "SIL OFL 1.1"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/elmessiri/ElMessiri%5Bwght%5D.ttf",
+    "bytes": 138664,
+    "file": "ElMessiri.ttf",
+    "sha256": "5d58d5259d2accccba39cffe12e1226e88b6afc5150e3605eb2a9c2fe06ccab0",
+    "license": "SIL OFL 1.1"
+  }
+]

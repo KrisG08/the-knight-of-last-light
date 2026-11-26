@@ -1,0 +1,96 @@
+{
+  "note": "Illustrative design fixture; convert authored definitions into typed Resources during implementation.",
+  "regions": [
+    "region.refuge",
+    "region.village",
+    "region.blackwood",
+    "region.order",
+    "region.peaks",
+    "region.citadel"
+  ],
+  "bosses": [
+    {
+      "id": "boss.gravedigger",
+      "region": "region.village",
+      "seal": "seal.burial"
+    },
+    {
+      "id": "boss.thorn_beast",
+      "region": "region.blackwood",
+      "seal": "seal.root"
+    },
+    {
+      "id": "boss.fallen_commander",
+      "region": "region.order",
+      "seal": "seal.oath"
+    },
+    {
+      "id": "boss.iron_warden",
+      "region": "region.peaks",
+      "seal": "seal.forge"
+    },
+    {
+      "id": "boss.maldrek",
+      "region": "region.citadel",
+      "seal": null
+    }
+  ],
+  "gates": [
+    {
+      "id": "gate.village_to_blackwood",
+      "from": "region.village",
+      "to": "region.blackwood",
+      "requires": [
+        "seal.burial.broken"
+      ]
+    },
+    {
+      "id": "gate.blackwood_to_order",
+      "from": "region.blackwood",
+      "to": "region.order",
+      "requires": [
+        "seal.root.broken"
+      ]
+    },
+    {
+      "id": "gate.order_to_peaks",
+      "from": "region.order",
+      "to": "region.peaks",
+      "requires": [
+        "seal.oath.broken"
+      ]
+    },
+    {
+      "id": "gate.peaks_to_citadel",
+      "from": "region.peaks",
+      "to": "region.citadel",
+      "requires": [
+        "seal.burial.broken",
+        "seal.root.broken",
+        "seal.oath.broken",
+        "seal.forge.broken"
+      ]
+    }
+  ],
+  "allies": [
+    "ally.oren",
+    "ally.lyra",
+    "ally.cael"
+  ],
+  "items": [
+    "weapon.knight_sword",
+    "shield.worn_shield"
+  ],
+  "checkpoints": [
+    {
+      "id": "checkpoint.refuge",
+      "region": "region.refuge",
+      "spawn": "spawn.refuge.safe"
+    },
+    {
+      "id": "checkpoint.village",
+      "region": "region.village",
+      "spawn": "spawn.village.safe"
+    }
+  ]
+}

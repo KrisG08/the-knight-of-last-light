@@ -1,0 +1,74 @@
+{
+  "Graphics quality": [
+    "Качество на графиката",
+    "Качество графики",
+    "Qualité graphique",
+    "جودة الرسومات"
+  ],
+  "3D resolution": [
+    "3D резолюция",
+    "Разрешение 3D",
+    "Résolution 3D",
+    "دقة العرض ثلاثي الأبعاد"
+  ],
+  "90/120 FPS are targets. Enable high refresh in phone display settings. Profile default lowers resolution for smoothness; Native screen prioritizes detail.": [
+    "90/120 FPS са цел. Включи висока честота на опресняване в настройките на телефона. Режимът според профила намалява резолюцията за плавност; екранната резолюция дава по-ясни детайли.",
+    "90/120 FPS — целевой показатель. Включите высокую частоту обновления в настройках телефона. Режим по профилю снижает разрешение ради плавности; режим экрана повышает чёткость.",
+    "90/120 FPS sont des objectifs. Activez un rafraîchissement élevé sur le téléphone. Le profil réduit la résolution pour la fluidité ; le mode natif privilégie les détails.",
+    "90/120 إطارًا في الثانية هدف. فعّل معدل تحديث مرتفعًا في إعدادات الهاتف. يقلل خيار حسب الإعداد الدقة للسلاسة؛ وتعطي دقة الشاشة الأولوية للتفاصيل."
+  ],
+  "Profile default": [
+    "Според профила",
+    "По профилю",
+    "Selon le profil",
+    "حسب الإعداد"
+  ],
+  "Native screen": [
+    "Екранна резолюция",
+    "Разрешение экрана",
+    "Résolution native",
+    "دقة الشاشة"
+  ],
+  "3D: %d × %d · Target: %d FPS": [
+    "3D: %d × %d · Цел: %d FPS",
+    "3D: %d × %d · Цель: %d FPS",
+    "3D : %d × %d · Cible : %d FPS",
+    "3D: %d × %d · الهدف: %d FPS"
+  ],
+  "High quality": [
+    "Високо качество",
+    "Высокое качество",
+    "Qualité élevée",
+    "جودة عالية"
+  ],
+  "Balanced": [
+    "Балансирано",
+    "Сбалансированное",
+    "Équilibré",
+    "متوازن"
+  ],
+  "Performance": [
+    "Плавност",
+    "Производительность",
+    "Fluidité",
+    "الأداء"
+  ],
+  "Frame limit": [
+    "Ограничение на кадрите",
+    "Ограничение кадров",
+    "Limite d’images",
+    "حد معدل الإطارات"
+  ],
+  "Show FPS": [
+    "Показвай FPS",
+    "Показывать FPS",
+    "Afficher les FPS",
+    "إظهار معدل الإطارات"
+  ],
+  "High quality adds sharper detail and shadows. Choose Balanced or Performance if movement is not smooth.": [
+    "Високото качество добавя по-ясни детайли и сенки. Избери „Балансирано“ или „Плавност“, ако движението не е гладко.",
+    "Высокое качество добавляет чёткие детали и тени. Выберите сбалансированный режим или производительность, если движение недостаточно плавное.",
+    "La qualité élevée améliore les détails et les ombres. Choisissez Équilibré ou Fluidité si les mouvements sont saccadés.",
+    "تضيف الجودة العالية تفاصيل أوضح وظلالاً. اختر الوضع المتوازن أو الأداء إذا لم تكن الحركة سلسة."
+  ]
+}

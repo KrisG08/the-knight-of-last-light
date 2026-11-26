@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "status": "preproduction_waiting_for_video_service_access",
+  "working_title": "The Last Lantern",
+  "target_duration_seconds": 80,
+  "aspect_ratio": "16:9",
+  "languages": ["en", "bg", "ru", "fr", "ar"],
+  "continuity": {
+    "character_baseline": "v0.5.64 front/rear paint and existing geometry",
+    "architecture": "Current authored Eclipse Citadel terraces, conical-roof towers, stair approach and keep; actual Ashen Village and Lantern Refuge guides",
+    "palette": "Near-black indigo and violet atmosphere; restrained amber lanterns; naturally weathered steel, ivory cloth, olive and brown leather",
+    "curse": "Organic violet threads and storm fronts; visible casting cause and physical consequence; no flat neon circle",
+    "knight": "Closed gray-steel helmet with aged-brass trim; ivory sun tabard; brown belts; existing elongated steel shield and gold-hilt sword; no invented cape or uncovered face",
+    "maldrek": "Same aged pale face, silver-gray hair/goatee, charcoal/plum robes, silver embroidery/chains; existing dark forked staff and violet crystal",
+    "narrative": "Deliberately hostile wizard draining vitality through four seals and one artifact; failed expedition; survivors and refuge; no new gameplay gate, immunity power or moral reversal"
+  },
+  "shots": [
+    {
+      "id": "01-citadel", "start": 0, "duration": 10,
+      "keyframe": "keyframes/01-citadel.png", "clip": "clips/01-citadel.mp4",
+      "action": "Cloud banks cross the moon; pine tips bend; the same terraced citadel emerges through fog. Faint violet haze gathers at the highest keep.",
+      "camera": "Slow aerial push toward the central stair axis; natural parallax; no building morphing.",
+      "sound": "Low wind, one distant bell, restrained low strings; no spoken text baked into video.",
+      "narration": {
+        "en": "Four ancient seals once guarded the kingdom. Above them stood the citadel, watched over by the Order.",
+        "bg": "Някога четири древни печата закриляха кралството. Над тях се издигаше цитаделата, пазена от Ордена.",
+        "ru": "Некогда четыре древние печати защищали королевство. Над ними возвышалась цитадель под охраной Ордена.",
+        "fr": "Quatre sceaux antiques protégeaient autrefois le royaume. Au-dessus d'eux se dressait la citadelle, gardée par l'Ordre.",
+        "ar": "كانت أربعة أختام قديمة تحمي المملكة. وفوقها قامت القلعة التي كان فرسان المملكة يحرسونها."
+      }
+    },
+    {
+      "id": "02-binding", "start": 10, "duration": 10,
+      "keyframe": "keyframes/02-binding.png", "clip": "clips/02-binding.mp4",
+      "action": "Maldrek closes his outstretched fingers slowly; four violet threads tighten into the brass-caged anchor; candle flames lean away.",
+      "camera": "Controlled shallow arc toward his face and the anchor, keeping the staff and hand anatomy stable.",
+      "sound": "Metal resonance, low inward breath of magic, four subtle pulses.",
+      "narration": {
+        "en": "Maldrek seized it and bound the seals to an artifact. He drained the kingdom's life to prolong his reign.",
+        "bg": "Малдрек я превзе и обвърза печатите с артефакт. Започна да източва живота на кралството, за да продължи своето владичество.",
+        "ru": "Малдрек захватил её и связал печати с артефактом. Он вытягивал из королевства жизнь, чтобы продлить своё правление.",
+        "fr": "Maldrek s'en empara et lia les sceaux à un artefact. Il puisait dans la vie du royaume pour prolonger son règne.",
+        "ar": "استولى مالدريك على القلعة، وربط الأختام بقطعة أثرية. وراح يمتص حياة المملكة ليطيل حكمه."
+      }
+    },
+    {
+      "id": "03-village", "start": 20, "duration": 10,
+      "keyframe": "keyframes/03-village.png", "clip": "clips/03-village.mp4",
+      "action": "Wind lifts dead leaves along the actual half-timbered village street. A lantern gutters; a barred door closes behind distant captive silhouettes.",
+      "camera": "Low tracking move past the well toward iron bars; practical foreground occlusion and atmospheric depth.",
+      "sound": "Shutter creak, dry leaves, door slam, distant chain.",
+      "narration": {
+        "en": "Crops withered. The dead rose. Those who survived were dragged behind iron doors.",
+        "bg": "Посевите изсъхнаха. Мъртвите се надигнаха. Оцелелите бяха отвлечени зад железни врати.",
+        "ru": "Посевы увяли. Мёртвые восстали. Уцелевших уволокли за железные двери.",
+        "fr": "Les récoltes se flétrirent. Les morts se relevèrent. Les survivants furent emmenés derrière des portes de fer.",
+        "ar": "ذبلت المحاصيل. ونهض الموتى. وسيق الناجون خلف أبواب من حديد."
+      }
+    },
+    {
+      "id": "04-march", "start": 30, "duration": 10,
+      "keyframe": "keyframes/04-march.png", "clip": "clips/04-march.mp4",
+      "action": "The exact sun-tabard knight and two distant Order knights walk with weight along the current wet forest road. Cloth, hands, knees and shoulders move naturally.",
+      "camera": "Side-front tracking at chest height with a gentle push toward the protagonist; no static poses or skating feet.",
+      "sound": "Armored footsteps, leather and chainmail; distant thunder grows.",
+      "narration": {
+        "en": "Your master led the Order down the old forest road. You believed you could still reach the citadel.",
+        "bg": "Твоят наставник поведе Ордена по стария горски път. Вярваше, че още можете да стигнете цитаделата.",
+        "ru": "Твой наставник повёл Орден по старой лесной дороге. Ты верил, что до цитадели ещё можно добраться.",
+        "fr": "Ton maître mena l'Ordre sur l'ancienne route forestière. Tu croyais encore pouvoir atteindre la citadelle.",
+        "ar": "قاد معلمك الفرسان عبر طريق الغابة القديم. وكنت تظن أن بلوغ القلعة ما زال ممكنا."
+      }
+    },
+    {
+      "id": "05-casting", "start": 40, "duration": 10,
+      "keyframe": "keyframes/05-casting.png", "clip": "clips/05-casting.mp4",
+      "action": "Maldrek plants his feet, raises the same staff and thrusts his free hand outward. Violet light travels visibly from the anchor/staff into the storm, with real hair and sleeve movement.",
+      "camera": "Low three-quarter arc, brief push on his deliberate gesture, then widen to reveal the storm responding.",
+      "sound": "Rising pressure, staff impact and sharp release; no giant flat ring.",
+      "narration": {
+        "en": "Maldrek saw you coming. He raised his staff, and the curse tore open the sky.",
+        "bg": "Малдрек ви видя. Вдигна жезъла си — и проклятието разкъса небето.",
+        "ru": "Малдрек увидел вас. Он поднял посох, и проклятие разорвало небо.",
+        "fr": "Maldrek vous vit arriver. Il leva son bâton, et la malédiction déchira le ciel.",
+        "ar": "رآكم مالدريك قادمين. رفع عصاه، فمزقت اللعنة السماء."
+      }
+    },
+    {
+      "id": "06-fall", "start": 50, "duration": 10,
+      "keyframe": "keyframes/06-fall.png", "clip": "clips/06-fall.mp4",
+      "action": "Violet wind strikes the forest road. The protagonist braces behind his actual shield, drops to one knee and reaches toward a falling armored companion; both remain anatomically coherent, no gore.",
+      "camera": "Close shoulder-level track with restrained impact shake, then dip with the reaching hand; motivated occlusion to dark at the end.",
+      "sound": "Shield crack, branch snap, two weighted falls; abrupt muffled silence.",
+      "narration": {
+        "en": "Shields shattered. Your companions fell. You reached for a fallen knight, but the darkness took him.",
+        "bg": "Щитовете се пръснаха. Другарите ти паднаха. Протегна ръка към един от тях, но мракът го погълна.",
+        "ru": "Щиты раскололись. Твои товарищи пали. Ты протянул руку упавшему рыцарю, но тьма поглотила его.",
+        "fr": "Les boucliers se brisèrent. Tes compagnons tombèrent. Tu tendis la main vers l'un d'eux, mais les ténèbres l'emportèrent.",
+        "ar": "تحطمت الدروع وسقط رفاقك. مددت يدك إلى أحدهم، لكن الظلام ابتلعه."
+      }
+    },
+    {
+      "id": "07-survivor", "start": 60, "duration": 10,
+      "keyframe": "keyframes/07-survivor.png", "clip": "clips/07-survivor.mp4",
+      "action": "The same knight exhales, grips damp earth with one gauntlet and pushes from the ground onto one knee. The visor stays closed. A distant warm lantern catches on his helmet.",
+      "camera": "Low close view of the grounded hand, eased rise to the visor and a rack focus toward the lantern.",
+      "sound": "Breath through visor, soft armor scrape, a faint lantern rattle.",
+      "narration": {
+        "en": "You woke among broken banners. Beyond the silent trees, one lantern was still burning.",
+        "bg": "Събуди се сред пречупени знамена. Отвъд притихналите дървета още гореше един фенер.",
+        "ru": "Ты очнулся среди сломанных знамён. За безмолвными деревьями всё ещё горел один фонарь.",
+        "fr": "Tu t'éveillas parmi des bannières brisées. Au-delà des arbres silencieux, une lanterne brûlait encore.",
+        "ar": "استيقظت بين الرايات المحطمة. وخلف الأشجار الصامتة، كان مصباح واحد لا يزال مشتعلا."
+      }
+    },
+    {
+      "id": "08-lantern", "start": 70, "duration": 10,
+      "keyframe": "keyframes/08-lantern.png", "clip": "clips/08-lantern.mp4",
+      "action": "The knight stands and takes a first weighted step along the actual refuge approach. Wind moves the ivory tabard, grass and branches; one amber lantern pulls attention down the forest path.",
+      "camera": "Move from three-quarter visor close view to over-shoulder road view, ending aligned with the current new-journey spawn direction; gentle fade to gameplay loading.",
+      "sound": "First warmer musical phrase, wind softens, one grounded footstep.",
+      "narration": {
+        "en": "A ruined chapel waits beyond the trees. Find the other survivors. You cannot reclaim this kingdom alone.",
+        "bg": "Отвъд гората те чака разрушен параклис. Намери другите оцелели. Не можеш да си върнеш това кралство сам.",
+        "ru": "За деревьями ждёт разрушенная часовня. Найди остальных выживших. В одиночку это королевство не вернуть.",
+        "fr": "Une chapelle en ruine t'attend au-delà des arbres. Retrouve les autres survivants. Tu ne peux reconquérir ce royaume seul.",
+        "ar": "ينتظرك مصلى متهدم خلف الأشجار. ابحث عن بقية الناجين. لن تستعيد هذه المملكة وحدك."
+      }
+    }
+  ],
+  "delivery_requirements": [
+    "Actual temporally generated video, not animated still-image pans; verify subject and environmental motion",
+    "No baked dialogue, narration, title or subtitles; retain existing offline five-language voice and native captions",
+    "Preserve current release and 40-second intro until all new clips and timing are accepted",
+    "Do not invent footage, report 60 FPS by duplicating frames or promise measured phone performance",
+    "Check hands, faces, emblem, equipment, architecture, continuity and camera motion on every shot",
+    "Create 1080p runtime encodes only after a native Godot decode/pacing test; larger masters stay outside runtime",
+    "Keep Skip, cancellation, safe camp handoff and language changes working; old saves unchanged",
+    "No purchase, subscription or public upload without specific owner authorization"
+  ]
+}

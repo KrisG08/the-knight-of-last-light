@@ -1,0 +1,396 @@
+{
+  "version": 1,
+  "languages": [
+    "en",
+    "bg",
+    "ru",
+    "fr",
+    "ar"
+  ],
+  "lines": {
+    "0df822def815d7797d7b": {
+      "source": "Four ancient seals once guarded the kingdom. Above them stood the citadel, watched over by the Order.",
+      "speaker": "narrator",
+      "clips": {
+        "bg": "res://art/cinematics/opening-v6/narration/bg/0df822def815d7797d7b.ogg",
+        "en": "res://art/cinematics/opening-v6/narration/en/0df822def815d7797d7b.ogg",
+        "fr": "res://art/cinematics/opening-v6/narration/fr/0df822def815d7797d7b.ogg",
+        "ru": "res://art/cinematics/opening-v6/narration/ru/0df822def815d7797d7b.ogg",
+        "ar": "res://art/cinematics/opening-v6/narration/ar/0df822def815d7797d7b.ogg"
+      },
+      "metadata": {
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Някога четири древни печата закриляха кралството. Над тях се издигаше цитаделата, пазена от Ордена.",
+          "seconds": 8.52,
+          "tempo": 1.0,
+          "sha256": "3fae9f6d4c97d86e7d587651e76c1592fc859b2743aaeedb0ae4856576864503"
+        },
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Four ancient seals once guarded the kingdom. Above them stood the citadel, watched over by the Order.",
+          "seconds": 7.51,
+          "tempo": 1.0,
+          "sha256": "d871020a62405899d45d1a4df843db81a7b76b7ed8779787f101a0f68e67c705"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Quatre sceaux antiques protégeaient autrefois le royaume. Au-dessus d'eux se dressait la citadelle, gardée par l'Ordre.",
+          "seconds": 7.9,
+          "tempo": 1.0,
+          "sha256": "2c15eb2604aa5f1e9f6b75ec713a5942f86929d7100a49b7dcbae8ba96ed1162"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Некогда четыре древние печати защищали королевство. Над ними возвышалась цитадель под охраной Ордена.",
+          "seconds": 8.74,
+          "tempo": 1.0,
+          "sha256": "da3b7cfeecb93afe5b2ad31bc6806330e0be7f11e2af1da035f1948f8fe8226f"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "كانت أربعة أختام قديمة تحمي المملكة. وفوقها قامت القلعة التي كان فرسان المملكة يحرسونها.",
+          "seconds": 9.0,
+          "tempo": 1.007778,
+          "sha256": "4b8de159f8490d3d09ad0509509c2c5d70c092d071b3c32459913ab5498e9898"
+        }
+      }
+    },
+    "3e36a8fdecf8f611c541": {
+      "source": "Maldrek seized it and bound the seals to an artifact. He drained the kingdom's life to prolong his reign.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://art/cinematics/opening-v6/narration/en/3e36a8fdecf8f611c541.ogg",
+        "bg": "res://art/cinematics/opening-v6/narration/bg/3e36a8fdecf8f611c541.ogg",
+        "fr": "res://art/cinematics/opening-v6/narration/fr/3e36a8fdecf8f611c541.ogg",
+        "ar": "res://art/cinematics/opening-v6/narration/ar/3e36a8fdecf8f611c541.ogg",
+        "ru": "res://art/cinematics/opening-v6/narration/ru/3e36a8fdecf8f611c541.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Maldrek seized it and bound the seals to an artifact. He drained the kingdom's life to prolong his reign.",
+          "seconds": 7.87,
+          "tempo": 1.0,
+          "sha256": "5ea066f30d09e5d5e440851a8722d84f55fab8a2c017823db41d77322843f813"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Малдрек я превзе и обвърза печатите с артефакт. Започна да източва живота на кралството, за да продължи своето владичество.",
+          "seconds": 9.0,
+          "tempo": 1.053333,
+          "sha256": "5f003da0c61248c75d3927c963a09acd7af34fe05f6ed57fbae57062e3cd548f"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Maldrek s'en empara et lia les sceaux à un artefact. Il puisait dans la vie du royaume pour prolonger son règne.",
+          "seconds": 7.7,
+          "tempo": 1.0,
+          "sha256": "0a47ea57e10acd20f19d1fbe280da0a46f9b9bea8529575609f1e1918e2b6d80"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "استولى مالدريك على القلعة، وربط الأختام بقطعة أثرية. وراح يمتص حياة المملكة ليطيل حكمه.",
+          "seconds": 9.0,
+          "tempo": 1.072222,
+          "sha256": "c3b65fe0e44510263d8d8fcda1aa9b416cfcaedebd0324dfd70a56584d4fa6ff"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Малдрек захватил её и связал печати с артефактом. Он вытягивал из королевства жизнь, чтобы продлить своё правление.",
+          "seconds": 9.0,
+          "tempo": 1.106667,
+          "sha256": "5c66cbf70b47255644735d0927982dcb24d50df59c8a05cd4c70dfa723b757c5"
+        }
+      }
+    },
+    "7b89c0038c8b602a4740": {
+      "source": "Crops withered. The dead rose. Those who survived were dragged behind iron doors.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://art/cinematics/opening-v6/narration/en/7b89c0038c8b602a4740.ogg",
+        "bg": "res://art/cinematics/opening-v6/narration/bg/7b89c0038c8b602a4740.ogg",
+        "fr": "res://art/cinematics/opening-v6/narration/fr/7b89c0038c8b602a4740.ogg",
+        "ru": "res://art/cinematics/opening-v6/narration/ru/7b89c0038c8b602a4740.ogg",
+        "ar": "res://art/cinematics/opening-v6/narration/ar/7b89c0038c8b602a4740.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Crops withered. The dead rose. Those who survived were dragged behind iron doors.",
+          "seconds": 7.87,
+          "tempo": 1.0,
+          "sha256": "805699ca0de1d06c08c9cc77f1ce1138a422f8a8fa121a728b3f8791fd683e26"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Посевите изсъхнаха. Мъртвите се надигнаха. Оцелелите бяха отвлечени зад железни врати.",
+          "seconds": 8.42,
+          "tempo": 1.0,
+          "sha256": "0e643306eca13b0ed95be61828eaa82b34cc5f74322a11f66d6d339253f0e06c"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Les récoltes se flétrirent. Les morts se relevèrent. Les survivants furent emmenés derrière des portes de fer.",
+          "seconds": 8.62,
+          "tempo": 1.0,
+          "sha256": "c3e010584d0ebcb66e83570472b956ee03939778a63b85ce7f443f6cff1355af"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Посевы увяли. Мёртвые восстали. Уцелевших уволокли за железные двери.",
+          "seconds": 8.54,
+          "tempo": 1.0,
+          "sha256": "fff4b55dc358d6ce66940e93b39fa47e723c45b4bf141800110f9d727e3e37b7"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "ذبلت المحاصيل. ونهض الموتى. وسيق الناجون خلف أبواب من حديد.",
+          "seconds": 8.09,
+          "tempo": 1.0,
+          "sha256": "c8d67bc2c5983bc71573297fdb4f785424c3a0b6e25b4d27f68b908e543b7df2"
+        }
+      }
+    },
+    "e8dd86ecedbf52f0d2aa": {
+      "source": "Your master led the Order down the old forest road. You believed you could still reach the citadel.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://art/cinematics/opening-v6/narration/en/e8dd86ecedbf52f0d2aa.ogg",
+        "bg": "res://art/cinematics/opening-v6/narration/bg/e8dd86ecedbf52f0d2aa.ogg",
+        "fr": "res://art/cinematics/opening-v6/narration/fr/e8dd86ecedbf52f0d2aa.ogg",
+        "ru": "res://art/cinematics/opening-v6/narration/ru/e8dd86ecedbf52f0d2aa.ogg",
+        "ar": "res://art/cinematics/opening-v6/narration/ar/e8dd86ecedbf52f0d2aa.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Your master led the Order down the old forest road. You believed you could still reach the citadel.",
+          "seconds": 7.2,
+          "tempo": 1.0,
+          "sha256": "afdb1be3addee6e85418362762ac06e437376844be82254a61a686d963bcee0d"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Твоят наставник поведе Ордена по стария горски път. Вярваше, че още можете да стигнете цитаделата.",
+          "seconds": 8.33,
+          "tempo": 1.0,
+          "sha256": "4b05367378ab87b8aec8ee471463381194238d59037c6c2dcc5ae4edbdb6c1e2"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Ton maître mena l'Ordre sur l'ancienne route forestière. Tu croyais encore pouvoir atteindre la citadelle.",
+          "seconds": 7.13,
+          "tempo": 1.0,
+          "sha256": "0fe1a7b7626dd5a438f3ceff7c7eec4232fd9c27e5a702f2553f83a835475302"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Твой наставник повёл Орден по старой лесной дороге. Ты верил, что до цитадели ещё можно добраться.",
+          "seconds": 8.38,
+          "tempo": 1.0,
+          "sha256": "668a3df70421109cda6bc4343026ebc28ad4920e449c00a1b9f38fef029b60d9"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "قاد معلمك الفرسان عبر طريق الغابة القديم. وكنت تظن أن بلوغ القلعة ما زال ممكنا.",
+          "seconds": 8.5,
+          "tempo": 1.0,
+          "sha256": "4abf69bffee0c7ed55aba933e5cefcdf0be3c5234ce084a026fd48e1fe579639"
+        }
+      }
+    },
+    "d2c94de1b8ff2ba4a111": {
+      "source": "Maldrek saw you coming. He raised his staff, and the curse tore open the sky.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://art/cinematics/opening-v6/narration/en/d2c94de1b8ff2ba4a111.ogg",
+        "bg": "res://art/cinematics/opening-v6/narration/bg/d2c94de1b8ff2ba4a111.ogg",
+        "fr": "res://art/cinematics/opening-v6/narration/fr/d2c94de1b8ff2ba4a111.ogg",
+        "ru": "res://art/cinematics/opening-v6/narration/ru/d2c94de1b8ff2ba4a111.ogg",
+        "ar": "res://art/cinematics/opening-v6/narration/ar/d2c94de1b8ff2ba4a111.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Maldrek saw you coming. He raised his staff, and the curse tore open the sky.",
+          "seconds": 6.86,
+          "tempo": 1.0,
+          "sha256": "537a3332d0dfedfd80497e0cb5a3378c0efdd324377734a155bfca5e4ecc7051"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Малдрек ви видя. Вдигна жезъла си — и проклятието разкъса небето.",
+          "seconds": 6.43,
+          "tempo": 1.0,
+          "sha256": "58ce3f89d525a455f6eb60e157fb730a6d28e23754117c3117032f7191e77982"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Maldrek vous vit arriver. Il leva son bâton, et la malédiction déchira le ciel.",
+          "seconds": 6.74,
+          "tempo": 1.0,
+          "sha256": "999a39c3023152fd0df06223b2366b19365c2f1eceab077a87254dabf6f802be"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Малдрек увидел вас. Он поднял посох, и проклятие разорвало небо.",
+          "seconds": 6.96,
+          "tempo": 1.0,
+          "sha256": "ecd9dbfd9651e61656d27be1a4a2b26c6281c2ec07ea8766a4b4a3813d55d6f9"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "رآكم مالدريك قادمين. رفع عصاه، فمزقت اللعنة السماء.",
+          "seconds": 7.3,
+          "tempo": 1.0,
+          "sha256": "c5188617c46caf09bf1fa670fc3bc3695e0aa737096fefd82e9589a37ad9dbfe"
+        }
+      }
+    },
+    "1f6007bb79d1a9dbedc1": {
+      "source": "Shields shattered. Your companions fell. You reached for a fallen knight, but the darkness took him.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://art/cinematics/opening-v6/narration/en/1f6007bb79d1a9dbedc1.ogg",
+        "bg": "res://art/cinematics/opening-v6/narration/bg/1f6007bb79d1a9dbedc1.ogg",
+        "fr": "res://art/cinematics/opening-v6/narration/fr/1f6007bb79d1a9dbedc1.ogg",
+        "ru": "res://art/cinematics/opening-v6/narration/ru/1f6007bb79d1a9dbedc1.ogg",
+        "ar": "res://art/cinematics/opening-v6/narration/ar/1f6007bb79d1a9dbedc1.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "Shields shattered. Your companions fell. You reached for a fallen knight, but the darkness took him.",
+          "seconds": 8.5,
+          "tempo": 1.0,
+          "sha256": "dc021c235817ea164510e6729386b512ba40c37327d7f38f6d69060d7c4f6708"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Щитовете се пръснаха. Другарите ти паднаха. Протегна ръка към един от тях, но мракът го погълна.",
+          "seconds": 8.9,
+          "tempo": 1.0,
+          "sha256": "2ab28c775500c26b938f7928d54efeb3df2dfa6692403f4c2ad2057d54026c1c"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Les boucliers se brisèrent. Tes compagnons tombèrent. Tu tendis la main vers l'un d'eux, mais les ténèbres l'emportèrent.",
+          "seconds": 9.0,
+          "tempo": 1.011111,
+          "sha256": "d2b7e64f1e58ff8f9b80bd865c8c64e9da889b7a6fa512c97e76cfe4066c4269"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Щиты раскололись. Твои товарищи пали. Ты протянул руку упавшему рыцарю, но тьма поглотила его.",
+          "seconds": 9.0,
+          "tempo": 1.114444,
+          "sha256": "8cc2c2aca206b11f7354cf98a7e5bd87068a156aeda06a052627d046a8d22766"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "تحطمت الدروع وسقط رفاقك. مددت يدك إلى أحدهم، لكن الظلام ابتلعه.",
+          "seconds": 8.14,
+          "tempo": 1.0,
+          "sha256": "770a79102d8341d61e8a8550a3cd067842c95e8093209af8a01c76cccd6096e6"
+        }
+      }
+    },
+    "d5e64612ea6c61ea2796": {
+      "source": "You woke among broken banners. Beyond the silent trees, one lantern was still burning.",
+      "speaker": "narrator",
+      "clips": {
+        "en": "res://art/cinematics/opening-v6/narration/en/d5e64612ea6c61ea2796.ogg",
+        "bg": "res://art/cinematics/opening-v6/narration/bg/d5e64612ea6c61ea2796.ogg",
+        "fr": "res://art/cinematics/opening-v6/narration/fr/d5e64612ea6c61ea2796.ogg",
+        "ru": "res://art/cinematics/opening-v6/narration/ru/d5e64612ea6c61ea2796.ogg",
+        "ar": "res://art/cinematics/opening-v6/narration/ar/d5e64612ea6c61ea2796.ogg"
+      },
+      "metadata": {
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "You woke among broken banners. Beyond the silent trees, one lantern was still burning.",
+          "seconds": 7.1,
+          "tempo": 1.0,
+          "sha256": "2c553872a47e232e0edde8d29f9428bab6ddb1a6e2cf56e1bf22e7ae832edec8"
+        },
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Събуди се сред пречупени знамена. Отвъд притихналите дървета още гореше един фенер.",
+          "seconds": 7.3,
+          "tempo": 1.0,
+          "sha256": "891c8a3d5e1a8e296bbdd95c0671b91edac34d47af08f9feeed62b060fc0414c"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Tu t'éveillas parmi des bannières brisées. Au-delà des arbres silencieux, une lanterne brûlait encore.",
+          "seconds": 7.27,
+          "tempo": 1.0,
+          "sha256": "9125fd0c6e9eab4ebe40ef2de406bbdb3cede9dae0ef26375e84e959d9da6c2d"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "Ты очнулся среди сломанных знамён. За безмолвными деревьями всё ещё горел один фонарь.",
+          "seconds": 7.82,
+          "tempo": 1.0,
+          "sha256": "733269c863fd51089d083d5d906d82f95e073ab7d098f6c35884aa3155f7e3f3"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "استيقظت بين الرايات المحطمة. وخلف الأشجار الصامتة، كان مصباح واحد لا يزال مشتعلا.",
+          "seconds": 9.0,
+          "tempo": 1.037778,
+          "sha256": "26d8055e37c84e2d95327b2e2eaa4986caa3c3f3d39becbd28518c628b02f934"
+        }
+      }
+    },
+    "09d30ac65ef74037e854": {
+      "source": "A ruined chapel waits beyond the trees. Find the other survivors. You cannot reclaim this kingdom alone.",
+      "speaker": "narrator",
+      "clips": {
+        "bg": "res://art/cinematics/opening-v6/narration/bg/09d30ac65ef74037e854.ogg",
+        "en": "res://art/cinematics/opening-v6/narration/en/09d30ac65ef74037e854.ogg",
+        "fr": "res://art/cinematics/opening-v6/narration/fr/09d30ac65ef74037e854.ogg",
+        "ru": "res://art/cinematics/opening-v6/narration/ru/09d30ac65ef74037e854.ogg",
+        "ar": "res://art/cinematics/opening-v6/narration/ar/09d30ac65ef74037e854.ogg"
+      },
+      "metadata": {
+        "bg": {
+          "voice": "bg-BG-BorislavNeural",
+          "text": "Отвъд гората те чака разрушен параклис. Намери другите оцелели. Не можеш да си върнеш това кралство сам.",
+          "seconds": 9.0,
+          "tempo": 1.047778,
+          "sha256": "bd01e8821094182deb172302c3e64dc3eb8789a719e1d452730d3f5ab62f7e83"
+        },
+        "en": {
+          "voice": "en-GB-RyanNeural",
+          "text": "A ruined chapel waits beyond the trees. Find the other survivors. You cannot reclaim this kingdom alone.",
+          "seconds": 9.0,
+          "tempo": 1.007778,
+          "sha256": "fcd89853c24bbaf3efba439bc9a7817cac4ad918641b91feb88bfd71a78f5080"
+        },
+        "fr": {
+          "voice": "fr-FR-HenriNeural",
+          "text": "Une chapelle en ruine t'attend au-delà des arbres. Retrouve les autres survivants. Tu ne peux reconquérir ce royaume seul.",
+          "seconds": 9.0,
+          "tempo": 1.007778,
+          "sha256": "e0fbedaab907f664a1eb62dfa3695670d59dbbf987692be53ec0ee07b107434f"
+        },
+        "ru": {
+          "voice": "ru-RU-SvetlanaNeural",
+          "text": "За деревьями ждёт разрушенная часовня. Найди остальных выживших. В одиночку это королевство не вернуть.",
+          "seconds": 9.0,
+          "tempo": 1.146667,
+          "sha256": "31a72e4d904ea406d0f765a6366253d5d77080e08b309057a893d46375c19214"
+        },
+        "ar": {
+          "voice": "ar-EG-ShakirNeural",
+          "text": "ينتظرك مصلى متهدم خلف الأشجار. ابحث عن بقية الناجين. لن تستعيد هذه المملكة وحدك.",
+          "seconds": 9.0,
+          "tempo": 1.122222,
+          "sha256": "2397190d1b01a7474f94c06828f801ae2caf581a897bd46d8604a11a59937fde"
+        }
+      }
+    }
+  }
+}

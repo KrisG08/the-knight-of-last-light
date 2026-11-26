@@ -1,0 +1,795 @@
+[
+    {
+        "id":  "grey_plaster_02",
+        "authors":  {
+                        "Rob Tuytel":  "All"
+                    },
+        "source":  "https://polyhaven.com/a/grey_plaster_02",
+        "files":  [
+                      {
+                          "path":  "Diffuse.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_plaster_02/grey_plaster_02_diff_2k.jpg",
+                          "md5":  "416e8ab093cb28128b8ecc0c1439e927",
+                          "sha256":  "2094A17962B352299D8E6B01848ACF2496DEED0C283F96FDB373128334356D8E",
+                          "bytes":  3305310
+                      },
+                      {
+                          "path":  "nor_gl.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_plaster_02/grey_plaster_02_nor_gl_2k.jpg",
+                          "md5":  "a45e547c197eb311423460225d8e616b",
+                          "sha256":  "CAB8E86D685FD306868B838700FFB02E876CA8D322E6DD7DEB5A93E3CDAD366C",
+                          "bytes":  2099645
+                      },
+                      {
+                          "path":  "Rough.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_plaster_02/grey_plaster_02_rough_2k.jpg",
+                          "md5":  "7fd195f6cf4002e7ce4956c7e657ad0b",
+                          "sha256":  "44692ABCFA4CB15D18322DC3369751AFC733FA8A056200ACB7D6B57F0B97CC3B",
+                          "bytes":  2663781
+                      }
+                  ],
+        "resolution":  "2k",
+        "license_url":  "https://polyhaven.com/license",
+        "license":  "CC0-1.0"
+    },
+    {
+        "id":  "grey_roof_tiles",
+        "authors":  {
+                        "Rob Tuytel":  "All"
+                    },
+        "source":  "https://polyhaven.com/a/grey_roof_tiles",
+        "files":  [
+                      {
+                          "path":  "Diffuse.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_roof_tiles/grey_roof_tiles_diff_2k.jpg",
+                          "md5":  "304912638959851b052610a992e05274",
+                          "sha256":  "F0CCDDB07C8B21CD7825FD2C4CDF04CFF23EC9FC52A92578122036CCF22A8A90",
+                          "bytes":  2039152
+                      },
+                      {
+                          "path":  "nor_gl.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_roof_tiles/grey_roof_tiles_nor_gl_2k.jpg",
+                          "md5":  "6d1ef876fc9750d81c8c8f6008ca0317",
+                          "sha256":  "E91134466A2AEC440EAE42CCEF20F7055D87BF8CAAC208555EB1F069578EB29A",
+                          "bytes":  1504796
+                      },
+                      {
+                          "path":  "Rough.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_roof_tiles/grey_roof_tiles_rough_2k.jpg",
+                          "md5":  "b726b64fb47ae1be160e5d5d2073aed0",
+                          "sha256":  "404D04CFDB77F2537D5CF4F9249BD7C8D265A303C73B7BF362AF1F109C88299C",
+                          "bytes":  1009346
+                      }
+                  ],
+        "resolution":  "2k",
+        "license_url":  "https://polyhaven.com/license",
+        "license":  "CC0-1.0"
+    },
+    {
+        "id":  "dark_wooden_planks",
+        "authors":  {
+                        "Amal Kumar":  "All"
+                    },
+        "source":  "https://polyhaven.com/a/dark_wooden_planks",
+        "files":  [
+                      {
+                          "path":  "Diffuse.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dark_wooden_planks/dark_wooden_planks_diff_2k.jpg",
+                          "md5":  "e6ae2fe585184c16343c56b833eddbf8",
+                          "sha256":  "527FA684C78D0A3B4FBFA87B9E2B48691215FCAC8AF0BF79FC6E01CEFB4C4647",
+                          "bytes":  2884395
+                      },
+                      {
+                          "path":  "nor_gl.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dark_wooden_planks/dark_wooden_planks_nor_gl_2k.jpg",
+                          "md5":  "c7b2e77045b0983cd7c9c408c0361a59",
+                          "sha256":  "047941A8E483D941ABF6562270ABD2C91D30D65E0A339FCA0B1D3DF125E92154",
+                          "bytes":  2930852
+                      },
+                      {
+                          "path":  "Rough.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dark_wooden_planks/dark_wooden_planks_rough_2k.jpg",
+                          "md5":  "9999def4fb6e250016bb21e2d4625a55",
+                          "sha256":  "FB11F1EEE7A982DA0272D38695097A1F4C2047BD21EAE71361FDCB6D7723C0ED",
+                          "bytes":  2737535
+                      }
+                  ],
+        "resolution":  "2k",
+        "license_url":  "https://polyhaven.com/license",
+        "license":  "CC0-1.0"
+    },
+    {
+        "id":  "cobblestone_floor_02",
+        "authors":  {
+                        "Rob Tuytel":  "All"
+                    },
+        "source":  "https://polyhaven.com/a/cobblestone_floor_02",
+        "files":  [
+                      {
+                          "path":  "Diffuse.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_floor_02/cobblestone_floor_02_diff_2k.jpg",
+                          "md5":  "7d291e254066b9dc45778dd103714019",
+                          "sha256":  "1A2D1F21CCFF0F70CD181C28F529CE040C123B5C605CC0069F26450040BD6B40",
+                          "bytes":  915386
+                      },
+                      {
+                          "path":  "nor_gl.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_floor_02/cobblestone_floor_02_nor_gl_2k.jpg",
+                          "md5":  "abc678d96f6f136abfb865f4ff74542d",
+                          "sha256":  "3849D3D07B9DE564A3B50C0878CE752502FD071F9B63CB6B2ACEA5D16DE72606",
+                          "bytes":  646806
+                      },
+                      {
+                          "path":  "Rough.jpg",
+                          "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_floor_02/cobblestone_floor_02_rough_2k.jpg",
+                          "md5":  "e7618176a3a6b44a66738b04aaa07d18",
+                          "sha256":  "A696CAF242E449531712FC31E7F402EAF1A89E2C4044EC6C4D3EA5BF60DD2BC6",
+                          "bytes":  662455
+                      }
+                  ],
+        "resolution":  "2k",
+        "license_url":  "https://polyhaven.com/license",
+        "license":  "CC0-1.0"
+    },
+    {
+        "value":  [
+                      {
+                          "id":  "rock_moss_set_01",
+                          "authors":  {
+                                          "Kless Gyzen":  "All"
+                                      },
+                          "source":  "https://polyhaven.com/a/rock_moss_set_01",
+                          "files":  [
+                                        {
+                                            "path":  "rock_moss_set_01.gltf",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/rock_moss_set_01/rock_moss_set_01_2k.gltf",
+                                            "md5":  "c45cebb55c848a11233126f691557ca0",
+                                            "sha256":  "794BEAF2F4DC0AB155114F286049DC912A8F3287520965CA8BF6BB0D821AE3E2",
+                                            "bytes":  9987
+                                        },
+                                        {
+                                            "path":  "rock_moss_set_01.bin",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/rock_moss_set_01/rock_moss_set_01.bin",
+                                            "md5":  "207a51c9f56d34732e9814bbf9cc07b1",
+                                            "sha256":  "DE8360E6175879AAF02C171911069CF5F1852547F9CA7F10E440085DBCC3315E",
+                                            "bytes":  1466380
+                                        },
+                                        {
+                                            "path":  "textures/rock_moss_set_01_diff_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_diff_2k.jpg",
+                                            "md5":  "d3e1292c9e34bd6b4a236698a1b41290",
+                                            "sha256":  "BDEE6DA8BABA67BD7E85E414E669CD46AAB9AFAF755114FB5163F0E68775C3D6",
+                                            "bytes":  649415
+                                        },
+                                        {
+                                            "path":  "textures/rock_moss_set_01_nor_gl_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_nor_gl_2k.jpg",
+                                            "md5":  "88be6d9cf2927a09182e2bfccc9b8b56",
+                                            "sha256":  "F11C238A203EEBD5E82DA3A50468040A78D25FD2E46783C4AD79B1022B144C0D",
+                                            "bytes":  840957
+                                        },
+                                        {
+                                            "path":  "textures/rock_moss_set_01_rough_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_rough_2k.jpg",
+                                            "md5":  "f7b3045b503fbde038598f8586ac25ef",
+                                            "sha256":  "A05A8BD9F2563CF55B738484B894671DF7B2391AA02D66451366C5AD38077CD2",
+                                            "bytes":  293827
+                                        }
+                                    ],
+                          "resolution":  "2k",
+                          "license_url":  "https://polyhaven.com/license",
+                          "license":  "CC0-1.0"
+                      },
+                      {
+                          "id":  "modular_fort_01",
+                          "authors":  {
+                                          "Rico Cilliers":  "All"
+                                      },
+                          "source":  "https://polyhaven.com/a/modular_fort_01",
+                          "files":  [
+                                        {
+                                            "path":  "modular_fort_01.gltf",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/modular_fort_01/modular_fort_01_2k.gltf",
+                                            "md5":  "7a5643907025247da6bb71c7c906afbc",
+                                            "sha256":  "7278A56AAA624CE71974AD2374BB7B1A5AC83C9296EBC5ACC5893862A69CF59D",
+                                            "bytes":  71433
+                                        },
+                                        {
+                                            "path":  "textures/modular_fort_01_wall_arm_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_wall_arm_2k.jpg",
+                                            "md5":  "b29de501a6e18585292efac7967b4975",
+                                            "sha256":  "41B149FC7F1668A4E98D2BCD508C4FFF445B64DC6A2681A7E61B5BB6FD9239DE",
+                                            "bytes":  3485850
+                                        },
+                                        {
+                                            "path":  "textures/modular_fort_01_wall_diff_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_wall_diff_2k.jpg",
+                                            "md5":  "6d2fef7d56387ea281ceaf6d3238e048",
+                                            "sha256":  "DE442FAF434B186B2008D55DBEAEE9C5CB2C46C472E40E58C5E4907854462041",
+                                            "bytes":  3768092
+                                        },
+                                        {
+                                            "path":  "textures/modular_fort_01_plaster_nor_gl_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_plaster_nor_gl_2k.jpg",
+                                            "md5":  "8c6661544a1026516c9a2b79c920e75f",
+                                            "sha256":  "3B79BCBD0E294284AB933E1C2DA7519443BDFB9DB4441CF3C231B9C6A8265104",
+                                            "bytes":  5682493
+                                        },
+                                        {
+                                            "path":  "modular_fort_01.bin",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/modular_fort_01/modular_fort_01.bin",
+                                            "md5":  "49bfa2a55e65c997840799099ad6ffa5",
+                                            "sha256":  "DE86E71AF4CD5B37006914A8E7AE7DE59B245B73364317F1886285A6AA797F57",
+                                            "bytes":  1288144
+                                        },
+                                        {
+                                            "path":  "textures/modular_fort_01_trim_diff_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_trim_diff_2k.jpg",
+                                            "md5":  "7b268cb5e99b0996692de51f35a6d143",
+                                            "sha256":  "E582FFDAD510DD23D5B8B7A5639286B81E149AD7F10502224EBA0CF1391CA8EC",
+                                            "bytes":  3625475
+                                        },
+                                        {
+                                            "path":  "textures/modular_fort_01_wall_nor_gl_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_wall_nor_gl_2k.jpg",
+                                            "md5":  "c5089c914d025813fda4bf0ab8f83d61",
+                                            "sha256":  "86FBBF2CBAC7DD3975860ED6A7805D6FCADDAA214DE5336821E36F67B36BEC0F",
+                                            "bytes":  4606374
+                                        },
+                                        {
+                                            "path":  "textures/modular_fort_01_trim_nor_gl_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_trim_nor_gl_2k.jpg",
+                                            "md5":  "3b4821393db63c42eb2a4e612359d2be",
+                                            "sha256":  "61FEFF041CA671F9DFE9A38C0CF803847F0353521BD97A66B057A029959F604C",
+                                            "bytes":  4416453
+                                        },
+                                        {
+                                            "path":  "textures/modular_fort_01_trim_arm_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_trim_arm_2k.jpg",
+                                            "md5":  "da5039183054c9185c2b6812a40967b0",
+                                            "sha256":  "ECA67B74BFC9FF3402380E8E88D21CE574B6AA28FDC245689175FE13F3920878",
+                                            "bytes":  3141428
+                                        },
+                                        {
+                                            "path":  "textures/modular_fort_01_plaster_arm_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_plaster_arm_2k.jpg",
+                                            "md5":  "3c9029f8ba67132323ee9b20cce42e18",
+                                            "sha256":  "5F5B44B6E5122E9430378F07EF9369DDC1186E45A7709992E431E256741CA7CA",
+                                            "bytes":  3449190
+                                        },
+                                        {
+                                            "path":  "textures/modular_fort_01_plaster_diff_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_plaster_diff_2k.jpg",
+                                            "md5":  "657317dc7450232f71bde5fd71ad57b6",
+                                            "sha256":  "39546B3B0E4A8A32141E2559AFAB1C5D61AC1B378AB2E3C94887EAA8FB7F1E7E",
+                                            "bytes":  4140924
+                                        }
+                                    ],
+                          "resolution":  "2k",
+                          "license_url":  "https://polyhaven.com/license",
+                          "license":  "CC0-1.0"
+                      },
+                      {
+                          "id":  "pine_sapling_small",
+                          "authors":  {
+                                          "Rob Tuytel":  "photography",
+                                          "Rico Cilliers":  "modeling"
+                                      },
+                          "source":  "https://polyhaven.com/a/pine_sapling_small",
+                          "files":  [
+                                        {
+                                            "path":  "pine_sapling_small.gltf",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/pine_sapling_small/pine_sapling_small_1k.gltf",
+                                            "md5":  "237a7672645631550ae571743aa9f55b",
+                                            "sha256":  "F358C01926861DD082F32DBA60F7C9FBA232B585A985CF38C0D2229EECF4BC48",
+                                            "bytes":  11442
+                                        },
+                                        {
+                                            "path":  "textures/pine_sapling_small_twig_arm_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_small/pine_sapling_small_twig_arm_1k.jpg",
+                                            "md5":  "b5062030fc42ec7bd12eb3f052054104",
+                                            "sha256":  "2EB0AA44124B5A4AE9401E00B23B3C916F4C3F421616CE1BB932F248FC061288",
+                                            "bytes":  394056
+                                        },
+                                        {
+                                            "path":  "textures/pine_sapling_small_twig_diff_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_small/pine_sapling_small_twig_diff_1k.jpg",
+                                            "md5":  "dacc918bb421968e9ccc1956d78a2dbe",
+                                            "sha256":  "54AF7D6FB664B5A38BCB118B557BC50E01E86EC54D6F1A573C3E32C649A53362",
+                                            "bytes":  477942
+                                        },
+                                        {
+                                            "path":  "textures/pine_sapling_small_bark_nor_gl_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_small/pine_sapling_small_bark_nor_gl_1k.jpg",
+                                            "md5":  "bb6e3a6eea777d992cef48fabfdc538c",
+                                            "sha256":  "05C46455531781B6CF18CAE0648CF627F60EE942ADAA8BCBFD1592FC2506A9E0",
+                                            "bytes":  1016849
+                                        },
+                                        {
+                                            "path":  "pine_sapling_small.bin",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/pine_sapling_small/pine_sapling_small.bin",
+                                            "md5":  "76dd1802d8de128c812f2e124a258b35",
+                                            "sha256":  "B4D2FC73D53F1D8717EB5EF9A2C66957D2A53152787E543AACE88FCD6FCA94EF",
+                                            "bytes":  17771796
+                                        },
+                                        {
+                                            "path":  "textures/pine_sapling_small_bark_diff_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_small/pine_sapling_small_bark_diff_1k.jpg",
+                                            "md5":  "7d3a558ed614c7e75594c7be3bf80311",
+                                            "sha256":  "5C76836B01C3536FA0E24207B67BF4F3315B53EBE2B4ECC6F08DFCF3F8D74929",
+                                            "bytes":  725265
+                                        },
+                                        {
+                                            "path":  "textures/pine_sapling_small_bark_arm_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_small/pine_sapling_small_bark_arm_1k.jpg",
+                                            "md5":  "21d1abd15e40951825a4f3da110b20ea",
+                                            "sha256":  "336A4680CD571B6076B67AFEE2310B290B8900D9D126EB39EC1AE92E95BE2EA9",
+                                            "bytes":  801278
+                                        },
+                                        {
+                                            "path":  "textures/pine_sapling_small_twig_nor_gl_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_small/pine_sapling_small_twig_nor_gl_1k.jpg",
+                                            "md5":  "eebc5a81f8f6231d8e18ec4ad7292798",
+                                            "sha256":  "76AF87821D7FF00E25768D5D97A449394FE64A21AE55D099DA7F5ED46D9098C8",
+                                            "bytes":  692711
+                                        }
+                                    ],
+                          "resolution":  "1k",
+                          "license_url":  "https://polyhaven.com/license",
+                          "license":  "CC0-1.0"
+                      },
+                      {
+                          "id":  "large_castle_door",
+                          "authors":  {
+                                          "Tina":  "All"
+                                      },
+                          "source":  "https://polyhaven.com/a/large_castle_door",
+                          "files":  [
+                                        {
+                                            "path":  "large_castle_door.gltf",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/large_castle_door/large_castle_door_2k.gltf",
+                                            "md5":  "301320484d7cceb4176297d3f510e929",
+                                            "sha256":  "C9622DD67A5F58C821EEE2817C719C04C0EB595D01B121DA503A3AFDF9B5B4D9",
+                                            "bytes":  6111
+                                        },
+                                        {
+                                            "path":  "textures/large_castle_door_diff_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/large_castle_door/large_castle_door_diff_2k.jpg",
+                                            "md5":  "030d6cb9b510fc5686a67c670650f06c",
+                                            "sha256":  "CA2D7CC8071FD7C57DDBD4B71892BBFA775E0D6CC9B65E70F7EDA0398F707302",
+                                            "bytes":  3105682
+                                        },
+                                        {
+                                            "path":  "large_castle_door.bin",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/large_castle_door/large_castle_door.bin",
+                                            "md5":  "ed0cee2626677b1a520de7bd868d09cc",
+                                            "sha256":  "7DB2EB9D2B81207A30C849BA5DE0F2C25085ADD88E437BC69764CE792758FF76",
+                                            "bytes":  422436
+                                        },
+                                        {
+                                            "path":  "textures/large_castle_door_nor_gl_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/large_castle_door/large_castle_door_nor_gl_2k.jpg",
+                                            "md5":  "915c45399d96e5c8617eb78685fb02a1",
+                                            "sha256":  "333E55F9FCCDF8778C8AA94D1D8D296CE8BCE50C8055E6F385545DAC1E622FBD",
+                                            "bytes":  4281351
+                                        },
+                                        {
+                                            "path":  "textures/large_castle_door_arm_2k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/large_castle_door/large_castle_door_arm_2k.jpg",
+                                            "md5":  "5b31d5e2057371f82158bd56dbe19588",
+                                            "sha256":  "038A66752C095BF4BF5F4B24849CF4BD1AE58AC4718EDDA37B7EE1FBFD1A33BC",
+                                            "bytes":  3723833
+                                        }
+                                    ],
+                          "resolution":  "2k",
+                          "license_url":  "https://polyhaven.com/license",
+                          "license":  "CC0-1.0"
+                      },
+                      {
+                          "id":  "dead_tree_trunk",
+                          "authors":  {
+                                          "Rob Tuytel":  "All"
+                                      },
+                          "source":  "https://polyhaven.com/a/dead_tree_trunk",
+                          "files":  [
+                                        {
+                                            "path":  "dead_tree_trunk.gltf",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/dead_tree_trunk/dead_tree_trunk_1k.gltf",
+                                            "md5":  "7bbf9fc9fdf61b50ed0495a29c03ecab",
+                                            "sha256":  "8BAAF1FF66BA1F79ACDCEED0DC3797A882990A3ABB10B18ABE56762F34C26E39",
+                                            "bytes":  2812
+                                        },
+                                        {
+                                            "path":  "textures/dead_tree_trunk_arm_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_tree_trunk/dead_tree_trunk_arm_1k.jpg",
+                                            "md5":  "548a72849ce709a9f38fa06776732a07",
+                                            "sha256":  "0E0F7D64AC4EE3A7E7861A48F4BBD1EC2C026FACD8F48B756F6B5D4557AF3FD3",
+                                            "bytes":  724384
+                                        },
+                                        {
+                                            "path":  "textures/dead_tree_trunk_nor_gl_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_tree_trunk/dead_tree_trunk_nor_gl_1k.jpg",
+                                            "md5":  "28992c1123371ae1899e49360953c846",
+                                            "sha256":  "B7C393204C93F0C67535FF3B5D723B26598F9DBB2B5110B74249AB88189F026F",
+                                            "bytes":  1053075
+                                        },
+                                        {
+                                            "path":  "textures/dead_tree_trunk_diff_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_tree_trunk/dead_tree_trunk_diff_1k.jpg",
+                                            "md5":  "fe92c64532d4684d3239f6edc7733192",
+                                            "sha256":  "BC31D7D23DB90D90CFB568C583914EEEC11B29716B79096818B706A9E3E0216C",
+                                            "bytes":  713480
+                                        },
+                                        {
+                                            "path":  "dead_tree_trunk.bin",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dead_tree_trunk/dead_tree_trunk.bin",
+                                            "md5":  "2a2b05e67a5c51fba5fc7591a7857957",
+                                            "sha256":  "C1AC6B3195246E8647A28EEE2FBFDD4712A045C7CF2DCB4F5ABCC2D40A446CA6",
+                                            "bytes":  2293788
+                                        }
+                                    ],
+                          "resolution":  "1k",
+                          "license_url":  "https://polyhaven.com/license",
+                          "license":  "CC0-1.0"
+                      },
+                      {
+                          "id":  "fern_02",
+                          "authors":  {
+                                          "Rob Tuytel":  "scanning",
+                                          "Rico Cilliers":  "modeling"
+                                      },
+                          "source":  "https://polyhaven.com/a/fern_02",
+                          "files":  [
+                                        {
+                                            "path":  "fern_02.gltf",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/fern_02/fern_02_1k.gltf",
+                                            "md5":  "cf276874d37bfb73c299504a6b355b77",
+                                            "sha256":  "33974295EE19670AF4877705FC7D91F33F42D6302F0D44A625E072271223031F",
+                                            "bytes":  6899
+                                        },
+                                        {
+                                            "path":  "textures/fern_02_arm_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fern_02/fern_02_arm_1k.jpg",
+                                            "md5":  "1bbb2b22951f450720d28e17d93a2987",
+                                            "sha256":  "EBFB5D76CE9CBDAEC20BCD22DCE9B755F0B1B8650EF29CA13555E3E6961025D7",
+                                            "bytes":  280359
+                                        },
+                                        {
+                                            "path":  "textures/fern_02_diff_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fern_02/fern_02_diff_1k.jpg",
+                                            "md5":  "82c18a6cfd5ae91c37c0e078f591181c",
+                                            "sha256":  "A828A6E7B4C01C826911E2EAC4B3AFC7457DAB7B3B392A31C681ED88B7D50029",
+                                            "bytes":  315705
+                                        },
+                                        {
+                                            "path":  "textures/fern_02_nor_gl_1k.jpg",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fern_02/fern_02_nor_gl_1k.jpg",
+                                            "md5":  "43aed63dff79554f6064627515afd9d7",
+                                            "sha256":  "45BCE132C6E96A0864BC89AB5DA51361AB3F4AFA83A6669AE499AB5CA811F621",
+                                            "bytes":  367222
+                                        },
+                                        {
+                                            "path":  "fern_02.bin",
+                                            "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/fern_02/fern_02.bin",
+                                            "md5":  "c061e9255f7d36ae9ce0e92ef3e100b2",
+                                            "sha256":  "FE1ABB762BCBBC7AD9E86925C8080437A62ADD257D9280E9142FDC85C226E64C",
+                                            "bytes":  176176
+                                        }
+                                    ],
+                          "resolution":  "1k",
+                          "license_url":  "https://polyhaven.com/license",
+                          "license":  "CC0-1.0"
+                      },
+                      {
+                          "value":  [
+                                        {
+                                            "id":  "modular_fort_01",
+                                            "authors":  {
+                                                            "Rico Cilliers":  "All"
+                                                        },
+                                            "source":  "https://polyhaven.com/a/modular_fort_01",
+                                            "files":  [
+                                                          {
+                                                              "path":  "modular_fort_01.gltf",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/modular_fort_01/modular_fort_01_2k.gltf",
+                                                              "md5":  "7a5643907025247da6bb71c7c906afbc",
+                                                              "sha256":  "7278A56AAA624CE71974AD2374BB7B1A5AC83C9296EBC5ACC5893862A69CF59D",
+                                                              "bytes":  71433
+                                                          },
+                                                          {
+                                                              "path":  "textures/modular_fort_01_wall_arm_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_wall_arm_2k.jpg",
+                                                              "md5":  "b29de501a6e18585292efac7967b4975",
+                                                              "sha256":  "41B149FC7F1668A4E98D2BCD508C4FFF445B64DC6A2681A7E61B5BB6FD9239DE",
+                                                              "bytes":  3485850
+                                                          },
+                                                          {
+                                                              "path":  "textures/modular_fort_01_wall_diff_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_wall_diff_2k.jpg",
+                                                              "md5":  "6d2fef7d56387ea281ceaf6d3238e048",
+                                                              "sha256":  "DE442FAF434B186B2008D55DBEAEE9C5CB2C46C472E40E58C5E4907854462041",
+                                                              "bytes":  3768092
+                                                          },
+                                                          {
+                                                              "path":  "textures/modular_fort_01_plaster_nor_gl_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_plaster_nor_gl_2k.jpg",
+                                                              "md5":  "8c6661544a1026516c9a2b79c920e75f",
+                                                              "sha256":  "3B79BCBD0E294284AB933E1C2DA7519443BDFB9DB4441CF3C231B9C6A8265104",
+                                                              "bytes":  5682493
+                                                          },
+                                                          {
+                                                              "path":  "modular_fort_01.bin",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/modular_fort_01/modular_fort_01.bin",
+                                                              "md5":  "49bfa2a55e65c997840799099ad6ffa5",
+                                                              "sha256":  "DE86E71AF4CD5B37006914A8E7AE7DE59B245B73364317F1886285A6AA797F57",
+                                                              "bytes":  1288144
+                                                          },
+                                                          {
+                                                              "path":  "textures/modular_fort_01_trim_diff_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_trim_diff_2k.jpg",
+                                                              "md5":  "7b268cb5e99b0996692de51f35a6d143",
+                                                              "sha256":  "E582FFDAD510DD23D5B8B7A5639286B81E149AD7F10502224EBA0CF1391CA8EC",
+                                                              "bytes":  3625475
+                                                          },
+                                                          {
+                                                              "path":  "textures/modular_fort_01_wall_nor_gl_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_wall_nor_gl_2k.jpg",
+                                                              "md5":  "c5089c914d025813fda4bf0ab8f83d61",
+                                                              "sha256":  "86FBBF2CBAC7DD3975860ED6A7805D6FCADDAA214DE5336821E36F67B36BEC0F",
+                                                              "bytes":  4606374
+                                                          },
+                                                          {
+                                                              "path":  "textures/modular_fort_01_trim_nor_gl_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_trim_nor_gl_2k.jpg",
+                                                              "md5":  "3b4821393db63c42eb2a4e612359d2be",
+                                                              "sha256":  "61FEFF041CA671F9DFE9A38C0CF803847F0353521BD97A66B057A029959F604C",
+                                                              "bytes":  4416453
+                                                          },
+                                                          {
+                                                              "path":  "textures/modular_fort_01_trim_arm_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_trim_arm_2k.jpg",
+                                                              "md5":  "da5039183054c9185c2b6812a40967b0",
+                                                              "sha256":  "ECA67B74BFC9FF3402380E8E88D21CE574B6AA28FDC245689175FE13F3920878",
+                                                              "bytes":  3141428
+                                                          },
+                                                          {
+                                                              "path":  "textures/modular_fort_01_plaster_arm_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_plaster_arm_2k.jpg",
+                                                              "md5":  "3c9029f8ba67132323ee9b20cce42e18",
+                                                              "sha256":  "5F5B44B6E5122E9430378F07EF9369DDC1186E45A7709992E431E256741CA7CA",
+                                                              "bytes":  3449190
+                                                          },
+                                                          {
+                                                              "path":  "textures/modular_fort_01_plaster_diff_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/modular_fort_01/modular_fort_01_plaster_diff_2k.jpg",
+                                                              "md5":  "657317dc7450232f71bde5fd71ad57b6",
+                                                              "sha256":  "39546B3B0E4A8A32141E2559AFAB1C5D61AC1B378AB2E3C94887EAA8FB7F1E7E",
+                                                              "bytes":  4140924
+                                                          }
+                                                      ],
+                                            "resolution":  "2k",
+                                            "license_url":  "https://polyhaven.com/license",
+                                            "license":  "CC0-1.0"
+                                        },
+                                        {
+                                            "id":  "rock_moss_set_01",
+                                            "authors":  {
+                                                            "Kless Gyzen":  "All"
+                                                        },
+                                            "source":  "https://polyhaven.com/a/rock_moss_set_01",
+                                            "files":  [
+                                                          {
+                                                              "path":  "rock_moss_set_01.gltf",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/rock_moss_set_01/rock_moss_set_01_2k.gltf",
+                                                              "md5":  "c45cebb55c848a11233126f691557ca0",
+                                                              "sha256":  "794BEAF2F4DC0AB155114F286049DC912A8F3287520965CA8BF6BB0D821AE3E2",
+                                                              "bytes":  9987
+                                                          },
+                                                          {
+                                                              "path":  "rock_moss_set_01.bin",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/rock_moss_set_01/rock_moss_set_01.bin",
+                                                              "md5":  "207a51c9f56d34732e9814bbf9cc07b1",
+                                                              "sha256":  "DE8360E6175879AAF02C171911069CF5F1852547F9CA7F10E440085DBCC3315E",
+                                                              "bytes":  1466380
+                                                          },
+                                                          {
+                                                              "path":  "textures/rock_moss_set_01_diff_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_diff_2k.jpg",
+                                                              "md5":  "d3e1292c9e34bd6b4a236698a1b41290",
+                                                              "sha256":  "BDEE6DA8BABA67BD7E85E414E669CD46AAB9AFAF755114FB5163F0E68775C3D6",
+                                                              "bytes":  649415
+                                                          },
+                                                          {
+                                                              "path":  "textures/rock_moss_set_01_nor_gl_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_nor_gl_2k.jpg",
+                                                              "md5":  "88be6d9cf2927a09182e2bfccc9b8b56",
+                                                              "sha256":  "F11C238A203EEBD5E82DA3A50468040A78D25FD2E46783C4AD79B1022B144C0D",
+                                                              "bytes":  840957
+                                                          },
+                                                          {
+                                                              "path":  "textures/rock_moss_set_01_rough_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/rock_moss_set_01/rock_moss_set_01_rough_2k.jpg",
+                                                              "md5":  "f7b3045b503fbde038598f8586ac25ef",
+                                                              "sha256":  "A05A8BD9F2563CF55B738484B894671DF7B2391AA02D66451366C5AD38077CD2",
+                                                              "bytes":  293827
+                                                          }
+                                                      ],
+                                            "resolution":  "2k",
+                                            "license_url":  "https://polyhaven.com/license",
+                                            "license":  "CC0-1.0"
+                                        },
+                                        {
+                                            "id":  "dead_tree_trunk",
+                                            "authors":  {
+                                                            "Rob Tuytel":  "All"
+                                                        },
+                                            "source":  "https://polyhaven.com/a/dead_tree_trunk",
+                                            "files":  [
+                                                          {
+                                                              "path":  "dead_tree_trunk.gltf",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/dead_tree_trunk/dead_tree_trunk_1k.gltf",
+                                                              "md5":  "7bbf9fc9fdf61b50ed0495a29c03ecab",
+                                                              "sha256":  "8BAAF1FF66BA1F79ACDCEED0DC3797A882990A3ABB10B18ABE56762F34C26E39",
+                                                              "bytes":  2812
+                                                          },
+                                                          {
+                                                              "path":  "textures/dead_tree_trunk_arm_1k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_tree_trunk/dead_tree_trunk_arm_1k.jpg",
+                                                              "md5":  "548a72849ce709a9f38fa06776732a07",
+                                                              "sha256":  "0E0F7D64AC4EE3A7E7861A48F4BBD1EC2C026FACD8F48B756F6B5D4557AF3FD3",
+                                                              "bytes":  724384
+                                                          },
+                                                          {
+                                                              "path":  "textures/dead_tree_trunk_nor_gl_1k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_tree_trunk/dead_tree_trunk_nor_gl_1k.jpg",
+                                                              "md5":  "28992c1123371ae1899e49360953c846",
+                                                              "sha256":  "B7C393204C93F0C67535FF3B5D723B26598F9DBB2B5110B74249AB88189F026F",
+                                                              "bytes":  1053075
+                                                          },
+                                                          {
+                                                              "path":  "textures/dead_tree_trunk_diff_1k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_tree_trunk/dead_tree_trunk_diff_1k.jpg",
+                                                              "md5":  "fe92c64532d4684d3239f6edc7733192",
+                                                              "sha256":  "BC31D7D23DB90D90CFB568C583914EEEC11B29716B79096818B706A9E3E0216C",
+                                                              "bytes":  713480
+                                                          },
+                                                          {
+                                                              "path":  "dead_tree_trunk.bin",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dead_tree_trunk/dead_tree_trunk.bin",
+                                                              "md5":  "2a2b05e67a5c51fba5fc7591a7857957",
+                                                              "sha256":  "C1AC6B3195246E8647A28EEE2FBFDD4712A045C7CF2DCB4F5ABCC2D40A446CA6",
+                                                              "bytes":  2293788
+                                                          }
+                                                      ],
+                                            "resolution":  "1k",
+                                            "license_url":  "https://polyhaven.com/license",
+                                            "license":  "CC0-1.0"
+                                        },
+                                        {
+                                            "id":  "large_castle_door",
+                                            "authors":  {
+                                                            "Tina":  "All"
+                                                        },
+                                            "source":  "https://polyhaven.com/a/large_castle_door",
+                                            "files":  [
+                                                          {
+                                                              "path":  "large_castle_door.gltf",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/large_castle_door/large_castle_door_2k.gltf",
+                                                              "md5":  "301320484d7cceb4176297d3f510e929",
+                                                              "sha256":  "C9622DD67A5F58C821EEE2817C719C04C0EB595D01B121DA503A3AFDF9B5B4D9",
+                                                              "bytes":  6111
+                                                          },
+                                                          {
+                                                              "path":  "textures/large_castle_door_diff_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/large_castle_door/large_castle_door_diff_2k.jpg",
+                                                              "md5":  "030d6cb9b510fc5686a67c670650f06c",
+                                                              "sha256":  "CA2D7CC8071FD7C57DDBD4B71892BBFA775E0D6CC9B65E70F7EDA0398F707302",
+                                                              "bytes":  3105682
+                                                          },
+                                                          {
+                                                              "path":  "large_castle_door.bin",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/large_castle_door/large_castle_door.bin",
+                                                              "md5":  "ed0cee2626677b1a520de7bd868d09cc",
+                                                              "sha256":  "7DB2EB9D2B81207A30C849BA5DE0F2C25085ADD88E437BC69764CE792758FF76",
+                                                              "bytes":  422436
+                                                          },
+                                                          {
+                                                              "path":  "textures/large_castle_door_nor_gl_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/large_castle_door/large_castle_door_nor_gl_2k.jpg",
+                                                              "md5":  "915c45399d96e5c8617eb78685fb02a1",
+                                                              "sha256":  "333E55F9FCCDF8778C8AA94D1D8D296CE8BCE50C8055E6F385545DAC1E622FBD",
+                                                              "bytes":  4281351
+                                                          },
+                                                          {
+                                                              "path":  "textures/large_castle_door_arm_2k.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/large_castle_door/large_castle_door_arm_2k.jpg",
+                                                              "md5":  "5b31d5e2057371f82158bd56dbe19588",
+                                                              "sha256":  "038A66752C095BF4BF5F4B24849CF4BD1AE58AC4718EDDA37B7EE1FBFD1A33BC",
+                                                              "bytes":  3723833
+                                                          }
+                                                      ],
+                                            "resolution":  "2k",
+                                            "license_url":  "https://polyhaven.com/license",
+                                            "license":  "CC0-1.0"
+                                        },
+                                        {
+                                            "id":  "forest_ground_04",
+                                            "resolution":  "2k",
+                                            "source":  "https://polyhaven.com/a/forest_ground_04",
+                                            "license":  "CC0-1.0",
+                                            "license_url":  "https://polyhaven.com/license",
+                                            "authors":  {
+                                                            "Rob Tuytel":  "Photography, Processing",
+                                                            "Rico Cilliers":  "Minor adjustment"
+                                                        },
+                                            "files":  [
+                                                          {
+                                                              "path":  "Diffuse.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_ground_04/forest_ground_04_diff_2k.jpg",
+                                                              "md5":  "f6ce9c8af4316c2627a4b3fbab8ad944",
+                                                              "sha256":  "24b8aaf4c8547305d80b0e029ec365219ab1b90748d4ca5651bdc9e75bfde5e6",
+                                                              "bytes":  4529321
+                                                          },
+                                                          {
+                                                              "path":  "nor_gl.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_ground_04/forest_ground_04_nor_gl_2k.jpg",
+                                                              "md5":  "5fa9256955e7bfa40a0269b4965ce646",
+                                                              "sha256":  "b37ac799ed410976541e0011c246fca254e74eaa3f096ae7a7d74178db5a6d9b",
+                                                              "bytes":  5288849
+                                                          },
+                                                          {
+                                                              "path":  "Rough.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_ground_04/forest_ground_04_rough_2k.jpg",
+                                                              "md5":  "81daa9a1d8b35dd9ffdff3aa7a74fbd9",
+                                                              "sha256":  "24194662948424c323c75e0918461ad9d38bc0a275022000144f248b3efb4119",
+                                                              "bytes":  2509805
+                                                          }
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "metal_plate",
+                                            "resolution":  "2k",
+                                            "source":  "https://polyhaven.com/a/metal_plate",
+                                            "license":  "CC0-1.0",
+                                            "license_url":  "https://polyhaven.com/license",
+                                            "authors":  {
+                                                            "Rob Tuytel":  "All"
+                                                        },
+                                            "files":  [
+                                                          {
+                                                              "path":  "Diffuse.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_diff_2k.jpg",
+                                                              "md5":  "91b841e7e619e55588f0183a703fb644",
+                                                              "sha256":  "864c9a653acd1f5034c9bbe7f955b18cc9687a81bbdfa805e7a2319939676910",
+                                                              "bytes":  2670774
+                                                          },
+                                                          {
+                                                              "path":  "nor_gl.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_nor_gl_2k.jpg",
+                                                              "md5":  "797c3f3de91da0c03f44f493576e158e",
+                                                              "sha256":  "146f8c00874a584bcc4a184643e72f160da2a7568d469198e02b26c9ff93cf43",
+                                                              "bytes":  2516654
+                                                          },
+                                                          {
+                                                              "path":  "Rough.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_rough_2k.jpg",
+                                                              "md5":  "b2c2bfc0a5e46c1a8bdfddd236daa200",
+                                                              "sha256":  "3cdc139df4ec5b304dd986278c1fb026c67c42e6623f0ee5caa7f373d51c7bef",
+                                                              "bytes":  3045988
+                                                          },
+                                                          {
+                                                              "path":  "Metal.jpg",
+                                                              "url":  "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_metal_2k.jpg",
+                                                              "md5":  "35f42deafb972c2b4cc2efbcc2c25857",
+                                                              "sha256":  "cc24a1f9aeaae8ef82266b86b6a875391312be113fbab03f6cb0697e5be00fdd",
+                                                              "bytes":  3399238
+                                                          }
+                                                      ]
+                                        }
+                                    ],
+                          "Count":  6
+                      }
+                  ],
+        "Count":  7
+    }
+]

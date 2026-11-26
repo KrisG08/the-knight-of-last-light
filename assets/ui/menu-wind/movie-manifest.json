@@ -1,0 +1,49 @@
+{
+  "source_note": "Original layered artwork rerendered with native shaders; supersampling does not create native 4K source art detail.",
+  "theora_quality": 10,
+  "provenance": "docs/art/menu-wind-hq.md",
+  "legacy": {
+    "path": "assets\\cinematics\\menu_wind_loop.ogv",
+    "bytes": 7163886,
+    "sha256": "dfa0b55c7ca4c5779fed4d4651baeb84026a095a550f6f1b4f90a036ef7ddcb0",
+    "duration_seconds": 12,
+    "fps": 30,
+    "frames": 360,
+    "resolution": [
+      1280,
+      720
+    ],
+    "renderer": "tools/render_menu_loop.gd",
+    "provenance": "docs/art/menu-wind-v2.md"
+  },
+  "frames": 360,
+  "duration_seconds": 12,
+  "variants": [
+    {
+      "resolution": [
+        2560,
+        1440
+      ],
+      "platform": "desktop",
+      "bytes": 21542360,
+      "path": "assets/cinematics/menu_wind_desktop.ogv",
+      "sha256": "41b274dfeba78ee90f3e5695612b9feae551d5373aa6fa3aa93aa0bc6e41f177"
+    },
+    {
+      "resolution": [
+        1920,
+        1080
+      ],
+      "platform": "mobile",
+      "bytes": 13984932,
+      "path": "assets/cinematics/menu_wind_mobile.ogv",
+      "sha256": "7553306bd2a5edaf1385428fdd6458898d4c559e55fed1d79ee30ec79e8053a7"
+    }
+  ],
+  "renderer": "tools/render_menu_hq.gd",
+  "master_render_resolution": [
+    3840,
+    2160
+  ],
+  "fps": 30
+}

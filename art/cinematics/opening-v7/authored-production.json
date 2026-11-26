@@ -1,0 +1,97 @@
+{
+  "type": "Authored Godot 3D cinematic, continuous skins, grounded choreography",
+  "fps": 30,
+  "frames": 2400,
+  "duration_seconds": 80,
+  "render": {
+    "frames": 2400,
+    "fps": 30,
+    "seconds": 80,
+    "all_frames_received": true,
+    "normal_engine_shutdown": true,
+    "violet_revision": {
+      "frames": 906,
+      "fps": 30,
+      "seconds": 30.2,
+      "all_frames_received": true,
+      "normal_engine_shutdown": true
+    },
+    "replaced_frame_ranges": [
+      [
+        300,
+        600
+      ],
+      [
+        1164,
+        1770
+      ]
+    ],
+    "master_sha256": "90425cde4b67371b980ec5993c910b5be4bedca5545a67be8a5447c1e8931a6b",
+    "soft_particle_revision": {
+      "frames": 336,
+      "fps": 30,
+      "seconds": 11.2,
+      "all_frames_received": true,
+      "normal_engine_shutdown": true
+    }
+  },
+  "files": {
+    "opening-desktop.ogv": {
+      "bytes": 191135656,
+      "sha256": "81f8b2a351affb0417ee50a009cd3813dcb422467efd3e99ba84e1bf82b126ab"
+    },
+    "opening-mobile.ogv": {
+      "bytes": 49174008,
+      "sha256": "913b7a834ed5586ec782163d72e4c48843ea3bb67cef3614d5281b045bad3ddb"
+    },
+    "opening-bg-preview.mp4": {
+      "bytes": 229244432,
+      "sha256": "8fe112e55ce69444e2c1f0bfbefec72a41d1b7a638a0542943ae2f1caf02dc54"
+    }
+  },
+  "installed_version": "0.5.66",
+  "preserved_menu_sha256": "9c04e4ca2bb79b35bf7ae74be7e3d49f1c62a709b338b06dfd74c7ed9d46d55c",
+  "music": {
+    "original_music": true,
+    "external_samples": false,
+    "style": "Slowed dark fantasy phonk for play; dedicated event-scored cinematic opening; menu unchanged",
+    "tracks": [
+      {
+        "name": "opening-cinematic",
+        "seconds": 80.0,
+        "wav": ".tools\\music-masters\\v0566\\opening-cinematic.wav",
+        "ogg": ".tools\\music-masters\\v0566\\opening-cinematic.ogg",
+        "peak_before_encode": 0.8200000524520874,
+        "sha256": "1ec46b1c3960c5c8082ba0c7172b6575e2b0749e7b3c24194ee635f2c95418bc"
+      },
+      {
+        "name": "exploration",
+        "seconds": 61.93547916666667,
+        "wav": ".tools\\music-masters\\v0566\\exploration.wav",
+        "ogg": ".tools\\music-masters\\v0566\\exploration.ogg",
+        "sha256": "c2f35fc92e75e91bef25a4af1c8dcdf68a7ffb6d94b983f03854c3af5f6a248d"
+      },
+      {
+        "name": "combat",
+        "seconds": 54.857145833333334,
+        "wav": ".tools\\music-masters\\v0566\\combat.wav",
+        "ogg": ".tools\\music-masters\\v0566\\combat.ogg",
+        "sha256": "bcf0d011e55de6c90f787183c103c83076fbf5e44e9b7f355835c64f6f25722e"
+      },
+      {
+        "name": "boss",
+        "seconds": 50.5263125,
+        "wav": ".tools\\music-masters\\v0566\\boss.wav",
+        "ogg": ".tools\\music-masters\\v0566\\boss.ogg",
+        "sha256": "55d205f4c9dedb0edf972ab8da0a4296dd01f6db9319087227cfeed2e3a02b29"
+      },
+      {
+        "name": "dawn",
+        "seconds": 66.20689583333333,
+        "wav": ".tools\\music-masters\\v0566\\dawn.wav",
+        "ogg": ".tools\\music-masters\\v0566\\dawn.ogg",
+        "sha256": "d8b5f834b3715d224326aa5bd4dca4dc608b10be50c749935ca0ed7f93943309"
+      }
+    ]
+  }
+}

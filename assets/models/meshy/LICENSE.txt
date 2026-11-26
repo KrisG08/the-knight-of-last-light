@@ -1,0 +1,12 @@
+Last Light generated source meshes
+Generation provider: Meshy, Meshy 6 Lite, free plan, 2026-11-06.
+Attribution: 3D geometry generated with Meshy (https://www.meshy.ai/).
+Original input images: Last Light project reference pack.
+Free-plan outputs: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/ .
+Source: https://help.meshy.ai/en/articles/15696428-what-is-included-on-the-free-plan
+
+Included derived meshes: knight, Oren, Lyra, Cael, goblin, Gravedigger,
+Thorn Beast, Fallen Commander, Iron Warden and Maldrek.
+Modifications by this project: geometry simplification, normalization,
+limb partitioning, procedural materials and animation adapters.
+Original file hashes: art/model-sources/meshy/conversion-status.json.

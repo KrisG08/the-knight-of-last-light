@@ -1,0 +1,23 @@
+{
+"Equipment":["Екипировка","Снаряжение","Équipement","المعدات"],
+"Family Keepsake":["Семеен талисман","Семейный талисман","Souvenir familial","تذكار العائلة"],
+"Return the family token · +3 defense and +5 flask healing":["Върни семейния знак · +3 защита и +5 лечение с отвара","Верните семейный знак · +3 защиты и +5 лечения флягой","Rapportez le souvenir familial · +3 défense et +5 soins de la fiole","أعد تذكار العائلة · +3 دفاع و+5 شفاء للقارورة"],
+"Knight sword":["Рицарски меч","Рыцарский меч","Épée de chevalier","سيف الفارس"],
+"Worn shield":["Износен щит","Потёртый щит","Bouclier usé","درع بالٍ"],
+"Sword damage":["Щети с меч","Урон меча","Dégâts de l'épée","ضرر السيف"],
+"Defense":["Защита","Защита","Défense","الدفاع"],
+"Flask healing":["Лечение с отвара","Лечение флягой","Soins de la fiole","شفاء القارورة"],
+"Relic slots":["Места за реликви","Ячейки реликвий","Emplacements de reliques","خانات الآثار"],
+"Relics are earned from guardians and completed quests. Equip up to two outside combat.":["Реликви се печелят от пазители и изпълнени мисии. Носи до две извън бой.","Реликвии даются за победы над стражами и выполненные задания. Можно выбрать до двух вне боя.","Les reliques se gagnent par les gardiens et les quêtes. Équipez-en deux au maximum hors combat.","تُكتسب الآثار من الحراس والمهام المكتملة. يمكنك تجهيز اثنتين خارج القتال."],
+"Burial Ward":["Гробовен талисман","Могильный оберег","Garde funéraire","تميمة القبر"],
+"Thorn Heart":["Трънено сърце","Терновое сердце","Cœur de ronces","قلب الأشواك"],
+"Oath Edge":["Острие на клетвата","Лезвие клятвы","Tranchant du serment","حد القسم"],
+"Defeat the Gravedigger · +6 defense":["Победи Гробаря · +6 защита","Победите Могильщика · +6 защиты","Vaincre le Fossoyeur · +6 défense","اهزم حفار القبور · +6 دفاع"],
+"Defeat the Thorn Beast · +10 flask healing":["Победи Трънния звяр · +10 лечение с отвара","Победите Тернового зверя · +10 лечения флягой","Vaincre la Bête des ronces · +10 soins de la fiole","اهزم وحش الأشواك · +10 شفاء للقارورة"],
+"Defeat the Fallen Commander · +3 sword damage":["Победи Падналия командир · +3 щети с меч","Победите Павшего командира · +3 урона меча","Vaincre le Commandant déchu · +3 dégâts de l'épée","اهزم القائد الساقط · +3 ضرر للسيف"],
+"After change":["След промяната","После изменения","Après modification","بعد التغيير"],
+"Equip relic":["Екипирай реликвата","Надеть реликвию","Équiper la relique","تجهيز الأثر"],
+"Remove relic":["Свали реликвата","Снять реликвию","Retirer la relique","إزالة الأثر"],
+"Healed +%d HP":["Възстановени +%d живот","Восстановлено +%d ОЗ","Soins +%d PV","استعادة +%d صحة"],
+"Remove a relic before equipping another":["Свали реликва, преди да екипираш друга","Снимите реликвию, прежде чем надеть другую","Retirez une relique avant de changer","أزل أثراً قبل تجهيز آخر"]
+}

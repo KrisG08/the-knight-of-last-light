@@ -1,0 +1,74 @@
+{
+	"front_projection": {
+		"alpha": true,
+		"rect": [
+			0.220095694065094,
+			0.0223285481333733,
+			0.558213710784912,
+			0.969696998596191
+		],
+		"x_bounds": [
+			-0.289774749960218,
+			0.289579438311713
+		]
+	},
+	"height": 2.8,
+	"paint": "Reference-projected UVs with independent rear paint, roughness and view-confidence masks",
+	"parts": {
+		"body": {
+			"mesh": "res://assets/models/meshy/painted/maldrek-body.res",
+			"origin": [
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		"left_arm": {
+			"mesh": "res://assets/models/meshy/painted/maldrek-left_arm.res",
+			"origin": [
+				-0.504000008106232,
+				2.15599989891052,
+				0.0
+			]
+		},
+		"left_leg": {
+			"mesh": "res://assets/models/meshy/painted/maldrek-left_leg.res",
+			"origin": [
+				-0.250600010156631,
+				1.32720005512238,
+				0.0
+			]
+		},
+		"right_arm": {
+			"mesh": "res://assets/models/meshy/painted/maldrek-right_arm.res",
+			"origin": [
+				0.504000008106232,
+				2.15599989891052,
+				0.0
+			]
+		},
+		"right_leg": {
+			"mesh": "res://assets/models/meshy/painted/maldrek-right_leg.res",
+			"origin": [
+				0.250600010156631,
+				1.32720005512238,
+				0.0
+			]
+		}
+	},
+	"rear_projection": {
+		"alpha": true,
+		"rect": [
+			0.07421875,
+			0.0078125,
+			0.84765625,
+			0.975260436534882
+		],
+		"x_bounds": [
+			-0.289774749960218,
+			0.289579438311713
+		]
+	},
+	"source_triangles": 556276.0,
+	"triangles": 69528.0
+}

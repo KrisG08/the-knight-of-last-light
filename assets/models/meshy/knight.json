@@ -1,0 +1,74 @@
+{
+	"front_projection": {
+		"alpha": true,
+		"rect": [
+			0.285486429929733,
+			0.060606062412262,
+			0.424242436885834,
+			0.861244022846222
+		],
+		"x_bounds": [
+			-0.247021505707189,
+			0.246824779008564
+		]
+	},
+	"height": 1.9,
+	"paint": "Reference-projected UVs with independent rear paint, roughness and view-confidence masks",
+	"parts": {
+		"body": {
+			"mesh": "res://assets/models/meshy/painted/knight-body.res",
+			"origin": [
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		"left_arm": {
+			"mesh": "res://assets/models/meshy/painted/knight-left_arm.res",
+			"origin": [
+				-0.342000007629395,
+				1.46300005912781,
+				0.0
+			]
+		},
+		"left_leg": {
+			"mesh": "res://assets/models/meshy/painted/knight-left_leg.res",
+			"origin": [
+				-0.170049995183945,
+				0.900600016117096,
+				0.0
+			]
+		},
+		"right_arm": {
+			"mesh": "res://assets/models/meshy/painted/knight-right_arm.res",
+			"origin": [
+				0.342000007629395,
+				1.46300005912781,
+				0.0
+			]
+		},
+		"right_leg": {
+			"mesh": "res://assets/models/meshy/painted/knight-right_leg.res",
+			"origin": [
+				0.170049995183945,
+				0.900600016117096,
+				0.0
+			]
+		}
+	},
+	"rear_projection": {
+		"alpha": false,
+		"rect": [
+			0.154296875,
+			0.015625,
+			0.689453125,
+			0.940104186534882
+		],
+		"x_bounds": [
+			-0.247021505707189,
+			0.246824779008564
+		]
+	},
+	"source_triangles": 187624.0,
+	"triangles": 46906.0
+}

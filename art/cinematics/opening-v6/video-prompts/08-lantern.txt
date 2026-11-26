@@ -1,0 +1,12 @@
+SHOT 08-lantern
+Input: keyframes/08-lantern.png
+Target: 10 seconds, 16:9. Generate actual temporal motion.
+Maintain the provided character identity, equipment, costume and architecture.
+Subject and environment action: The knight stands and takes a first weighted step along the actual refuge approach. Wind moves the ivory tabard, grass and branches; one amber lantern pulls attention down the forest path.
+Camera: Move from three-quarter visor close view to over-shoulder road view, ending aligned with the current new-journey spawn direction; gentle fade to gameplay loading.
+Natural weight, grounded feet, coherent hands, stable faces and heraldry.
+Real wind response in cloth, hair, foliage and clouds; consistent physical light.
+No new characters, costume changes, body morphing, teleporting props or camera-only still pan.
+No baked narration, dialogue, captions, logo or text. Keep output private.
+Sound direction for later mix: First warmer musical phrase, wind softens, one grounded footstep.
+Do not purchase credits or submit a paid upgrade.
